@@ -1,0 +1,32 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>要闻归档 · 可浏览</title>
+<style>
+:root{--bg:#0d1117;--fg:#c9d1d9;--dim:#7d8590;--line:#21262d;--acc:#7ee2a8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);
+font:15px/1.7 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{display:flex;min-height:100vh}
+aside{width:230px;border-right:1px solid var(--line);padding:22px 14px;position:sticky;top:0;height:100vh;overflow:auto}
+aside h1{font-size:16px;margin:0 0 4px}aside .m{color:var(--dim);font-size:12px;margin-bottom:14px}
+.day{padding:7px 10px;border-radius:6px;cursor:pointer;display:flex;justify-content:space-between;font-size:13.5px}
+.day:hover{background:#161b22}.day.on{background:#1f6feb33;color:#fff}
+.day b{font-weight:600}.day span{color:var(--dim)}
+main{flex:1;padding:26px 34px;max-width:900px}
+input{width:100%;padding:10px 12px;border-radius:8px;border:1px solid var(--line);background:#010409;color:var(--fg);font-size:14px}
+.hd{display:flex;align-items:baseline;gap:12px;margin:18px 0 8px}
+.hd h2{font-size:18px;margin:0}.hd .m{color:var(--dim);font-size:13px}
+li{list-style:none;padding:9px 0;border-bottom:1px solid var(--line)}
+ul{margin:0;padding:0}
+a{color:#9ecbff;text-decoration:none}a:hover{text-decoration:underline}
+.meta{color:var(--dim);font-size:12px;margin-top:2px}
+mark{background:#bb8009;color:#fff;border-radius:2px;padding:0 2px}
+.empty{color:var(--dim);padding:20px 0}
+</style></head><body><div class="wrap">
+<aside><h1>要闻归档</h1><div class="m" id="sum"></div><div id="days"></div></aside>
+<main>
+<input id="q" placeholder="搜索全部历史（标题/来源，空格分隔多词）">
+<div class="hd"><h2 id="ttl">全部</h2><div class="m" id="cnt"></div></div>
+<ul id="list"></ul>
+</main></div>
+<script src="all.js"></script>
+<script src="browser.js"></script>
+</body></html>

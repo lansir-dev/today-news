@@ -1,0 +1,101 @@
+{
+ "day": "2026-10-29",
+ "fetched": "2026-10-30 21:10",
+ "note": "由次日抓取补存的昨日列表",
+ "items": [
+  {
+   "title": "伊朗称捕获一架美国间谍无人机",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml",
+   "pub": "2026-10-29 23:14",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "韩国前总统尹锡悦涉“内乱案”二审被求死刑",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10723035.shtml",
+   "pub": "2026-10-29 22:47",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "一艘商船在保加利亚黑海沿岸被无人机击中后沉没",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10722989.shtml",
+   "pub": "2026-10-29 21:16",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "国际最新研究：非洲水资源并未得到充分利用",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml",
+   "pub": "2026-10-29 20:16",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "加媒称加拿大和欧盟联合声明将删去“联席成员”表述",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml",
+   "pub": "2026-10-29 20:15",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队称捕获一架美军间谍无人机",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-29/10722963.shtml",
+   "pub": "2026-10-29 20:13",
+   "source": "中国新闻网·国际"
+  }
+ ],
+ "ai": [
+  {
+   "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+   "link": "https://aihot.news/items/hfhskyex3cjrs3huvpmi1z7bg",
+   "meta": "Sierra：Blog · 发布于 10-30 20:50 · 行业",
+   "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
+   "origin": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"
+  },
+  {
+   "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
+   "link": "https://aihot.news/items/qit1hgequ8pknedqqvuei5wfh",
+   "meta": "Gemini API：更新日志 · 发布于 10-30 08:00 · 产品",
+   "summary": "Google 于 10 月 30 日宣布 Gemini API 的 Computer Use 工具正式可用（GA），覆盖 Interactions 和 GenerateContent 两套 API。",
+   "origin": "https://ai.google.dev/gemini-api/docs/changelog#10-30-2026"
+  },
+  {
+   "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+   "link": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+   "meta": "Epoch AI：Gradient Updates · 发布于 10-30 20:07 · 论文",
+   "summary": "Epoch AI 实验发现，Z.ai 8 月发布的开源权重模型 GLM 5.3 能从 Mozilla 已发布但未推送的安全修复中逆向出漏洞，以约 $1,000 算力自主攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本，最快一次仅用 12 小时，攻击通过串联补丁间隙漏洞与未公开漏洞绕过保护。",
+   "origin": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox"
+  },
+  {
+   "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+   "link": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+   "meta": "Cursor · 发布于 10-30 15:46 · 行业",
+   "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
+   "origin": "https://x.com/cursor_ai/status/2116074289053175808"
+  },
+  {
+   "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
+   "link": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+   "meta": "Cursor Blog · 发布于 10-29 20:00 · 行业",
+   "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+   "origin": "https://cursor.com/blog/claude-code-extension-security-notice"
+  },
+  {
+   "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+   "link": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
+   "meta": "Hacker News：AI 热帖 · 发布于 10-30 05:29 · 行业",
+   "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
+   "origin": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
+  },
+  {
+   "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+   "link": "https://aihot.news/items/ykvaq4vx3ydt23josezzan62r",
+   "meta": "公众号：月之暗面 · 发布于 10-30 12:04 · 教程",
+   "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
+   "origin": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a"
+  },
+  {
+   "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+   "link": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
+   "meta": "Platformer · 发布于 10-30 08:51 · 行业",
+   "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+   "origin": "https://www.platformer.news/thursday-newsletter-6/"
+  }
+ ]
+}
