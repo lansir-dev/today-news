@@ -1,8 +1,20 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 18:35",
+ "fetched": "2026-11-06 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "警方通报孙某军因情感纠纷行凶",
+   "link": "https://news.cctv.com/2026/11/06/ARTILGRzVR1J9zeGdGrEyLRd261106.shtml",
+   "pub": "2026-11-06 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "北京市气象台发布分区暴雪黄色预警信号",
+   "link": "https://news.cctv.com/2026/11/06/ARTIm7Z1mdyQtTXgU2zNeyOp261106.shtml",
+   "pub": "2026-11-06 18:37",
+   "source": "央视网"
+  },
   {
    "title": "暴雪蓝色预警：山西河北北京等地部分地区有大雪",
    "link": "https://news.cctv.com/2026/11/06/ARTIW9VG8wBOBuQOepU2XPp2261106.shtml",
