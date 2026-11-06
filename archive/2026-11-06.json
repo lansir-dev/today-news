@@ -1,8 +1,38 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 20:35",
+ "fetched": "2026-11-06 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中华人民共和国和加蓬共和国关于构建新时代中加命运共同体的联合声明",
+   "link": "https://news.cctv.com/2026/11/06/ARTIXZ91fVzzXbSQ3jkUBhBC261106.shtml",
+   "pub": "2026-11-06 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "厦门国际海洋周启幕 聚焦海洋生态保护与科技创新",
+   "link": "https://news.cctv.com/2026/11/06/ARTI153r9PTy6JkSEz1xnGVW261106.shtml",
+   "pub": "2026-11-06 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "进博会助力秘鲁特色农产品跨越山海",
+   "link": "https://news.cctv.com/2026/11/06/ARTIC0VGSPvjXeIVWLOrmCFm261106.shtml",
+   "pub": "2026-11-06 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "绿色传奇（深度观察）",
+   "link": "https://news.cctv.com/2026/11/06/ARTIjKWpBJdPwE8MDA8WP9uI261106.shtml",
+   "pub": "2026-11-06 20:36",
+   "source": "央视网"
+  },
+  {
+   "title": "大国粮仓记",
+   "link": "https://news.cctv.com/2026/11/06/ARTIZlv9tjB5ctDnKTRBXTPt261106.shtml",
+   "pub": "2026-11-06 20:35",
+   "source": "央视网"
+  },
   {
    "title": "治理黄河80年取得举世瞩目伟大成就",
    "link": "https://news.cctv.com/2026/11/06/ARTIGcfaD5DAaQnuKR25gsYE261106.shtml",
