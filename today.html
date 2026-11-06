@@ -93,7 +93,7 @@ footer{margin-top:26px;color:#39424E;font-size:11.5px}
 </style></head><body><div class="wrap">
 <div class="kicker">NEWS BRIEF</div>
 <h1>今日要闻</h1>
-<div class="meta">时间窗 <b>2026-11-06</b>（北京时间）　·　抓取于 <b>2026-11-06 14:02</b>
+<div class="meta">时间窗 <b>2026-11-06</b>（北京时间）　·　抓取于 <b>2026-11-06 14:02</b><span id="ago"></span>
 　·　<a href="archive/index.html" style="color:#7ee2a8">历史归档 →</a></div>
 <div class="bar"><span class="pill ok">中国新闻网＋央视网 ✅</span><span class="pill ok">AIHOT ✅</span></div>
 
@@ -133,4 +133,18 @@ document.querySelectorAll('.tab').forEach(function(t){
 </script>
 <script src="archive/all.js"></script>
 <script src="history_view.js"></script>
-</body></html>
+<script>
+(function(){
+  var T=1793944969824;
+  function tick(){
+    var el=document.getElementById('ago'); if(!el) return;
+    var m=Math.floor((Date.now()-T)/60000);
+    el.textContent = m<1 ? '（刚刚更新）' : (m<60 ? '（'+m+' 分钟前）' : '（'+Math.floor(m/60)+' 小时前）');
+  }
+  tick(); setInterval(tick, 30000);
+  var K='newsY', y=sessionStorage.getItem(K);
+  if(y!==null){ window.scrollTo(0,+y); sessionStorage.removeItem(K); }
+  window.addEventListener('beforeunload', function(){ sessionStorage.setItem(K, window.scrollY); });
+  setInterval(function(){ if(!document.hidden) location.reload(); }, 300000);
+})();
+</script></body></html>
