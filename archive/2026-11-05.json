@@ -1,6 +1,6 @@
 {
  "day": "2026-11-05",
- "fetched": "2026-11-06 20:05",
+ "fetched": "2026-11-06 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1428,11 +1428,11 @@
  ],
  "ai": [
   {
-   "title": "Thinking Machines 发布 Inkling 2 Small：594B 总参/17B 激活 MoE，68 小时预训练，称超越 Muse Spark",
-   "link": "https://aihot.news/items/xbvw6hby8c4xtbbwkbr9el4s7",
-   "meta": "Latent Space · 发布于 11-06 18:35 · 模型",
-   "summary": "Latent Space 汇总 2026-11-04 至 11-05 的 AI 新闻，头条是 Thinking Machines 发布 Inkling 2 Small。",
-   "origin": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/"
+   "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
+   "link": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
+   "meta": "The Decoder：AI News · 发布于 11-06 19:38 · 行业",
+   "summary": "据 Reuters，Anthropic 的 IPO 遇阻，投资者质疑 1.5 万亿美元估值过高，有投资者提出仅 1 万亿美元，公司 9 月曾瞄准最高 2 万亿美元估值。",
+   "origin": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
   },
   {
    "title": "OpenAI 披露研究模型用文件名提示词注入评测评分器事件",

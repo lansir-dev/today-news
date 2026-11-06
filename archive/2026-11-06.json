@@ -1,8 +1,38 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 20:05",
+ "fetched": "2026-11-06 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "治理黄河80年取得举世瞩目伟大成就",
+   "link": "https://news.cctv.com/2026/11/06/ARTIGcfaD5DAaQnuKR25gsYE261106.shtml",
+   "pub": "2026-11-06 20:30",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平签署国家主席令",
+   "link": "https://news.cctv.com/2026/11/06/ARTIkiQnS6UCDpChcn2sss9J261106.shtml",
+   "pub": "2026-11-06 20:25",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见奥地利总理施托克尔",
+   "link": "https://news.cctv.com/2026/11/06/ARTIlTJxsbr0wq6X7qkqfjTm261106.shtml",
+   "pub": "2026-11-06 20:25",
+   "source": "央视网"
+  },
+  {
+   "title": "国家广播电视总局部署开展新一轮微短剧专项治理工作",
+   "link": "https://news.cctv.com/2026/11/06/ARTIwgy3HgzO5ePOi4z3D2V6261106.shtml",
+   "pub": "2026-11-06 20:08",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交最前线丨续写两国传统友好 加蓬总统恩圭马首次对华国事访问",
+   "link": "https://news.cctv.com/2026/11/06/ARTIdTxTkcEFVcdziF1osVeI261106.shtml",
+   "pub": "2026-11-06 20:04",
+   "source": "央视网"
+  },
   {
    "title": "武汉大学学生将同学诱骗至缅甸索要40万元赎金？校方辟谣",
    "link": "https://news.cctv.com/2026/11/06/ARTIFCMd4Aqf6pY2eRGJWWDG261106.shtml",
