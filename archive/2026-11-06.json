@@ -1,8 +1,20 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 17:35",
+ "fetched": "2026-11-06 18:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "7日至9日冷空气将影响我国中东部 辽宁等地有强降雪 赣湘鄂皖有较强降雨",
+   "link": "https://news.cctv.com/2026/11/06/ARTI9JmtgZ1AD73VDdjxQR7S261106.shtml",
+   "pub": "2026-11-06 17:57",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平参加北京市区人大代表换届选举投票",
+   "link": "https://news.cctv.com/2026/11/06/ARTIlJpLnVq3Mjugf1HGD8NB261106.shtml",
+   "pub": "2026-11-06 17:40",
+   "source": "央视网"
+  },
   {
    "title": "习近平同加蓬总统恩圭马会谈",
    "link": "https://news.cctv.com/2026/11/06/ARTIxqrGXh7kkGUp9hMIASdr261106.shtml",
