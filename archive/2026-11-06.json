@@ -1,8 +1,128 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 15:35",
+ "fetched": "2026-11-06 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "骨折旅客买到中铺，想换下铺未成功？官方通报",
+   "link": "https://news.cctv.com/2026/11/06/ARTIYhhguHGw9EVWfsnSgLlU261106.shtml",
+   "pub": "2026-11-06 16:26",
+   "source": "央视网"
+  },
+  {
+   "title": "国家主席习近平任免驻外大使",
+   "link": "https://news.cctv.com/2026/11/06/ARTI0S9GZfwkdkRjBKREVwGZ261106.shtml",
+   "pub": "2026-11-06 16:22",
+   "source": "央视网"
+  },
+  {
+   "title": "七部门发布《关于加快航运保险高质量发展的指导意见》",
+   "link": "https://news.cctv.com/2026/11/06/ARTIlm9d5RPkG9J6jqbuUOoQ261106.shtml",
+   "pub": "2026-11-06 16:07",
+   "source": "央视网"
+  },
+  {
+   "title": "中央网信办部署开展“清朗·整治科普健康类网络谣言”专项行动",
+   "link": "https://news.cctv.com/2026/11/06/ARTI6ydAYxkdNtPO9SEMN5iE261106.shtml",
+   "pub": "2026-11-06 16:07",
+   "source": "央视网"
+  },
+  {
+   "title": "广西蚕业技术推广站原站长李标被遣返回国",
+   "link": "https://news.cctv.com/2026/11/06/ARTIdKGTyS84OvlLRoCL2WyY261106.shtml",
+   "pub": "2026-11-06 16:04",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见奥地利总理施托克尔",
+   "link": "https://news.cctv.com/2026/11/06/ARTIOM6X215WhvAoeJ48lx4l261106.shtml",
+   "pub": "2026-11-06 16:03",
+   "source": "央视网"
+  },
+  {
+   "title": "严查非法违法行为 6起烟花爆竹全链条“打非治违”典型案例公布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727320.shtml",
+   "pub": "2026-11-06 16:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "二十载踏浪出海：吉林文化走向世界30余国",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727317.shtml",
+   "pub": "2026-11-06 15:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727315.shtml",
+   "pub": "2026-11-06 15:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部回应广交会、进博会相继举行：是中国连接全球的重要窗口",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727316.shtml",
+   "pub": "2026-11-06 15:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大豆黄、石榴红绘就多彩富民画卷 特色农业结硕果助振兴",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727313.shtml",
+   "pub": "2026-11-06 15:50",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "十四届全国人大常委会举行第七十六次委员长会议 决定将检察公益诉讼法草案等交付常委会会议表决 赵乐际主持会议",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727312.shtml",
+   "pub": "2026-11-06 15:48",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "红星照耀中国·红旗漫卷大别山丨在霍山读懂红绿交融的振兴故事",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727308.shtml",
+   "pub": "2026-11-06 15:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "雨雪来临铁路公安加强巡查确保旅客出行安全",
+   "link": "https://news.cctv.com/2026/11/06/ARTI8L8d8qpm6IaPrUC4UkIo261106.shtml",
+   "pub": "2026-11-06 15:40",
+   "source": "央视网"
+  },
+  {
+   "title": "米切尔将连任格林纳达总理 中方表示祝贺",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727306.shtml",
+   "pub": "2026-11-06 15:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部：“攻击-21”无人机在四川舰成功起降是我军新域新质作战力量建设重要阶段性成果",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727301.shtml",
+   "pub": "2026-11-06 15:33",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "智能农机稳步升级 提升粮食生产作业效率",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727302.shtml",
+   "pub": "2026-11-06 15:32",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中方：无论国际形势如何变化，中国始终是非洲国家最可依赖的伙伴",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727303.shtml",
+   "pub": "2026-11-06 15:31",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美国对古巴制裁新增两家中国公司 中方：坚决反对所谓“长臂管辖”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727300.shtml",
+   "pub": "2026-11-06 15:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部：规范涉军信息传播秩序 共同营造清朗涉军网络环境",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727297.shtml",
+   "pub": "2026-11-06 15:28",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "探访山西高平永禄非遗工坊：“双纸”承古韵 非遗润乡土",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727295.shtml",
@@ -79,7 +199,7 @@
    "title": "恶意蹭涉军流量营销牟利等 一批违法违规涉军“自媒体”账号被关",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727276.shtml",
    "pub": "2026-11-06 15:12",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国内"
   },
   {
    "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
@@ -454,12 +574,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "联合国第十五届能源可持续发展国际论坛西安闭幕 发布《西安宣言》",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727154.shtml",
-   "pub": "2026-11-06 11:31",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "“哈铁”齐齐哈尔地区多站联动除雪护航运输线",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727151.shtml",
    "pub": "2026-11-06 11:30",
@@ -568,12 +682,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "国家发展改革委：今冬供暖季能源供应总体能够满足需求",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727126.shtml",
-   "pub": "2026-11-06 11:12",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "第十四届中欧论坛在布鲁塞尔举行",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727094.shtml",
    "pub": "2026-11-06 11:08",
@@ -616,12 +724,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "11月7日北京供暖开始“热身”，锅炉房陆续点火",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727128.shtml",
-   "pub": "2026-11-06 11:00",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "西藏那曲市巴青县发生3.4级地震，震源深度10千米",
    "link": "https://news.cctv.com/2026/11/06/ARTIMrRxUhttxdhI2rZY7keP261106.shtml",
    "pub": "2026-11-06 10:50",
@@ -634,22 +736,10 @@
    "source": "央视网"
   },
   {
-   "title": "《世界开放报告2026》发布，这些看点值得关注",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml",
-   "pub": "2026-11-06 10:39",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "特朗普回应美股大跌：是民主党人造成的",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
    "pub": "2026-11-06 10:34",
    "source": "中国新闻网"
-  },
-  {
-   "title": "吉前总理：全面从严治党是中国高水平治理的关键",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml",
-   "pub": "2026-11-06 10:34",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "日本学者：日本应坚守“无核三原则”",
@@ -668,42 +758,6 @@
    "link": "https://news.cctv.com/2026/11/06/ARTI6TyQIDtUIjd0CditjajM261106.shtml",
    "pub": "2026-11-06 10:28",
    "source": "央视网"
-  },
-  {
-   "title": "中国国家医保局：推动中国数智医保经验“走出去”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml",
-   "pub": "2026-11-06 10:27",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "周末出行请注意！今夜起我国将有一轮大范围雨雪天气",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727079.shtml",
-   "pub": "2026-11-06 10:23",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "国际人士：“进博会体现了中国的开放承诺”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727077.shtml",
-   "pub": "2026-11-06 10:22",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "学习新语｜中国开放的大门只会越开越大",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727051.shtml",
-   "pub": "2026-11-06 10:14",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "中国成功发射遥感五十一号07-09星",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727063.shtml",
-   "pub": "2026-11-06 10:10",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "北京口岸今年出入境人员破2000万人次 较去年提前31天",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727062.shtml",
-   "pub": "2026-11-06 10:10",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "反跨境腐败法表决通过",
