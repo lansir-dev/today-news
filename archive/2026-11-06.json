@@ -1,8 +1,38 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 21:05",
+ "fetched": "2026-11-06 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布",
+   "link": "https://news.cctv.com/2026/11/06/ARTI5GSk1i4pGhjmjew86bdA261106.shtml",
+   "pub": "2026-11-06 21:32",
+   "source": "央视网"
+  },
+  {
+   "title": "赏秋景学防范 北京警方送上安全“大礼包”",
+   "link": "https://news.cctv.com/2026/11/06/ARTILlBjx8OzjJOZUULdoc9n261106.shtml",
+   "pub": "2026-11-06 21:18",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平会见奥地利总理：共同践行真正的多边主义 支持自由贸易",
+   "link": "https://news.cctv.com/2026/11/06/ARTIqueRJd5Lnq44I85Ekz51261106.shtml",
+   "pub": "2026-11-06 21:10",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜生态保护与绿色发展双向奔赴！祁连山筑牢生态安全屏障",
+   "link": "https://news.cctv.com/2026/11/06/ARTINgQIcitFiO0CNAb0OpAV261106.shtml",
+   "pub": "2026-11-06 21:10",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平同加蓬总统会谈：将双边关系定位提升为新时代中加命运共同体",
+   "link": "https://news.cctv.com/2026/11/06/ARTIJonjkj6FJwwrde9uQlNS261106.shtml",
+   "pub": "2026-11-06 21:10",
+   "source": "央视网"
+  },
   {
    "title": "中华人民共和国和加蓬共和国关于构建新时代中加命运共同体的联合声明",
    "link": "https://news.cctv.com/2026/11/06/ARTIXZ91fVzzXbSQ3jkUBhBC261106.shtml",
@@ -836,12 +866,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727146.shtml",
    "pub": "2026-11-06 11:26",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "便利、成本、服务……多维度精准发力提升主宾国、主题国参展获得感",
-   "link": "https://news.cctv.com/2026/11/06/ARTIGgj2VKbHdGWntZvtNMK9261106.shtml",
-   "pub": "2026-11-06 11:26",
-   "source": "央视网"
   },
   {
    "title": "进博观察·互动体验从“看展品”转向“进场景” 直观讲述中国式现代化开放逻辑",
