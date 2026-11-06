@@ -1,8 +1,26 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 16:35",
+ "fetched": "2026-11-06 17:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "澳门特区初级法院判决区锦新危害国家安全案罪成",
+   "link": "https://news.cctv.com/2026/11/06/ARTISIuWxPn02wjNePUqFmpG261106.shtml",
+   "pub": "2026-11-06 16:44",
+   "source": "央视网"
+  },
+  {
+   "title": "《广告行业抵制低俗广告自律公约》：自觉规避“软色情”擦边表达，平等尊重各类群体",
+   "link": "https://news.cctv.com/2026/11/06/ARTIBbNfjHMXHObL1JY9yrF1261106.shtml",
+   "pub": "2026-11-06 16:41",
+   "source": "央视网"
+  },
+  {
+   "title": "税收征收管理法修订草案向社会公开征求意见",
+   "link": "https://news.cctv.com/2026/11/06/ARTIHXxR2jC2teFStteKpCMF261106.shtml",
+   "pub": "2026-11-06 16:40",
+   "source": "央视网"
+  },
   {
    "title": "骨折旅客买到中铺，想换下铺未成功？官方通报",
    "link": "https://news.cctv.com/2026/11/06/ARTIYhhguHGw9EVWfsnSgLlU261106.shtml",
