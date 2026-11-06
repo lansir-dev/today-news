@@ -1,8 +1,14 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 14:20",
+ "fetched": "2026-11-06 14:27",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京局地立冬日可能暴雪大暴雪",
+   "link": "https://news.cctv.com/2026/11/06/ARTIDBQ37A0jjQBNJX8BZZ4W261106.shtml",
+   "pub": "2026-11-06 14:21",
+   "source": "央视网"
+  },
   {
    "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
