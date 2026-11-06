@@ -1,8 +1,98 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 15:05",
+ "fetched": "2026-11-06 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "探访山西高平永禄非遗工坊：“双纸”承古韵 非遗润乡土",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727295.shtml",
+   "pub": "2026-11-06 15:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国科研团队发现一易危植物新种",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727296.shtml",
+   "pub": "2026-11-06 15:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中方回应高市早苗发表涉台谬论一周年：一年过去了日本当局仍在原地打转",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727292.shtml",
+   "pub": "2026-11-06 15:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：中美要相向而行，坚持互利共赢导向",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727291.shtml",
+   "pub": "2026-11-06 15:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "河北发布暴雪橙色预警",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727287.shtml",
+   "pub": "2026-11-06 15:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "京津冀三地消协组织敦促多家航空公司及线上售票平台规范机票退改签服务",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727288.shtml",
+   "pub": "2026-11-06 15:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“购在中国·2026精品消费月”在上海启动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727280.shtml",
+   "pub": "2026-11-06 15:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "外交部：中美要相向而行推动经贸关系持续稳定向好发展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727289.shtml",
+   "pub": "2026-11-06 15:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "开源协作，拥抱更加美好“数智未来”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727286.shtml",
+   "pub": "2026-11-06 15:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：当前中日关系面临严重困难 责任完全在日本一方",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727285.shtml",
+   "pub": "2026-11-06 15:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "湖北脑起搏器系统入医保 首批受惠患者出院",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727266.shtml",
+   "pub": "2026-11-06 15:14",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "商务部：对原产于欧盟的进口对位芳纶长丝发起反倾销立案调查",
+   "link": "https://news.cctv.com/2026/11/06/ARTIUws5L0t2y6MrdOtpevtK261106.shtml",
+   "pub": "2026-11-06 15:13",
+   "source": "央视网"
+  },
+  {
+   "title": "恶意蹭涉军流量营销牟利等 一批违法违规涉军“自媒体”账号被关",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727276.shtml",
+   "pub": "2026-11-06 15:12",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727265.shtml",
+   "pub": "2026-11-06 15:10",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "国防部：国际社会应高度警惕日本重启“战争机器”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727270.shtml",
+   "pub": "2026-11-06 15:06",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "新疆文艺志愿者协会正式成立",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727247.shtml",
@@ -418,6 +508,12 @@
    "source": "央视网"
   },
   {
+   "title": "党领导人民治理黄河80年来建成水利工程5.4万余座",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727146.shtml",
+   "pub": "2026-11-06 11:26",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "便利、成本、服务……多维度精准发力提升主宾国、主题国参展获得感",
    "link": "https://news.cctv.com/2026/11/06/ARTIGgj2VKbHdGWntZvtNMK9261106.shtml",
    "pub": "2026-11-06 11:26",
@@ -610,24 +706,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "党领导人民治理黄河80年来建成水利工程5.4万余个",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727060.shtml",
-   "pub": "2026-11-06 10:08",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "反跨境腐败法表决通过 明确坚持积极参与全球反腐败治理",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727057.shtml",
-   "pub": "2026-11-06 10:05",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "多地“惠民保”增加保障简化理赔流程 百姓看病更有“医”靠",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727058.shtml",
-   "pub": "2026-11-06 10:05",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "反跨境腐败法表决通过",
    "link": "https://news.cctv.com/2026/11/06/ARTIM2SRNmxeRvKeUBcFs3N1261106.shtml",
    "pub": "2026-11-06 10:05",
@@ -682,18 +760,6 @@
    "source": "央视网"
   },
   {
-   "title": "弘扬科学家精神·大家小事丨于敏：纸带上揪出的故障",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727052.shtml",
-   "pub": "2026-11-06 09:54",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "黑龙江省气象台发布大风预报 局地阵风可达8至9级",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727050.shtml",
-   "pub": "2026-11-06 09:49",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "北京11月7日起试供暖 供暖服务电话公布",
    "link": "https://news.cctv.com/2026/11/06/ARTIHzIzhlkQzfK77fPDyvrm261106.shtml",
    "pub": "2026-11-06 09:49",
@@ -704,18 +770,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727045.shtml",
    "pub": "2026-11-06 09:47",
    "source": "中国新闻网"
-  },
-  {
-   "title": "武汉以城市更新带动文化出新 老空间育出文旅新场景",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727040.shtml",
-   "pub": "2026-11-06 09:44",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "我国秋粮丰收成定局",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727049.shtml",
-   "pub": "2026-11-06 09:43",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "工信部：加强智能体终端设备进网管理",
@@ -742,12 +796,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "云南“十五五”将织密面向南亚东南亚数字丝路合作纽带",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727030.shtml",
-   "pub": "2026-11-06 09:12",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "大范围降水在酝酿！我国多地将现强雨雪 大部气温将创新低",
    "link": "https://news.cctv.com/2026/11/06/ARTIXDPpCilwMg1BBGx4DBIf261106.shtml",
    "pub": "2026-11-06 08:53",
@@ -769,6 +817,12 @@
    "title": "新雪季提前开启 多地雪场人工造雪抢占“首滑”流量",
    "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727013.shtml",
    "pub": "2026-11-06 08:27",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "江苏这个小镇不产香，却装下全世界的香",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727004.shtml",
+   "pub": "2026-11-06 08:07",
    "source": "中国新闻网"
   },
   {
