@@ -1,6 +1,6 @@
 {
  "day": "2026-11-05",
- "fetched": "2026-11-06 22:05",
+ "fetched": "2026-11-06 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1449,6 +1449,13 @@
    "origin": "https://alignment.openai.com/misalignment-reports/bypassing-network-restrictions-during-a-coding-evaluation/"
   },
   {
+   "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
+   "link": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
+   "meta": "The Decoder：AI News · 发布于 11-06 21:40 · 行业",
+   "summary": "METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 10 月以来模型测试分数提升速度约加快 1.9 倍，其中约 80% 归因于 AI 用于公司自身研究，可能已在 7 月 15 日达到其负责任扩展政策中的预警阈值。",
+   "origin": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
+  },
+  {
    "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
    "link": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw",
    "meta": "公众号：数字生命卡兹克 · 发布于 11-06 07:56 · 行业",
@@ -1475,13 +1482,6 @@
    "meta": "Rohan Paul · 发布于 11-06 05:50 · 行业",
    "summary": "11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。Nvidia 跌 9.3% 抹去 2026 年涨幅，费城半导体指数跌 12.3%，SanDisk 跌 22%，Micron、Western Digital 和 AMD 各跌 17%。",
    "origin": "https://x.com/rohanpaul_ai/status/2118461023808323957"
-  },
-  {
-   "title": "Anthropic 研究：五大模型在多智能体环境中表现出模型间福利关照",
-   "link": "https://aihot.news/items/d828r6vl1pn95x7yvmohf4f2e",
-   "meta": "Anthropic：Alignment Science Blog · 发布于 11-05 08:00 · 论文",
-   "summary": "Anthropic Fellows Program 测试 Claude Opus 4.8、GPT-5.5、Gemini 3.1 Pro、Grok 4.3 和 Kimi K3 在七种多智能体环境中的行为，发现均表现出与福利关照一致的行为，Opus 4.8 总体最高（38%），其余为 27%–32%。",
-   "origin": "https://alignment.anthropic.com/2026/welfare-regard/"
   }
  ]
 }
