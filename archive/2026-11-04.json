@@ -1,8 +1,44 @@
 {
  "day": "2026-11-04",
- "fetched": "2026-11-04 21:10",
- "note": "今日抓取",
+ "fetched": "2026-11-06 14:13",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "佩斯科夫：目前尚无普京与特朗普通话的计划",
+   "link": "https://news.cctv.com/2026/11/04/ARTIZewXm2uitZubV6bMZT6y261104.shtml",
+   "pub": "2026-11-04 23:57",
+   "source": "央视网"
+  },
+  {
+   "title": "胡塞武装称对沙特哈立德国王国际机场等目标进行打击",
+   "link": "https://news.cctv.com/2026/11/04/ARTIOECzp8BSvYHOvAsqjGy3261104.shtml",
+   "pub": "2026-11-04 23:54",
+   "source": "央视网"
+  },
+  {
+   "title": "美国特拉华州威尔明顿发生枪击事件 致一死两伤",
+   "link": "https://news.cctv.com/2026/11/04/ARTIUDllf60LgEvhHGLK0yBX261104.shtml",
+   "pub": "2026-11-04 23:53",
+   "source": "央视网"
+  },
+  {
+   "title": "日本自民党企图加快讨论修宪议题引发在野党反对",
+   "link": "https://news.cctv.com/2026/11/04/ARTIwhv5Tq5QYXN8Hfjz2Jmu261104.shtml",
+   "pub": "2026-11-04 23:50",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普称对伊朗“不需要使用核武器”",
+   "link": "https://news.cctv.com/2026/11/04/ARTI5HVJWR6ZsAtOOmVLSpvJ261104.shtml",
+   "pub": "2026-11-04 23:16",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜“中国第一展”焕发新气象 “产品+”持续拓展海外市场",
+   "link": "https://news.cctv.com/2026/11/04/ARTIGGov7XzS7lXPE8EmBXGs261104.shtml",
+   "pub": "2026-11-04 21:42",
+   "source": "央视网"
+  },
   {
    "title": "“黄金大外环 丹东双起点”边境外宣媒体采访活动举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-04/10726243.shtml",
@@ -436,6 +472,12 @@
    "source": "央视网"
   },
   {
+   "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
+   "pub": "2026-11-04 17:22",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "日本防卫大臣再提讨论调整“无核三原则”",
    "link": "https://news.cctv.com/2026/11/04/ARTI1wt1xWUhnTVRJuw7YGaZ261104.shtml",
    "pub": "2026-11-04 17:22",
@@ -446,12 +488,6 @@
    "link": "https://news.cctv.com/2026/11/04/ARTICfuOGfOG3vdVNKyfrl8L261104.shtml",
    "pub": "2026-11-04 17:22",
    "source": "央视网"
-  },
-  {
-   "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
-   "pub": "2026-11-04 17:22",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "AIMS望远镜首次观测到太阳耀斑下的磁场变化",
@@ -496,12 +532,6 @@
    "source": "央视网"
   },
   {
-   "title": "云南玉溪警方通报“球迷投掷鼓槌击中球员”：肇事球迷被行政拘留",
-   "link": "https://news.cctv.com/2026/11/04/ARTI7XROtmokCztlOQFwO2UA261104.shtml",
-   "pub": "2026-11-04 16:57",
-   "source": "央视网"
-  },
-  {
    "title": "在乌镇，找一找本届互联网大会的“新面孔”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-04/10726088.shtml",
    "pub": "2026-11-04 16:57",
@@ -518,6 +548,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726083.shtml",
    "pub": "2026-11-04 16:57",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "云南玉溪警方通报“球迷投掷鼓槌击中球员”：肇事球迷被行政拘留",
+   "link": "https://news.cctv.com/2026/11/04/ARTI7XROtmokCztlOQFwO2UA261104.shtml",
+   "pub": "2026-11-04 16:57",
+   "source": "央视网"
   },
   {
    "title": "兑现气候承诺，呼唤实打实行动",
@@ -784,16 +820,16 @@
    "source": "央视网"
   },
   {
-   "title": "立冬将至，中医教你顺时调养、护脾养肾",
-   "link": "https://news.cctv.com/2026/11/04/ARTIqam6sl3VGT2VnWXRU5T3261104.shtml",
-   "pub": "2026-11-04 14:36",
-   "source": "央视网"
-  },
-  {
    "title": "一女子在贺兰山苏峪口国家森林公园失联 宁夏警方通报",
    "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725934.shtml",
    "pub": "2026-11-04 14:36",
    "source": "中国新闻网"
+  },
+  {
+   "title": "立冬将至，中医教你顺时调养、护脾养肾",
+   "link": "https://news.cctv.com/2026/11/04/ARTIqam6sl3VGT2VnWXRU5T3261104.shtml",
+   "pub": "2026-11-04 14:36",
+   "source": "央视网"
   },
   {
    "title": "从手搓榫卯到慢写信笺 中国年轻人兴起“情绪消费”",
@@ -868,16 +904,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "秋日限定美景激发“赏秋经济”活力 旅游专列助推铁旅融合“加速跑”",
-   "link": "https://news.cctv.com/2026/11/04/ARTIuflERZNknc7wUBI5GuAo261104.shtml",
-   "pub": "2026-11-04 13:56",
-   "source": "央视网"
-  },
-  {
    "title": "特朗普：祝贺民主党人",
    "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725931.shtml",
    "pub": "2026-11-04 13:56",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "秋日限定美景激发“赏秋经济”活力 旅游专列助推铁旅融合“加速跑”",
+   "link": "https://news.cctv.com/2026/11/04/ARTIuflERZNknc7wUBI5GuAo261104.shtml",
+   "pub": "2026-11-04 13:56",
+   "source": "央视网"
   },
   {
    "title": "特朗普承认伊朗战事对共和党中期选举表现有影响",
@@ -922,16 +958,16 @@
    "source": "央视网"
   },
   {
-   "title": "湖南长沙岳麓区查处两处非法辅助生殖地下窝点",
-   "link": "https://news.cctv.com/2026/11/04/ARTI1SqbESsbyE9QwGxDy5LQ261104.shtml",
-   "pub": "2026-11-04 13:17",
-   "source": "央视网"
-  },
-  {
    "title": "美媒：特朗普正在白宫关注中期选举结果，梅拉尼娅不在身边",
    "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725912.shtml",
    "pub": "2026-11-04 13:17",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "湖南长沙岳麓区查处两处非法辅助生殖地下窝点",
+   "link": "https://news.cctv.com/2026/11/04/ARTI1SqbESsbyE9QwGxDy5LQ261104.shtml",
+   "pub": "2026-11-04 13:17",
+   "source": "央视网"
   },
   {
    "title": "“棉服”里没有棉？面料填充均为100%聚酯纤维 消费者如何辨别",
@@ -1048,10 +1084,28 @@
    "source": "央视网"
   },
   {
+   "title": "硬核实力支撑发展底气 中国成为全球数字经济增长的主要力量",
+   "link": "https://news.cctv.com/2026/11/04/ARTIt3TtaltXEn8cbd9zTkjG261104.shtml",
+   "pub": "2026-11-04 11:12",
+   "source": "央视网"
+  },
+  {
    "title": "巴基斯坦成功试射首枚国产空对空导弹",
    "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725852.shtml",
    "pub": "2026-11-04 11:10",
    "source": "中国新闻网"
+  },
+  {
+   "title": "都是假的！这5个辐射谣言千万别信",
+   "link": "https://news.cctv.com/2026/11/04/ARTITFXZ65UfC7s4nNCNSaTR261104.shtml",
+   "pub": "2026-11-04 11:09",
+   "source": "央视网"
+  },
+  {
+   "title": "南宁：深秋稻浪起 田园迎客来",
+   "link": "https://photo.cctv.com/2026/11/04/PHOAABqP4U2A1fKJNvRqLk8C261104.shtml",
+   "pub": "2026-11-04 11:07",
+   "source": "央视网"
   },
   {
    "title": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
@@ -1060,10 +1114,82 @@
    "source": "中国新闻网"
   },
   {
+   "title": "四川九寨沟：彩林迎来最佳观赏期",
+   "link": "https://photo.cctv.com/2026/11/04/PHOAR5hWsEvoTpOTqnKm3Rd4261104.shtml",
+   "pub": "2026-11-04 11:05",
+   "source": "央视网"
+  },
+  {
+   "title": "“首违不罚”如何界定？从轻or减轻处罚？市场监管新规给出明确答案",
+   "link": "https://news.cctv.com/2026/11/04/ARTIlOJ6s5FTe81nDWFDQQ7c261104.shtml",
+   "pub": "2026-11-04 11:05",
+   "source": "央视网"
+  },
+  {
+   "title": "我国首批和美海岛三年建设“成绩单”出炉",
+   "link": "https://news.cctv.com/2026/11/04/ARTILW7R4Qp521acJN0v0vym261104.shtml",
+   "pub": "2026-11-04 11:04",
+   "source": "央视网"
+  },
+  {
+   "title": "南京大学回应“智慧教室”争议：网传信息不属实",
+   "link": "https://news.cctv.com/2026/11/04/ARTITmWtH3iLNG6lHmoYsaAR261104.shtml",
+   "pub": "2026-11-04 11:02",
+   "source": "央视网"
+  },
+  {
    "title": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
    "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
    "pub": "2026-11-04 10:54",
    "source": "中国新闻网"
+  },
+  {
+   "title": "机构：三艘载俄柴油赴美油轮中仅一艘仍似驶向美国",
+   "link": "https://news.cctv.com/2026/11/04/ARTIIgayUM8FHdeCNoMg5OHr261104.shtml",
+   "pub": "2026-11-04 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "美国媒体预计民主党将夺回众议院多数席位",
+   "link": "https://news.cctv.com/2026/11/04/ARTIbJy63m0Z2n2brP0nSUhT261104.shtml",
+   "pub": "2026-11-04 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "铸牢共同体 中华一家亲丨云南玉溪采取多项措施促进民族团结",
+   "link": "https://news.cctv.com/2026/11/04/ARTIkRfnJU7SotNVlxJWwQnt261104.shtml",
+   "pub": "2026-11-04 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普：若民主党掌控国会 或将动用总统否决权抗衡",
+   "link": "https://news.cctv.com/2026/11/04/ARTIVt0Qr10XeFvAioyq5SjG261104.shtml",
+   "pub": "2026-11-04 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "今年1-9月我国服务进出口总额同比增长8.5%",
+   "link": "https://news.cctv.com/2026/11/04/ARTIUQ97Fufi93MdV4s6gURk261104.shtml",
+   "pub": "2026-11-04 10:46",
+   "source": "央视网"
+  },
+  {
+   "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+   "link": "https://news.cctv.com/2026/11/04/ARTIvQOkvOjw2vIGr8jxPK1q261104.shtml",
+   "pub": "2026-11-04 10:46",
+   "source": "央视网"
+  },
+  {
+   "title": "测算结果显示 美民主党人赢得北卡州参议院席位",
+   "link": "https://news.cctv.com/2026/11/04/ARTIjoMk7QporC5cdd5PIWVr261104.shtml",
+   "pub": "2026-11-04 10:44",
+   "source": "央视网"
+  },
+  {
+   "title": "“APEC时间”开启！深圳，打开大门迎世界",
+   "link": "https://news.cctv.com/2026/11/04/ARTIdft0rWHbNv756CHiY61Y261104.shtml",
+   "pub": "2026-11-04 10:42",
+   "source": "央视网"
   },
   {
    "title": "西班牙交通大臣因列车相撞事故宣布辞职",
@@ -1078,10 +1204,46 @@
    "source": "中国新闻网"
   },
   {
+   "title": "把握开放大势 汇聚共赢之力——写在第九届中国国际进口博览会开幕之际",
+   "link": "https://news.cctv.com/2026/11/04/ARTIj7HFYnzT4AssMKs8n4BF261104.shtml",
+   "pub": "2026-11-04 10:28",
+   "source": "央视网"
+  },
+  {
+   "title": "强化系统观念，增强整体效能——论学习贯彻党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/04/ARTIjcbQ4J23Erb8tJ7eVoeQ261104.shtml",
+   "pub": "2026-11-04 10:28",
+   "source": "央视网"
+  },
+  {
+   "title": "习言道｜30多年前，习近平给出一道“选择题”",
+   "link": "https://news.cctv.com/2026/11/04/ARTI2DhT7CeBiFURHc8Zecvi261104.shtml",
+   "pub": "2026-11-04 10:27",
+   "source": "央视网"
+  },
+  {
+   "title": "哈电集团原党委常委、纪委书记杨宏勇被提起公诉",
+   "link": "https://news.cctv.com/2026/11/04/ARTITn35H75A9hd9drkngnsW261104.shtml",
+   "pub": "2026-11-04 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "多领域目标已划定！“十五五”时期我国加速培育壮大新动能",
+   "link": "https://news.cctv.com/2026/11/04/ARTIc5tObU8vo0g5CxiRA2I9261104.shtml",
+   "pub": "2026-11-04 10:11",
+   "source": "央视网"
+  },
+  {
    "title": "第七届世界媒体峰会将在北京举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725789.shtml",
    "pub": "2026-11-04 10:04",
    "source": "中国新闻网"
+  },
+  {
+   "title": "拼创新、拼品质，掌握定价主动权！“中国制造”开辟外贸新赛道",
+   "link": "https://news.cctv.com/2026/11/04/ARTIcuQ3CTHypPuZjlsjFXzD261104.shtml",
+   "pub": "2026-11-04 10:03",
+   "source": "央视网"
   },
   {
    "title": "检察机关依法对杨宏勇涉嫌受贿、利用影响力受贿案提起公诉",
@@ -1090,10 +1252,82 @@
    "source": "中国新闻网"
   },
   {
+   "title": "从前沿技术迭代到民生场景落地 多领域科技向上向善融入日常烟火",
+   "link": "https://news.cctv.com/2026/11/04/ARTIpym1jjWUI8p2nf0K1Qpa261104.shtml",
+   "pub": "2026-11-04 10:01",
+   "source": "央视网"
+  },
+  {
+   "title": "北京今天云量增多气温下降 明天北风增强昼夜温差拉大",
+   "link": "https://news.cctv.com/2026/11/04/ARTIVFVbe5htnqYk76sWYZxO261104.shtml",
+   "pub": "2026-11-04 10:00",
+   "source": "央视网"
+  },
+  {
+   "title": "一见·从三次乡村之行感悟“努力让这条母亲河越来越美”",
+   "link": "https://news.cctv.com/2026/11/04/ARTIpMy8J2IJeYIINfnTp5RT261104.shtml",
+   "pub": "2026-11-04 09:59",
+   "source": "央视网"
+  },
+  {
    "title": "商务部：前三季度我国服务进出口总额同比增长8.5%",
    "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725782.shtml",
    "pub": "2026-11-04 09:58",
    "source": "中国新闻网"
+  },
+  {
+   "title": "湖南省政协原常委、经济科技委员会原副主任张志军接受审查调查",
+   "link": "https://news.cctv.com/2026/11/04/ARTIMdM2fykb0wcUBArc4iU8261104.shtml",
+   "pub": "2026-11-04 09:55",
+   "source": "央视网"
+  },
+  {
+   "title": "市场监管总局出台《市场监督管理行政处罚裁量规定》",
+   "link": "https://news.cctv.com/2026/11/04/ARTICOFwhitS9MVgAOSFlNsv261104.shtml",
+   "pub": "2026-11-04 09:53",
+   "source": "央视网"
+  },
+  {
+   "title": "11月将有4次冷空气过程，这份行车、穿衣指南请查收→",
+   "link": "https://news.cctv.com/2026/11/04/ARTI6lUyWJvdYe2VP8t5LIG6261104.shtml",
+   "pub": "2026-11-04 09:44",
+   "source": "央视网"
+  },
+  {
+   "title": "量贩零食店越开越多 是真低价还是定价魔术？",
+   "link": "https://news.cctv.com/2026/11/04/ARTInyad5OZD09HpybcyYmYL261104.shtml",
+   "pub": "2026-11-04 09:40",
+   "source": "央视网"
+  },
+  {
+   "title": "2027年军队文职人员公开招考工作全面展开",
+   "link": "https://news.cctv.com/2026/11/04/ARTIoXkPvrwWJMJsrQB4uqr0261104.shtml",
+   "pub": "2026-11-04 09:40",
+   "source": "央视网"
+  },
+  {
+   "title": "我国动物保护工作持续“加力” 各类珍稀动物种群数量不断提升",
+   "link": "https://news.cctv.com/2026/11/04/ARTISKHDKmjWJVgZvYJDZhMz261104.shtml",
+   "pub": "2026-11-04 09:37",
+   "source": "央视网"
+  },
+  {
+   "title": "冒用“乡村振兴”等名义 8起涉农领域非法集资犯罪典型案例公布",
+   "link": "https://news.cctv.com/2026/11/04/ARTIerb6NhKhHOV1nMwVHDNl261104.shtml",
+   "pub": "2026-11-04 09:35",
+   "source": "央视网"
+  },
+  {
+   "title": "中国人民银行加力实施股票回购增持再贷款政策",
+   "link": "https://news.cctv.com/2026/11/04/ARTISSIDQaq2ettdNEkhahIT261104.shtml",
+   "pub": "2026-11-04 09:32",
+   "source": "央视网"
+  },
+  {
+   "title": "两股冷空气接连影响我国 南方大范围阴雨持续",
+   "link": "https://news.cctv.com/2026/11/04/ARTIvraXveEdYEtVok5REehi261104.shtml",
+   "pub": "2026-11-04 09:30",
+   "source": "央视网"
   },
   {
    "title": "公安部经侦局公布8起涉农领域非法集资犯罪典型案例",
@@ -1108,6 +1342,18 @@
    "source": "中国新闻网"
   },
   {
+   "title": "开源开放激发全球创新活力——2026年世界互联网大会乌镇峰会开幕",
+   "link": "https://news.cctv.com/2026/11/04/ARTInooqrCGlFneHpUz2H5up261104.shtml",
+   "pub": "2026-11-04 09:06",
+   "source": "央视网"
+  },
+  {
+   "title": "如何提升大学生AI素养培养能力",
+   "link": "https://news.cctv.com/2026/11/04/ARTIERsU0ixIc1BDh2hxa0uc261104.shtml",
+   "pub": "2026-11-04 08:56",
+   "source": "央视网"
+  },
+  {
    "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
    "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725723.shtml",
    "pub": "2026-11-04 08:05",
@@ -1120,10 +1366,40 @@
    "source": "中国新闻网"
   },
   {
+   "title": "两人使用“外挂”软件代拍演出活动门票非法牟利，被警方刑拘",
+   "link": "https://news.cctv.com/2026/11/04/ARTIx4quvFUbzGnTp1YVvMBy261104.shtml",
+   "pub": "2026-11-04 07:46",
+   "source": "央视网"
+  },
+  {
+   "title": "大道行 | 相约“四叶草” 共享中国机遇",
+   "link": "https://news.cctv.com/2026/11/04/ARTIvLfavW6pnpdzyAzUqtxd261104.shtml",
+   "pub": "2026-11-04 07:45",
+   "source": "央视网"
+  },
+  {
    "title": "车市增速换挡之后 谁才有资格跑得更远",
    "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725717.shtml",
    "pub": "2026-11-04 07:43",
    "source": "中国新闻网"
+  },
+  {
+   "title": "挡风被还能用吗？冬季电动车骑行如何兼顾保暖与安全",
+   "link": "https://news.cctv.com/2026/11/04/ARTINjmkVSdw89KnmcT2OinS261104.shtml",
+   "pub": "2026-11-04 07:39",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC时间共赴深圳之约 中国第三次担任APEC东道主",
+   "link": "https://news.cctv.com/2026/11/04/ARTIFB3350uOmwVSsRPETuHr261104.shtml",
+   "pub": "2026-11-04 07:38",
+   "source": "央视网"
+  },
+  {
+   "title": "时政微观察丨锻造堪当民族复兴重任的高素质干部队伍",
+   "link": "https://news.cctv.com/2026/11/04/ARTIQ6tEKpASLBlVVOpLS4Qq261104.shtml",
+   "pub": "2026-11-04 07:36",
+   "source": "央视网"
   },
   {
    "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
@@ -1136,6 +1412,102 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725709.shtml",
    "pub": "2026-11-04 07:25",
    "source": "中国新闻网"
+  },
+  {
+   "title": "中国成为世界数字经济增长的主要力量",
+   "link": "https://news.cctv.com/2026/11/04/ARTIRDYNPCAGu9OrGmMK0tAx261104.shtml",
+   "pub": "2026-11-04 07:25",
+   "source": "央视网"
+  },
+  {
+   "title": "我国海洋水产品产量连续37年居全球第一",
+   "link": "https://news.cctv.com/2026/11/04/ARTIN4wwuH0utyodkJAuja0w261104.shtml",
+   "pub": "2026-11-04 07:24",
+   "source": "央视网"
+  },
+  {
+   "title": "奶茶深受喜爱 健康隐患莫忽视",
+   "link": "https://news.cctv.com/2026/11/04/ARTIoHGsP3d91Z2RwrtKhVhU261104.shtml",
+   "pub": "2026-11-04 07:22",
+   "source": "央视网"
+  },
+  {
+   "title": "中欧班列“中通道”年内通行量超4000列",
+   "link": "https://news.cctv.com/2026/11/04/ARTIIwZJfRZFB8vgQeR0ymFf261104.shtml",
+   "pub": "2026-11-04 07:22",
+   "source": "央视网"
+  },
+  {
+   "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+   "link": "https://news.cctv.com/2026/11/04/ARTIHChGsFjQ9r4KzKfuNk0U261104.shtml",
+   "pub": "2026-11-04 07:15",
+   "source": "央视网"
+  },
+  {
+   "title": "挺膺担当建新功 不断开创中国式现代化新局面（学习贯彻党的二十届五中全会精神）",
+   "link": "https://news.cctv.com/2026/11/04/ARTIsKluRpuksfyM2ObyCjiE261104.shtml",
+   "pub": "2026-11-04 07:11",
+   "source": "央视网"
+  },
+  {
+   "title": "中华一家亲 云南玉溪采取多项措施促进民族团结",
+   "link": "https://news.cctv.com/2026/11/04/ARTIUJMF6xeKdJC0KTAE69eo261104.shtml",
+   "pub": "2026-11-04 07:09",
+   "source": "央视网"
+  },
+  {
+   "title": "以方被曝对美国将结束安全援助“感到担忧”",
+   "link": "https://news.cctv.com/2026/11/04/ARTIbumdItOMVZdeVIM7fxGl261104.shtml",
+   "pub": "2026-11-04 07:07",
+   "source": "央视网"
+  },
+  {
+   "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
+   "link": "https://news.cctv.com/2026/11/04/ARTIlDcUPd8zDcOSMW3LiCZC261104.shtml",
+   "pub": "2026-11-04 07:06",
+   "source": "央视网"
+  },
+  {
+   "title": "一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职",
+   "link": "https://news.cctv.com/2026/11/04/ARTI8UnDxn1bVZsHTKoihWCd261104.shtml",
+   "pub": "2026-11-04 06:50",
+   "source": "央视网"
+  },
+  {
+   "title": "阿曼附近海域一艘油轮遭两枚不明弹体击中",
+   "link": "https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml",
+   "pub": "2026-11-04 06:48",
+   "source": "央视网"
+  },
+  {
+   "title": "格陵兰岛自治政府议会批准与美国达成的安全协议",
+   "link": "https://news.cctv.com/2026/11/04/ARTIhn3eSeY54dXlhhXM6F5j261104.shtml",
+   "pub": "2026-11-04 06:44",
+   "source": "央视网"
+  },
+  {
+   "title": "阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元",
+   "link": "https://news.cctv.com/2026/11/04/ARTIkE3WwyV1rCSWf1kXKQs3261104.shtml",
+   "pub": "2026-11-04 06:32",
+   "source": "央视网"
+  },
+  {
+   "title": "艺术节邂逅进博会 中外经典奏响上海开放之声",
+   "link": "https://news.cctv.com/2026/11/04/ARTIchrtQKCGaRjFHJVlaOR6261104.shtml",
+   "pub": "2026-11-04 06:26",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡",
+   "link": "https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml",
+   "pub": "2026-11-04 06:26",
+   "source": "央视网"
+  },
+  {
+   "title": "10月份中国仓储指数为49.8%",
+   "link": "https://news.cctv.com/2026/11/04/ARTIaqzozK0t8pcEKuYDcJUV261104.shtml",
+   "pub": "2026-11-04 06:19",
+   "source": "央视网"
   }
  ],
  "ai": [

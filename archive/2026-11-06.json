@@ -1,8 +1,14 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 14:05",
- "note": "今日抓取",
+ "fetched": "2026-11-06 14:13",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广州市政协“百姓提案”：让泥土里的“金点子”转化为惠及万家的“好日子”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727201.shtml",
+   "pub": "2026-11-06 14:05",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "携手全球协同创新 2026年6G发展大会将于24日至25日举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727198.shtml",
@@ -34,28 +40,22 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "六部门联合发文促进适老用品产品消费",
-   "link": "https://news.cctv.com/2026/11/06/ARTIqQP87bFsplTodnp5ERkS261106.shtml",
-   "pub": "2026-11-06 13:29",
-   "source": "央视网"
-  },
-  {
    "title": "罗织罪名！台湾民意代表高金素梅被“求刑”14年",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727185.shtml",
    "pub": "2026-11-06 13:29",
    "source": "中国新闻网·国内"
   },
   {
+   "title": "六部门联合发文促进适老用品产品消费",
+   "link": "https://news.cctv.com/2026/11/06/ARTIqQP87bFsplTodnp5ERkS261106.shtml",
+   "pub": "2026-11-06 13:29",
+   "source": "央视网"
+  },
+  {
    "title": "埃及军方：两名军官在边境打击非法采金行动中丧生",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727181.shtml",
    "pub": "2026-11-06 13:23",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "2027年秋季开学前北京市中小学将全部取消外送餐",
-   "link": "https://news.cctv.com/2026/11/06/ARTIOdjg4U5XrEyiQM47Y3Tp261106.shtml",
-   "pub": "2026-11-06 13:22",
-   "source": "央视网"
   },
   {
    "title": "巴拉圭总统辞职未果 弹劾程序启动",
@@ -68,6 +68,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727172.shtml",
    "pub": "2026-11-06 13:22",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2027年秋季开学前北京市中小学将全部取消外送餐",
+   "link": "https://news.cctv.com/2026/11/06/ARTIOdjg4U5XrEyiQM47Y3Tp261106.shtml",
+   "pub": "2026-11-06 13:22",
+   "source": "央视网"
   },
   {
    "title": "我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境",
@@ -142,6 +148,12 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
+   "pub": "2026-11-06 11:49",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "何以中国｜红山曙光映照朝阳烟火日常",
    "link": "https://news.cctv.com/2026/11/06/ARTINuzvWzbmPWBOYgiI448l261106.shtml",
    "pub": "2026-11-06 11:49",
@@ -158,12 +170,6 @@
    "link": "https://news.cctv.com/2026/11/06/ARTIYYgjOzQ0BHdZY6lBFk2X261106.shtml",
    "pub": "2026-11-06 11:49",
    "source": "央视网"
-  },
-  {
-   "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
-   "pub": "2026-11-06 11:49",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "网络直播间热销的“超划算旅游卡” 为何屡遭兑现难？",
@@ -202,6 +208,12 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "伊春市今冬打造“一二三四五十”特色冰雪旅游产品体系",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727150.shtml",
+   "pub": "2026-11-06 11:29",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "循着彩叶信号开启追秋之旅 “丰富供给+差异化产品”契合消费新趋势",
    "link": "https://news.cctv.com/2026/11/06/ARTI2soEaB0NF8hUTnDEmWOT261106.shtml",
    "pub": "2026-11-06 11:29",
@@ -212,12 +224,6 @@
    "link": "https://news.cctv.com/2026/11/06/ARTIyvVksfDdQInUJOBP6kmt261106.shtml",
    "pub": "2026-11-06 11:29",
    "source": "央视网"
-  },
-  {
-   "title": "伊春市今冬打造“一二三四五十”特色冰雪旅游产品体系",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727150.shtml",
-   "pub": "2026-11-06 11:29",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "从“近海防御”到“远海防卫” 解锁“大国重舰”航迹非凡",
@@ -322,9 +328,9 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话",
-   "link": "https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml",
-   "pub": "2026-11-06 11:05",
+   "title": "习近平复信澳大利亚青年学生",
+   "link": "https://news.cctv.com/2026/11/06/ARTIftG4yepcNxkHUJOaHt6a261106.shtml",
+   "pub": "2026-11-06 11:06",
    "source": "央视网"
   },
   {
@@ -332,6 +338,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727064.shtml",
    "pub": "2026-11-06 11:05",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话",
+   "link": "https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml",
+   "pub": "2026-11-06 11:05",
+   "source": "央视网"
   },
   {
    "title": "印度尼西亚杭州商会成立仪式在雅加达举行",
@@ -436,12 +448,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "反跨境腐败法表决通过",
-   "link": "https://news.cctv.com/2026/11/06/ARTIM2SRNmxeRvKeUBcFs3N1261106.shtml",
-   "pub": "2026-11-06 10:05",
-   "source": "央视网"
-  },
-  {
    "title": "反跨境腐败法表决通过 明确坚持积极参与全球反腐败治理",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727057.shtml",
    "pub": "2026-11-06 10:05",
@@ -452,6 +458,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727058.shtml",
    "pub": "2026-11-06 10:05",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "反跨境腐败法表决通过",
+   "link": "https://news.cctv.com/2026/11/06/ARTIM2SRNmxeRvKeUBcFs3N1261106.shtml",
+   "pub": "2026-11-06 10:05",
+   "source": "央视网"
   },
   {
    "title": "国家中医药管理局原局长余艳红接受审查调查",
@@ -466,16 +478,16 @@
    "source": "央视网"
   },
   {
-   "title": "检察公益诉讼有了专门法律",
-   "link": "https://news.cctv.com/2026/11/06/ARTIiVYPSgraunVXfsyTndK1261106.shtml",
-   "pub": "2026-11-06 10:01",
-   "source": "央视网"
-  },
-  {
    "title": "国家中医药管理局原党组书记、局长余艳红接受审查调查",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727056.shtml",
    "pub": "2026-11-06 10:01",
    "source": "中国新闻网"
+  },
+  {
+   "title": "检察公益诉讼有了专门法律",
+   "link": "https://news.cctv.com/2026/11/06/ARTIiVYPSgraunVXfsyTndK1261106.shtml",
+   "pub": "2026-11-06 10:01",
+   "source": "央视网"
   },
   {
    "title": "安徽宁国：落羽红杉林迎来最佳观赏期",
@@ -508,16 +520,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "北京11月7日起试供暖 供暖服务电话公布",
-   "link": "https://news.cctv.com/2026/11/06/ARTIHzIzhlkQzfK77fPDyvrm261106.shtml",
-   "pub": "2026-11-06 09:49",
-   "source": "央视网"
-  },
-  {
    "title": "黑龙江省气象台发布大风预报 局地阵风可达8至9级",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727050.shtml",
    "pub": "2026-11-06 09:49",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "北京11月7日起试供暖 供暖服务电话公布",
+   "link": "https://news.cctv.com/2026/11/06/ARTIHzIzhlkQzfK77fPDyvrm261106.shtml",
+   "pub": "2026-11-06 09:49",
+   "source": "央视网"
   },
   {
    "title": "猫山王榴莲苦从何来？云南农业大学最新研究揭示原因",
@@ -592,16 +604,16 @@
    "source": "央视网"
   },
   {
-   "title": "跟着习爷爷学在纪念馆｜第四集 生死攸关的转折点",
-   "link": "https://news.cctv.com/2026/11/06/ARTIQJJNyPYs0NHmModE1KNu261106.shtml",
-   "pub": "2026-11-06 08:52",
-   "source": "央视网"
-  },
-  {
    "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
    "pub": "2026-11-06 08:52",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "跟着习爷爷学在纪念馆｜第四集 生死攸关的转折点",
+   "link": "https://news.cctv.com/2026/11/06/ARTIQJJNyPYs0NHmModE1KNu261106.shtml",
+   "pub": "2026-11-06 08:52",
+   "source": "央视网"
   },
   {
    "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
@@ -658,16 +670,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "【8点见】警方通报“男子饮酒时用美工刀伤人”",
-   "link": "https://news.cctv.com/2026/11/06/ARTIwL0ObBkAmA0UWVmrYWco261106.shtml",
-   "pub": "2026-11-06 07:59",
-   "source": "央视网"
-  },
-  {
    "title": "微短剧热潮中大学生如何“入戏”与“出戏”",
    "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727002.shtml",
    "pub": "2026-11-06 07:59",
    "source": "中国新闻网"
+  },
+  {
+   "title": "【8点见】警方通报“男子饮酒时用美工刀伤人”",
+   "link": "https://news.cctv.com/2026/11/06/ARTIwL0ObBkAmA0UWVmrYWco261106.shtml",
+   "pub": "2026-11-06 07:59",
+   "source": "央视网"
   },
   {
    "title": "伊朗官员与普京会面，转达伊朗最高领袖讯息",
@@ -812,12 +824,6 @@
    "link": "https://military.cctv.com/2026/11/06/ARTItByp9h1139n1LJzYxCOX261106.shtml",
    "pub": "2026-11-06 06:03",
    "source": "央视网"
-  },
-  {
-   "title": "中国科学家打破人类低温纪录 宇宙最冷点“落户”中国空间站",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10726970.shtml",
-   "pub": "2026-11-06 06:01",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "广电总局重申：扶持真人微短剧 规范AI微短剧",
