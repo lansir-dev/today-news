@@ -1,8 +1,86 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 14:33",
+ "fetched": "2026-11-06 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "新疆文艺志愿者协会正式成立",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727247.shtml",
+   "pub": "2026-11-06 14:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "探访三亚榴莲基地：一颗榴莲串起一条产业链",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727250.shtml",
+   "pub": "2026-11-06 14:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "哈尔滨机场积极应对降雪天气 航班运行平稳正常",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727253.shtml",
+   "pub": "2026-11-06 14:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "碧海之下“种”珊瑚 三亚蜈支洲岛续写人与海共生故事",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727243.shtml",
+   "pub": "2026-11-06 14:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "西藏洛扎：谢翁温泉“走出”文旅融合发展新路",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727256.shtml",
+   "pub": "2026-11-06 14:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "11月6日“农产品批发价格200指数”比前一天下降0.07个点",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727246.shtml",
+   "pub": "2026-11-06 14:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "福建峨嵋峰保护区首次拍到亚洲黑熊影像 刷新泰宁县野生动物记录",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727237.shtml",
+   "pub": "2026-11-06 14:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "第二艘国产大型邮轮“爱达·花城号”正式交付 中国邮轮产业迈入“双轮时代”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727255.shtml",
+   "pub": "2026-11-06 14:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "日本参议员批评高市政权罔顾民意 急于推动修宪扩军",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727244.shtml",
+   "pub": "2026-11-06 14:44",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "射程超100公里，巴基斯坦自研空对空导弹可打隐身飞机？",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727229.shtml",
+   "pub": "2026-11-06 14:43",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国国家中医药管理局原局长余艳红被查 系主动投案",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727218.shtml",
+   "pub": "2026-11-06 14:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“很脆，可以下啤酒！”李家超进博会逛展，一路吃吃吃",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727241.shtml",
+   "pub": "2026-11-06 14:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国务院食安办发布强化食品安全全链条监管创新案例（第四批）",
+   "link": "https://news.cctv.com/2026/11/06/ARTI6Uce8KFHpZ95sTBA9Dp8261106.shtml",
+   "pub": "2026-11-06 14:37",
+   "source": "央视网"
+  },
   {
    "title": "“从无到有”的突破→“从有到优”的能力 国产大型邮轮迈入批量建造新阶段",
    "link": "https://news.cctv.com/2026/11/06/ARTIWA79ZG3Kx9p7KgamcBuY261106.shtml",
@@ -58,6 +136,12 @@
    "source": "央视网"
   },
   {
+   "title": "冷空气“接力”来袭 中国中东部现大范围雨雪天气",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727216.shtml",
+   "pub": "2026-11-06 14:27",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "看进度、看服务、看政策 秋粮收购有序推进让农户“好收成”落袋为安",
    "link": "https://news.cctv.com/2026/11/06/ARTIK4GPyvjyrUir6cStXiKa261106.shtml",
    "pub": "2026-11-06 14:26",
@@ -97,7 +181,7 @@
    "title": "本周末大范围雨雪将上线，这些地方或有暴雪",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727193.shtml",
    "pub": "2026-11-06 13:47",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "网信部门从严查处利用AI技术假冒仿冒公众人物问题",
@@ -133,19 +217,19 @@
    "title": "埃及军方：两名军官在边境打击非法采金行动中丧生",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727181.shtml",
    "pub": "2026-11-06 13:23",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "巴拉圭总统辞职未果 弹劾程序启动",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727177.shtml",
    "pub": "2026-11-06 13:22",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "土耳其议会批准《麦加共同防务协议》",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727172.shtml",
    "pub": "2026-11-06 13:22",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "2027年秋季开学前北京市中小学将全部取消外送餐",
@@ -253,7 +337,7 @@
    "title": "网络直播间热销的“超划算旅游卡” 为何屡遭兑现难？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727164.shtml",
    "pub": "2026-11-06 11:45",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "鲁比奥否认计划离职竞选美国总统 称将为特朗普工作至任期结束",
@@ -272,6 +356,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727158.shtml",
    "pub": "2026-11-06 11:35",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国家发展改革委：“十五五”时期我国粮食安全有坚实保障",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727116.shtml",
+   "pub": "2026-11-06 11:31",
+   "source": "中国新闻网"
   },
   {
    "title": "联合国第十五届能源可持续发展国际论坛西安闭幕 发布《西安宣言》",
@@ -373,7 +463,7 @@
    "title": "巴基斯坦旁遮普省发生交通事故 至少11死33伤",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727110.shtml",
    "pub": "2026-11-06 11:15",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "中国边城黑河今冬打出跨境冰雪康养“组合拳”",
@@ -454,16 +544,16 @@
    "source": "中国新闻网·国内"
   },
   {
+   "title": "特朗普回应美股大跌：是民主党人造成的",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
+   "pub": "2026-11-06 10:34",
+   "source": "中国新闻网"
+  },
+  {
    "title": "吉前总理：全面从严治党是中国高水平治理的关键",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml",
    "pub": "2026-11-06 10:34",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "特朗普回应美股大跌：是民主党人造成的",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
-   "pub": "2026-11-06 10:34",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "日本学者：日本应坚守“无核三原则”",
@@ -634,12 +724,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "助力参与全球海洋治理 “星海-BBNJ”生态环境数据专题产品发布",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727039.shtml",
-   "pub": "2026-11-06 09:38",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "美国国务卿鲁比奥否认计划离职竞选总统",
    "link": "https://news.cctv.com/2026/11/06/ARTIFYMXIvsuoQnHHnEypiY2261106.shtml",
    "pub": "2026-11-06 09:23",
@@ -658,18 +742,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "重庆大足加快打造成渝中部新支点和巴蜀文化会客厅",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727031.shtml",
-   "pub": "2026-11-06 09:17",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "冷空气接连来袭 华北北部等地将有强降雪",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727023.shtml",
-   "pub": "2026-11-06 09:15",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "云南“十五五”将织密面向南亚东南亚数字丝路合作纽带",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727030.shtml",
    "pub": "2026-11-06 09:12",
@@ -682,22 +754,10 @@
    "source": "央视网"
   },
   {
-   "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
-   "pub": "2026-11-06 08:52",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "跟着习爷爷学在纪念馆｜第四集 生死攸关的转折点",
    "link": "https://news.cctv.com/2026/11/06/ARTIQJJNyPYs0NHmModE1KNu261106.shtml",
    "pub": "2026-11-06 08:52",
    "source": "央视网"
-  },
-  {
-   "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727017.shtml",
-   "pub": "2026-11-06 08:37",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
@@ -712,34 +772,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "中央和国家机关要走好第一方阵（学习贯彻党的二十届五中全会精神）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10726999.shtml",
-   "pub": "2026-11-06 08:27",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "谎称代领补贴，取走老人活命钱 “热心人”因信用卡诈骗罪获刑",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727010.shtml",
-   "pub": "2026-11-06 08:23",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "冷空气继续影响中东部地区 中东部地区将有大范围雨雪天气",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727006.shtml",
-   "pub": "2026-11-06 08:17",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "ADHD怎么成了一门生意？",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727007.shtml",
-   "pub": "2026-11-06 08:17",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "美国30年期贷款利率降至7.18%  连续三周下降",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10726993.shtml",
    "pub": "2026-11-06 08:04",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "第十四届慕尼黑华语电影节开幕",
@@ -782,12 +818,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-06/10726995.shtml",
    "pub": "2026-11-06 07:44",
    "source": "中国新闻网"
-  },
-  {
-   "title": "何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持续向新向优向好发展",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-06/10726986.shtml",
-   "pub": "2026-11-06 07:44",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
