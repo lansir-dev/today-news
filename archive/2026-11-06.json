@@ -1,8 +1,14 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 22:05",
+ "fetched": "2026-11-06 23:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "时政微观察丨从两场展会看开放的中国",
+   "link": "https://news.cctv.com/2026/11/06/ARTI5wQMRB4qnNDgvW0UDlJk261106.shtml",
+   "pub": "2026-11-06 22:41",
+   "source": "央视网"
+  },
   {
    "title": "前沿技术落地“接住”养老心愿清单 鲜活多彩养老生活走进更多百姓日常",
    "link": "https://news.cctv.com/2026/11/06/ARTI7VUKm2k19p3NRkO5pZC3261106.shtml",
