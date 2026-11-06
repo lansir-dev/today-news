@@ -1,8 +1,20 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 14:13",
+ "fetched": "2026-11-06 14:20",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
+   "pub": "2026-11-06 14:12",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "市场监管总局启动第四批全国商业秘密保护创新试点工作",
+   "link": "https://news.cctv.com/2026/11/06/ARTITL3UNa5JIQzIiSzZkFHp261106.shtml",
+   "pub": "2026-11-06 14:11",
+   "source": "央视网"
+  },
   {
    "title": "广州市政协“百姓提案”：让泥土里的“金点子”转化为惠及万家的“好日子”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727201.shtml",
