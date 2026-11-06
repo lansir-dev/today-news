@@ -1,8 +1,20 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 18:05",
+ "fetched": "2026-11-06 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "暴雪蓝色预警：山西河北北京等地部分地区有大雪",
+   "link": "https://news.cctv.com/2026/11/06/ARTIW9VG8wBOBuQOepU2XPp2261106.shtml",
+   "pub": "2026-11-06 18:27",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平同加蓬总统恩圭马共同出席合作文件签字仪式",
+   "link": "https://news.cctv.com/2026/11/06/ARTIRjRiEYXLyIwfECXrI6Ci261106.shtml",
+   "pub": "2026-11-06 18:02",
+   "source": "央视网"
+  },
   {
    "title": "7日至9日冷空气将影响我国中东部 辽宁等地有强降雪 赣湘鄂皖有较强降雨",
    "link": "https://news.cctv.com/2026/11/06/ARTI9JmtgZ1AD73VDdjxQR7S261106.shtml",
