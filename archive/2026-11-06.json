@@ -1,8 +1,50 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 19:05",
+ "fetched": "2026-11-06 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "武汉大学学生将同学诱骗至缅甸索要40万元赎金？校方辟谣",
+   "link": "https://news.cctv.com/2026/11/06/ARTIFCMd4Aqf6pY2eRGJWWDG261106.shtml",
+   "pub": "2026-11-06 19:46",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平复信澳大利亚青年学生",
+   "link": "https://news.cctv.com/2026/11/06/ARTIKGjRVKj6uw09Q5RQaCH3261106.shtml",
+   "pub": "2026-11-06 19:38",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平举行仪式欢迎加蓬总统访华",
+   "link": "https://news.cctv.com/2026/11/06/ARTI1j1wwYCjdT6uJrCvfTI8261106.shtml",
+   "pub": "2026-11-06 19:34",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平参加北京市区人大代表换届选举投票",
+   "link": "https://news.cctv.com/2026/11/06/ARTI9euITs8YPh3GDl7V4LkK261106.shtml",
+   "pub": "2026-11-06 19:32",
+   "source": "央视网"
+  },
+  {
+   "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应",
+   "link": "https://news.cctv.com/2026/11/06/ARTIN2BPV73oEQGMdR86IruL261106.shtml",
+   "pub": "2026-11-06 19:21",
+   "source": "央视网"
+  },
+  {
+   "title": "十四届全国人大常委会第二十五次会议在京闭幕",
+   "link": "https://news.cctv.com/2026/11/06/ARTIShfmq06T1y5fXxLEi6tV261106.shtml",
+   "pub": "2026-11-06 19:14",
+   "source": "央视网"
+  },
+  {
+   "title": "中菲两国执法部门合作遣返100余名涉赌诈犯罪嫌疑人",
+   "link": "https://news.cctv.com/2026/11/06/ARTI7x5oomUlJcZwRfuV11Be261106.shtml",
+   "pub": "2026-11-06 19:09",
+   "source": "央视网"
+  },
   {
    "title": "警方通报孙某军因情感纠纷行凶",
    "link": "https://news.cctv.com/2026/11/06/ARTILGRzVR1J9zeGdGrEyLRd261106.shtml",

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-05",
- "fetched": "2026-11-06 19:05",
+ "fetched": "2026-11-06 20:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1428,6 +1428,13 @@
  ],
  "ai": [
   {
+   "title": "Thinking Machines 发布 Inkling 2 Small：594B 总参/17B 激活 MoE，68 小时预训练，称超越 Muse Spark",
+   "link": "https://aihot.news/items/xbvw6hby8c4xtbbwkbr9el4s7",
+   "meta": "Latent Space · 发布于 11-06 18:35 · 模型",
+   "summary": "Latent Space 汇总 2026-11-04 至 11-05 的 AI 新闻，头条是 Thinking Machines 发布 Inkling 2 Small。",
+   "origin": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/"
+  },
+  {
    "title": "OpenAI 披露研究模型用文件名提示词注入评测评分器事件",
    "link": "https://aihot.news/items/eg348bkl6qhm9js5ywehei0g2",
    "meta": "OpenAI：失准报告与通报 · 发布于 11-05 08:00 · 论文",
@@ -1475,13 +1482,6 @@
    "meta": "Anthropic：Alignment Science Blog · 发布于 11-05 08:00 · 论文",
    "summary": "Anthropic Fellows Program 测试 Claude Opus 4.8、GPT-5.5、Gemini 3.1 Pro、Grok 4.3 和 Kimi K3 在七种多智能体环境中的行为，发现均表现出与福利关照一致的行为，Opus 4.8 总体最高（38%），其余为 27%–32%。",
    "origin": "https://alignment.anthropic.com/2026/welfare-regard/"
-  },
-  {
-   "title": "Cursor 推出应用构建功能，描述需求即可构建、部署并分享在线应用",
-   "link": "https://aihot.news/items/m5s02uukcl0id6rn7t08f6ya3",
-   "meta": "Cursor：Changelog · 发布于 11-05 08:00 · 产品",
-   "summary": "Cursor 推出新功能，用户在 Cursor 中启动云端智能体并描述需求，即可完成应用搭建、Postgres 数据库配置、基于 Cursor SSO 的身份验证和托管部署，并生成可访问的在线链接。",
-   "origin": "https://cursor.com/changelog/build-live-apps"
   }
  ]
 }
