@@ -1,8 +1,38 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-06 14:31",
+ "fetched": "2026-11-06 14:33",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“从无到有”的突破→“从有到优”的能力 国产大型邮轮迈入批量建造新阶段",
+   "link": "https://news.cctv.com/2026/11/06/ARTIWA79ZG3Kx9p7KgamcBuY261106.shtml",
+   "pub": "2026-11-06 14:31",
+   "source": "央视网"
+  },
+  {
+   "title": "重磅嘉宾奔赴中国相约“四叶草” 聊产品、聊合作、聊共识……",
+   "link": "https://news.cctv.com/2026/11/06/ARTIEVfxDzvuGMaUKiY7D3WR261106.shtml",
+   "pub": "2026-11-06 14:31",
+   "source": "央视网"
+  },
+  {
+   "title": "《出口中国能力发展报告》发布 | 提升对华出口能力 中国市场机遇转化为共同发展成果",
+   "link": "https://news.cctv.com/2026/11/06/ARTILmtyZEyUp6h8bsaxZKJH261106.shtml",
+   "pub": "2026-11-06 14:30",
+   "source": "央视网"
+  },
+  {
+   "title": "从发出“进博邀约”到全球伙伴年年赴约 进博会始终为参与者创造价值",
+   "link": "https://news.cctv.com/2026/11/06/ARTI1tZpQCRtG43rDT9beKew261106.shtml",
+   "pub": "2026-11-06 14:30",
+   "source": "央视网"
+  },
+  {
+   "title": "“AI+机械”复合型人才培养成行业转型升级核心支撑 全产业链产教协同人才培养启动",
+   "link": "https://news.cctv.com/2026/11/06/ARTIoNzXbMuPISTEbX4lRg0K261106.shtml",
+   "pub": "2026-11-06 14:30",
+   "source": "央视网"
+  },
   {
    "title": "“智慧”矿山生产实现减人、增安、提效 深部煤炭资源安全开发保障能力提升",
    "link": "https://news.cctv.com/2026/11/06/ARTIPFLuxM2gsUHx5Diq1P9E261106.shtml",
@@ -43,7 +73,7 @@
    "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
    "pub": "2026-11-06 14:12",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "市场监管总局启动第四批全国商业秘密保护创新试点工作",
