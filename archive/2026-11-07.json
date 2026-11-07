@@ -1,8 +1,230 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 18:35",
+ "fetched": "2026-11-07 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "男子被雇主扇9次耳光后急性脑梗死，昏迷14个月后离世 雇主被判担责七成赔84万余元",
+   "link": "https://news.cctv.com/2026/11/07/ARTIFc3fjbpsahYoD9WIB1Pw261107.shtml",
+   "pub": "2026-11-07 19:59",
+   "source": "央视网"
+  },
+  {
+   "title": "立冬迎雨雪降温 北京开启试供暖",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728082.shtml",
+   "pub": "2026-11-07 19:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "诺奖得主施特默：做好基础研究，靠的是坚持、热爱与责任",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728067.shtml",
+   "pub": "2026-11-07 19:53",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第三届网络文学品牌榜揭晓 《藏海传》《诛仙》等IP上榜",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728065.shtml",
+   "pub": "2026-11-07 19:51",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "宿松白崖寨：红色资源赋能乡村产业发展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728089.shtml",
+   "pub": "2026-11-07 19:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "广西柳州举办友城画展 促进中外青少年交流",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728060.shtml",
+   "pub": "2026-11-07 19:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "《好记者讲好故事》2026特别节目将于明晚播出",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728080.shtml",
+   "pub": "2026-11-07 19:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "不惧风雨 向险而行——应急管理系统先进模范和消防忠诚卫士群像扫描",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728079.shtml",
+   "pub": "2026-11-07 19:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "立冬遇强雨雪，湿冷攻击上线，今年台风生成个数刷新本世纪以来纪录",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728078.shtml",
+   "pub": "2026-11-07 19:38",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "集中开展国产装备极地实测 中国第43次南极考察“剧透”来了",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728075.shtml",
+   "pub": "2026-11-07 19:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "宁夏“环西部火车游” 港澳银发旅游列车启程",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728055.shtml",
+   "pub": "2026-11-07 19:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "筑牢安全底座 推动高质量发展——国家发展改革委新闻发布会聚焦能源和粮食安全",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728073.shtml",
+   "pub": "2026-11-07 19:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "爱上三亚：老外的N种理由",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728057.shtml",
+   "pub": "2026-11-07 19:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从“一口锅”到“千万产值”，大运河鱼羊美食季何以飘香17年？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728059.shtml",
+   "pub": "2026-11-07 19:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "霍步刚当选中共沈阳市委书记",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728050.shtml",
+   "pub": "2026-11-07 19:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "地震伤员意外检出肾肿瘤 辽藏携手完成国产机器人远程肾切除术",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728048.shtml",
+   "pub": "2026-11-07 19:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "西安交通大学科技商学高质量发展大会暨科技商学院揭牌仪式举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728043.shtml",
+   "pub": "2026-11-07 19:18",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "西电自研船用导航雷达成功应用",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728042.shtml",
+   "pub": "2026-11-07 19:17",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "APEC经济体代表聚厦门共商亚太海洋生态保护与韧性提升",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728041.shtml",
+   "pub": "2026-11-07 19:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026青少年陶艺研学实践教学研讨会举办",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728040.shtml",
+   "pub": "2026-11-07 19:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "碧波勇夺三金一银 岗台守护万家灯火——天津女警张宏涛的双向人生",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728039.shtml",
+   "pub": "2026-11-07 19:13",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "环渤海五地海事部门织就“一张网”：业务跨域通办 替企业“跑腿”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728047.shtml",
+   "pub": "2026-11-07 19:10",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "江门侨智发展大会举行   凝聚侨心侨智赋能湾区高质量发展",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728049.shtml",
+   "pub": "2026-11-07 19:09",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“闽式生活”具象化场景交流研讨活动在福州举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728034.shtml",
+   "pub": "2026-11-07 19:05",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "女子误吞一小块虾壳住进 ICU    湖南医生提醒警惕纵隔重症",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728025.shtml",
+   "pub": "2026-11-07 19:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "上海1700余名“未来工程师”同台角逐 以智慧和行动回应真实工程挑战",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728023.shtml",
+   "pub": "2026-11-07 18:59",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "南开大学支教团带拉萨青少年“重走长征路”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728035.shtml",
+   "pub": "2026-11-07 18:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "AI走进寻常家 居家康养、养宠迎来智慧新方案",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728027.shtml",
+   "pub": "2026-11-07 18:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026中欧蓝色发展投资研讨会在厦门举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728028.shtml",
+   "pub": "2026-11-07 18:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“文明交流互鉴与中国式现代化道路”国际学术研讨会在南昌举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728020.shtml",
+   "pub": "2026-11-07 18:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "天津首颗本土研制商业气象卫星入轨",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728019.shtml",
+   "pub": "2026-11-07 18:44",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“地质星座”应用研发中心成立",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728018.shtml",
+   "pub": "2026-11-07 18:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "医保影像AI大赛收官 广西打造面向东盟AI+医疗健康创新枢纽",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728017.shtml",
+   "pub": "2026-11-07 18:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从一粒种子到一片森林 中非智库论坛在义乌举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728016.shtml",
+   "pub": "2026-11-07 18:41",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "重庆城口开启彩叶文化旅游季  邀游客共赏巴山盛景",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728015.shtml",
+   "pub": "2026-11-07 18:39",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026年广西文化旅游嘉年华举办 六大活动呈现八桂文旅融合新貌",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728012.shtml",
+   "pub": "2026-11-07 18:36",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "世界卫生组织性传播感染预防与创新合作中心在广州揭牌",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728008.shtml",
+   "pub": "2026-11-07 18:34",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728011.shtml",
@@ -46,12 +268,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "百余中希学者齐聚河南 共探以古典德性智慧回应时代课题",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727994.shtml",
-   "pub": "2026-11-07 18:23",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "“字汇中西，文明互鉴”汉字创意与摄影展在伦敦揭幕",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727983.shtml",
    "pub": "2026-11-07 18:19",
@@ -80,24 +296,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727979.shtml",
    "pub": "2026-11-07 18:07",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "湖南凤凰县一悬崖瀑布遭倾倒垃圾 官方：湘西州组建调查组进驻调查",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727987.shtml",
-   "pub": "2026-11-07 17:46",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727981.shtml",
-   "pub": "2026-11-07 17:45",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "北大湖开启新雪季试滑 长春大冬会赛场迎来实战检验",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727970.shtml",
-   "pub": "2026-11-07 17:26",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "APEC深圳之约 | 从“货通天下”迈向“智联全球” 多维度透视订单里的亚太合作",
@@ -148,46 +346,10 @@
    "source": "央视网"
   },
   {
-   "title": "中国科普作家协会发布2026年度十大科普热词 人工智能相关占据七席",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727962.shtml",
-   "pub": "2026-11-07 17:05",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "太极拳传承实践展演在重庆举行 600名爱好者共展非遗之美",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727961.shtml",
-   "pub": "2026-11-07 17:04",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "无人机海上着舰有多难？详解“攻击-21”着舰四川舰全流程",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727958.shtml",
    "pub": "2026-11-07 17:02",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "全国7481名长城保护员将获巡护装备包",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727960.shtml",
-   "pub": "2026-11-07 16:59",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "两岸“小三通”客运航线今年出入境旅客量突破203万人次 创历史新高",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727955.shtml",
-   "pub": "2026-11-07 16:56",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "中缅国际通道大瑞铁路大保段旅客发送量突破2000万人次",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727943.shtml",
-   "pub": "2026-11-07 16:45",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "《二十四节气保护传承蓝皮书》在重庆发布",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727938.shtml",
-   "pub": "2026-11-07 16:44",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "刑事诉讼法修改进程引热议：把“管住权力、保障权利”落到实处",
@@ -196,28 +358,10 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "河北保定一在建桥梁桥体脱落",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727926.shtml",
-   "pub": "2026-11-07 16:42",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "新加坡艺术家林子平特展在上海开幕",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727945.shtml",
-   "pub": "2026-11-07 16:39",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "郑建邦出席非洲国家议员研讨班开班式",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727946.shtml",
    "pub": "2026-11-07 16:38",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "华商学专题研讨会暨学术成果发布会举行",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727950.shtml",
-   "pub": "2026-11-07 16:37",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "韩正会见格鲁吉亚总理科巴希泽",
@@ -238,12 +382,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "四川民族手工业走进澳门 “一针一线”架起川澳文化交流桥梁",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727931.shtml",
-   "pub": "2026-11-07 16:35",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "中国—马来西亚国际高等研究院揭牌",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727920.shtml",
    "pub": "2026-11-07 16:34",
@@ -254,12 +392,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727904.shtml",
    "pub": "2026-11-07 16:32",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "近500场活动服务9.6万人次 民进重庆市委会推动社会服务品牌化",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
-   "pub": "2026-11-07 16:28",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "美国多名国会议员称将推动撤销不合理关税政策",
@@ -274,12 +406,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "弘扬崇军风尚 湖南选树一批最美退役军人与拥军人物",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727887.shtml",
-   "pub": "2026-11-07 16:20",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "锡伯族春英，“不知何时就学会了哈萨克语”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727893.shtml",
    "pub": "2026-11-07 16:17",
@@ -290,12 +416,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727933.shtml",
    "pub": "2026-11-07 16:15",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "第32号台风“查帕卡”生成 今年台风个数刷新21世纪以来最多纪录",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
-   "pub": "2026-11-07 16:05",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "两部门会商调度雨雪天气防范应对工作",
@@ -322,34 +442,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "黑龙江立冬节气后：降温幅度全年最大 雨雪交替登场",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727886.shtml",
-   "pub": "2026-11-07 15:37",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "半月三起官兵死亡事件、“战备饮用水”报价每瓶120元新台币……台军方还有多少荒唐事？",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727895.shtml",
    "pub": "2026-11-07 15:35",
    "source": "中国新闻网·国内"
   },
   {
-   "title": "敦格铁路与青藏铁路唯一交会车站完成动车组实车进站试验",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727885.shtml",
-   "pub": "2026-11-07 15:35",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国内首个科技法学院在雄安新区成立",
    "link": "https://news.cctv.com/2026/11/07/ARTItUzrnYdXOVp329BzU7Y7261107.shtml",
    "pub": "2026-11-07 15:26",
    "source": "央视网"
-  },
-  {
-   "title": "河北保定通报桥体脱落事故：4人受伤 其中2名施工人员伤势较重",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727892.shtml",
-   "pub": "2026-11-07 15:24",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "新物种+1！全新蛙类海南趾沟蛙被发现",
@@ -362,36 +464,6 @@
    "link": "https://news.cctv.com/2026/11/07/ARTIiiLsIzdExuQqSPmJlWlB261107.shtml",
    "pub": "2026-11-07 15:17",
    "source": "央视网"
-  },
-  {
-   "title": "“2026·大历史观视域下艺术资源的传承与发展”研讨会在京举办",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727882.shtml",
-   "pub": "2026-11-07 14:37",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "世界知识产权组织：2025年中国PCT国际专利申请量位居世界第一",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727883.shtml",
-   "pub": "2026-11-07 14:36",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "拿下《舞蹈新风暴》总冠军后，罗昱文说“胜利的不是我”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727881.shtml",
-   "pub": "2026-11-07 14:36",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "黄河中游湿地生态蝶变 大天鹅等多种候鸟成常客",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727877.shtml",
-   "pub": "2026-11-07 14:22",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "顾客称外卖吃出头发申请仅退款，结果老板是光头，律师解读",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727879.shtml",
-   "pub": "2026-11-07 14:19",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
@@ -458,18 +530,6 @@
    "link": "https://news.cctv.com/2026/11/07/ARTI4Tf273YLn0DmsEXqKIjS261107.shtml",
    "pub": "2026-11-07 14:02",
    "source": "央视网"
-  },
-  {
-   "title": "“外卖诗人”王计兵携新作走进中国人民大学 分享烟火与诗意",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727850.shtml",
-   "pub": "2026-11-07 13:50",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "第十七届海峡两岸少儿美术大展在高雄办收官展",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727847.shtml",
-   "pub": "2026-11-07 13:48",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "交通运输部启动低温雨雪冰冻三级防御响应",
@@ -550,12 +610,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "从实验室到“蓝色粮仓”： 一颗紫海胆的海洋牧场协商路",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727827.shtml",
-   "pub": "2026-11-07 11:35",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "原青海省旅游发展委员会党组书记徐浩接受审查调查",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727821.shtml",
    "pub": "2026-11-07 11:34",
@@ -584,18 +638,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml",
    "pub": "2026-11-07 11:24",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "一箭四星 谷神星二号运载火箭复飞成功",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727811.shtml",
-   "pub": "2026-11-07 11:19",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "澳大利亚青年“以舟会友”：遇见一个“酷中国”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727808.shtml",
-   "pub": "2026-11-07 11:17",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "市场监管总局：前三季度广告业头部企事业单位收入同比增长8.5%",
@@ -704,12 +746,6 @@
    "link": "https://news.cctv.com/2026/11/07/ARTIkVwgu5vdh9Ey3JyPaSSW261107.shtml",
    "pub": "2026-11-07 10:14",
    "source": "央视网"
-  },
-  {
-   "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
-   "pub": "2026-11-07 10:13",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "中国空间站将迎来首位外籍航天员",
@@ -986,6 +1022,12 @@
    "link": "https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml",
    "pub": "2026-11-07 06:31",
    "source": "央视网"
+  },
+  {
+   "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727729.shtml",
+   "pub": "2026-11-07 06:17",
+   "source": "中国新闻网·国际"
   }
  ],
  "ai": [
