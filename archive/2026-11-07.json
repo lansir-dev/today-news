@@ -1,8 +1,38 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 20:05",
+ "fetched": "2026-11-07 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "台风“查帕卡”强度逐渐加强 未来对我国海区无影响",
+   "link": "https://news.cctv.com/2026/11/07/ARTID9RPV7ktkhq7Sf9rLs4G261107.shtml",
+   "pub": "2026-11-07 20:23",
+   "source": "央视网"
+  },
+  {
+   "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+   "link": "https://news.cctv.com/2026/11/07/ARTItJ63TMAm6nN8xrZtdRe5261107.shtml",
+   "pub": "2026-11-07 20:16",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面",
+   "link": "https://news.cctv.com/2026/11/07/ARTIAL40MLvzH7lYOW5cjpDK261107.shtml",
+   "pub": "2026-11-07 20:14",
+   "source": "央视网"
+  },
+  {
+   "title": "第一观察｜总书记投下庄严一票，率先垂范践行民主",
+   "link": "https://news.cctv.com/2026/11/07/ARTIqwZ31MZ6LjbNmvG9mn9O261107.shtml",
+   "pub": "2026-11-07 20:14",
+   "source": "央视网"
+  },
+  {
+   "title": "新疆阿克苏地区库车市发生3.0级地震，震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/07/ARTIHkYBXjHHClZeVGwc6Cd3261107.shtml",
+   "pub": "2026-11-07 20:02",
+   "source": "央视网"
+  },
   {
    "title": "男子被雇主扇9次耳光后急性脑梗死，昏迷14个月后离世 雇主被判担责七成赔84万余元",
    "link": "https://news.cctv.com/2026/11/07/ARTIFc3fjbpsahYoD9WIB1Pw261107.shtml",
