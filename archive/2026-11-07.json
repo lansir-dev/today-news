@@ -1,8 +1,104 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 17:35",
+ "fetched": "2026-11-07 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728011.shtml",
+   "pub": "2026-11-07 18:30",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "多国学者：中国式现代化拓展现代化道路选择",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727998.shtml",
+   "pub": "2026-11-07 18:29",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "驻冲绳美军决定将宵禁措施延长一个月",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728010.shtml",
+   "pub": "2026-11-07 18:28",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "梅汝璈后人回望东京审判：“青年应了解国家走过的历史”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727996.shtml",
+   "pub": "2026-11-07 18:26",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中使馆驳斥荷兰网络安全部门有关报告涉华内容",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727990.shtml",
+   "pub": "2026-11-07 18:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "内蒙古冬季旅游活动在“中国冷极”根河市启动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727995.shtml",
+   "pub": "2026-11-07 18:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "菲律宾“中国大使教育基金”颁奖仪式在马尼拉举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727986.shtml",
+   "pub": "2026-11-07 18:23",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "百余中希学者齐聚河南 共探以古典德性智慧回应时代课题",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727994.shtml",
+   "pub": "2026-11-07 18:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“字汇中西，文明互鉴”汉字创意与摄影展在伦敦揭幕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727983.shtml",
+   "pub": "2026-11-07 18:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2026年APEC区域经济合作展望论坛在吉隆坡举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727968.shtml",
+   "pub": "2026-11-07 18:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "暴雪黄色预警持续！8省份有大到暴雪，局地特大暴雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727993.shtml",
+   "pub": "2026-11-07 18:09",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "大风+暴雨+寒潮+暴雪 多预警齐发 请注意防范！",
+   "link": "https://news.cctv.com/2026/11/07/ARTIFxdg3xX2gD5I4krlYHe0261107.shtml",
+   "pub": "2026-11-07 18:08",
+   "source": "央视网"
+  },
+  {
+   "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在山东宣讲",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727979.shtml",
+   "pub": "2026-11-07 18:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "湖南凤凰县一悬崖瀑布遭倾倒垃圾 官方：湘西州组建调查组进驻调查",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727987.shtml",
+   "pub": "2026-11-07 17:46",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727981.shtml",
+   "pub": "2026-11-07 17:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "北大湖开启新雪季试滑 长春大冬会赛场迎来实战检验",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727970.shtml",
+   "pub": "2026-11-07 17:26",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "APEC深圳之约 | 从“货通天下”迈向“智联全球” 多维度透视订单里的亚太合作",
    "link": "https://news.cctv.com/2026/11/07/ARTIYIBgbDICuK8U534RbQFG261107.shtml",
@@ -170,6 +266,12 @@
    "link": "https://news.cctv.com/2026/11/07/ARTIC0XvmyJMzi7EAQFJyQPH261107.shtml",
    "pub": "2026-11-07 16:24",
    "source": "央视网"
+  },
+  {
+   "title": "中国央行黄金储备“24连增”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727898.shtml",
+   "pub": "2026-11-07 16:21",
+   "source": "中国新闻网"
   },
   {
    "title": "弘扬崇军风尚 湖南选树一批最美退役军人与拥军人物",
@@ -382,36 +484,6 @@
    "source": "央视网"
   },
   {
-   "title": "数字化保护中的权利边界与文化延续——读《非物质文化遗产的数字化保护及其与知识产权保护的冲突与协调》",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727860.shtml",
-   "pub": "2026-11-07 13:25",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "“纪念杨匏安烈士诞辰130周年系列活动”在广州启动",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727856.shtml",
-   "pub": "2026-11-07 13:13",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "古城幕布后的皮影守灯人",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727846.shtml",
-   "pub": "2026-11-07 13:13",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "《宝岛一村》登陆哈尔滨大剧院",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727838.shtml",
-   "pub": "2026-11-07 13:12",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "2026全球航空医疗救援大会在广州召开",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727835.shtml",
-   "pub": "2026-11-07 13:06",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "聚焦协定履约相关议题 BBNJ科学与治理国际研讨会在厦门举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727834.shtml",
    "pub": "2026-11-07 13:02",
@@ -469,6 +541,12 @@
    "title": "中国驻墨尔本总领馆通报一名中国公民遇害",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727774.shtml",
    "pub": "2026-11-07 11:53",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "（寻味中华｜节令）立冬开缸酸香起 黑土大棚绿满畦",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727770.shtml",
+   "pub": "2026-11-07 11:38",
    "source": "中国新闻网"
   },
   {
@@ -706,12 +784,6 @@
    "source": "央视网"
   },
   {
-   "title": "中国第43次南极考察队出征",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml",
-   "pub": "2026-11-07 09:39",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "商务部新闻发言人就美制裁中国企业答记者问",
    "link": "https://news.cctv.com/2026/11/07/ARTIGvlDUuJGfUmpxeM1aocy261107.shtml",
    "pub": "2026-11-07 09:33",
@@ -722,12 +794,6 @@
    "link": "https://news.cctv.com/2026/11/07/ARTII0CfljwwOzYU6KLHKZmU261107.shtml",
    "pub": "2026-11-07 09:28",
    "source": "央视网"
-  },
-  {
-   "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
-   "pub": "2026-11-07 09:21",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "北京市多区发布道路结冰黄色预警",
@@ -924,6 +990,13 @@
  ],
  "ai": [
   {
+   "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+   "link": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
+   "meta": "IT之家·人工智能 · 发布于 11-07 17:16 · 行业",
+   "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
+   "origin": "https://www.ithome.com/1/023/765.htm"
+  },
+  {
    "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
    "link": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
    "meta": "Artificial Analysis · 发布于 11-07 07:40 · 模型",
@@ -971,13 +1044,6 @@
    "meta": "OpenClaw：Blog · 发布于 11-06 08:00 · 教程",
    "summary": "OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不再等客户端发版。现在从三处取模型列表：每 4 小时重建的 catalog.openclaw.ai 目录（约 1000 个模型）、账号可用的模型列表，以及 PATH 上已安装的 Codex（需同主版本且握手通过，否则回退内置版本）。",
    "origin": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update"
-  },
-  {
-   "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
-   "link": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
-   "meta": "OpenRouter：Announcements · 发布于 11-06 08:00 · 产品",
-   "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
-   "origin": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
   }
  ]
 }
