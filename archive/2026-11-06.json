@@ -1,6 +1,6 @@
 {
  "day": "2026-11-06",
- "fetched": "2026-11-07 17:35",
+ "fetched": "2026-11-07 18:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1380,6 +1380,13 @@
  ],
  "ai": [
   {
+   "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+   "link": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
+   "meta": "IT之家·人工智能 · 发布于 11-07 17:16 · 行业",
+   "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
+   "origin": "https://www.ithome.com/1/023/765.htm"
+  },
+  {
    "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
    "link": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
    "meta": "Artificial Analysis · 发布于 11-07 07:40 · 模型",
@@ -1427,13 +1434,6 @@
    "meta": "OpenClaw：Blog · 发布于 11-06 08:00 · 教程",
    "summary": "OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不再等客户端发版。现在从三处取模型列表：每 4 小时重建的 catalog.openclaw.ai 目录（约 1000 个模型）、账号可用的模型列表，以及 PATH 上已安装的 Codex（需同主版本且握手通过，否则回退内置版本）。",
    "origin": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update"
-  },
-  {
-   "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
-   "link": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
-   "meta": "OpenRouter：Announcements · 发布于 11-06 08:00 · 产品",
-   "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
-   "origin": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
   }
  ]
 }
