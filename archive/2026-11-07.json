@@ -1,8 +1,74 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 17:05",
- "note": "今日抓取",
+ "fetched": "2026-11-07 17:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "APEC深圳之约 | 从“货通天下”迈向“智联全球” 多维度透视订单里的亚太合作",
+   "link": "https://news.cctv.com/2026/11/07/ARTIYIBgbDICuK8U534RbQFG261107.shtml",
+   "pub": "2026-11-07 17:22",
+   "source": "央视网"
+  },
+  {
+   "title": "云南石林彝族自治县举行成立70周年庆祝大会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727969.shtml",
+   "pub": "2026-11-07 17:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "全球CEO看进博 | 中国医疗实践转化为具有全球示范意义的创新样板",
+   "link": "https://news.cctv.com/2026/11/07/ARTIg0ZlCtKMDjGRGsBYlaiS261107.shtml",
+   "pub": "2026-11-07 17:20",
+   "source": "央视网"
+  },
+  {
+   "title": "从一杯猫屎咖啡到一碗面条 各色美食奔赴中国市场",
+   "link": "https://news.cctv.com/2026/11/07/ARTIeasaVlvNmVNvcTNNiaaj261107.shtml",
+   "pub": "2026-11-07 17:20",
+   "source": "央视网"
+  },
+  {
+   "title": "跨国企业将中国作为创新策源地 由中国首发引领全球消费",
+   "link": "https://news.cctv.com/2026/11/07/ARTIwAO27lzsxS1MZDS393MD261107.shtml",
+   "pub": "2026-11-07 17:20",
+   "source": "央视网"
+  },
+  {
+   "title": "南非樱桃、缅甸香蕉、荷兰苹果……从“稀客”到“寻常” 百姓“果篮子”花样翻新",
+   "link": "https://news.cctv.com/2026/11/07/ARTIGRZ005Q569VvhAFZF8nn261107.shtml",
+   "pub": "2026-11-07 17:18",
+   "source": "央视网"
+  },
+  {
+   "title": "第七届世界媒体峰会在北京举办 李书磊出席开幕式并发表主旨演讲",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727967.shtml",
+   "pub": "2026-11-07 17:17",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "印尼杜科诺火山再喷发 火山灰柱高约2000米",
+   "link": "https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml",
+   "pub": "2026-11-07 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "中国科普作家协会发布2026年度十大科普热词 人工智能相关占据七席",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727962.shtml",
+   "pub": "2026-11-07 17:05",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "太极拳传承实践展演在重庆举行 600名爱好者共展非遗之美",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727961.shtml",
+   "pub": "2026-11-07 17:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "无人机海上着舰有多难？详解“攻击-21”着舰四川舰全流程",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727958.shtml",
+   "pub": "2026-11-07 17:02",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "全国7481名长城保护员将获巡护装备包",
    "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727960.shtml",
@@ -358,18 +424,6 @@
    "source": "央视网"
   },
   {
-   "title": "“玉”见8000年 辽宁有“石”力",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727855.shtml",
-   "pub": "2026-11-07 12:54",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "“所有人采访所有人”，人们想听什么",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727854.shtml",
-   "pub": "2026-11-07 12:47",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "中国驻杜塞尔多夫总领馆举行2026年度国家留学基金委奖学金颁奖仪式",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727840.shtml",
    "pub": "2026-11-07 12:37",
@@ -574,16 +628,16 @@
    "source": "央视网"
   },
   {
-   "title": "中国空间站将迎来首位外籍航天员",
-   "link": "https://people.cctv.com/2026/11/07/ARTID1kvQ9a4rEZTfZgpCPc6261107.shtml",
-   "pub": "2026-11-07 10:13",
-   "source": "央视网"
-  },
-  {
    "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
    "pub": "2026-11-07 10:13",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国空间站将迎来首位外籍航天员",
+   "link": "https://people.cctv.com/2026/11/07/ARTID1kvQ9a4rEZTfZgpCPc6261107.shtml",
+   "pub": "2026-11-07 10:13",
+   "source": "央视网"
   },
   {
    "title": "从“十五五”专项规划看以金融服务发展大局",
@@ -676,12 +730,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727748.shtml",
-   "pub": "2026-11-07 09:20",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "北京市多区发布道路结冰黄色预警",
    "link": "https://news.cctv.com/2026/11/07/ARTIN8Zo1f8EPK3gje7ojDfg261107.shtml",
    "pub": "2026-11-07 09:11",
@@ -706,16 +754,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
-   "link": "https://news.cctv.com/2026/11/07/ARTIbrZJ15FRvGIXRhsAhYSL261107.shtml",
-   "pub": "2026-11-07 08:54",
-   "source": "央视网"
-  },
-  {
    "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
    "pub": "2026-11-07 08:54",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbrZJ15FRvGIXRhsAhYSL261107.shtml",
+   "pub": "2026-11-07 08:54",
+   "source": "央视网"
   },
   {
    "title": "又到体检高峰期 检什么？怎么检？",
