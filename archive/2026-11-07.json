@@ -1,8 +1,62 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 20:35",
+ "fetched": "2026-11-07 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "糖往心里聚，人往一处聚，才甜",
+   "link": "https://news.cctv.com/2026/11/07/ARTIarLOhGJwSpW51QK4R3R8261107.shtml",
+   "pub": "2026-11-07 21:01",
+   "source": "央视网"
+  },
+  {
+   "title": "人民锐评：零和博弈为何没市场？三场“东方之约”有答案",
+   "link": "https://news.cctv.com/2026/11/07/ARTIA4GlqJCRZUB1lZOcXAcZ261107.shtml",
+   "pub": "2026-11-07 20:55",
+   "source": "央视网"
+  },
+  {
+   "title": "不惧风雨 向险而行——应急管理系统先进模范和消防忠诚卫士群像扫描",
+   "link": "https://news.cctv.com/2026/11/07/ARTIKByy7RGEloJpHUNzH7a5261107.shtml",
+   "pub": "2026-11-07 20:54",
+   "source": "央视网"
+  },
+  {
+   "title": "华北迎大范围降雪 中东部降温明显",
+   "link": "https://news.cctv.com/2026/11/07/ARTIk4AhUNEig3cW5AmQL7WP261107.shtml",
+   "pub": "2026-11-07 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "【新闻特写】深耕中国 共享机遇",
+   "link": "https://news.cctv.com/2026/11/07/ARTIarySwCdnZr6g4479b0Ji261107.shtml",
+   "pub": "2026-11-07 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "【赓续长征精神 奋进复兴征程】河南：传承红色基因 绘就振兴新画卷",
+   "link": "https://news.cctv.com/2026/11/07/ARTI723rNH1ywVHP1PtwGVD8261107.shtml",
+   "pub": "2026-11-07 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "我国加快推进核能综合利用",
+   "link": "https://news.cctv.com/2026/11/07/ARTI1dVJPQhth1z9gSJcZWlP261107.shtml",
+   "pub": "2026-11-07 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "新一代通信网加快建设 筑牢高质量发展数字底座",
+   "link": "https://news.cctv.com/2026/11/07/ARTIUBE6RAKVyfGw1goH30li261107.shtml",
+   "pub": "2026-11-07 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "第七届世界媒体峰会在北京举办",
+   "link": "https://news.cctv.com/2026/11/07/ARTI8q1h3DsfvrkwN3wyge3S261107.shtml",
+   "pub": "2026-11-07 20:37",
+   "source": "央视网"
+  },
   {
    "title": "台风“查帕卡”强度逐渐加强 未来对我国海区无影响",
    "link": "https://news.cctv.com/2026/11/07/ARTID9RPV7ktkhq7Sf9rLs4G261107.shtml",
