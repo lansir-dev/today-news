@@ -1,0 +1,641 @@
+{
+ "day": "2026-11-07",
+ "fetched": "2026-11-07 11:35",
+ "note": "今日抓取",
+ "items": [
+  {
+   "title": "九年，一如既往！进博会里寻商机！外企对中国大市场信心十足",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbTu9NWYk1vZJjoevBfQh261107.shtml",
+   "pub": "2026-11-07 11:27",
+   "source": "央视网"
+  },
+  {
+   "title": "2.1亿吨、2000亿立方米……供暖季能源供应总体充足 群众温暖过冬有保障",
+   "link": "https://news.cctv.com/2026/11/07/ARTIGtDxUcBP6Okk2J1TBeVl261107.shtml",
+   "pub": "2026-11-07 11:26",
+   "source": "央视网"
+  },
+  {
+   "title": "随时能将原粮变成货架上的米、面、油 “数”说粮食安全稳健底气",
+   "link": "https://news.cctv.com/2026/11/07/ARTIHvTq4MErTdCHkcrDhsip261107.shtml",
+   "pub": "2026-11-07 11:26",
+   "source": "央视网"
+  },
+  {
+   "title": "为修订“安保三文件” 日投入巨额宣传经费",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml",
+   "pub": "2026-11-07 11:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "暴雪黄色预警！辽宁河北等4省市部分地区有大暴雪 局地特大暴雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727815.shtml",
+   "pub": "2026-11-07 11:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727813.shtml",
+   "pub": "2026-11-07 11:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一箭四星 谷神星二号运载火箭复飞成功",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727811.shtml",
+   "pub": "2026-11-07 11:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“平平”“福双”亮相亚特兰大 中美大熊猫保护合作再续新篇",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727794.shtml",
+   "pub": "2026-11-07 11:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "市场监管总局：前三季度广告业头部企事业单位收入同比增长8.5%",
+   "link": "https://news.cctv.com/2026/11/07/ARTIL0lzHjWzfvP03JdNStW2261107.shtml",
+   "pub": "2026-11-07 11:11",
+   "source": "央视网"
+  },
+  {
+   "title": "第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727775.shtml",
+   "pub": "2026-11-07 11:00",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴拉圭总统遭弹劾  副总统宣誓接任",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727796.shtml",
+   "pub": "2026-11-07 10:58",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "新雪季“开板”热“雪”沸腾 “升级设施+优惠礼包”推升赏冰玩雪消费热潮",
+   "link": "https://news.cctv.com/2026/11/07/ARTIjQ3UPo9gI8gRPFmyfqOk261107.shtml",
+   "pub": "2026-11-07 10:52",
+   "source": "央视网"
+  },
+  {
+   "title": "从沉浸式秋收劳作到文博奇妙体验 多彩秋假带动跨省游需求集中释放",
+   "link": "https://news.cctv.com/2026/11/07/ARTI7ewAnAqOvOkZyYK7ahwq261107.shtml",
+   "pub": "2026-11-07 10:51",
+   "source": "央视网"
+  },
+  {
+   "title": "巴拉圭前总统遭弹劾后被软禁，数十名抗议者聚集其住所外",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727797.shtml",
+   "pub": "2026-11-07 10:45",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "暴雪黄色预警：辽宁西部、河北东北部局地有特大暴雪",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbyb9sph9oK6EyOOReAmX261107.shtml",
+   "pub": "2026-11-07 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "中国央行连续第24个月增持黄金",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbmF6zUwFcdX53Uhs71JM261107.shtml",
+   "pub": "2026-11-07 10:37",
+   "source": "央视网"
+  },
+  {
+   "title": "国家外汇管理局：截至10月末，我国外汇储备规模为34052亿美元",
+   "link": "https://jingji.cctv.com/2026/11/07/ARTIfdjtuNwh64IbT4nahlSc261107.shtml",
+   "pub": "2026-11-07 10:36",
+   "source": "央视网"
+  },
+  {
+   "title": "四叶草观察·一杯咖啡的醇香正是中国制度型开放最生动的注脚",
+   "link": "https://news.cctv.com/2026/11/07/ARTIPSJCspiCqWkVujyINaet261107.shtml",
+   "pub": "2026-11-07 10:30",
+   "source": "央视网"
+  },
+  {
+   "title": "定了！外籍航天员将参加神舟二十四号载人飞行任务",
+   "link": "https://news.cctv.com/2026/11/07/ARTI9W32ljQsHNR3Rk4BD0yq261107.shtml",
+   "pub": "2026-11-07 10:30",
+   "source": "央视网"
+  },
+  {
+   "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbx6gyv9DGKFR0QdwVuye261107.shtml",
+   "pub": "2026-11-07 10:27",
+   "source": "央视网"
+  },
+  {
+   "title": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727773.shtml",
+   "pub": "2026-11-07 10:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "校馆弦歌｜一座千年书院，读懂湖南大学经世致用的百年新篇",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727790.shtml",
+   "pub": "2026-11-07 10:25",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "他们的“进博第一天”",
+   "link": "https://news.cctv.com/2026/11/07/ARTIuKdVQ7QbMI7ftp3e7Ayk261107.shtml",
+   "pub": "2026-11-07 10:23",
+   "source": "央视网"
+  },
+  {
+   "title": "共享开放红利 促进共同繁荣",
+   "link": "https://news.cctv.com/2026/11/07/ARTIXyVQ3YDFUSEtvvGwrYy1261107.shtml",
+   "pub": "2026-11-07 10:22",
+   "source": "央视网"
+  },
+  {
+   "title": "第九届进博会｜一批企业及机构续写第十届进博会之约",
+   "link": "https://news.cctv.com/2026/11/07/ARTI4HQ7q8H0rEKYx6szIQgk261107.shtml",
+   "pub": "2026-11-07 10:20",
+   "source": "央视网"
+  },
+  {
+   "title": "开源开放 共建共享",
+   "link": "https://news.cctv.com/2026/11/07/ARTIUXRmaIYRRmp19fwQmQPZ261107.shtml",
+   "pub": "2026-11-07 10:15",
+   "source": "央视网"
+  },
+  {
+   "title": "神舟二十四号载人飞行任务标识发布",
+   "link": "https://news.cctv.com/2026/11/07/ARTIocdNWB0x8WMAW3Xv0DVe261107.shtml",
+   "pub": "2026-11-07 10:15",
+   "source": "央视网"
+  },
+  {
+   "title": "今冬供暖季能源供应总体能够满足需求",
+   "link": "https://news.cctv.com/2026/11/07/ARTIkVwgu5vdh9Ey3JyPaSSW261107.shtml",
+   "pub": "2026-11-07 10:14",
+   "source": "央视网"
+  },
+  {
+   "title": "中国空间站将迎来首位外籍航天员",
+   "link": "https://people.cctv.com/2026/11/07/ARTID1kvQ9a4rEZTfZgpCPc6261107.shtml",
+   "pub": "2026-11-07 10:13",
+   "source": "央视网"
+  },
+  {
+   "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
+   "pub": "2026-11-07 10:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从“十五五”专项规划看以金融服务发展大局",
+   "link": "https://news.cctv.com/2026/11/07/ARTI2BIxzSqgp50xEFbguNRh261107.shtml",
+   "pub": "2026-11-07 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "深入学习贯彻党的二十届五中全会精神系列述评之六",
+   "link": "https://news.cctv.com/2026/11/07/ARTIX2xWMIKLCZQlNvRRYd2d261107.shtml",
+   "pub": "2026-11-07 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年中国金鸡百花电影节开幕",
+   "link": "https://news.cctv.com/2026/11/07/ARTI0sFc6L9m555WOjpKudJa261107.shtml",
+   "pub": "2026-11-07 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "夏季“超长待机”、冷空气“一步到位”，如何“跟上”季节变化节奏？ | 梳理↓",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727785.shtml",
+   "pub": "2026-11-07 10:11",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "万芾“花鸟世界”中的二十四节气：立冬",
+   "link": "https://news.cctv.com/2026/11/07/ARTIkMFLpC7ma5pQy1frOzLG261107.shtml",
+   "pub": "2026-11-07 10:05",
+   "source": "央视网"
+  },
+  {
+   "title": "内蒙古赤峰：初冬梯田美如画",
+   "link": "https://photo.cctv.com/2026/11/07/PHOALYOnspyaLzCys9mIcGAG261107.shtml",
+   "pub": "2026-11-07 09:57",
+   "source": "央视网"
+  },
+  {
+   "title": "济南趵突泉金秋菊展进入最佳观赏期",
+   "link": "https://photo.cctv.com/2026/11/07/PHOAt4au0t8jEPrK8jdOt6uf261107.shtml",
+   "pub": "2026-11-07 09:56",
+   "source": "央视网"
+  },
+  {
+   "title": "在这里，率先触摸美好未来",
+   "link": "https://news.cctv.com/2026/11/07/ARTID4z92iPZz16UGlWmTopi261107.shtml",
+   "pub": "2026-11-07 09:54",
+   "source": "央视网"
+  },
+  {
+   "title": "广西首次记录孑遗植物水青树古树",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727772.shtml",
+   "pub": "2026-11-07 09:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一见·见证全过程人民民主的庄严一票",
+   "link": "https://news.cctv.com/2026/11/07/ARTI6AOzRxdM6vw7h4KzpLTs261107.shtml",
+   "pub": "2026-11-07 09:53",
+   "source": "央视网"
+  },
+  {
+   "title": "第二艘国产大型邮轮“爱达·花城号”在上海正式交付",
+   "link": "https://photo.cctv.com/2026/11/07/PHOA6iqXJ052htO4bHPk6Ic7261107.shtml",
+   "pub": "2026-11-07 09:53",
+   "source": "央视网"
+  },
+  {
+   "title": "山西洪洞：汾河国家湿地公园迎来首批越冬大天鹅",
+   "link": "https://photo.cctv.com/2026/11/07/PHOAZxdZBy1ZWOgCvy9om3qJ261107.shtml",
+   "pub": "2026-11-07 09:50",
+   "source": "央视网"
+  },
+  {
+   "title": "美国悬赏最高2000万美元征集伊朗核计划情报",
+   "link": "https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml",
+   "pub": "2026-11-07 09:47",
+   "source": "央视网"
+  },
+  {
+   "title": "寒气徐徐至 温食补冬安！解锁全国南北冬补美食地图",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727769.shtml",
+   "pub": "2026-11-07 09:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国第43次南极考察队出征",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml",
+   "pub": "2026-11-07 09:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "两个月内“流产”8次？伪造病历骗生育金被判刑",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727766.shtml",
+   "pub": "2026-11-07 09:38",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "多家车企紧急辟谣 警惕“召回理赔”诈骗",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727765.shtml",
+   "pub": "2026-11-07 09:35",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "商务部新闻发言人就美制裁中国企业答记者问",
+   "link": "https://news.cctv.com/2026/11/07/ARTIGvlDUuJGfUmpxeM1aocy261107.shtml",
+   "pub": "2026-11-07 09:33",
+   "source": "央视网"
+  },
+  {
+   "title": "北京今日开始供热系统试运行 夜间阴有雨夹雪或雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727764.shtml",
+   "pub": "2026-11-07 09:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "网红糖葫芦名字长达36字！好吃但不能贪多哦",
+   "link": "https://news.cctv.com/2026/11/07/ARTII0CfljwwOzYU6KLHKZmU261107.shtml",
+   "pub": "2026-11-07 09:28",
+   "source": "央视网"
+  },
+  {
+   "title": "中国第43次南极考察队起航仪式在三亚举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727762.shtml",
+   "pub": "2026-11-07 09:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
+   "pub": "2026-11-07 09:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727748.shtml",
+   "pub": "2026-11-07 09:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "首套、首条、首台！本周我国多项硬核成果上新",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727759.shtml",
+   "pub": "2026-11-07 09:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "北京市多区发布道路结冰黄色预警",
+   "link": "https://news.cctv.com/2026/11/07/ARTIN8Zo1f8EPK3gje7ojDfg261107.shtml",
+   "pub": "2026-11-07 09:11",
+   "source": "央视网"
+  },
+  {
+   "title": "解锁多彩假期 山东多地中小学生迎来首个秋假",
+   "link": "https://news.cctv.com/2026/11/07/ARTIAz8eNqiGDkuKDci8Hwag261107.shtml",
+   "pub": "2026-11-07 09:09",
+   "source": "央视网"
+  },
+  {
+   "title": "我驻墨尔本总领馆通报一名中国公民遇害",
+   "link": "https://news.cctv.com/2026/11/07/ARTIk10ZdQ9Q9GpiTO76lZGz261107.shtml",
+   "pub": "2026-11-07 09:09",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
+   "pub": "2026-11-07 09:07",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727749.shtml",
+   "pub": "2026-11-07 09:03",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+   "link": "https://news.cctv.com/2026/11/07/ARTIbrZJ15FRvGIXRhsAhYSL261107.shtml",
+   "pub": "2026-11-07 08:54",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
+   "pub": "2026-11-07 08:54",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中央气象台：中东部地区将有大范围雨雪降温天气",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727751.shtml",
+   "pub": "2026-11-07 08:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "节气物候图鉴：立冬寒意渐深 全国水始冰分布地图看哪里薄冰初现",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727752.shtml",
+   "pub": "2026-11-07 08:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "又到体检高峰期 检什么？怎么检？",
+   "link": "https://news.cctv.com/2026/11/07/ARTIqZEC69S4MM0ZUxiFHvb9261107.shtml",
+   "pub": "2026-11-07 08:41",
+   "source": "央视网"
+  },
+  {
+   "title": "全球首台4000米级浮空风电系统城市首飞",
+   "link": "https://news.cctv.com/2026/11/07/ARTILxbgZXtH6RpocNwyoCqE261107.shtml",
+   "pub": "2026-11-07 08:37",
+   "source": "央视网"
+  },
+  {
+   "title": "谷神星二号遥三运载火箭发射成功",
+   "link": "https://news.cctv.com/2026/11/07/ARTIuhMQGqWTOJ6JukjrhGBy261107.shtml",
+   "pub": "2026-11-07 08:34",
+   "source": "央视网"
+  },
+  {
+   "title": "第九届中国非物质文化遗产博览会在重庆开幕",
+   "link": "https://news.cctv.com/2026/11/07/ARTIGOI79wlE35UhfJ6YFWnY261107.shtml",
+   "pub": "2026-11-07 08:30",
+   "source": "央视网"
+  },
+  {
+   "title": "AI时代职场人的心理健康需要更多支持系统",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727743.shtml",
+   "pub": "2026-11-07 08:07",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727742.shtml",
+   "pub": "2026-11-07 08:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "【8点见】警方通报：致3死2伤案嫌疑人自杀身亡",
+   "link": "https://news.cctv.com/2026/11/07/ARTILnhaR6gWO4TIRTQvo2fB261107.shtml",
+   "pub": "2026-11-07 08:00",
+   "source": "央视网"
+  },
+  {
+   "title": "10月中国电商物流需求平稳 物流供给保障有力",
+   "link": "https://news.cctv.com/2026/11/07/ARTIJgk5NF7nIzuTgidz6sZv261107.shtml",
+   "pub": "2026-11-07 07:48",
+   "source": "央视网"
+  },
+  {
+   "title": "自私的邻居",
+   "link": "https://news.cctv.com/2026/11/07/ARTIkBRyl16OR3i6xYQkWXY0261107.shtml",
+   "pub": "2026-11-07 07:48",
+   "source": "央视网"
+  },
+  {
+   "title": "美国10月非农就业新增16.5万 失业率4.1%",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
+   "pub": "2026-11-07 07:46",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "功能花哨操作复杂 家电“伪智能”如何破局",
+   "link": "https://news.cctv.com/2026/11/07/ARTIQOOmJSCdZgcVeIefdptf261107.shtml",
+   "pub": "2026-11-07 07:44",
+   "source": "央视网"
+  },
+  {
+   "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
+   "pub": "2026-11-07 07:43",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "体检影像检查辐射会危害身体健康吗？这些误区要分清",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727740.shtml",
+   "pub": "2026-11-07 07:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "坚定信心接续奋斗 在新征程上创造新的历史伟业（学习贯彻党的二十届五中全会精神）",
+   "link": "https://news.cctv.com/2026/11/07/ARTI6oB2P7Om4NkPscOJduJG261107.shtml",
+   "pub": "2026-11-07 07:39",
+   "source": "央视网"
+  },
+  {
+   "title": "“十五五”时期 我国用电需求每年新增3个上海市用电量",
+   "link": "https://news.cctv.com/2026/11/07/ARTIQCeS1TG5XdPNKh8RQfez261107.shtml",
+   "pub": "2026-11-07 07:29",
+   "source": "央视网"
+  },
+  {
+   "title": "筑牢安全底座 推动高质量发展",
+   "link": "https://news.cctv.com/2026/11/07/ARTIiA7gnjtnzSCyK1DwgQ5G261107.shtml",
+   "pub": "2026-11-07 07:25",
+   "source": "央视网"
+  },
+  {
+   "title": "三方面举措推动中国饭碗主要装中国粮",
+   "link": "https://news.cctv.com/2026/11/07/ARTI3lIme8y4tyUEMnF6KYmf261107.shtml",
+   "pub": "2026-11-07 07:25",
+   "source": "央视网"
+  },
+  {
+   "title": "新西兰议会选举开始正式投票",
+   "link": "https://news.cctv.com/2026/11/07/ARTIDR8BgoFWfacEKaJRn22J261107.shtml",
+   "pub": "2026-11-07 07:13",
+   "source": "央视网"
+  },
+  {
+   "title": "希腊、塞浦路斯拟在东地中海开展电力项目 土耳其提出异议",
+   "link": "https://news.cctv.com/2026/11/07/ARTIccWz3GLknbpJBwZmOqxA261107.shtml",
+   "pub": "2026-11-07 07:10",
+   "source": "央视网"
+  },
+  {
+   "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
+   "link": "https://news.cctv.com/2026/11/07/ARTIX0UIEibAvLz9LzrL1Z1U261107.shtml",
+   "pub": "2026-11-07 07:09",
+   "source": "央视网"
+  },
+  {
+   "title": "中国空间站制备出宇宙中已知最冷物质",
+   "link": "https://news.cctv.com/2026/11/07/ARTIDsUGsRt9cMM0WMPze4A4261107.shtml",
+   "pub": "2026-11-07 07:09",
+   "source": "央视网"
+  },
+  {
+   "title": "网友自称“花260万元登顶珠峰”系谣言！",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
+   "pub": "2026-11-07 07:09",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“四叶草”里听见开放的声音",
+   "link": "https://news.cctv.com/2026/11/07/ARTIGlnk9LjBREEiMnRoVLUw261107.shtml",
+   "pub": "2026-11-07 07:03",
+   "source": "央视网"
+  },
+  {
+   "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+   "pub": "2026-11-07 06:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "特朗普称正在与伊朗进行沟通",
+   "link": "https://news.cctv.com/2026/11/07/ARTI2T0iTG6zIJVU9XJSgRkJ261107.shtml",
+   "pub": "2026-11-07 06:54",
+   "source": "央视网"
+  },
+  {
+   "title": "德国一小型飞机坠毁 机上2人遇难",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
+   "pub": "2026-11-07 06:42",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
+   "pub": "2026-11-07 06:41",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
+   "pub": "2026-11-07 06:40",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "美国宣布新一轮与伊朗相关的制裁措施",
+   "link": "https://news.cctv.com/2026/11/07/ARTIWXpt9tWaQc76xGztQHVh261107.shtml",
+   "pub": "2026-11-07 06:37",
+   "source": "央视网"
+  },
+  {
+   "title": "普京确认俄美乌三方会谈将于11月10日在阿布扎比举行",
+   "link": "https://news.cctv.com/2026/11/07/ARTIil3EoCXhY0saq0gUUBJp261107.shtml",
+   "pub": "2026-11-07 06:36",
+   "source": "央视网"
+  },
+  {
+   "title": "联合国机构：苏丹仍有超过1300万人流离失所",
+   "link": "https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml",
+   "pub": "2026-11-07 06:31",
+   "source": "央视网"
+  },
+  {
+   "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
+   "pub": "2026-11-07 06:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
+   "pub": "2026-11-07 00:05",
+   "source": "中国新闻网·国内"
+  }
+ ],
+ "ai": [
+  {
+   "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+   "link": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+   "meta": "Artificial Analysis · 发布于 11-07 07:40 · 模型",
+   "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
+   "origin": "https://x.com/ArtificialAnlys/status/2118851088111865983"
+  },
+  {
+   "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+   "link": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+   "meta": "Rohan Paul · 发布于 11-07 05:10 · 行业",
+   "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。",
+   "origin": "https://x.com/rohanpaul_ai/status/2118813225336873181"
+  },
+  {
+   "title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming",
+   "link": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+   "meta": "Anthropic：Research · 发布于 11-06 00:00 · 论文",
+   "summary": "Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。",
+   "origin": "https://www.anthropic.com/research/components-of-agent-memory"
+  },
+  {
+   "title": "Cursor 推出与智能体的实时语音聊天",
+   "link": "https://aihot.news/items/nzxzrjiqbmjkybz85mcylo2xo",
+   "meta": "Cursor：Changelog · 发布于 11-06 08:00 · 产品",
+   "summary": "Cursor 推出与智能体的实时语音聊天功能，可用语音提出更改、询问进展并听取智能体播报的简短进度。语音聊天支持智能体窗口、IDE、Web 端和 iOS，可搜索历史消息和通话、在多个 worker 间切换，iOS 上还支持“Hey Siri, call Cursor”发起通话。",
+   "origin": "https://cursor.com/changelog/voice-chat"
+  },
+  {
+   "title": "Amp 发布 spaces：由单个 Agent 自动生成和协调多线程的协作空间",
+   "link": "https://aihot.news/items/w59f8d3md3ct7dj9akyn599dz",
+   "meta": "Amp Chronicle · 发布于 11-06 08:00 · 产品",
+   "summary": "Amp 今日推出 spaces，一种与 Agent 和团队协作的新方式。每个 space 是与单个 Agent 的对话，由它负责为用户生成和协调其他 Agent 线程，无需自己创建和组织线程。",
+   "origin": "https://ampcode.com/news/spaces"
+  },
+  {
+   "title": "Meta 将基于 Muse Wonder 训练的专用模型上线 Muse 与 Meta AI",
+   "link": "https://aihot.news/items/fjuidf0zii7na78sxru5il7pr",
+   "meta": "Meta AI：Research Blog · 发布于 11-06 15:00 · 产品",
+   "summary": "Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI 用户，Personal Superintelligence Index 得分从 38% 提升到 47%。",
+   "origin": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai"
+  },
+  {
+   "title": "OpenClaw 无需更新即可使用新模型：改为三个模型列表来源",
+   "link": "https://aihot.news/items/b0ddwv6p8wgd0xlhcvvw4z36b",
+   "meta": "OpenClaw：Blog · 发布于 11-06 08:00 · 教程",
+   "summary": "OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不再等客户端发版。现在从三处取模型列表：每 4 小时重建的 catalog.openclaw.ai 目录（约 1000 个模型）、账号可用的模型列表，以及 PATH 上已安装的 Codex（需同主版本且握手通过，否则回退内置版本）。",
+   "origin": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update"
+  },
+  {
+   "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
+   "link": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
+   "meta": "OpenRouter：Announcements · 发布于 11-06 08:00 · 产品",
+   "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
+   "origin": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
+  }
+ ]
+}
