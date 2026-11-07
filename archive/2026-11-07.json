@@ -1,8 +1,44 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-07 13:05",
+ "fetched": "2026-11-07 13:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "IMF总裁：各国央行需考量AI驱动增长或放缓",
+   "link": "https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml",
+   "pub": "2026-11-07 13:30",
+   "source": "央视网"
+  },
+  {
+   "title": "数字化保护中的权利边界与文化延续——读《非物质文化遗产的数字化保护及其与知识产权保护的冲突与协调》",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727860.shtml",
+   "pub": "2026-11-07 13:25",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“纪念杨匏安烈士诞辰130周年系列活动”在广州启动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727856.shtml",
+   "pub": "2026-11-07 13:13",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "古城幕布后的皮影守灯人",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727846.shtml",
+   "pub": "2026-11-07 13:13",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "《宝岛一村》登陆哈尔滨大剧院",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727838.shtml",
+   "pub": "2026-11-07 13:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026全球航空医疗救援大会在广州召开",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727835.shtml",
+   "pub": "2026-11-07 13:06",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "聚焦协定履约相关议题 BBNJ科学与治理国际研讨会在厦门举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727834.shtml",
@@ -544,12 +580,6 @@
    "source": "央视网"
   },
   {
-   "title": "AI时代职场人的心理健康需要更多支持系统",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727743.shtml",
-   "pub": "2026-11-07 08:07",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "【8点见】警方通报：致3死2伤案嫌疑人自杀身亡",
    "link": "https://news.cctv.com/2026/11/07/ARTILnhaR6gWO4TIRTQvo2fB261107.shtml",
    "pub": "2026-11-07 08:00",
@@ -584,12 +614,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
    "pub": "2026-11-07 07:43",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "体检影像检查辐射会危害身体健康吗？这些误区要分清",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727740.shtml",
-   "pub": "2026-11-07 07:42",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "坚定信心接续奋斗 在新征程上创造新的历史伟业（学习贯彻党的二十届五中全会精神）",
@@ -640,22 +664,10 @@
    "source": "央视网"
   },
   {
-   "title": "网友自称“花260万元登顶珠峰”系谣言！",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
-   "pub": "2026-11-07 07:09",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "“四叶草”里听见开放的声音",
    "link": "https://news.cctv.com/2026/11/07/ARTIGlnk9LjBREEiMnRoVLUw261107.shtml",
    "pub": "2026-11-07 07:03",
    "source": "央视网"
-  },
-  {
-   "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
-   "pub": "2026-11-07 06:55",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "特朗普称正在与伊朗进行沟通",
@@ -698,12 +710,6 @@
    "link": "https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml",
    "pub": "2026-11-07 06:31",
    "source": "央视网"
-  },
-  {
-   "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
-   "pub": "2026-11-07 06:24",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
