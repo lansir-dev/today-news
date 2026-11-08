@@ -1,8 +1,80 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 20:35",
+ "fetched": "2026-11-08 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "寒潮蓝色预警：湖北安徽江苏等10省区局地气温降幅可超14℃",
+   "link": "https://news.cctv.com/2026/11/08/ARTISllIivx9J1RAVDWnQzmr261108.shtml",
+   "pub": "2026-11-08 20:55",
+   "source": "央视网"
+  },
+  {
+   "title": "雨雪降温天气影响北方多地",
+   "link": "https://news.cctv.com/2026/11/08/ARTIqvTQflbghjbc8oHhZXzk261108.shtml",
+   "pub": "2026-11-08 20:49",
+   "source": "央视网"
+  },
+  {
+   "title": "第九届进博会各项配套活动全面展开",
+   "link": "https://news.cctv.com/2026/11/08/ARTIU4POArIsw6uOD8zjSN1v261108.shtml",
+   "pub": "2026-11-08 20:48",
+   "source": "央视网"
+  },
+  {
+   "title": "全国收购秋粮超1亿吨",
+   "link": "https://news.cctv.com/2026/11/08/ARTI8s8sX6qEk0lSSMEAn8eg261108.shtml",
+   "pub": "2026-11-08 20:48",
+   "source": "央视网"
+  },
+  {
+   "title": "中央组织部负责人就党的二十一大代表选举工作答新华社记者问",
+   "link": "https://news.cctv.com/2026/11/08/ARTIE9ri28CpoHejygJCm4SA261108.shtml",
+   "pub": "2026-11-08 20:48",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/08/ARTIY50AcrSVZiuvnuE79TFf261108.shtml",
+   "pub": "2026-11-08 20:48",
+   "source": "央视网"
+  },
+  {
+   "title": "埃及发生火车脱轨事故 已致约50人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
+   "pub": "2026-11-08 20:46",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "新华社快讯：埃及发生列车脱轨事故致至少50人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
+   "pub": "2026-11-08 20:44",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728516.shtml",
+   "pub": "2026-11-08 20:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "没有一兵一卒，一支笔却“胜过百万兵”，他们是谁？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728528.shtml",
+   "pub": "2026-11-08 20:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "北京市向台生台青推介500余个就业实习机会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml",
+   "pub": "2026-11-08 20:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "2026年APEC领导人会议周新闻中心网站上线",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728521.shtml",
+   "pub": "2026-11-08 20:37",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "关注非博会｜舌尖上的非遗齐聚山城，邀你来尝“百味山河”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728505.shtml",
@@ -338,6 +410,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728357.shtml",
    "pub": "2026-11-08 15:27",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
+   "pub": "2026-11-08 15:23",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "国际锐评丨进博之约让世界共享开放红利",
@@ -920,6 +998,12 @@
    "link": "https://news.cctv.com/2026/11/08/ARTICrstwYSqMnnrErNvEM3o261108.shtml",
    "pub": "2026-11-08 07:02",
    "source": "央视网"
+  },
+  {
+   "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+   "pub": "2026-11-08 06:53",
+   "source": "中国新闻网"
   },
   {
    "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
