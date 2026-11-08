@@ -1,8 +1,14 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 21:05",
+ "fetched": "2026-11-08 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜记者调查：低俗擦边广告为何屡禁不止？",
+   "link": "https://news.cctv.com/2026/11/08/ARTIVf1oUhH1b7KXy71fAI1Z261108.shtml",
+   "pub": "2026-11-08 21:30",
+   "source": "央视网"
+  },
   {
    "title": "寒潮蓝色预警：湖北安徽江苏等10省区局地气温降幅可超14℃",
    "link": "https://news.cctv.com/2026/11/08/ARTISllIivx9J1RAVDWnQzmr261108.shtml",
