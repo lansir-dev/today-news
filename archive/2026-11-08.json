@@ -1,8 +1,32 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 22:05",
+ "fetched": "2026-11-08 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "巴西发生车辆坠湖事件 10人遇难",
+   "link": "https://news.cctv.com/2026/11/08/ARTITPTw3wJv9pl6Tvsf9VO4261108.shtml",
+   "pub": "2026-11-08 22:17",
+   "source": "央视网"
+  },
+  {
+   "title": "法国外长说欧洲将参加乌克兰危机阿布扎比会谈",
+   "link": "https://news.cctv.com/2026/11/08/ARTIVISQr3OATUi0UfA0CV3A261108.shtml",
+   "pub": "2026-11-08 22:12",
+   "source": "央视网"
+  },
+  {
+   "title": "埃及国家铁路局派遣重型设备及工程团队前往列车脱轨事故现场",
+   "link": "https://news.cctv.com/2026/11/08/ARTIqUXbvoAGNGC9HPQHyTYl261108.shtml",
+   "pub": "2026-11-08 22:08",
+   "source": "央视网"
+  },
+  {
+   "title": "埃及列车脱轨事故致司机死亡 64人受伤",
+   "link": "https://news.cctv.com/2026/11/08/ARTI0CNwRsrSkhQP6BbohYEj261108.shtml",
+   "pub": "2026-11-08 22:06",
+   "source": "央视网"
+  },
   {
    "title": "埃及列车脱轨事故致司机死亡",
    "link": "https://news.cctv.com/2026/11/08/ARTIemOBWISsDTbN9eBFeI5G261108.shtml",
