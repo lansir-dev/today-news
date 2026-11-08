@@ -1,8 +1,62 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 17:05",
+ "fetched": "2026-11-08 17:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "走进海拔4600米边防驻勤点 看保障体系持续完善、戍边条件不断改善",
+   "link": "https://news.cctv.com/2026/11/08/ARTIpZMoF5322t9mKRcMSGgh261108.shtml",
+   "pub": "2026-11-08 17:28",
+   "source": "央视网"
+  },
+  {
+   "title": "特稿｜中国微短剧在欧洲激起涟漪",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728419.shtml",
+   "pub": "2026-11-08 17:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "两场“星星相吸”天象将于11月10日、16日亮相",
+   "link": "https://news.cctv.com/2026/11/08/ARTI32mXUTyYWXyMHsbgOfS4261108.shtml",
+   "pub": "2026-11-08 17:17",
+   "source": "央视网"
+  },
+  {
+   "title": "非法窃取个人信息10亿余条 “开盒”者数罪并罚被严惩",
+   "link": "https://news.cctv.com/2026/11/08/ARTI2MImYWEGKO1fc9sH9lZu261108.shtml",
+   "pub": "2026-11-08 17:17",
+   "source": "央视网"
+  },
+  {
+   "title": "大熊猫“健健”“康康”平安抵达成都",
+   "link": "https://news.cctv.com/2026/11/08/ARTI97amIiafmYfm3iaU7ZxR261108.shtml",
+   "pub": "2026-11-08 17:17",
+   "source": "央视网"
+  },
+  {
+   "title": "众多跨国企业抢抓“十五五”新机遇 持续加大投资、深耕中国",
+   "link": "https://news.cctv.com/2026/11/08/ARTIJkfhitSyjQZ2PDSMOUTP261108.shtml",
+   "pub": "2026-11-08 17:16",
+   "source": "央视网"
+  },
+  {
+   "title": "日本大阪发生持刀伤人事件致1人受伤 嫌犯被捕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728417.shtml",
+   "pub": "2026-11-08 17:10",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "日本舆论称政府新版防卫战略引发国内外担忧",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728413.shtml",
+   "pub": "2026-11-08 17:07",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "日本民众呼吁日社会正视侵略历史 加强教育",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728409.shtml",
+   "pub": "2026-11-08 17:00",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728408.shtml",
@@ -403,7 +457,7 @@
    "title": "日本静冈县地震已致20余人受伤",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728274.shtml",
    "pub": "2026-11-08 10:59",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
@@ -667,7 +721,7 @@
    "title": "日本静冈县西部发生5.7级地震",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
    "pub": "2026-11-08 07:54",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "年轻人为何爱看“古人开演唱会”",
