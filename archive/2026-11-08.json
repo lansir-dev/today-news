@@ -1,8 +1,38 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 20:05",
- "note": "今日抓取",
+ "fetched": "2026-11-08 20:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "关注非博会｜舌尖上的非遗齐聚山城，邀你来尝“百味山河”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728505.shtml",
+   "pub": "2026-11-08 20:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】同心同行强根基 从严从实担使命",
+   "link": "https://news.cctv.com/2026/11/08/ARTIzlO1WEjBEDhsuElUYmqr261108.shtml",
+   "pub": "2026-11-08 20:10",
+   "source": "央视网"
+  },
+  {
+   "title": "专访｜“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728502.shtml",
+   "pub": "2026-11-08 20:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "第十三届“好记者讲好故事”优秀记者在京开讲",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728501.shtml",
+   "pub": "2026-11-08 20:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "山西太原一高层建筑发生火灾 明火已基本扑灭",
+   "link": "https://news.cctv.com/2026/11/08/ARTItLHavKpKlWZL60dZRxk9261108.shtml",
+   "pub": "2026-11-08 20:04",
+   "source": "央视网"
+  },
   {
    "title": "从“追顶流”到“追古流”，访古追迹成为时下热门——年轻人为何爱上“访古”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728500.shtml",
@@ -436,12 +466,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "“赏花+”激活美丽经济新动能 秋日美景成为带动文旅消费“新引擎”",
-   "link": "https://news.cctv.com/2026/11/08/ARTIl1R6zFvx0lzutIUDiimU261108.shtml",
-   "pub": "2026-11-08 13:33",
-   "source": "央视网"
-  },
-  {
    "title": "做强畜禽业“中国芯” 畜禽育种还要过几关？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728331.shtml",
    "pub": "2026-11-08 13:33",
@@ -454,9 +478,9 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "新疆巴音郭楞州若羌县发生3.4级地震 震源深度14千米",
-   "link": "https://news.cctv.com/2026/11/08/ARTIMv9QynLeXLUNyXNSeXmi261108.shtml",
-   "pub": "2026-11-08 13:32",
+   "title": "“赏花+”激活美丽经济新动能 秋日美景成为带动文旅消费“新引擎”",
+   "link": "https://news.cctv.com/2026/11/08/ARTIl1R6zFvx0lzutIUDiimU261108.shtml",
+   "pub": "2026-11-08 13:33",
    "source": "央视网"
   },
   {
@@ -464,6 +488,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728308.shtml",
    "pub": "2026-11-08 13:32",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "新疆巴音郭楞州若羌县发生3.4级地震 震源深度14千米",
+   "link": "https://news.cctv.com/2026/11/08/ARTIMv9QynLeXLUNyXNSeXmi261108.shtml",
+   "pub": "2026-11-08 13:32",
+   "source": "央视网"
   },
   {
    "title": "西藏那曲市双湖县发生3.3级地震 震源深度10千米",
@@ -478,6 +508,12 @@
    "source": "中国新闻网"
   },
   {
+   "title": "（第九届进博会）进博会上，全球合作社好物“组团”入华",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728305.shtml",
+   "pub": "2026-11-08 13:20",
+   "source": "中国新闻网"
+  },
+  {
    "title": "央视网评｜以严密组织体系打通政策落实的“最后一公里”",
    "link": "https://news.cctv.com/2026/11/08/ARTIPFn3Op5EUDZbgH8IKVe4261108.shtml",
    "pub": "2026-11-08 13:20",
@@ -488,18 +524,6 @@
    "link": "https://news.cctv.com/2026/11/08/ARTIAY7LCjOCS3EbDyQdR78n261108.shtml",
    "pub": "2026-11-08 13:20",
    "source": "央视网"
-  },
-  {
-   "title": "（第九届进博会）进博会上，全球合作社好物“组团”入华",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728305.shtml",
-   "pub": "2026-11-08 13:20",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "受大风影响 辽鲁省际、大连陆岛客运全线停航",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728306.shtml",
-   "pub": "2026-11-08 13:18",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "两岸“小三通”航线年度客运量创历史新高 多项服务举措便利民众出行",
@@ -556,16 +580,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "各地各部门以“雪”为令积极应对寒潮天气 “多点发力”保通保畅保安全",
-   "link": "https://news.cctv.com/2026/11/08/ARTInzOjU3BPCRL72SnhOAWn261108.shtml",
-   "pub": "2026-11-08 11:01",
-   "source": "央视网"
-  },
-  {
    "title": "波兰克拉科夫枪击事件已致6死 枪手家中另发现3具遗体",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728276.shtml",
    "pub": "2026-11-08 11:01",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "各地各部门以“雪”为令积极应对寒潮天气 “多点发力”保通保畅保安全",
+   "link": "https://news.cctv.com/2026/11/08/ARTInzOjU3BPCRL72SnhOAWn261108.shtml",
+   "pub": "2026-11-08 11:01",
+   "source": "央视网"
   },
   {
    "title": "日本静冈县地震已致20余人受伤",
