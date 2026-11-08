@@ -1,6 +1,6 @@
 {
  "day": "2026-11-07",
- "fetched": "2026-11-08 17:35",
+ "fetched": "2026-11-08 18:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1139,13 +1139,6 @@
    "meta": "The Decoder：AI News · 发布于 11-08 01:37 · 行业",
    "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
    "origin": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
-  },
-  {
-   "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
-   "link": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
-   "meta": "IT之家·人工智能 · 发布于 11-07 17:16 · 行业",
-   "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
-   "origin": "https://www.ithome.com/1/023/765.htm"
   }
  ]
 }

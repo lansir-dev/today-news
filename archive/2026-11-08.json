@@ -1,8 +1,26 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 17:35",
+ "fetched": "2026-11-08 18:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "阿勒泰市第三中学：以法润校 守护民族团结之花",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728424.shtml",
+   "pub": "2026-11-08 17:46",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "第九届进博会｜进博会上东非鲜切花探路中国",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728422.shtml",
+   "pub": "2026-11-08 17:39",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国挖掘机在海外卖爆了！什么情况？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728420.shtml",
+   "pub": "2026-11-08 17:31",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "走进海拔4600米边防驻勤点 看保障体系持续完善、戍边条件不断改善",
    "link": "https://news.cctv.com/2026/11/08/ARTIpZMoF5322t9mKRcMSGgh261108.shtml",
@@ -526,12 +544,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "人手一个全职管家的时代来了？",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728265.shtml",
-   "pub": "2026-11-08 10:36",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "神二十三乘组在轨日常Vlog“上新” 各项空间科学实（试）验持续开展",
    "link": "https://news.cctv.com/2026/11/08/ARTIfBIw3Bws4Bk0sj0gE43h261108.shtml",
    "pub": "2026-11-08 10:35",
@@ -845,13 +857,6 @@
    "meta": "The Decoder：AI News · 发布于 11-08 01:37 · 行业",
    "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
    "origin": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
-  },
-  {
-   "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
-   "link": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
-   "meta": "IT之家·人工智能 · 发布于 11-07 17:16 · 行业",
-   "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
-   "origin": "https://www.ithome.com/1/023/765.htm"
   }
  ]
 }
