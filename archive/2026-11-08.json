@@ -1,13 +1,43 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 14:35",
+ "fetched": "2026-11-08 15:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "综述｜从亲历到读懂：国际媒体人士共话真实中国",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728352.shtml",
+   "pub": "2026-11-08 15:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728351.shtml",
+   "pub": "2026-11-08 14:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "多地向市民赠花，最大化利用节日景观撤展花卉",
+   "link": "https://news.cctv.com/2026/11/08/ARTIQjGpxKjspWWI3a9iHeqk261108.shtml",
+   "pub": "2026-11-08 14:34",
+   "source": "央视网"
+  },
+  {
+   "title": "一场特别的“相聚” 两艘国产大型邮轮在沪同框",
+   "link": "https://news.cctv.com/2026/11/08/ARTIOdXznNcoPMkdSYF6T0l6261108.shtml",
+   "pub": "2026-11-08 14:34",
+   "source": "央视网"
+  },
   {
    "title": "西渝高铁北碚天府嘉陵江特大桥顺利合龙",
    "link": "https://news.cctv.com/2026/11/08/ARTIukhgAdsIGwsbGGAH84qr261108.shtml",
    "pub": "2026-11-08 14:33",
    "source": "央视网"
+  },
+  {
+   "title": "住宅楼起火如何正确逃生？2个避险误区要警惕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728344.shtml",
+   "pub": "2026-11-08 14:30",
+   "source": "中国新闻网"
   },
   {
    "title": "全国119消防奖先进个人阳剑华：一只“蓝色背包”把安全背进村里",
@@ -70,6 +100,12 @@
    "source": "央视网"
   },
   {
+   "title": "做强畜禽业“中国芯” 畜禽育种还要过几关？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728331.shtml",
+   "pub": "2026-11-08 13:33",
+   "source": "中国新闻网"
+  },
+  {
    "title": "（八闽千姿）漳州天一总局焕新颜 百年民间邮局人气高涨",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728309.shtml",
    "pub": "2026-11-08 13:33",
@@ -97,7 +133,7 @@
    "title": "睡觉时突然爆炸！看完赶紧拔掉床头的充电宝",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728313.shtml",
    "pub": "2026-11-08 13:27",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "央视网评｜以严密组织体系打通政策落实的“最后一公里”",
@@ -110,6 +146,12 @@
    "link": "https://news.cctv.com/2026/11/08/ARTIAY7LCjOCS3EbDyQdR78n261108.shtml",
    "pub": "2026-11-08 13:20",
    "source": "央视网"
+  },
+  {
+   "title": "（第九届进博会）进博会上，全球合作社好物“组团”入华",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728305.shtml",
+   "pub": "2026-11-08 13:20",
+   "source": "中国新闻网"
   },
   {
    "title": "受大风影响 辽鲁省际、大连陆岛客运全线停航",
@@ -217,7 +259,7 @@
    "title": "评论：台企“回流”大陆印证产供链深度嵌合",
    "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728278.shtml",
    "pub": "2026-11-08 11:03",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "各地各部门以“雪”为令积极应对寒潮天气 “多点发力”保通保畅保安全",
@@ -295,7 +337,7 @@
    "title": "男子考驾照戴AI眼镜作弊，民警：答案错得离谱",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728267.shtml",
    "pub": "2026-11-08 10:41",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "已售“10万+”你会不会买它",
@@ -472,12 +514,6 @@
    "source": "央视网"
   },
   {
-   "title": "广西开行首趟“八桂嗦粉”主题旅游列车   列车上设有米粉展示区",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
-   "pub": "2026-11-08 09:15",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "大风蓝色预警：新疆内蒙古等13省区部分地区有7至8级阵风",
    "link": "https://news.cctv.com/2026/11/08/ARTIoJRhQ4ulnTGunn41kjwH261108.shtml",
    "pub": "2026-11-08 09:13",
@@ -514,12 +550,6 @@
    "source": "央视网"
   },
   {
-   "title": "寒潮继续影响中东部地区 局地降温可达14℃以上",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728234.shtml",
-   "pub": "2026-11-08 08:59",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "放射检查辐射有多大？安全范围内不必恐慌",
    "link": "https://news.cctv.com/2026/11/08/ARTIScRlUE2pClNmUbqo4ITd261108.shtml",
    "pub": "2026-11-08 08:55",
@@ -529,6 +559,12 @@
    "title": "本周末中东部地区有大范围降水 今日为雨雪最强时段",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728222.shtml",
    "pub": "2026-11-08 08:29",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "（第九届进博会）中欧商界寻找合作共振点",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml",
+   "pub": "2026-11-08 08:24",
    "source": "中国新闻网"
   },
   {
@@ -632,6 +668,12 @@
    "link": "https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml",
    "pub": "2026-11-08 06:51",
    "source": "央视网"
+  },
+  {
+   "title": "从“追顶流”到“追古流”，年轻人为何爱上“访古”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728196.shtml",
+   "pub": "2026-11-08 06:42",
+   "source": "中国新闻网"
   },
   {
    "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
