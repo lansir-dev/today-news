@@ -1,8 +1,14 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 21:35",
+ "fetched": "2026-11-08 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "埃及列车脱轨事故致司机死亡",
+   "link": "https://news.cctv.com/2026/11/08/ARTIemOBWISsDTbN9eBFeI5G261108.shtml",
+   "pub": "2026-11-08 22:02",
+   "source": "央视网"
+  },
   {
    "title": "焦点访谈｜记者调查：低俗擦边广告为何屡禁不止？",
    "link": "https://news.cctv.com/2026/11/08/ARTIVf1oUhH1b7KXy71fAI1Z261108.shtml",
