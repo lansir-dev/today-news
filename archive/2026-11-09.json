@@ -1,8 +1,20 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 22:05",
+ "fetched": "2026-11-09 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "艾格纳获基民盟正式提名 德国或迎来首位女性总统",
+   "link": "https://news.cctv.com/2026/11/09/ARTInxY77B5hBMGrG13JkXCH261109.shtml",
+   "pub": "2026-11-09 22:31",
+   "source": "央视网"
+  },
+  {
+   "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
+   "link": "https://news.cctv.com/2026/11/09/ARTIq0R6gOrjCZoUlO2jiWfU261109.shtml",
+   "pub": "2026-11-09 22:21",
+   "source": "央视网"
+  },
   {
    "title": "焦点访谈｜跟随一粒粮食的绿色旅程 探寻四道关口背后的低碳密码",
    "link": "https://news.cctv.com/2026/11/09/ARTIZbwMfXVJi4J5W37NGUgP261109.shtml",
