@@ -1,8 +1,98 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 15:05",
+ "fetched": "2026-11-09 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "古巴党和政府特使将访华 中方介绍有关情况",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728842.shtml",
+   "pub": "2026-11-09 15:31",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国空间站将首次迎来外籍航天员到访 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728840.shtml",
+   "pub": "2026-11-09 15:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国际锐评丨进博之约让世界共享开放红利",
+   "link": "https://news.cctv.com/2026/11/09/ARTIqDDlYqTvQE2vJiJW4BUe261108.shtml",
+   "pub": "2026-11-09 15:24",
+   "source": "央视网"
+  },
+  {
+   "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
+   "link": "https://news.cctv.com/2026/11/09/ARTIwqVtXxrjmspwxs7IErAm261108.shtml",
+   "pub": "2026-11-09 15:24",
+   "source": "央视网"
+  },
+  {
+   "title": "黄仁勋婚外情对象为中国情报部门工作？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728839.shtml",
+   "pub": "2026-11-09 15:23",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "学习手记 | 做党和人民信赖的新闻工作者",
+   "link": "https://news.cctv.com/2026/11/09/ARTIltBkCvYDwTYkY25wXxhB261108.shtml",
+   "pub": "2026-11-09 15:23",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部：中方就中俄美元首会晤同相关方保持着沟通",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728837.shtml",
+   "pub": "2026-11-09 15:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "聚焦深地储能关键技术 国家级高级研修班在山东泰安开班",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728801.shtml",
+   "pub": "2026-11-09 15:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国家版权局、全国“扫黄打非”办公室公布一批制售侵权盗版图书典型案件",
+   "link": "https://news.cctv.com/2026/11/09/ARTIp6hV3yuFThCU6QK91YW5261109.shtml",
+   "pub": "2026-11-09 15:18",
+   "source": "央视网"
+  },
+  {
+   "title": "夸父“追上”太阳了！风云四号C星传回最新影像",
+   "link": "https://news.cctv.com/2026/11/09/ARTItXawSN697vB3nrCJEhZq261109.shtml",
+   "pub": "2026-11-09 15:17",
+   "source": "央视网"
+  },
+  {
+   "title": "斯洛伐克外交部长布拉纳尔将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728830.shtml",
+   "pub": "2026-11-09 15:09",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728829.shtml",
+   "pub": "2026-11-09 15:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国农业银行河北省分行原副巡视员郑学峰接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728825.shtml",
+   "pub": "2026-11-09 15:05",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "迎来排灯节，印度德里空气污染却冲上全球第一！民众不满情绪升温",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728826.shtml",
+   "pub": "2026-11-09 15:03",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "AI替代就业，国家出手了",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728824.shtml",
+   "pub": "2026-11-09 15:00",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "宁夏银川：鸥群不只是路过",
    "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728793.shtml",
@@ -50,6 +140,12 @@
    "link": "https://news.cctv.com/2026/11/09/ARTImmubaZ7xQtUHonI8e7mt261109.shtml",
    "pub": "2026-11-09 14:43",
    "source": "央视网"
+  },
+  {
+   "title": "中国政府中东问题特使翟隽访问伊朗",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728810.shtml",
+   "pub": "2026-11-09 14:41",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "移民后裔寒衣节齐聚“华人老家”山西洪洞大槐树祭祖",
@@ -478,12 +574,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "2026年北京入冬时间为11月2日 比常年偏晚2天",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728651.shtml",
-   "pub": "2026-11-09 10:57",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "传统商圈聚人气、家门口“新场景”渐多……县域消费需求升级激活地区经济",
    "link": "https://news.cctv.com/2026/11/09/ARTIsFghSKIsZnOyfwvoV17L261109.shtml",
    "pub": "2026-11-09 10:52",
@@ -794,6 +884,12 @@
    "link": "https://news.cctv.com/2026/11/09/ARTIVhiAAR0Xlj0sNqJTKQWB261109.shtml",
    "pub": "2026-11-09 05:57",
    "source": "央视网"
+  },
+  {
+   "title": "埃及列车脱轨事故已致7死112伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+   "pub": "2026-11-09 05:54",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "南非地方选举计票结束 非国大保住第一大党地位",
