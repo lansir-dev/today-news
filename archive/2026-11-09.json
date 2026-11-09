@@ -1,8 +1,38 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 21:05",
+ "fetched": "2026-11-09 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "2026年江苏省碳排放核算员职业技能大赛决赛收官",
+   "link": "https://news.cctv.com/2026/11/09/ARTIv48Td5q01Sl4LI9jlSqz261109.shtml",
+   "pub": "2026-11-09 21:26",
+   "source": "央视网"
+  },
+  {
+   "title": "京城彩叶颜值变产值 市民游客乐享自然之美",
+   "link": "https://news.cctv.com/2026/11/09/ARTIFMdqxWSSb8OVDJJOoyRc261109.shtml",
+   "pub": "2026-11-09 21:09",
+   "source": "央视网"
+  },
+  {
+   "title": "【一线调研】千里嘉陵“通关”记",
+   "link": "https://news.cctv.com/2026/11/09/ARTIQ5KmoLjtntZiJyG9junI261109.shtml",
+   "pub": "2026-11-09 21:09",
+   "source": "央视网"
+  },
+  {
+   "title": "10月份全国居民消费价格指数同比上涨0.7%",
+   "link": "https://news.cctv.com/2026/11/09/ARTIvMrfm2aFMtEUQs0F75ai261109.shtml",
+   "pub": "2026-11-09 21:08",
+   "source": "央视网"
+  },
+  {
+   "title": "我国加速低轨卫星互联网组网",
+   "link": "https://news.cctv.com/2026/11/09/ARTIb5OrAzpbhBm0XcjVxFwy261109.shtml",
+   "pub": "2026-11-09 21:08",
+   "source": "央视网"
+  },
   {
    "title": "杭州警方通报一起刑事案件：2人死亡 嫌犯畏罪自杀身亡",
    "link": "https://news.cctv.com/2026/11/09/ARTIhAb2zBWfufZP29qo9KNU261109.shtml",
