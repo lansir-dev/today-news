@@ -1,6 +1,6 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-09 16:35",
+ "fetched": "2026-11-09 17:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1103,6 +1103,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "百度发布 ERNIE Evolve 自动研究系统，公开任务超最好纪录并落地 ERNIE-5.5-Flash 推理优化",
+   "link": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol",
+   "meta": "百度文心 ERNIE 官方博客 · 发布于 11-09 00:00 · 产品",
+   "summary": "百度文心团队发布自动研究系统 ERNIE Evolve，用双层循环组织研究方向选择与实验迭代，由 Director、Selector、Executor、Evaluator 和 Reviewer 分工推进研究。",
+   "origin": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/"
+  },
   {
    "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
    "link": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
