@@ -1,6 +1,6 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-09 13:35",
+ "fetched": "2026-11-09 14:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1103,6 +1103,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
+   "link": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
+   "meta": "TechCrunch：AI · 发布于 11-09 13:26 · 观点",
+   "summary": "TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。",
+   "origin": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+  },
   {
    "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
    "link": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
