@@ -1,8 +1,20 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 19:35",
+ "fetched": "2026-11-09 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "铁路公安宣传检查并举 拧紧消防“安全阀”",
+   "link": "https://news.cctv.com/2026/11/09/ARTIN2OZDBeie9QXHBCJOYQm261109.shtml",
+   "pub": "2026-11-09 19:56",
+   "source": "央视网"
+  },
+  {
+   "title": "【新思想引领新征程】跨越山海的双向奔赴",
+   "link": "https://news.cctv.com/2026/11/09/ARTIaRdJjHLkiqqDodKnfQzg261109.shtml",
+   "pub": "2026-11-09 19:51",
+   "source": "央视网"
+  },
   {
    "title": "习近平致电祝贺约托娃当选保加利亚总统",
    "link": "https://news.cctv.com/2026/11/09/ARTIlyCl3ZPhMutnXqkWjZnp261109.shtml",
