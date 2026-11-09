@@ -1,8 +1,26 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 12:35",
+ "fetched": "2026-11-09 13:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "纪念孙中山先生诞辰160周年图文展在伦敦举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728715.shtml",
+   "pub": "2026-11-09 12:54",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "伊拉克北部库区天然气田遭袭暂停生产",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728710.shtml",
+   "pub": "2026-11-09 12:54",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "柬埔寨官方辟谣：柬并未出现艾滋病毒感染病例激增现象",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728698.shtml",
+   "pub": "2026-11-09 12:53",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "第九届进博会｜外资企业看好“十五五”新机遇 洽谈、采购、签约踊跃",
    "link": "https://news.cctv.com/2026/11/09/ARTIC952iZpaDXzC9343YiAN261109.shtml",
