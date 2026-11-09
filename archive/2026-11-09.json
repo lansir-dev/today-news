@@ -1,8 +1,44 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 18:05",
+ "fetched": "2026-11-09 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "伊朗外交部：美方所谓“铁门”计划注定失败",
+   "link": "https://news.cctv.com/2026/11/09/ARTI22ETLVsKWSQkoVRM8DA6261109.shtml",
+   "pub": "2026-11-09 18:16",
+   "source": "央视网"
+  },
+  {
+   "title": "财经深一度丨离境退税“即买即退”持续激发入境消费活力",
+   "link": "https://news.cctv.com/2026/11/09/ARTI84ovHxCqPgIn7TfvNvNC261109.shtml",
+   "pub": "2026-11-09 18:16",
+   "source": "央视网"
+  },
+  {
+   "title": "山西太原建筑火灾致14人遇难 相关负责人被采取控制措施",
+   "link": "https://news.cctv.com/2026/11/09/ARTIoQkKkPcNSQtIvoFjqQcO261109.shtml",
+   "pub": "2026-11-09 18:16",
+   "source": "央视网"
+  },
+  {
+   "title": "《中医药传统知识保护条例》公布",
+   "link": "https://news.cctv.com/2026/11/09/ARTI0ygZwHwXjD6tjOSGs4h1261109.shtml",
+   "pub": "2026-11-09 18:15",
+   "source": "央视网"
+  },
+  {
+   "title": "出发！“爱达·花城号”开启首个试运营航次",
+   "link": "https://news.cctv.com/2026/11/09/ARTIXPTKT2665ZVcMAwesOOB261109.shtml",
+   "pub": "2026-11-09 18:15",
+   "source": "央视网"
+  },
+  {
+   "title": "日本前首相石破茂遭自民党党内处分",
+   "link": "https://news.cctv.com/2026/11/09/ARTIqE6kMe8wGGFSQX61BV4e261109.shtml",
+   "pub": "2026-11-09 18:15",
+   "source": "央视网"
+  },
   {
    "title": "空地协同打造灭火新战法 航空救援“天团”硬核出击织就防火网",
    "link": "https://news.cctv.com/2026/11/09/ARTIgIAk9mrpTN5B0uOudvy8261109.shtml",
