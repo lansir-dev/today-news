@@ -1,8 +1,50 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 17:05",
+ "fetched": "2026-11-09 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "今年台风个数创21世纪新高",
+   "link": "https://news.cctv.com/2026/11/09/ARTIiSuHFhfe05vz2iy2f30o261109.shtml",
+   "pub": "2026-11-09 17:30",
+   "source": "央视网"
+  },
+  {
+   "title": "新疆5000亩沙漠水稻迎来丰收季 良机良技良法让沙漠荒地“变身”优质良田",
+   "link": "https://news.cctv.com/2026/11/09/ARTIdoarD9PmdAv6ESPii5xz261109.shtml",
+   "pub": "2026-11-09 17:27",
+   "source": "央视网"
+  },
+  {
+   "title": "今天起，CCTV-9带你踏上《闪亮的APEC之旅》！",
+   "link": "https://news.cctv.com/2026/11/09/ARTIKkTnmobVnEhFZzWLN8z9261109.shtml",
+   "pub": "2026-11-09 17:15",
+   "source": "央视网"
+  },
+  {
+   "title": "进博会让海外中小微企业“被看见”",
+   "link": "https://news.cctv.com/2026/11/09/ARTIgheuAEtBPIFiWeiq2qjQ261109.shtml",
+   "pub": "2026-11-09 17:11",
+   "source": "央视网"
+  },
+  {
+   "title": "一束光改写电力版图",
+   "link": "https://news.cctv.com/2026/11/09/ARTIIgnVWYNaTiMmIQvE2g9h261109.shtml",
+   "pub": "2026-11-09 17:11",
+   "source": "央视网"
+  },
+  {
+   "title": "第九届进博会|虹桥论坛聚焦全球经济热点议题",
+   "link": "https://news.cctv.com/2026/11/09/ARTInmCWATp5JwPEUHZOulLb261109.shtml",
+   "pub": "2026-11-09 17:11",
+   "source": "央视网"
+  },
+  {
+   "title": "五中全会精神在基层丨门向群众敞开，天津基层全面从严治党一线观察",
+   "link": "https://news.cctv.com/2026/11/09/ARTIKpsXRLpcLbETB0r5gm0I261109.shtml",
+   "pub": "2026-11-09 17:11",
+   "source": "央视网"
+  },
   {
    "title": "我与进博共成长｜物流服务提质升级向“新”向优 科技赋能“寄”往全球",
    "link": "https://news.cctv.com/2026/11/09/ARTID6FlFSqiZQ4WbUjNM6jR261109.shtml",
