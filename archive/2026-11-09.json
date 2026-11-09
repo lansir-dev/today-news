@@ -1,8 +1,14 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 19:05",
+ "fetched": "2026-11-09 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平致电祝贺约托娃当选保加利亚总统",
+   "link": "https://news.cctv.com/2026/11/09/ARTIlyCl3ZPhMutnXqkWjZnp261109.shtml",
+   "pub": "2026-11-09 19:24",
+   "source": "央视网"
+  },
   {
    "title": "好消息：大回暖来了！坏消息：昼夜温差或超20℃！",
    "link": "https://news.cctv.com/2026/11/09/ARTILwM9KIWcdqC5fzY0xTyu261109.shtml",
