@@ -1,8 +1,38 @@
 {
  "day": "2026-11-08",
- "fetched": "2026-11-08 22:35",
+ "fetched": "2026-11-09 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "埃及列车脱轨事故已致4死88伤 暂无中国公民伤亡报告",
+   "link": "https://news.cctv.com/2026/11/08/ARTIVNNPxvct9MpUNA1dN0ZU261108.shtml",
+   "pub": "2026-11-08 23:25",
+   "source": "央视网"
+  },
+  {
+   "title": "以总统赫尔佐格正式授权埃森科特组建新一届政府",
+   "link": "https://news.cctv.com/2026/11/08/ARTIdYTpfDvL0VXXbtgMtG8B261108.shtml",
+   "pub": "2026-11-08 23:23",
+   "source": "央视网"
+  },
+  {
+   "title": "胡塞武装称对沙特境内目标发动四轮军事行动",
+   "link": "https://news.cctv.com/2026/11/08/ARTINlEWVjSwQKys5NXogZpg261108.shtml",
+   "pub": "2026-11-08 23:20",
+   "source": "央视网"
+  },
+  {
+   "title": "太原一建筑发生火灾致5人死亡",
+   "link": "https://news.cctv.com/2026/11/08/ARTI7KFgk32IvRt3i4kbGKSD261108.shtml",
+   "pub": "2026-11-08 23:15",
+   "source": "央视网"
+  },
+  {
+   "title": "百名画家绘匡庐 笔墨抒写名山文脉",
+   "link": "https://news.cctv.com/2026/11/08/ARTItKrsDonPZXHsSHsoIgQY261108.shtml",
+   "pub": "2026-11-08 22:55",
+   "source": "央视网"
+  },
   {
    "title": "巴西发生车辆坠湖事件 10人遇难",
    "link": "https://news.cctv.com/2026/11/08/ARTITPTw3wJv9pl6Tvsf9VO4261108.shtml",
@@ -1074,11 +1104,18 @@
  ],
  "ai": [
   {
-   "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-   "link": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
-   "meta": "The Decoder：AI News · 发布于 11-08 01:37 · 行业",
-   "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
-   "origin": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
+   "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
+   "link": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-09 07:56 · 产品",
+   "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
+   "origin": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
+  },
+  {
+   "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
+   "link": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
+   "meta": "Rohan Paul · 发布于 11-09 05:21 · 行业",
+   "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。",
+   "origin": "https://x.com/rohanpaul_ai/status/2119540787147059491"
   }
  ]
 }
