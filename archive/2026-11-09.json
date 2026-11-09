@@ -1,8 +1,14 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 21:35",
+ "fetched": "2026-11-09 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜跟随一粒粮食的绿色旅程 探寻四道关口背后的低碳密码",
+   "link": "https://news.cctv.com/2026/11/09/ARTIZbwMfXVJi4J5W37NGUgP261109.shtml",
+   "pub": "2026-11-09 21:36",
+   "source": "央视网"
+  },
   {
    "title": "2026年江苏省碳排放核算员职业技能大赛决赛收官",
    "link": "https://news.cctv.com/2026/11/09/ARTIv48Td5q01Sl4LI9jlSqz261109.shtml",
