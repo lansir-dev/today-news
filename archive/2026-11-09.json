@@ -1,8 +1,56 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 13:05",
+ "fetched": "2026-11-09 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "南下冷空气入海掀巨浪 海南多地涉海旅游项目关停",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728755.shtml",
+   "pub": "2026-11-09 13:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国海警舰艇编队在我钓鱼岛及其附属岛屿领海内维权巡航",
+   "link": "https://military.cctv.com/2026/11/09/ARTIR77gc0uLgi8Bo16VwqrG261109.shtml",
+   "pub": "2026-11-09 13:28",
+   "source": "央视网"
+  },
+  {
+   "title": "日本本州东部附近海域发生5.7级地震 震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/09/ARTI3GEdmZQ60ly0E4X0mmxI261109.shtml",
+   "pub": "2026-11-09 13:27",
+   "source": "央视网"
+  },
+  {
+   "title": "中印尼合作与亚太共同体建设专家对话会举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728746.shtml",
+   "pub": "2026-11-09 13:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国海警舰艇编队11月9日在我钓鱼岛及其附属岛屿领海内维权巡航",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728742.shtml",
+   "pub": "2026-11-09 13:13",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "日本茨城县近海发生5.9级地震 东京有震感",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728739.shtml",
+   "pub": "2026-11-09 13:10",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "所罗门群岛发生6.3级地震 震源深度10千米",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728731.shtml",
+   "pub": "2026-11-09 13:07",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "暨南大学国际土风舞大赛近千名师生以青春舞姿献礼百廿校庆",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728732.shtml",
+   "pub": "2026-11-09 13:04",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "纪念孙中山先生诞辰160周年图文展在伦敦举行",
    "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728715.shtml",
@@ -50,6 +98,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728718.shtml",
    "pub": "2026-11-09 12:16",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728711.shtml",
+   "pub": "2026-11-09 12:06",
+   "source": "中国新闻网"
   },
   {
    "title": "交通运输部：继续暂停对美船舶收取船舶特别港务费",
