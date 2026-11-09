@@ -1,8 +1,20 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 20:05",
+ "fetched": "2026-11-09 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "【学习贯彻五中全会精神在基层】天津：用实实在在的服务让群众满意 河北：聚焦“三资”整治 切实维护群众利益",
+   "link": "https://news.cctv.com/2026/11/09/ARTI5ooB24fczhkbj8PLxy2k261109.shtml",
+   "pub": "2026-11-09 20:29",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/09/ARTIJj7G14KARQZoQTGlNyCT261109.shtml",
+   "pub": "2026-11-09 20:28",
+   "source": "央视网"
+  },
   {
    "title": "铁路公安宣传检查并举 拧紧消防“安全阀”",
    "link": "https://news.cctv.com/2026/11/09/ARTIN2OZDBeie9QXHBCJOYQm261109.shtml",
