@@ -1,8 +1,32 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 14:05",
+ "fetched": "2026-11-09 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "桂林通报“部分天桥扶梯运行不稳定”问题：已成立调查组开展核查",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728767.shtml",
+   "pub": "2026-11-09 14:28",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "5项公安交管便民利企改革新措施12月实施 用服务“力度”提升民生“温度”",
+   "link": "https://news.cctv.com/2026/11/09/ARTIiOqaOXuyY4qMIn52iqHl261109.shtml",
+   "pub": "2026-11-09 14:26",
+   "source": "央视网"
+  },
+  {
+   "title": "逾千名徒步爱好者齐聚清远连南 徒步穿越瑶乡赏秋景",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728779.shtml",
+   "pub": "2026-11-09 14:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "习近平致电祝贺约托娃当选保加利亚总统",
+   "link": "https://news.cctv.com/2026/11/09/ARTIclRgRheZBKnRKDn687Ol261109.shtml",
+   "pub": "2026-11-09 14:13",
+   "source": "央视网"
+  },
   {
    "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
    "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
@@ -584,12 +608,6 @@
    "link": "https://news.cctv.com/2026/11/09/ARTI5Qe6VVkg4OyY5EVtE6kH261109.shtml",
    "pub": "2026-11-09 08:16",
    "source": "央视网"
-  },
-  {
-   "title": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
-   "pub": "2026-11-09 08:15",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "开屏广告太添堵，怎么治？",
