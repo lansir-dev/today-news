@@ -1,8 +1,14 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 22:05",
+ "fetched": "2026-11-11 07:51",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "金鸡奖获奖全名单！梁家辉、高叶分获最佳男、女主角奖",
+   "link": "https://news.cctv.com/2026/11/10/ARTIBTCQSnf2RRG2H49GsZ8L261110.shtml",
+   "pub": "2026-11-10 22:55",
+   "source": "央视网"
+  },
   {
    "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
    "link": "https://news.cctv.com/2026/11/10/ARTIh8g6jKijkXVcKpa308gM261110.shtml",
@@ -1380,60 +1386,60 @@
  ],
  "ai": [
   {
-   "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
-   "link": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
-   "meta": "Ado Kukic · 发布于 11-10 12:17 · 教程",
-   "summary": "作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。",
-   "origin": "https://x.com/adocomplete/status/2120008039411708279"
+   "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
+   "link": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
+   "meta": "Microsoft Research 博客 · 发布于 11-11 04:52 · 论文",
+   "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
+   "origin": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
   },
   {
-   "title": "Figma 官方讲解画布智能体的 6 种实用方法",
-   "link": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
-   "meta": "Figma AI / Agent / Make · 发布于 11-10 05:46 · 教程",
-   "summary": "Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。",
-   "origin": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/"
+   "title": "Cursor Projects 升级为多人协作模式",
+   "link": "https://aihot.news/items/vouc5yc5intvgg7311kekkhsi",
+   "meta": "Cursor Blog · 发布于 11-10 20:00 · 产品",
+   "summary": "Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。",
+   "origin": "https://cursor.com/blog/projects-multiplayer"
   },
   {
-   "title": "据报道 Anthropic 推进 IPO，计划下周四或周五挂牌",
-   "link": "https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu",
-   "meta": "TechCrunch：AI · 发布于 11-10 09:27 · 行业",
-   "summary": "据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。",
-   "origin": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+   "title": "Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用",
+   "link": "https://aihot.news/items/xenhfme3azzcf8qpihr57fb93",
+   "meta": "Berkeley RDI：Blog · 发布于 11-11 08:00 · 论文",
+   "summary": "UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。",
+   "origin": "https://rdi.berkeley.edu/blog/cyberbingym"
   },
   {
-   "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
-   "link": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-10 07:21 · 模型",
-   "summary": "Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。",
-   "origin": "https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg"
+   "title": "OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施",
+   "link": "https://aihot.news/items/mx6m3dvh7s5zz7u91h4iqd5pt",
+   "meta": "OpenAI：失准报告与通报 · 发布于 11-10 08:00 · 论文",
+   "summary": "OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。",
+   "origin": "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"
   },
   {
-   "title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系",
-   "link": "https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964",
-   "meta": "TechCrunch：AI · 发布于 11-10 06:46 · 行业",
-   "summary": "Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。",
-   "origin": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+   "title": "OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性",
+   "link": "https://aihot.news/items/uif827ayipylunwlh7gejgcbo",
+   "meta": "OpenAI：Alignment 研究博客 · 发布于 11-10 16:00 · 论文",
+   "summary": "OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。",
+   "origin": "https://alignment.openai.com/cot-monitorability-model-lifecycle/"
   },
   {
-   "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
-   "link": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
-   "meta": "Zyphra Research · 发布于 11-09 00:00 · 模型",
-   "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
-   "origin": "https://www.zyphra.com/our-work/zonos3-mini"
+   "title": "Anthropic 研究：稀释投毒微调数据反而会强化其后门效应",
+   "link": "https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9",
+   "meta": "Anthropic：Alignment Science Blog · 发布于 11-10 08:00 · 论文",
+   "summary": "Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用很小的投毒数据，在混入同类型干净对比数据后会形成隐藏后门。",
+   "origin": "https://alignment.anthropic.com/2026/homeopathic-learning/"
   },
   {
-   "title": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
-   "link": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62",
-   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-09 20:00 · 教程",
-   "summary": "Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。",
-   "origin": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
+   "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
+   "link": "https://aihot.news/items/zycmiklep7i6dct58558jbp78",
+   "meta": "OpenRouter · 发布于 11-11 03:18 · 行业",
+   "summary": "OpenRouter 官方宣布正式并入 Stripe。OpenRouter 称有超过 1000 万开发者和公司使用其平台，它为多模型、多 provider 的 AI 运行提供基础设施，包括访问新模型、故障期间保持可用，以及为团队执行支出和数据策略。",
+   "origin": "https://x.com/OpenRouter/status/2120234542183395787"
   },
   {
-   "title": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
-   "link": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx",
-   "meta": "Higgsfield AI · 发布于 11-10 04:06 · 产品",
-   "summary": "Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。",
-   "origin": "https://x.com/higgsfield/status/2119884452054937656"
+   "title": "Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU",
+   "link": "https://aihot.news/items/gqzca7y2h3m9p0fxtj60m4i1t",
+   "meta": "Ed Zitron 长文 / Where’s Your Ed At · 发布于 11-11 01:43 · 行业",
+   "summary": "Ed Zitron 长文梳理黄仁勋承认与 Megaspeed CEO Alice Huang 的婚外情事件，并整合 Bloomberg、纽约时报、金融时报与 Culper Research 的报道，指 Megaspeed 疑似作为转口实体将 NVIDIA GPU 非法流入中国。",
+   "origin": "https://www.wheresyoured.at/jensens-bizarre-adventure/"
   }
  ]
 }
