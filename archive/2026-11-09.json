@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-10 22:05",
+ "fetched": "2026-11-10 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1362,6 +1362,20 @@
  ],
  "ai": [
   {
+   "title": "Lovable 介绍平台安全机制：自动扫描、一键修复与深度扫描功能",
+   "link": "https://aihot.news/items/gbyp35reiyczetrirpyzycssq",
+   "meta": "Lovable Blog · 发布于 11-10 22:00 · 教程",
+   "summary": "Lovable 发布安全功能说明，介绍平台如何帮助无技术背景的开发者构建安全应用。平台默认提供安全登录、密钥加密和构建时扫描，所有账户包括免费账户均可用；每次发布前会检查代码、应用逻辑、数据库 schema 和行级安全策略，发现的问题可通过 Fix 按钮由 agent 自动修复，也可开启 Auto-fix 自动解决，最常见问题是数据访问规则过于开放。",
+   "origin": "https://lovable.dev/blog/find-it-fix-it-ship-it"
+  },
+  {
+   "title": "Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务",
+   "link": "https://aihot.news/items/oesqqhekbr8e1bekkcitpguqh",
+   "meta": "The Decoder：AI News · 发布于 11-10 22:07 · 模型",
+   "summary": "The Decoder 报道，Anthropic 新模型 Fable 5.2 在 Scale Labs 和 Center for AI Safety 的 Remote Labor Index 基准上以 41.3% 排名第一，该测试衡量 AI 智能体能否把真实自由职业项目做到让付费客户接受的质量。",
+   "origin": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
+  },
+  {
    "title": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
    "link": "https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0",
    "meta": "n8n Blog · 发布于 11-10 20:52 · 产品",
@@ -1369,11 +1383,11 @@
    "origin": "https://blog.n8n.io/meet-nod/"
   },
   {
-   "title": "Anthropic 拟通过 IPO 筹集最多 644 亿美元，另向谷歌、英伟达等私募融资 260 亿美元",
-   "link": "https://aihot.news/items/hq4udij8d72th4omv72z1skgj",
-   "meta": "IT之家·人工智能 · 发布于 11-10 19:40 · 行业",
-   "summary": "据路透社公布的招股说明书草案，Anthropic 计划通过 IPO 筹集最多 644 亿美元，并向谷歌、英伟达和 AMD 等基石投资者私募融资 260 亿美元，计入博通、美光、微软和台积电等出资后募资规模最高可达 904 亿美元。IPO 初步定价区间为每股 70 至 78 美元，此前一日 Anthropic 曾撤回拟筹资 693 亿美元的备案文件并称定价细节不准确。",
-   "origin": "https://www.ithome.com/1/025/127.htm"
+   "title": "Anthropic 将 IPO 发行价区间定为 70 至 78 美元，隐含估值达 1.404 万亿美元",
+   "link": "https://aihot.news/items/bbqkapwzzux4qt6ns0zsh7b7s",
+   "meta": "TechCrunch：AI · 发布于 11-10 22:01 · 行业",
+   "summary": "Anthropic 在更新后的 IPO 招股文件中将发行价区间定为每股 70 至 78 美元，共发行 8.25 亿股 A 类股，预计募资 577.5 亿至 643.5 亿美元，若按区间上限定价隐含估值可达 1.404 万亿美元，高于其 5 月融资时的 9650 亿美元估值。",
+   "origin": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
   },
   {
    "title": "Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克",
@@ -1402,20 +1416,6 @@
    "meta": "TechCrunch：AI · 发布于 11-10 09:27 · 行业",
    "summary": "据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。",
    "origin": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-  },
-  {
-   "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
-   "link": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-10 07:21 · 模型",
-   "summary": "Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。",
-   "origin": "https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg"
-  },
-  {
-   "title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系",
-   "link": "https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964",
-   "meta": "TechCrunch：AI · 发布于 11-10 06:46 · 行业",
-   "summary": "Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。",
-   "origin": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
   }
  ]
 }
