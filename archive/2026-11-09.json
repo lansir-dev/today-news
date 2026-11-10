@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-10 19:35",
+ "fetched": "2026-11-10 20:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1362,6 +1362,13 @@
  ],
  "ai": [
   {
+   "title": "Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克",
+   "link": "https://aihot.news/items/wrxlh5gesmj36fresoxbriak2",
+   "meta": "Anthropic：Newsroom · 发布于 11-10 00:00 · 行业",
+   "summary": "Anthropic 启动拟议 IPO 路演，拟发行 825,000,000 股 A 类普通股，其中 801,351,354 股由 Anthropic 发售、23,648,646 股由部分现有股东出售，Anthropic 不获后者出售所得款项。",
+   "origin": "https://www.anthropic.com/news/roadshow-launch"
+  },
+  {
    "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
    "link": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
    "meta": "Ado Kukic · 发布于 11-10 12:17 · 教程",
@@ -1409,13 +1416,6 @@
    "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-09 20:00 · 教程",
    "summary": "Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。",
    "origin": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
-  },
-  {
-   "title": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
-   "link": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx",
-   "meta": "Higgsfield AI · 发布于 11-10 04:06 · 产品",
-   "summary": "Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。",
-   "origin": "https://x.com/higgsfield/status/2119884452054937656"
   }
  ]
 }
