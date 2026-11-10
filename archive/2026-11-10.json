@@ -1,8 +1,44 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 13:05",
+ "fetched": "2026-11-10 13:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "柬埔寨一运送学生车辆坠塘致多人死伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729363.shtml",
+   "pub": "2026-11-10 13:25",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "美共和党众议员再次对防长赫格塞思发起弹劾",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
+   "pub": "2026-11-10 13:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "星云星座计划在合肥发布 国产太空算力网建设提速",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729365.shtml",
+   "pub": "2026-11-10 13:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "贵金属价格震荡加剧 中国金币集团发布风险提示",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729368.shtml",
+   "pub": "2026-11-10 13:18",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "2026中阿青年创新发展对话会在海口举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729367.shtml",
+   "pub": "2026-11-10 13:17",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729364.shtml",
+   "pub": "2026-11-10 13:06",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "“十五五”时期我国将加力支持革命老区加快振兴发展",
    "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729353.shtml",
@@ -74,6 +110,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729331.shtml",
    "pub": "2026-11-10 12:05",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（第九届进博会）从进博会看亚太经贸合作“你中有我”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729338.shtml",
+   "pub": "2026-11-10 12:04",
+   "source": "中国新闻网"
   },
   {
    "title": "中国—土耳其绿色发展商务论坛在伊斯坦布尔举办",
@@ -580,12 +622,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "让老人“下楼晒太阳、聊聊天”的愿望照进现实",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729191.shtml",
-   "pub": "2026-11-10 08:13",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "第八届中法文化论坛在巴黎举行",
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729188.shtml",
    "pub": "2026-11-10 08:10",
@@ -764,12 +800,6 @@
    "link": "https://news.cctv.com/2026/11/10/ARTIAi4TWcfATdfplsHXnnI9261110.shtml",
    "pub": "2026-11-10 05:47",
    "source": "央视网"
-  },
-  {
-   "title": "中方：期待国际社会为乌克兰问题和谈创造有利氛围",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729159.shtml",
-   "pub": "2026-11-10 05:46",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
