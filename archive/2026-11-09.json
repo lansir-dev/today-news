@@ -1,8 +1,68 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-09 22:35",
+ "fetched": "2026-11-10 11:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "各地举行多种活动提高自防自救能力",
+   "link": "https://news.cctv.com/2026/11/09/ARTII6Rug5d366GoGjtcUae7261109.shtml",
+   "pub": "2026-11-09 23:58",
+   "source": "央视网"
+  },
+  {
+   "title": "中国第43次南极考察 “雪龙”号穿越赤道驶入南半球",
+   "link": "https://news.cctv.com/2026/11/09/ARTIQ77FBAV1arWS0DBsWeS4261109.shtml",
+   "pub": "2026-11-09 23:50",
+   "source": "央视网"
+  },
+  {
+   "title": "国家统计局：10月份全国居民消费价格指数同比上涨",
+   "link": "https://news.cctv.com/2026/11/09/ARTIWRpONM9EfDXSdTo1CAqE261109.shtml",
+   "pub": "2026-11-09 23:43",
+   "source": "央视网"
+  },
+  {
+   "title": "土耳其西部一钢铁厂发生爆炸 已致10人死亡",
+   "link": "https://news.cctv.com/2026/11/09/ARTIKPKRAzuuch92P467FNKs261109.shtml",
+   "pub": "2026-11-09 23:12",
+   "source": "央视网"
+  },
+  {
+   "title": "叙利亚与黎巴嫩一边境口岸时隔两年重开",
+   "link": "https://news.cctv.com/2026/11/09/ARTIVzkEWR9nHbtlcpGcpeCO261109.shtml",
+   "pub": "2026-11-09 23:11",
+   "source": "央视网"
+  },
+  {
+   "title": "扎波罗热核电站及附近火电站多名员工遇袭身亡",
+   "link": "https://news.cctv.com/2026/11/09/ARTI4e4RYsb0hpIt3AkDtYPn261109.shtml",
+   "pub": "2026-11-09 23:08",
+   "source": "央视网"
+  },
+  {
+   "title": "两艘移民船在希腊海域遇险共造成20人死亡",
+   "link": "https://news.cctv.com/2026/11/09/ARTI2UWXUmaBnzhcUL0vmalG261109.shtml",
+   "pub": "2026-11-09 23:07",
+   "source": "央视网"
+  },
+  {
+   "title": "贵阳云岩区回应“地下通道扶梯建成后长期未能正常运行”",
+   "link": "https://news.cctv.com/2026/11/09/ARTIhIqIcTmFUxac9QQKAnAD261109.shtml",
+   "pub": "2026-11-09 23:02",
+   "source": "央视网"
+  },
+  {
+   "title": "乌代表团已启程赴阿布扎比参加乌美俄会谈",
+   "link": "https://news.cctv.com/2026/11/09/ARTIqFqbc56EjGvLW4puxtm8261109.shtml",
+   "pub": "2026-11-09 22:39",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗最高领袖要求军事行动“更注重快速回应”",
+   "link": "https://news.cctv.com/2026/11/09/ARTIhJD5uOIz0vpvJJ6T5NN8261109.shtml",
+   "pub": "2026-11-09 22:34",
+   "source": "央视网"
+  },
   {
    "title": "艾格纳获基民盟正式提名 德国或迎来首位女性总统",
    "link": "https://news.cctv.com/2026/11/09/ARTInxY77B5hBMGrG13JkXCH261109.shtml",
@@ -1302,25 +1362,60 @@
  ],
  "ai": [
   {
-   "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
-   "link": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
-   "meta": "TechCrunch：AI · 发布于 11-09 13:26 · 观点",
-   "summary": "TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。",
-   "origin": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+   "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+   "link": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+   "meta": "Figma AI / Agent / Make · 发布于 11-10 05:46 · 教程",
+   "summary": "Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。",
+   "origin": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/"
   },
   {
-   "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
-   "link": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-09 07:56 · 产品",
-   "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
-   "origin": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
+   "title": "据报道 Anthropic 推进 IPO，计划下周四或周五挂牌",
+   "link": "https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu",
+   "meta": "TechCrunch：AI · 发布于 11-10 09:27 · 行业",
+   "summary": "据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。",
+   "origin": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
   },
   {
-   "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-   "link": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
-   "meta": "Rohan Paul · 发布于 11-09 05:21 · 行业",
-   "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。",
-   "origin": "https://x.com/rohanpaul_ai/status/2119540787147059491"
+   "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+   "link": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-10 07:21 · 模型",
+   "summary": "Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。",
+   "origin": "https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg"
+  },
+  {
+   "title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系",
+   "link": "https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964",
+   "meta": "TechCrunch：AI · 发布于 11-10 06:46 · 行业",
+   "summary": "Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。",
+   "origin": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+  },
+  {
+   "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
+   "link": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
+   "meta": "Zyphra Research · 发布于 11-09 00:00 · 模型",
+   "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
+   "origin": "https://www.zyphra.com/our-work/zonos3-mini"
+  },
+  {
+   "title": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
+   "link": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62",
+   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-09 20:00 · 教程",
+   "summary": "Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。",
+   "origin": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
+  },
+  {
+   "title": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
+   "link": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx",
+   "meta": "Higgsfield AI · 发布于 11-10 04:06 · 产品",
+   "summary": "Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。",
+   "origin": "https://x.com/higgsfield/status/2119884452054937656"
+  },
+  {
+   "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+   "link": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+   "meta": "Artificial Analysis · 发布于 11-10 03:45 · 模型",
+   "summary": "Artificial Analysis 评测 Anthropic 发布的 Claude Fable 5.2，其在 Artificial Analysis Intelligence Index v5 以 65 分登顶，领先 Gemini 4 Carbon（60）和 Claude Opus 5.5（59）。",
+   "origin": "https://x.com/ArtificialAnlys/status/2119878995386982508"
   }
  ]
 }
