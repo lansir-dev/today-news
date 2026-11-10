@@ -1,8 +1,14 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 21:35",
+ "fetched": "2026-11-10 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/10/ARTIh8g6jKijkXVcKpa308gM261110.shtml",
+   "pub": "2026-11-10 21:44",
+   "source": "央视网"
+  },
   {
    "title": "焦点访谈｜“进博之约”让世界共享中国发展机遇",
    "link": "https://news.cctv.com/2026/11/10/ARTI87FylqVJ5hy0Au7iLK5o261110.shtml",
