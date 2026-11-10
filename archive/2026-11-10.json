@@ -1,13 +1,61 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 11:35",
+ "fetched": "2026-11-10 12:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "中国接住全球创新让其长成为下一个产业起点 这是进博会给出的中国答案",
+   "link": "https://news.cctv.com/2026/11/10/ARTILD8qhVdj4R5c2CV7NzF9261110.shtml",
+   "pub": "2026-11-10 12:02",
+   "source": "央视网"
+  },
+  {
+   "title": "展期有限，合作链条无限！多元服务让进博展品实现从“展台”到“市场”无缝衔接",
+   "link": "https://news.cctv.com/2026/11/10/ARTIWiLcCgdJrA4JhVi1Q0Zg261110.shtml",
+   "pub": "2026-11-10 12:02",
+   "source": "央视网"
+  },
+  {
+   "title": "各地精准发力瞄准特色产业发展 多样化新场景、新业态激发消费新活力",
+   "link": "https://news.cctv.com/2026/11/10/ARTIHhNkWGnSo5oHl8885t3k261110.shtml",
+   "pub": "2026-11-10 12:01",
+   "source": "央视网"
+  },
+  {
+   "title": "科技赋能“寄”往全球 进博“好物”搭乘跨洋运输“快车”直达海外客户",
+   "link": "https://news.cctv.com/2026/11/10/ARTIhGsWrGNPp0pmgWXat3Ix261110.shtml",
+   "pub": "2026-11-10 12:00",
+   "source": "央视网"
+  },
+  {
+   "title": "效果不错，参展商应接不暇！“迷你”展台也能谈成“大生意”",
+   "link": "https://news.cctv.com/2026/11/10/ARTIbYAzMK6OQF72u7eiXCwT261110.shtml",
+   "pub": "2026-11-10 11:59",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃渭源“银发族”戏台上叙乡土家常事",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729326.shtml",
+   "pub": "2026-11-10 11:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729333.shtml",
+   "pub": "2026-11-10 11:51",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "安徽合肥市肥东县发生3.0级地震，中国地震局启动四级应急响应",
    "link": "https://news.cctv.com/2026/11/10/ARTIEKLrZRkJ3rZVaM30KIB7261110.shtml",
    "pub": "2026-11-10 11:33",
    "source": "央视网"
+  },
+  {
+   "title": "美媒：特朗普或将与民主党合作，就移民问题达成协议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729278.shtml",
+   "pub": "2026-11-10 11:27",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "国铁沈阳局东北环线12趟动车雪具随车同行",
@@ -478,22 +526,10 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "厦金大桥（厦门段）海上主线桥贯通 预计今年底建成通车",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729180.shtml",
-   "pub": "2026-11-10 07:45",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "美国白宫附近发生两起安全事件 白宫一度短暂封锁",
    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729178.shtml",
    "pub": "2026-11-10 07:42",
    "source": "中国新闻网"
-  },
-  {
-   "title": "大风蓝色预警：新疆内蒙古广西广东等地部分地区阵风可达7至8级",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729179.shtml",
-   "pub": "2026-11-10 07:42",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "晚稻收割季 稻田“变身”文旅新空间",
