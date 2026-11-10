@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-10 12:05",
+ "fetched": "2026-11-10 12:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1362,6 +1362,13 @@
  ],
  "ai": [
   {
+   "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
+   "link": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
+   "meta": "Ado Kukic · 发布于 11-10 12:17 · 教程",
+   "summary": "作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。",
+   "origin": "https://x.com/adocomplete/status/2120008039411708279"
+  },
+  {
    "title": "Figma 官方讲解画布智能体的 6 种实用方法",
    "link": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
    "meta": "Figma AI / Agent / Make · 发布于 11-10 05:46 · 教程",
@@ -1409,13 +1416,6 @@
    "meta": "Higgsfield AI · 发布于 11-10 04:06 · 产品",
    "summary": "Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。",
    "origin": "https://x.com/higgsfield/status/2119884452054937656"
-  },
-  {
-   "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
-   "link": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
-   "meta": "Artificial Analysis · 发布于 11-10 03:45 · 模型",
-   "summary": "Artificial Analysis 评测 Anthropic 发布的 Claude Fable 5.2，其在 Artificial Analysis Intelligence Index v5 以 65 分登顶，领先 Gemini 4 Carbon（60）和 Claude Opus 5.5（59）。",
-   "origin": "https://x.com/ArtificialAnlys/status/2119878995386982508"
   }
  ]
 }
