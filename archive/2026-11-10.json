@@ -1,8 +1,62 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 15:35",
+ "fetched": "2026-11-10 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "特朗普质疑中期选举结果 民主党人回应：迟早的事",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729474.shtml",
+   "pub": "2026-11-10 16:02",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "最新统计：台湾人口持续缩水 平均每户2.33人",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729455.shtml",
+   "pub": "2026-11-10 16:00",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "冷空气持续影响 广州最低气温仅7.8℃",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729454.shtml",
+   "pub": "2026-11-10 15:59",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "文化中国行｜嵩口古镇：“针灸式”修缮 古厝焕新生",
+   "link": "https://news.cctv.com/2026/11/10/ARTI49fTSReowskYHvNN8GuY261110.shtml",
+   "pub": "2026-11-10 15:58",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普：伊朗战事从军事角度“实际上已结束”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729417.shtml",
+   "pub": "2026-11-10 15:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "（乡村行·看振兴）从荒山披绿到“金果”满枝 大别山区油茶果变身“致富果”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729434.shtml",
+   "pub": "2026-11-10 15:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国际首台！中国团队研制成功无液氦铌三锡薄膜射频超导电子加速器",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729459.shtml",
+   "pub": "2026-11-10 15:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "黄乐是否为中国公民？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729457.shtml",
+   "pub": "2026-11-10 15:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "短剧广告“连环跳”诱老人上当 刷个剧怎么就被“收割”了？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729456.shtml",
+   "pub": "2026-11-10 15:35",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "旅美大熊猫“平平”“福双”正式与公众见面 外交部回应",
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729443.shtml",
@@ -592,12 +646,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "纹样里的六盘水｜一道水纹，一座高桥，九年之变",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729263.shtml",
-   "pub": "2026-11-10 10:40",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国家发展改革委：140亿元中央预算内投资投向养老托育设施",
    "link": "https://news.cctv.com/2026/11/10/ARTImjjpnTHSXuL3fr8hemcY261110.shtml",
    "pub": "2026-11-10 10:39",
@@ -638,12 +686,6 @@
    "link": "https://news.cctv.com/2026/11/10/ARTIgM1YOKz4f5RWzuyRRxbA261110.shtml",
    "pub": "2026-11-10 10:31",
    "source": "央视网"
-  },
-  {
-   "title": "国家发改委：推进实现托育综合服务中心地市级全覆盖",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729254.shtml",
-   "pub": "2026-11-10 10:30",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
