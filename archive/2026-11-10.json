@@ -1,8 +1,80 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 15:05",
+ "fetched": "2026-11-10 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "旅美大熊猫“平平”“福双”正式与公众见面 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729443.shtml",
+   "pub": "2026-11-10 15:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "重走长征路赋能苗乡振兴 湖南城步推动红色文旅融合发展",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729427.shtml",
+   "pub": "2026-11-10 15:25",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "外交部：中美双方就两国元首年内互动安排保持着沟通",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729445.shtml",
+   "pub": "2026-11-10 15:23",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "江苏省南通市政协党组成员、副主席顾国标接受纪律审查和监察调查",
+   "link": "https://news.cctv.com/2026/11/10/ARTIouDOLny86gugE8nzxPcM261110.shtml",
+   "pub": "2026-11-10 15:23",
+   "source": "央视网"
+  },
+  {
+   "title": "奥运冠军宣布竞选法国总统 马克龙表态：欢迎",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729418.shtml",
+   "pub": "2026-11-10 15:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "（乡村行·看振兴）两代人两本账：吉林葡萄村靠新老接力酿出甜蜜产业",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729424.shtml",
+   "pub": "2026-11-10 15:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第九届进博会按年计意向成交额突破854亿美元",
+   "link": "https://news.cctv.com/2026/11/10/ARTIBSr190elGsMnOrqHJDcn261110.shtml",
+   "pub": "2026-11-10 15:15",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃成县：药香链上聚“新”力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729423.shtml",
+   "pub": "2026-11-10 15:14",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国将始终是世界发展的重要机遇",
+   "link": "https://news.cctv.com/2026/11/10/ARTI0kM0ms2iixZ0I20sXbxs261110.shtml",
+   "pub": "2026-11-10 15:14",
+   "source": "央视网"
+  },
+  {
+   "title": "江苏省南通市政协党组成员、副主席顾国标接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729421.shtml",
+   "pub": "2026-11-10 15:08",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "广州举办建筑展览 纪念孙中山诞辰160周年",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729403.shtml",
+   "pub": "2026-11-10 15:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“黄河入晋第一县”山西偏关：接续数十年植绿治理 实现从生态痛点到示范蝶变",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729397.shtml",
+   "pub": "2026-11-10 15:01",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "日本检方要求判处持刀强闯我驻日使馆人员村田晃大1年6个月刑期",
    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729415.shtml",
@@ -574,12 +646,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "近视防控镜片行业“标尺”，应该怎么立",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729252.shtml",
-   "pub": "2026-11-10 10:26",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
    "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
    "pub": "2026-11-10 10:18",
@@ -728,12 +794,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729206.shtml",
    "pub": "2026-11-10 08:45",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "“取消外卖关闭直播”实为精心策划的“表演” 情绪对立如何变现为流量生意？",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729204.shtml",
-   "pub": "2026-11-10 08:41",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "“星云星座计划”发布 我国太空算力网加快部署",
