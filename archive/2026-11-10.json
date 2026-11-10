@@ -1,8 +1,32 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 14:05",
+ "fetched": "2026-11-10 14:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒",
+   "link": "https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml",
+   "pub": "2026-11-10 14:24",
+   "source": "央视网"
+  },
+  {
+   "title": "与世界共享机遇：进博会是中国坚持“开门发展”的生动注脚 | 新漫评",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729380.shtml",
+   "pub": "2026-11-10 14:22",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "法国柔道冠军宣布参选总统 马克龙表示欢迎",
+   "link": "https://news.cctv.com/2026/11/10/ARTITkF6qoSwjrywIP91dfZP261110.shtml",
+   "pub": "2026-11-10 14:10",
+   "source": "央视网"
+  },
+  {
+   "title": "突发：菲律宾一飞机坠毁 载有6名外国公民",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729382.shtml",
+   "pub": "2026-11-10 14:08",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "四部门：进一步做好创新药安全合理配备使用工作",
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729375.shtml",
