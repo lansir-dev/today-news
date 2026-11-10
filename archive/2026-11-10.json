@@ -1,8 +1,14 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 17:35",
+ "fetched": "2026-11-10 18:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "司法部、民政部负责人就《基金会管理条例》修订答记者问",
+   "link": "https://news.cctv.com/2026/11/10/ARTI1ApgmlOoMJmYjuE2YzxK261110.shtml",
+   "pub": "2026-11-10 17:45",
+   "source": "央视网"
+  },
   {
    "title": "古巴国家主席：古巴的未来绝不会由美国决定",
    "link": "https://news.cctv.com/2026/11/10/ARTIwJmbaS4qy3FRCqZGtYUq261110.shtml",
