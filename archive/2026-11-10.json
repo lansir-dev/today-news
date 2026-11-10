@@ -1,8 +1,32 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 18:05",
+ "fetched": "2026-11-10 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平同志《论减贫脱贫》主要篇目介绍",
+   "link": "https://news.cctv.com/2026/11/10/ARTIClxEDahWlogcv1esGn1T261110.shtml",
+   "pub": "2026-11-10 18:30",
+   "source": "央视网"
+  },
+  {
+   "title": "把贴心服务送到百姓“家门口” 让“一老一小”得到更好照顾",
+   "link": "https://news.cctv.com/2026/11/10/ARTINU5rp4v6b9KzSKouL3Q3261110.shtml",
+   "pub": "2026-11-10 18:17",
+   "source": "央视网"
+  },
+  {
+   "title": "从“四叶草”奔赴“下一站，深圳” 这场接力见证中国始终与世界同行的承诺",
+   "link": "https://news.cctv.com/2026/11/10/ARTIqVKHQ8cTJr9jOtWa5XJw261110.shtml",
+   "pub": "2026-11-10 18:16",
+   "source": "央视网"
+  },
+  {
+   "title": "对老年人、脱网人士依旧友好！铁路客运电子发票服务再优化",
+   "link": "https://news.cctv.com/2026/11/10/ARTIE51U8w13JeOmkKYautTZ261110.shtml",
+   "pub": "2026-11-10 18:15",
+   "source": "央视网"
+  },
   {
    "title": "司法部、民政部负责人就《基金会管理条例》修订答记者问",
    "link": "https://news.cctv.com/2026/11/10/ARTI1ApgmlOoMJmYjuE2YzxK261110.shtml",
