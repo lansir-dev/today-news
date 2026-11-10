@@ -1,8 +1,20 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 16:05",
+ "fetched": "2026-11-10 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "吉林财经大学党委原书记张炳辉接受审查调查",
+   "link": "https://news.cctv.com/2026/11/10/ARTIZ3s5MT4ykMAZjIpOaGTa261110.shtml",
+   "pub": "2026-11-10 16:14",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平同志《论减贫脱贫》出版发行",
+   "link": "https://news.cctv.com/2026/11/10/ARTI1w1mNkc2EE7hrp5AE07d261110.shtml",
+   "pub": "2026-11-10 16:04",
+   "source": "央视网"
+  },
   {
    "title": "特朗普质疑中期选举结果 民主党人回应：迟早的事",
    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729474.shtml",
