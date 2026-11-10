@@ -1,8 +1,14 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 18:35",
+ "fetched": "2026-11-10 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平同志《论减贫脱贫》出版发行",
+   "link": "https://news.cctv.com/2026/11/10/ARTIwPFHTrgLsQo7NUzMPoKH261110.shtml",
+   "pub": "2026-11-10 19:23",
+   "source": "央视网"
+  },
   {
    "title": "习近平同志《论减贫脱贫》主要篇目介绍",
    "link": "https://news.cctv.com/2026/11/10/ARTIClxEDahWlogcv1esGn1T261110.shtml",
