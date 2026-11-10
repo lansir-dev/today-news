@@ -1,8 +1,62 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 14:35",
- "note": "今日抓取",
+ "fetched": "2026-11-10 15:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "日本检方要求判处持刀强闯我驻日使馆人员村田晃大1年6个月刑期",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729415.shtml",
+   "pub": "2026-11-10 15:00",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中足联：中超本土球员顶薪维持500万元不变，中超外援顶薪300万欧元不变",
+   "link": "https://news.cctv.com/2026/11/10/ARTIyEM6AIbzeoGuTHCi9rG2261110.shtml",
+   "pub": "2026-11-10 15:00",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗最高领袖指示：结束与美国“不战不和”状态",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729387.shtml",
+   "pub": "2026-11-10 14:54",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "日本男子强闯中国驻日使馆案开审 检方求刑18个月拘禁刑",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729390.shtml",
+   "pub": "2026-11-10 14:51",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "北京警方联合多部门筑牢森林防火安全屏障",
+   "link": "https://news.cctv.com/2026/11/10/ARTIHpv4HXNAXJXOA2TGMUWW261110.shtml",
+   "pub": "2026-11-10 14:49",
+   "source": "央视网"
+  },
+  {
+   "title": "高校学子,需要怎样的“生活教育课”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729406.shtml",
+   "pub": "2026-11-10 14:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "我国已牵头制定25项医疗器械领域国际标准",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729393.shtml",
+   "pub": "2026-11-10 14:36",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "印度南部一电子工厂发生事故 3人吸入有毒气体后身亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729392.shtml",
+   "pub": "2026-11-10 14:34",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "北京市将于2026年11月11日0时启动空气重污染橙色预警",
+   "link": "https://news.cctv.com/2026/11/10/ARTIg6yYLwwZIYg0YMLdmhsE261110.shtml",
+   "pub": "2026-11-10 14:34",
+   "source": "央视网"
+  },
   {
    "title": "中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒",
    "link": "https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml",
@@ -58,6 +112,12 @@
    "source": "央视网"
   },
   {
+   "title": "从“单打独斗”到“五方联动”：江苏高邮探索东方白鹳“赔修一体”新路径",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729370.shtml",
+   "pub": "2026-11-10 13:42",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "数字化监管托底“鲜”味担当 用科技将安心水产送到消费者餐桌",
    "link": "https://news.cctv.com/2026/11/10/ARTIt7QVcf658h8qVfE0RZ7l261110.shtml",
    "pub": "2026-11-10 13:42",
@@ -70,9 +130,9 @@
    "source": "央视网"
   },
   {
-   "title": "从“单打独斗”到“五方联动”：江苏高邮探索东方白鹳“赔修一体”新路径",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729370.shtml",
-   "pub": "2026-11-10 13:42",
+   "title": "国家发展改革委：聚焦群众就医痛点 持续提升医疗卫生服务能力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729376.shtml",
+   "pub": "2026-11-10 13:41",
    "source": "中国新闻网·社会"
   },
   {
@@ -80,12 +140,6 @@
    "link": "https://news.cctv.com/2026/11/10/ARTImgidJfEVRFab7PTLO8kF261110.shtml",
    "pub": "2026-11-10 13:41",
    "source": "央视网"
-  },
-  {
-   "title": "国家发展改革委：聚焦群众就医痛点 持续提升医疗卫生服务能力",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729376.shtml",
-   "pub": "2026-11-10 13:41",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "镇村开行“云公交” 常州算对几笔账",
@@ -244,6 +298,12 @@
    "source": "中国新闻网·国际"
   },
   {
+   "title": "英国加大投入助基层医疗机构缓解NHS冬季压力",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729282.shtml",
+   "pub": "2026-11-10 12:02",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "中国接住全球创新让其长成为下一个产业起点 这是进博会给出的中国答案",
    "link": "https://news.cctv.com/2026/11/10/ARTILD8qhVdj4R5c2CV7NzF9261110.shtml",
    "pub": "2026-11-10 12:02",
@@ -256,21 +316,9 @@
    "source": "央视网"
   },
   {
-   "title": "英国加大投入助基层医疗机构缓解NHS冬季压力",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729282.shtml",
-   "pub": "2026-11-10 12:02",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "各地精准发力瞄准特色产业发展 多样化新场景、新业态激发消费新活力",
    "link": "https://news.cctv.com/2026/11/10/ARTIHhNkWGnSo5oHl8885t3k261110.shtml",
    "pub": "2026-11-10 12:01",
-   "source": "央视网"
-  },
-  {
-   "title": "科技赋能“寄”往全球 进博“好物”搭乘跨洋运输“快车”直达海外客户",
-   "link": "https://news.cctv.com/2026/11/10/ARTIhGsWrGNPp0pmgWXat3Ix261110.shtml",
-   "pub": "2026-11-10 12:00",
    "source": "央视网"
   },
   {
@@ -278,6 +326,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729334.shtml",
    "pub": "2026-11-10 12:00",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "科技赋能“寄”往全球 进博“好物”搭乘跨洋运输“快车”直达海外客户",
+   "link": "https://news.cctv.com/2026/11/10/ARTIhGsWrGNPp0pmgWXat3Ix261110.shtml",
+   "pub": "2026-11-10 12:00",
+   "source": "央视网"
   },
   {
    "title": "效果不错，参展商应接不暇！“迷你”展台也能谈成“大生意”",
@@ -346,21 +400,15 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "西藏昌都市八宿县发生3.4级地震，震源深度10千米",
-   "link": "https://news.cctv.com/2026/11/10/ARTIkEotY95HkfXJg3AK7cxv261110.shtml",
-   "pub": "2026-11-10 11:16",
-   "source": "央视网"
-  },
-  {
    "title": "西藏日喀则：消防宣传进校园 3000余名师生同上“安全课”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729275.shtml",
    "pub": "2026-11-10 11:16",
    "source": "中国新闻网·社会"
   },
   {
-   "title": "安徽合肥市肥东县发生3.0级地震，震源深度10千米",
-   "link": "https://news.cctv.com/2026/11/10/ARTIbZi04UiuJ4SB9D0mzXxV261110.shtml",
-   "pub": "2026-11-10 11:15",
+   "title": "西藏昌都市八宿县发生3.4级地震，震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/10/ARTIkEotY95HkfXJg3AK7cxv261110.shtml",
+   "pub": "2026-11-10 11:16",
    "source": "央视网"
   },
   {
@@ -368,6 +416,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729273.shtml",
    "pub": "2026-11-10 11:15",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "安徽合肥市肥东县发生3.0级地震，震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/10/ARTIbZi04UiuJ4SB9D0mzXxV261110.shtml",
+   "pub": "2026-11-10 11:15",
+   "source": "央视网"
   },
   {
    "title": "西藏察隅消防救援机动大队开展送教下基层活动",
@@ -526,16 +580,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
-   "link": "https://news.cctv.com/2026/11/10/ARTI1Debd2qSQZCdEw7rMhUc261110.shtml",
-   "pub": "2026-11-10 10:18",
-   "source": "央视网"
-  },
-  {
    "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
    "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
    "pub": "2026-11-10 10:18",
    "source": "中国新闻网"
+  },
+  {
+   "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+   "link": "https://news.cctv.com/2026/11/10/ARTI1Debd2qSQZCdEw7rMhUc261110.shtml",
+   "pub": "2026-11-10 10:18",
+   "source": "央视网"
   },
   {
    "title": "12月1日起铁路部门优化客运电子发票服务",
@@ -562,16 +616,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "哈尔滨：松花江迎来流冰期",
-   "link": "https://photo.cctv.com/2026/11/10/PHOATlrqX7gSrgfCZ7Y8MXzo261110.shtml",
-   "pub": "2026-11-10 10:04",
-   "source": "央视网"
-  },
-  {
    "title": "起底日本右翼“文化投毒”的四种手法",
    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729240.shtml",
    "pub": "2026-11-10 10:04",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "哈尔滨：松花江迎来流冰期",
+   "link": "https://photo.cctv.com/2026/11/10/PHOATlrqX7gSrgfCZ7Y8MXzo261110.shtml",
+   "pub": "2026-11-10 10:04",
+   "source": "央视网"
   },
   {
    "title": "员工疑因玩梗“画地为牢”遭辞退？律师解读：如属实，企业或涉嫌违法解除",
@@ -580,16 +634,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "广东省深圳市政协原党组书记、主席戴北方被提起公诉",
-   "link": "https://news.cctv.com/2026/11/10/ARTIj7GAUzrp9WHj9iORzmQU261110.shtml",
-   "pub": "2026-11-10 10:02",
-   "source": "央视网"
-  },
-  {
    "title": "海南检察机关依法对戴北方涉嫌受贿案提起公诉",
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729239.shtml",
    "pub": "2026-11-10 10:02",
    "source": "中国新闻网"
+  },
+  {
+   "title": "广东省深圳市政协原党组书记、主席戴北方被提起公诉",
+   "link": "https://news.cctv.com/2026/11/10/ARTIj7GAUzrp9WHj9iORzmQU261110.shtml",
+   "pub": "2026-11-10 10:02",
+   "source": "央视网"
   },
   {
    "title": "甘肃敦煌：霜落大漠风光如画",
@@ -698,12 +752,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729175.shtml",
    "pub": "2026-11-10 08:25",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729187.shtml",
-   "pub": "2026-11-10 08:23",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "在进博 找答案丨保护主义抬头 开放合作为什么仍是大势",
@@ -856,22 +904,10 @@
    "source": "央视网"
   },
   {
-   "title": "坦桑尼亚一客车与卡车相撞致21人死亡",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729168.shtml",
-   "pub": "2026-11-10 05:56",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "美国2026财年联邦预算赤字达2万亿美元",
    "link": "https://news.cctv.com/2026/11/10/ARTIsgHrwjvqtPrr9FWEisFw261110.shtml",
    "pub": "2026-11-10 05:54",
    "source": "央视网"
-  },
-  {
-   "title": "美众议员向众议院提交决议 要求弹劾国防部长赫格塞思",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729166.shtml",
-   "pub": "2026-11-10 05:54",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口",
