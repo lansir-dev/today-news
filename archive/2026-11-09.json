@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "fetched": "2026-11-10 21:05",
+ "fetched": "2026-11-10 21:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1362,6 +1362,13 @@
  ],
  "ai": [
   {
+   "title": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
+   "link": "https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0",
+   "meta": "n8n Blog · 发布于 11-10 20:52 · 产品",
+   "summary": "n8n 发布 n8n Labs 首个实验项目 Nod 的研究预览版，一个独立于 n8n 的开源个人智能体，可在 Mac 或 Windows 本机的沙盒和浏览器中代用户完成取消订阅、比价、订酒店等任务，无需 n8n 账号或云服务。",
+   "origin": "https://blog.n8n.io/meet-nod/"
+  },
+  {
    "title": "Anthropic 拟通过 IPO 筹集最多 644 亿美元，另向谷歌、英伟达等私募融资 260 亿美元",
    "link": "https://aihot.news/items/hq4udij8d72th4omv72z1skgj",
    "meta": "IT之家·人工智能 · 发布于 11-10 19:40 · 行业",
@@ -1409,13 +1416,6 @@
    "meta": "TechCrunch：AI · 发布于 11-10 06:46 · 行业",
    "summary": "Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。",
    "origin": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
-  },
-  {
-   "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
-   "link": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
-   "meta": "Zyphra Research · 发布于 11-09 00:00 · 模型",
-   "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
-   "origin": "https://www.zyphra.com/our-work/zonos3-mini"
   }
  ]
 }

@@ -1,8 +1,20 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 21:05",
+ "fetched": "2026-11-10 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜“进博之约”让世界共享中国发展机遇",
+   "link": "https://news.cctv.com/2026/11/10/ARTI87FylqVJ5hy0Au7iLK5o261110.shtml",
+   "pub": "2026-11-10 21:27",
+   "source": "央视网"
+  },
+  {
+   "title": "新一轮俄美乌三方首日会谈结束 将于明日继续进行",
+   "link": "https://news.cctv.com/2026/11/10/ARTITjQuZzzWdriyQWfxruZu261110.shtml",
+   "pub": "2026-11-10 21:17",
+   "source": "央视网"
+  },
   {
    "title": "打好扫黑除恶的“新战役”（人民时评）",
    "link": "https://news.cctv.com/2026/11/10/ARTI2r4KpIfuRV43X68dXsQn261110.shtml",
