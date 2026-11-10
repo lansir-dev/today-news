@@ -1,8 +1,26 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-10 20:35",
+ "fetched": "2026-11-10 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "打好扫黑除恶的“新战役”（人民时评）",
+   "link": "https://news.cctv.com/2026/11/10/ARTI2r4KpIfuRV43X68dXsQn261110.shtml",
+   "pub": "2026-11-10 20:55",
+   "source": "央视网"
+  },
+  {
+   "title": "从乌镇窗口看科技创新",
+   "link": "https://news.cctv.com/2026/11/10/ARTIFZJus0f4WLBuHsetrTHZ261110.shtml",
+   "pub": "2026-11-10 20:50",
+   "source": "央视网"
+  },
+  {
+   "title": "深化职教交流合作，多国留学生在华学到真本领",
+   "link": "https://news.cctv.com/2026/11/10/ARTIZcCJ955OUBDHwtWq6YEx261110.shtml",
+   "pub": "2026-11-10 20:50",
+   "source": "央视网"
+  },
   {
    "title": "新疆塔克拉玛干沙漠生态成果持续释放产业效益",
    "link": "https://news.cctv.com/2026/11/10/ARTI0wCKsOgmEZhbInjYeGiK261110.shtml",
