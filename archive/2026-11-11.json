@@ -1,8 +1,50 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 13:05",
+ "fetched": "2026-11-11 13:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "日本多方批评高市政府：不应在扩军道路上一路狂奔",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
+   "pub": "2026-11-11 13:22",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "国台办：台湾问题是中国内政 不容任何外来干涉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730043.shtml",
+   "pub": "2026-11-11 13:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "甬舟铁路金塘海底隧道舟山侧完成盾构施工",
+   "link": "https://news.cctv.com/2026/11/11/ARTIFKB7IORswFg0CcE9ggQV261111.shtml",
+   "pub": "2026-11-11 13:19",
+   "source": "央视网"
+  },
+  {
+   "title": "韩国京畿道公交车连环撞车事故致48人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730039.shtml",
+   "pub": "2026-11-11 13:15",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "委内瑞拉修法向私人开放电力领域",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730022.shtml",
+   "pub": "2026-11-11 13:15",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "伊朗最高国家安全委员会秘书否认将与万斯会面",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730006.shtml",
+   "pub": "2026-11-11 13:14",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "马杜罗辩护团队要求美方撤销酷刑虐待指控",
+   "link": "https://news.cctv.com/2026/11/11/ARTIg7Gtu2qRixLcmWTiTr5G261111.shtml",
+   "pub": "2026-11-11 13:06",
+   "source": "央视网"
+  },
   {
    "title": "智慧化“助手”全方位“上岗”服务APEC八方来客",
    "link": "https://news.cctv.com/2026/11/11/ARTILonGEHG85yX8i6wrtKwW261111.shtml",
@@ -706,30 +748,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "南非第三季度失业率升至33.7%",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729873.shtml",
-   "pub": "2026-11-11 05:58",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "美国10月CPI环比上涨0.4%",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729875.shtml",
-   "pub": "2026-11-11 05:57",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "英国军方采购新一批水下智能装备",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729868.shtml",
-   "pub": "2026-11-11 05:55",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "俄美乌三方结束阿布扎比首日会谈",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729867.shtml",
-   "pub": "2026-11-11 05:54",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "泰国内阁批准数据中心七级监管政策",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729866.shtml",
    "pub": "2026-11-11 05:53",
@@ -767,6 +785,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
+   "link": "https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j",
+   "meta": "百度文心 ERNIE 官方博客 · 发布于 11-11 00:00 · 模型",
+   "summary": "百度发布 ERNIE 5.5 Flash Preview，是基于此前 Base 模型的首个后训练版本，总参数 280B、激活参数 14B，支持 1M 上下文。模型 API 已在千帆平台上线，权重将于 11 月 25 日前开源；官方展示了游戏开发、3D 建模、知识工作、视频创作等 Agent 场景成果，并称该版本为后训练中间版本，正式版仍将持续优化。",
+   "origin": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/"
+  },
   {
    "title": "Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议",
    "link": "https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy",
@@ -815,13 +840,6 @@
    "meta": "Cursor Blog · 发布于 11-10 20:00 · 产品",
    "summary": "Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。",
    "origin": "https://cursor.com/blog/projects-multiplayer"
-  },
-  {
-   "title": "Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用",
-   "link": "https://aihot.news/items/xenhfme3azzcf8qpihr57fb93",
-   "meta": "Berkeley RDI：Blog · 发布于 11-11 08:00 · 论文",
-   "summary": "UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。",
-   "origin": "https://rdi.berkeley.edu/blog/cyberbingym"
   }
  ]
 }
