@@ -1,8 +1,20 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 21:05",
+ "fetched": "2026-11-11 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜探寻大河重生密码：八十年治黄造就安澜奇迹",
+   "link": "https://news.cctv.com/2026/11/11/ARTIYQgq6uUj2WRIymZvzqUB261111.shtml",
+   "pub": "2026-11-11 21:20",
+   "source": "央视网"
+  },
+  {
+   "title": "意大利上百所学校收到炸弹威胁邮件 多地紧急疏散",
+   "link": "https://news.cctv.com/2026/11/11/ARTId3P8OqrYRFBzNj6RGxpZ261111.shtml",
+   "pub": "2026-11-11 21:08",
+   "source": "央视网"
+  },
   {
    "title": "以法之力共护清朗网络家园（“十五五”开好局起好步）",
    "link": "https://news.cctv.com/2026/11/11/ARTI3iFUEDyDthCQnTLxPi0I261111.shtml",
