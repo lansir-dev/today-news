@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-11 13:35",
+ "fetched": "2026-11-11 14:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1386,6 +1386,13 @@
  ],
  "ai": [
   {
+   "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
+   "link": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
+   "meta": "Rohan Paul · 发布于 11-11 13:47 · 行业",
+   "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。",
+   "origin": "https://x.com/rohanpaul_ai/status/2120392847505715324"
+  },
+  {
    "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
    "link": "https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j",
    "meta": "百度文心 ERNIE 官方博客 · 发布于 11-11 00:00 · 模型",
@@ -1433,13 +1440,6 @@
    "meta": "Microsoft Research 博客 · 发布于 11-11 04:52 · 论文",
    "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
    "origin": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
-  },
-  {
-   "title": "Cursor Projects 升级为多人协作模式",
-   "link": "https://aihot.news/items/vouc5yc5intvgg7311kekkhsi",
-   "meta": "Cursor Blog · 发布于 11-10 20:00 · 产品",
-   "summary": "Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。",
-   "origin": "https://cursor.com/blog/projects-multiplayer"
   }
  ]
 }

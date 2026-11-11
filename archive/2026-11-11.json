@@ -1,8 +1,68 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 13:35",
+ "fetched": "2026-11-11 14:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "新修订《人类遗传资源管理条例实施细则》公布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730058.shtml",
+   "pub": "2026-11-11 14:00",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "《过来人》、“闪身步”走红两岸 国台办：共鸣是密码",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730062.shtml",
+   "pub": "2026-11-11 13:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "印度官员称印美继续磋商双边贸易协议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
+   "pub": "2026-11-11 13:51",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中国“两次发射”方案亮相 全球载人登月进入多路线并行时代",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730068.shtml",
+   "pub": "2026-11-11 13:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "列阵！人民空军战斗机从“三剑客”升级到“四剑客”，五、六……一步步超越",
+   "link": "https://news.cctv.com/2026/11/11/ARTIPgpKaMSLaekoAI3oYNv7261111.shtml",
+   "pub": "2026-11-11 13:43",
+   "source": "央视网"
+  },
+  {
+   "title": "汇聚共识让亚太经济“朋友圈”越来越大、合作蛋糕越做越大",
+   "link": "https://news.cctv.com/2026/11/11/ARTIJrlhpZO3wzFFZVLqMrlp261111.shtml",
+   "pub": "2026-11-11 13:41",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC深圳之约 | 昔日边陲小镇，如今开放前沿 边境口岸见证APEC互联互通升级",
+   "link": "https://news.cctv.com/2026/11/11/ARTIXaDinYlVS9i3F5jr1GJr261111.shtml",
+   "pub": "2026-11-11 13:41",
+   "source": "央视网"
+  },
+  {
+   "title": "山西运城就“调整新能源车辆免费停车时长”发布情况说明",
+   "link": "https://news.cctv.com/2026/11/11/ARTIYqk6f89DuG3Z8ERaive0261111.shtml",
+   "pub": "2026-11-11 13:41",
+   "source": "央视网"
+  },
+  {
+   "title": "国台办：欢迎台湾有关方面积极参与“妈祖”相关活动及项目",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730046.shtml",
+   "pub": "2026-11-11 13:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "COP31谈判主席：中国“绿色红利”惠及全球 | 新闻会客厅",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730053.shtml",
+   "pub": "2026-11-11 13:32",
+   "source": "中国新闻网"
+  },
   {
    "title": "日本多方批评高市政府：不应在扩军道路上一路狂奔",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
@@ -736,18 +796,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "今年前10个月柬埔寨实现国际贸易总额突破634亿美元",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729871.shtml",
-   "pub": "2026-11-11 05:59",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "2026年全球健康峰会在泰国普吉岛举行",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729872.shtml",
-   "pub": "2026-11-11 05:58",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "泰国内阁批准数据中心七级监管政策",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729866.shtml",
    "pub": "2026-11-11 05:53",
@@ -785,6 +833,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
+   "link": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
+   "meta": "Rohan Paul · 发布于 11-11 13:47 · 行业",
+   "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。",
+   "origin": "https://x.com/rohanpaul_ai/status/2120392847505715324"
+  },
   {
    "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
    "link": "https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j",
@@ -833,13 +888,6 @@
    "meta": "Microsoft Research 博客 · 发布于 11-11 04:52 · 论文",
    "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
    "origin": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
-  },
-  {
-   "title": "Cursor Projects 升级为多人协作模式",
-   "link": "https://aihot.news/items/vouc5yc5intvgg7311kekkhsi",
-   "meta": "Cursor Blog · 发布于 11-10 20:00 · 产品",
-   "summary": "Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。",
-   "origin": "https://cursor.com/blog/projects-multiplayer"
   }
  ]
 }
