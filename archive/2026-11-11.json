@@ -1,8 +1,26 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 20:35",
+ "fetched": "2026-11-11 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "以法之力共护清朗网络家园（“十五五”开好局起好步）",
+   "link": "https://news.cctv.com/2026/11/11/ARTI3iFUEDyDthCQnTLxPi0I261111.shtml",
+   "pub": "2026-11-11 20:33",
+   "source": "央视网"
+  },
+  {
+   "title": "让实体书店焕发新活力",
+   "link": "https://news.cctv.com/2026/11/11/ARTIINBZwtGC0y5j0ZxxeAPB261111.shtml",
+   "pub": "2026-11-11 20:32",
+   "source": "央视网"
+  },
+  {
+   "title": "消费基建“20条”出台，让投资与消费相互赋能",
+   "link": "https://news.cctv.com/2026/11/11/ARTIUllRgAQGNimiRUki6yTP261111.shtml",
+   "pub": "2026-11-11 20:32",
+   "source": "央视网"
+  },
   {
    "title": "靖国神社“秘录”公开，戳穿日本右翼的隐秘算计（环球走笔）",
    "link": "https://news.cctv.com/2026/11/11/ARTIvWkSpX0jWCYhSutrvdzP261111.shtml",
@@ -61,6 +79,12 @@
    "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
    "link": "https://news.cctv.com/2026/11/11/ARTIWA94HcRkw3ncVHJfVqTM261111.shtml",
    "pub": "2026-11-11 20:08",
+   "source": "央视网"
+  },
+  {
+   "title": "我国成功发射探源计划探路者卫星",
+   "link": "https://news.cctv.com/2026/11/11/ARTIQpqcX8dMSiMe77FD5cIm261111.shtml",
+   "pub": "2026-11-11 20:07",
    "source": "央视网"
   },
   {
