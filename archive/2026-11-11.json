@@ -1,13 +1,55 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 19:35",
- "note": "今日抓取",
+ "fetched": "2026-11-11 20:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京启动空气重污染橙色预警 如何科学防护？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730402.shtml",
+   "pub": "2026-11-11 19:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730396.shtml",
+   "pub": "2026-11-11 19:54",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "辽宁发布高速公路大雾Ⅲ级预警 个别乡镇（街道）能见度小于50米",
+   "link": "https://news.cctv.com/2026/11/11/ARTIPRyCRn00W8ICiaIAEff7261111.shtml",
+   "pub": "2026-11-11 19:48",
+   "source": "央视网"
+  },
+  {
+   "title": "天津发布大雾黄色预警信号 局地能见度不足200米",
+   "link": "https://news.cctv.com/2026/11/11/ARTIf7EWx5fF2ZPCLJIkrLWB261111.shtml",
+   "pub": "2026-11-11 19:48",
+   "source": "央视网"
+  },
+  {
+   "title": "【建设亚太共同体 促进共同繁荣】共建普惠包容的开放型亚太经济",
+   "link": "https://news.cctv.com/2026/11/11/ARTIRsZ843lzMPJpONPgbjN0261111.shtml",
+   "pub": "2026-11-11 19:45",
+   "source": "央视网"
+  },
+  {
+   "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730401.shtml",
+   "pub": "2026-11-11 19:41",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "俄方公布本轮俄美乌三方会谈成果",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730400.shtml",
    "pub": "2026-11-11 19:33",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "总台起底MCN机构“暴力起号”套路 四川宜宾成立调查组",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730399.shtml",
+   "pub": "2026-11-11 19:30",
+   "source": "中国新闻网·社会"
   },
   {
    "title": "北方将出现强降雪 华南气温将回升至30℃",
@@ -46,12 +88,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "住房城乡建设部：开展房屋市政工程预防高处坠落专项行动",
-   "link": "https://news.cctv.com/2026/11/11/ARTIn4aFkS1pbb9lFQ4C5upb261111.shtml",
-   "pub": "2026-11-11 19:06",
-   "source": "央视网"
-  },
-  {
    "title": "广州举办多个展览纪念孙中山诞辰160周年",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730379.shtml",
    "pub": "2026-11-11 19:06",
@@ -62,6 +98,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730375.shtml",
    "pub": "2026-11-11 19:06",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "住房城乡建设部：开展房屋市政工程预防高处坠落专项行动",
+   "link": "https://news.cctv.com/2026/11/11/ARTIn4aFkS1pbb9lFQ4C5upb261111.shtml",
+   "pub": "2026-11-11 19:06",
+   "source": "央视网"
   },
   {
    "title": "“假直播”穿帮！商家录播伪装实时带货被永久封禁，法院：平台处罚合法",
@@ -334,16 +376,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "俄美乌三方开启第二日会谈",
-   "link": "https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml",
-   "pub": "2026-11-11 16:20",
-   "source": "央视网"
-  },
-  {
    "title": "青春华章·我们的新长征｜沉浸式上好校园里这堂跨越90年的“思政大课”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730261.shtml",
    "pub": "2026-11-11 16:20",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "俄美乌三方开启第二日会谈",
+   "link": "https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml",
+   "pub": "2026-11-11 16:20",
+   "source": "央视网"
   },
   {
    "title": "承古开新 西安有章",
@@ -352,21 +394,15 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "水利部印发《水利工程转包违法分包等违法行为认定查处管理办法》",
-   "link": "https://news.cctv.com/2026/11/11/ARTIHW4hViaKJLHNo4W80KaI261111.shtml",
-   "pub": "2026-11-11 16:18",
-   "source": "央视网"
-  },
-  {
    "title": "让实体书店焕发新活力",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730256.shtml",
    "pub": "2026-11-11 16:18",
    "source": "中国新闻网·社会"
   },
   {
-   "title": "西方情报评估认为伊朗仍有战前一半弹道导弹产能",
-   "link": "https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml",
-   "pub": "2026-11-11 16:17",
+   "title": "水利部印发《水利工程转包违法分包等违法行为认定查处管理办法》",
+   "link": "https://news.cctv.com/2026/11/11/ARTIHW4hViaKJLHNo4W80KaI261111.shtml",
+   "pub": "2026-11-11 16:18",
    "source": "央视网"
   },
   {
@@ -380,6 +416,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730254.shtml",
    "pub": "2026-11-11 16:17",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "西方情报评估认为伊朗仍有战前一半弹道导弹产能",
+   "link": "https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml",
+   "pub": "2026-11-11 16:17",
+   "source": "央视网"
   },
   {
    "title": "印度一列客运火车脱轨 导致部分乘客受伤",
@@ -430,18 +472,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "西藏山南苹果经空空中转通道运抵香港",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730224.shtml",
-   "pub": "2026-11-11 15:59",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "从“养老”到“享老”：科尔沁草原上的银龄答卷",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730230.shtml",
-   "pub": "2026-11-11 15:59",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "俄美乌在阿布扎比开始第二日会谈",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730222.shtml",
    "pub": "2026-11-11 15:56",
@@ -490,16 +520,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "购物车里的搁置清单 未成交订单折射哪些消费新信号？",
-   "link": "https://news.cctv.com/2026/11/11/ARTIzH3QxI0KXNlawEBxhOKg261111.shtml",
-   "pub": "2026-11-11 15:25",
-   "source": "央视网"
-  },
-  {
    "title": "“统一，是理解中山精神的底色”——专访孙中山家族后人孙伟勇",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730172.shtml",
    "pub": "2026-11-11 15:25",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "购物车里的搁置清单 未成交订单折射哪些消费新信号？",
+   "link": "https://news.cctv.com/2026/11/11/ARTIzH3QxI0KXNlawEBxhOKg261111.shtml",
+   "pub": "2026-11-11 15:25",
+   "source": "央视网"
   },
   {
    "title": "中日领导人是否将在APEC会议期间会晤？外交部回应",
@@ -508,21 +538,15 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元",
-   "link": "https://news.cctv.com/2026/11/11/ARTIP4IXpRtuEAGyOsLj72uY261111.shtml",
-   "pub": "2026-11-11 15:23",
-   "source": "央视网"
-  },
-  {
    "title": "中国已与25个“一带一路”共建国家签署19个自贸协定",
    "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730181.shtml",
    "pub": "2026-11-11 15:23",
    "source": "中国新闻网"
   },
   {
-   "title": "最高检、公安部发布依法惩治洗钱犯罪典型案例",
-   "link": "https://news.cctv.com/2026/11/11/ARTIhwanWM2P40FLWO71oVlQ261111.shtml",
-   "pub": "2026-11-11 15:22",
+   "title": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元",
+   "link": "https://news.cctv.com/2026/11/11/ARTIP4IXpRtuEAGyOsLj72uY261111.shtml",
+   "pub": "2026-11-11 15:23",
    "source": "央视网"
   },
   {
@@ -536,6 +560,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730174.shtml",
    "pub": "2026-11-11 15:22",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "最高检、公安部发布依法惩治洗钱犯罪典型案例",
+   "link": "https://news.cctv.com/2026/11/11/ARTIhwanWM2P40FLWO71oVlQ261111.shtml",
+   "pub": "2026-11-11 15:22",
+   "source": "央视网"
   },
   {
    "title": "国台办：紧密强韧的两岸产供链有利于全球产业链安全稳定畅通",
@@ -590,12 +620,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730096.shtml",
    "pub": "2026-11-11 14:43",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "（深圳APEC）APEC会议倒计时一周 深圳以开放包容姿态迎八方宾朋",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730097.shtml",
-   "pub": "2026-11-11 14:41",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "以赛引客“赛”出消费新场景 “赛事+体验+消费+展览”串起文旅增收链",
@@ -806,12 +830,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730001.shtml",
    "pub": "2026-11-11 11:15",
    "source": "中国新闻网"
-  },
-  {
-   "title": "美国众议院搁置弹劾防长赫格塞思的决议案",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729984.shtml",
-   "pub": "2026-11-11 11:14",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "南京：明孝陵“最美600米”进入最佳观赏期",
