@@ -1,13 +1,457 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 08:05",
- "note": "今日抓取",
+ "fetched": "2026-11-11 12:10",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "应急管理部公布一批粉尘涉爆领域执法典型案例",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730030.shtml",
+   "pub": "2026-11-11 12:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "上海市道路停车收费政策发布：15分钟内限次免费停",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729973.shtml",
+   "pub": "2026-11-11 11:48",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "追光，驭光，成为光（评论员观察）",
+   "link": "https://news.cctv.com/2026/11/11/ARTIaZwUJZcmcYjaYlz23ITn261111.shtml",
+   "pub": "2026-11-11 11:45",
+   "source": "央视网"
+  },
+  {
+   "title": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯",
+   "link": "https://news.cctv.com/2026/11/11/ARTIT5ye4pBGqaqDSoP61myL261111.shtml",
+   "pub": "2026-11-11 11:44",
+   "source": "央视网"
+  },
+  {
+   "title": "从澳门出发，为文明作答——写在“文明互鉴国际论坛2026”收官之际",
+   "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
+   "pub": "2026-11-11 11:43",
+   "source": "央视网"
+  },
+  {
+   "title": "国台办：以影为媒 两岸电影人携手弘扬中华文化",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730016.shtml",
+   "pub": "2026-11-11 11:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：深化两岸融合发展 促进两岸交流交往",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730008.shtml",
+   "pub": "2026-11-11 11:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "应急管理部公布一批粉尘涉爆领域执法典型案例",
+   "link": "https://news.cctv.com/2026/11/11/ARTIOirVtY3OUbuZYartZ7rD261111.shtml",
+   "pub": "2026-11-11 11:35",
+   "source": "央视网"
+  },
+  {
+   "title": "北京电影学院原副院长尼跃红受贿案一审宣判",
+   "link": "https://news.cctv.com/2026/11/11/ARTI3qhRBcgTsyrv683q4pv6261111.shtml",
+   "pub": "2026-11-11 11:35",
+   "source": "央视网"
+  },
+  {
+   "title": "找一颗与地球相似的行星为啥这么难",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730021.shtml",
+   "pub": "2026-11-11 11:32",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（乡村行·看振兴）广东徐村：“航天椒”鼓起村民“钱袋子”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730000.shtml",
+   "pub": "2026-11-11 11:30",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
+   "link": "https://news.cctv.com/2026/11/11/ARTIiyatMWhzD4PXuma8Cymu261111.shtml",
+   "pub": "2026-11-11 11:29",
+   "source": "央视网"
+  },
+  {
+   "title": "颗粒归仓、秋粮丰收！一起守护大国粮仓",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730013.shtml",
+   "pub": "2026-11-11 11:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新版《人类遗传资源管理条例实施细则》发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730010.shtml",
+   "pub": "2026-11-11 11:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730009.shtml",
+   "pub": "2026-11-11 11:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "广东引才专列驶入福州大学 新兴产业岗位占比过半",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729994.shtml",
+   "pub": "2026-11-11 11:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "福建再添一植物新种：闽江源马兜铃",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729997.shtml",
+   "pub": "2026-11-11 11:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国台办：人民军队日益强大 坚定捍卫国家主权、统一和领土完整",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730004.shtml",
+   "pub": "2026-11-11 11:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729992.shtml",
+   "pub": "2026-11-11 11:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "以色列新一届议会议员宣誓就职 议会举行首次会议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730001.shtml",
+   "pub": "2026-11-11 11:15",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "风笛伴寒而行，筑牢冬供“温暖防线”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730003.shtml",
+   "pub": "2026-11-11 11:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "美国众议院搁置弹劾防长赫格塞思的决议案",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729984.shtml",
+   "pub": "2026-11-11 11:14",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729998.shtml",
+   "pub": "2026-11-11 11:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "时代人物｜湟源的孩子",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729999.shtml",
+   "pub": "2026-11-11 11:11",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "【赓续长征精神 奋进复兴征程】湖北：长征精神耀荆楚 砥砺奋进新支点",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729993.shtml",
+   "pub": "2026-11-11 11:08",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国台办：民进党当局应停止政治操弄 切实为民谋利",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729985.shtml",
+   "pub": "2026-11-11 11:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：民进党当局所谓“反渗透法”是打压政治异己的工具",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729991.shtml",
+   "pub": "2026-11-11 11:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“闪身步”在岛内掀起模仿热潮 国台办回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729990.shtml",
+   "pub": "2026-11-11 11:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "《小城良方》等影视剧热播引发岛内“东北话听力挑战” 国台办回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729989.shtml",
+   "pub": "2026-11-11 11:03",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国务院台办：欢迎并支持更多台湾业者参与大陆微短剧创作",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729987.shtml",
+   "pub": "2026-11-11 11:02",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“明月出天山” “李白”现身新疆与游客对诗",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729983.shtml",
+   "pub": "2026-11-11 11:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "南京：明孝陵“最美600米”进入最佳观赏期",
+   "link": "https://photo.cctv.com/2026/11/11/PHOAF7X8ZtOfCdHnoLWX3AUJ261111.shtml",
+   "pub": "2026-11-11 10:53",
+   "source": "央视网"
+  },
+  {
+   "title": "青岛：海滨现“海滋”自然景观",
+   "link": "https://photo.cctv.com/2026/11/11/PHOA1CrUw82yrU2nmybiKc4M261111.shtml",
+   "pub": "2026-11-11 10:52",
+   "source": "央视网"
+  },
+  {
+   "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729962.shtml",
+   "pub": "2026-11-11 10:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "一艘运载4万吨俄柴油的油轮驶向纽约，却在“临门一脚”时停航？",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729931.shtml",
+   "pub": "2026-11-11 10:50",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "山西现存大藏经珍本首次集中亮相",
+   "link": "https://photo.cctv.com/2026/11/11/PHOAT6LF02vW1VFMtb8LOHgV261111.shtml",
+   "pub": "2026-11-11 10:50",
+   "source": "央视网"
+  },
+  {
+   "title": "西藏藏医药大学第五届曼唐解说大赛圆满落幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729947.shtml",
+   "pub": "2026-11-11 10:48",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "湖南道县：砂糖桔迎丰收",
+   "link": "https://photo.cctv.com/2026/11/11/PHOATAfzBzvjoRJ5m7vt3Nif261111.shtml",
+   "pub": "2026-11-11 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "“十五五”时期我国将采取多项举措保障和改善民生",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729975.shtml",
+   "pub": "2026-11-11 10:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
+   "link": "https://news.cctv.com/2026/11/11/ARTI7YbYtLFDvlYazrsI0yr6261111.shtml",
+   "pub": "2026-11-11 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "一首童谣传唱近百年：美国人柏大卫与青海湟源的双向牵挂",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729972.shtml",
+   "pub": "2026-11-11 10:46",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "人民空军，生日快乐！",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729971.shtml",
+   "pub": "2026-11-11 10:41",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "2026年中英清洁能源合作论坛举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729960.shtml",
+   "pub": "2026-11-11 10:38",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴黎中国文化中心举办“中国味道”主题沙龙活动",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729956.shtml",
+   "pub": "2026-11-11 10:38",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729958.shtml",
+   "pub": "2026-11-11 10:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从钱塘江到泰晤士河—“诗画浙江”走进英国",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729952.shtml",
+   "pub": "2026-11-11 10:28",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "上海市道路停车收费政策发布：15分钟内限次免费停",
+   "link": "https://news.cctv.com/2026/11/11/ARTI6zNWaWJ7KESacNd19A4P261111.shtml",
+   "pub": "2026-11-11 10:28",
+   "source": "央视网"
+  },
+  {
+   "title": "日本学者：“安保三文件”相关修订或将加剧地区紧张局势",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729953.shtml",
+   "pub": "2026-11-11 10:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "日本推动修订“安保三文件” 威胁地区和平稳定",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729949.shtml",
+   "pub": "2026-11-11 10:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "贵州省信访局原局长马磊被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729941.shtml",
+   "pub": "2026-11-11 10:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729939.shtml",
+   "pub": "2026-11-11 10:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "陈永奇任江西省人民政府副省长、代理省长职务",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729943.shtml",
+   "pub": "2026-11-11 10:11",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "保加利亚连环车祸致12死50伤  11日为全国哀悼日",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729928.shtml",
+   "pub": "2026-11-11 10:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
+   "link": "https://news.cctv.com/2026/11/11/ARTIf5hsq832mL0R4cxk4LtO261111.shtml",
+   "pub": "2026-11-11 10:09",
+   "source": "央视网"
+  },
+  {
+   "title": "贵州省信访局原局长马磊被“双开”",
+   "link": "https://news.cctv.com/2026/11/11/ARTI1aT2R7G2jX1AYe19PwM0261111.shtml",
+   "pub": "2026-11-11 10:09",
+   "source": "央视网"
+  },
+  {
+   "title": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729940.shtml",
+   "pub": "2026-11-11 10:08",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "海南省人大常委会原副主任肖杰被提起公诉",
+   "link": "https://news.cctv.com/2026/11/11/ARTIUYeHIl5ud7GzUG5X4xjf261111.shtml",
+   "pub": "2026-11-11 10:08",
+   "source": "央视网"
+  },
+  {
+   "title": "广东检察机关依法对肖杰涉嫌受贿案提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729935.shtml",
+   "pub": "2026-11-11 10:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "涉嫌为俄罗斯从事间谍活动，一名美军士兵在英国被捕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729936.shtml",
+   "pub": "2026-11-11 10:01",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "韩正会见联合国秘书长古特雷斯",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729908.shtml",
+   "pub": "2026-11-11 09:58",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "西安高校团队研发公路安全仿真平台 护航山区通行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729927.shtml",
+   "pub": "2026-11-11 09:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "广西将加快推动自然灾害治理向事前预防转型",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729926.shtml",
+   "pub": "2026-11-11 09:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "平台试点推出“机器人救护车” 全新就业赛道面临哪些挑战？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729925.shtml",
+   "pub": "2026-11-11 09:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "四部门：进一步做好创新药安全合理配备使用工作",
+   "link": "https://news.cctv.com/2026/11/11/ARTIxgdjFe59w44iQIMRx85j261111.shtml",
+   "pub": "2026-11-11 09:29",
+   "source": "央视网"
+  },
+  {
+   "title": "云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729909.shtml",
+   "pub": "2026-11-11 09:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "火流星散落石家庄周边 “天外来客”价值几何？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729905.shtml",
+   "pub": "2026-11-11 09:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第八届中法文化论坛·温州菜品鉴活动在巴黎举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729904.shtml",
+   "pub": "2026-11-11 08:59",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "未来三天北京晴天持续昼夜温差可达15℃ 扩散条件逐渐转差",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729903.shtml",
+   "pub": "2026-11-11 08:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中东部快速升温多地暖意同期少见 13日起雨雪天气增多",
+   "link": "https://news.cctv.com/2026/11/11/ARTIX8uBEIOpVLYueeGzHhpc261111.shtml",
+   "pub": "2026-11-11 08:53",
+   "source": "央视网"
+  },
+  {
+   "title": "拾光纪·总书记这样呼吁海内外全体中华儿女",
+   "link": "https://news.cctv.com/2026/11/11/ARTIFrAQL21DrwRtOaMWSLPs261111.shtml",
+   "pub": "2026-11-11 08:49",
+   "source": "央视网"
+  },
+  {
+   "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729898.shtml",
+   "pub": "2026-11-11 08:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从“飞两遍”到“双隐身”，这片天空他们守了77年",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729896.shtml",
+   "pub": "2026-11-11 08:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "厦门大学图书馆：让百年校史可见可感",
+   "link": "https://news.cctv.com/2026/11/11/ARTIr5GkHlSHgD3WAc8zhMYi261111.shtml",
+   "pub": "2026-11-11 08:16",
+   "source": "央视网"
+  },
   {
    "title": "【8点见】梁家辉、高叶分获金鸡奖最佳男、女主角",
    "link": "https://news.cctv.com/2026/11/11/ARTIP0W3itdCIMTIZekfvk0a261111.shtml",
    "pub": "2026-11-11 08:00",
    "source": "央视网"
+  },
+  {
+   "title": "从线上到线下 求职招聘如何更好实现双向奔赴？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729894.shtml",
+   "pub": "2026-11-11 07:57",
+   "source": "中国新闻网·社会"
   },
   {
    "title": "第九届巴黎和平论坛开幕 聚焦“从主权到合作”",
@@ -22,34 +466,28 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "大道行丨亚太潮涌 同舟扬帆",
-   "link": "https://news.cctv.com/2026/11/11/ARTI8s5ZUGYpEpzvJAx3jAbJ261111.shtml",
-   "pub": "2026-11-11 07:52",
-   "source": "央视网"
-  },
-  {
    "title": "美国防长赫格塞思举行记者会回应弹劾",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729884.shtml",
    "pub": "2026-11-11 07:52",
    "source": "中国新闻网·国际"
   },
   {
+   "title": "大道行丨亚太潮涌 同舟扬帆",
+   "link": "https://news.cctv.com/2026/11/11/ARTI8s5ZUGYpEpzvJAx3jAbJ261111.shtml",
+   "pub": "2026-11-11 07:52",
+   "source": "央视网"
+  },
+  {
    "title": "外媒：美国众议院共和党人阻止了对赫格塞思的弹劾提案",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729891.shtml",
    "pub": "2026-11-11 07:47",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "你囤Token了吗？“双十一”AI消费套路避坑指南",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729890.shtml",
    "pub": "2026-11-11 07:43",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "韩正会见联合国秘书长古特雷斯",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729886.shtml",
-   "pub": "2026-11-11 07:42",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "@高校毕业生：提升就业能力 这三类补贴别错过",
@@ -64,6 +502,18 @@
    "source": "央视网"
   },
   {
+   "title": "第一批新车次列车车票 今起陆续发售",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
+   "pub": "2026-11-11 07:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "严格贯彻执行民主集中制（学习贯彻党的二十届五中全会精神）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729885.shtml",
+   "pub": "2026-11-11 07:31",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "“影视考古”为何打动年轻观众",
    "link": "https://news.cctv.com/2026/11/11/ARTIls48Dc6U9qtnU4s34ETn261111.shtml",
    "pub": "2026-11-11 07:25",
@@ -73,7 +523,7 @@
    "title": "保加利亚连环车祸已致12死  政府宣布全国哀悼",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
    "pub": "2026-11-11 07:19",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "宁波舟山港年集装箱吞吐量突破4000万箱",
@@ -127,7 +577,7 @@
    "title": "阿布扎比首日会谈持续近4小时 俄美乌三方表态",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729881.shtml",
    "pub": "2026-11-11 06:56",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
@@ -260,15 +710,30 @@
    "link": "https://news.cctv.com/2026/11/11/ARTIwoznZDOYlc3KNkcsH3XV261111.shtml",
    "pub": "2026-11-11 04:14",
    "source": "央视网"
-  },
-  {
-   "title": "马来西亚前总理纳吉布开始居家服刑",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
-   "pub": "2026-11-11 00:01",
-   "source": "中国新闻网·国际"
   }
  ],
  "ai": [
+  {
+   "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
+   "link": "https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o",
+   "meta": "Rohan Paul · 发布于 11-11 08:58 · 行业",
+   "summary": "FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。",
+   "origin": "https://x.com/rohanpaul_ai/status/2120320127484969162"
+  },
+  {
+   "title": "OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本",
+   "link": "https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4",
+   "meta": "OpenRouter：Announcements · 发布于 11-11 08:00 · 教程",
+   "summary": "OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。",
+   "origin": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/"
+  },
+  {
+   "title": "OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响",
+   "link": "https://aihot.news/items/i3gp1xj4j11gi4qoreya18izb",
+   "meta": "OpenRouter：Announcements · 发布于 11-11 08:00 · 教程",
+   "summary": "OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 年 10 月 20 日对 1455 个 provider 端点和 Qwen3.8 27B 六个端点的实测。",
+   "origin": "https://openrouter.ai/blog/insights/llm-quantization/"
+  },
   {
    "title": "Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作",
    "link": "https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj",
@@ -303,27 +768,6 @@
    "meta": "OpenAI：失准报告与通报 · 发布于 11-10 08:00 · 论文",
    "summary": "OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。",
    "origin": "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"
-  },
-  {
-   "title": "OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性",
-   "link": "https://aihot.news/items/uif827ayipylunwlh7gejgcbo",
-   "meta": "OpenAI：Alignment 研究博客 · 发布于 11-10 16:00 · 论文",
-   "summary": "OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。",
-   "origin": "https://alignment.openai.com/cot-monitorability-model-lifecycle/"
-  },
-  {
-   "title": "Anthropic 研究：稀释投毒微调数据反而会强化其后门效应",
-   "link": "https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9",
-   "meta": "Anthropic：Alignment Science Blog · 发布于 11-10 08:00 · 论文",
-   "summary": "Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用很小的投毒数据，在混入同类型干净对比数据后会形成隐藏后门。",
-   "origin": "https://alignment.anthropic.com/2026/homeopathic-learning/"
-  },
-  {
-   "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
-   "link": "https://aihot.news/items/zycmiklep7i6dct58558jbp78",
-   "meta": "OpenRouter · 发布于 11-11 03:18 · 行业",
-   "summary": "OpenRouter 官方宣布正式并入 Stripe。OpenRouter 称有超过 1000 万开发者和公司使用其平台，它为多模型、多 provider 的 AI 运行提供基础设施，包括访问新模型、故障期间保持可用，以及为团队执行支出和数据策略。",
-   "origin": "https://x.com/OpenRouter/status/2120234542183395787"
   }
  ]
 }
