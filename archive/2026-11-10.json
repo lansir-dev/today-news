@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "fetched": "2026-11-11 20:05",
+ "fetched": "2026-11-11 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1386,6 +1386,13 @@
  ],
  "ai": [
   {
+   "title": "OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic",
+   "link": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
+   "meta": "The Decoder：AI News · 发布于 11-11 20:12 · 行业",
+   "summary": "据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。",
+   "origin": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
+  },
+  {
    "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
    "link": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
    "meta": "Rohan Paul · 发布于 11-11 13:47 · 行业",
@@ -1433,13 +1440,6 @@
    "meta": "公众号：数字生命卡兹克 · 发布于 11-11 07:56 · 观点",
    "summary": "作者实测 Claude Fable 5.2 与 Gemini 4 Carbon 并对比后认为，Fable 5.2 的突出差异在于审美，这是无法用 Benchmark 评估但可直观感受的东西。",
    "origin": "https://mp.weixin.qq.com/s/zgBGhOsuh6Z_5Enmzos3rQ"
-  },
-  {
-   "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
-   "link": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
-   "meta": "Microsoft Research 博客 · 发布于 11-11 04:52 · 论文",
-   "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
-   "origin": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
   }
  ]
 }
