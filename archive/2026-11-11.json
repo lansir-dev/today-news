@@ -1,8 +1,92 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 17:05",
+ "fetched": "2026-11-11 17:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "孟加拉国患者跨海赴山西临汾寻中医",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730308.shtml",
+   "pub": "2026-11-11 17:31",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "哈尔滨“领跑”中国冰雪旅游过夜目的地",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730301.shtml",
+   "pub": "2026-11-11 17:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国台办例行新闻发布会关注台企“回流”大陆等热点",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730290.shtml",
+   "pub": "2026-11-11 17:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "北京力争到2030年经常参加体育锻炼人数比例达55%",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730288.shtml",
+   "pub": "2026-11-11 17:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "COP31“生态文明与美丽中国实践”主题边会举办",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730278.shtml",
+   "pub": "2026-11-11 17:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“老菜市”变身“新地标” 百姓在买菜小事里感受生活便捷与邻里温暖",
+   "link": "https://news.cctv.com/2026/11/11/ARTILV1U3xFAXOFsb9iDpK1Y261111.shtml",
+   "pub": "2026-11-11 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "选择更多，好处实实在在！“班列好物”跨越山海装满百姓“购物车”",
+   "link": "https://news.cctv.com/2026/11/11/ARTIBkddF8Z1B8BhSUPMYTXg261111.shtml",
+   "pub": "2026-11-11 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "市场监管总局就电子计价秤网络销售计量合规要求公开征求意见",
+   "link": "https://news.cctv.com/2026/11/11/ARTIcI4fVm7PXB0wYx0iKyH1261111.shtml",
+   "pub": "2026-11-11 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "“技术迭代+产品力提升+接受度提高”支撑新能源汽车销量占比持续抬升",
+   "link": "https://news.cctv.com/2026/11/11/ARTIfgLkoGZV7AHZb47skhDb261111.shtml",
+   "pub": "2026-11-11 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "候鸟舞翩跹绘就生态美景 “越冬食堂”水草丰茂、饵料充足引“客”来",
+   "link": "https://news.cctv.com/2026/11/11/ARTI1OXMZ9LZv5nLcGtEWxom261111.shtml",
+   "pub": "2026-11-11 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "观察·像充话费一样买词元，消费者买单吗？",
+   "link": "https://news.cctv.com/2026/11/11/ARTIliCEMnhIFO0hYWmila6t261111.shtml",
+   "pub": "2026-11-11 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "西藏那曲市尼玛县发生3.3级地震，震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/11/ARTIUCM0y44y4GZY2swsZQ0D261111.shtml",
+   "pub": "2026-11-11 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "银幕光影融入城市街巷 游客在休闲消费中探索“银幕之外”多元体验",
+   "link": "https://news.cctv.com/2026/11/11/ARTIEQPR1zcvpXjZSE6txb9j261111.shtml",
+   "pub": "2026-11-11 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年APEC领导人会议周新闻中心启用",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730284.shtml",
+   "pub": "2026-11-11 17:08",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "河北发布大雾黄色预警信号，局地能见度不足200米",
    "link": "https://news.cctv.com/2026/11/11/ARTIniCYxoBlW2feXJaGPYlc261111.shtml",
@@ -56,6 +140,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730221.shtml",
    "pub": "2026-11-11 16:34",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "在深圳，与世界同框丨美国创业者吴嘉伟：想做联通中国与世界的桥",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730266.shtml",
+   "pub": "2026-11-11 16:32",
+   "source": "中国新闻网·社会"
   },
   {
    "title": "于运全：以科技创新、知识共享、伙伴协作推动“后2030”议程",
@@ -412,30 +502,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "宁夏深化耕地占补平衡改革 守牢耕地保护红线",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730113.shtml",
-   "pub": "2026-11-11 14:51",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "手机深处，广告在等你手滑",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730153.shtml",
-   "pub": "2026-11-11 14:51",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "新疆兵团：多元产业业态激活增收“新引擎”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730111.shtml",
-   "pub": "2026-11-11 14:49",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "吉林投用雪板架网约车 护航新雪季与大冬会交通",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730142.shtml",
-   "pub": "2026-11-11 14:48",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "民进党当局称修订“反渗透法” 国台办指放大“寒蝉效应”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730105.shtml",
    "pub": "2026-11-11 14:46",
@@ -622,12 +688,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
-   "pub": "2026-11-11 12:25",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "“试配方”变“算配方”黑灯实验室开辟新赛道 科研人员从“操作员”转向“思想者”",
    "link": "https://news.cctv.com/2026/11/11/ARTIusvSeRegP7KMOXE2twQj261111.shtml",
    "pub": "2026-11-11 12:23",
@@ -658,12 +718,6 @@
    "source": "央视网"
   },
   {
-   "title": "中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729981.shtml",
-   "pub": "2026-11-11 12:07",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "追光，驭光，成为光（评论员观察）",
    "link": "https://news.cctv.com/2026/11/11/ARTIaZwUJZcmcYjaYlz23ITn261111.shtml",
    "pub": "2026-11-11 11:45",
@@ -680,18 +734,6 @@
    "link": "https://news.cctv.com/2026/11/11/ARTIuWZUHnWqaRMAVEL3YNd8261111.shtml",
    "pub": "2026-11-11 11:43",
    "source": "央视网"
-  },
-  {
-   "title": "国台办：以影为媒 两岸电影人携手弘扬中华文化",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730016.shtml",
-   "pub": "2026-11-11 11:39",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国台办：深化两岸融合发展 促进两岸交流交往",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730008.shtml",
-   "pub": "2026-11-11 11:36",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "应急管理部公布一批粉尘涉爆领域执法典型案例",
