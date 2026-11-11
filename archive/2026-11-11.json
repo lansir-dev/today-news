@@ -1,8 +1,104 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 15:35",
+ "fetched": "2026-11-11 16:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "从“养老”到“享老”：科尔沁草原上的银龄答卷",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730230.shtml",
+   "pub": "2026-11-11 15:59",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "成都航空口岸2026年出入境人员突破600万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730223.shtml",
+   "pub": "2026-11-11 15:59",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "绥芬河公路口岸货运量、车流量双创新高",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730216.shtml",
+   "pub": "2026-11-11 15:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "走访牛河梁遗址：溯源辽河文明曙光 对话五千载红山文脉",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730214.shtml",
+   "pub": "2026-11-11 15:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "近百名两岸青年福建惠安开启徒步寻根之旅",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730213.shtml",
+   "pub": "2026-11-11 15:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "台湾青年为爱扎根南京 创意特调咖啡成街区爆款",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730212.shtml",
+   "pub": "2026-11-11 15:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从雪场到街巷 吉林小城借大冬会焕新迎客",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730208.shtml",
+   "pub": "2026-11-11 15:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "赋能师生“心”力量 专家建言探索多方协同支持方式",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730210.shtml",
+   "pub": "2026-11-11 15:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "谢锋：中美关系发展不会一帆风顺，但历史大势不可阻挡",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730200.shtml",
+   "pub": "2026-11-11 15:53",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "江苏盐城市亭湖区卫健委开展拟上市企业职业卫生分类监督执法指导",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730202.shtml",
+   "pub": "2026-11-11 15:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "美国议员在黄仁勋事件后再次呼吁收紧美国输华芯片 外交部：中方立场是一贯的",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730207.shtml",
+   "pub": "2026-11-11 15:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "以色列空袭加沙地带 致7人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730195.shtml",
+   "pub": "2026-11-11 15:50",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "实体书店首次纳入图书馆总分馆体系 如何更好服务全民阅读？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730196.shtml",
+   "pub": "2026-11-11 15:43",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "李强将访问泰国并赴菲律宾出席中国—东盟领导人会议 外交部介绍情况",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730189.shtml",
+   "pub": "2026-11-11 15:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730190.shtml",
+   "pub": "2026-11-11 15:37",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "加拿大总理称中国等国家不应干预加拿大内政 外交部：中方从来没有兴趣",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730188.shtml",
+   "pub": "2026-11-11 15:30",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "购物车里的搁置清单 未成交订单折射哪些消费新信号？",
    "link": "https://news.cctv.com/2026/11/11/ARTIzH3QxI0KXNlawEBxhOKg261111.shtml",
@@ -28,10 +124,22 @@
    "source": "央视网"
   },
   {
+   "title": "中国已与25个“一带一路”共建国家签署19个自贸协定",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730181.shtml",
+   "pub": "2026-11-11 15:23",
+   "source": "中国新闻网"
+  },
+  {
    "title": "最高检、公安部发布依法惩治洗钱犯罪典型案例",
    "link": "https://news.cctv.com/2026/11/11/ARTIhwanWM2P40FLWO71oVlQ261111.shtml",
    "pub": "2026-11-11 15:22",
    "source": "央视网"
+  },
+  {
+   "title": "东西问丨黄子坚：海外华人研究如何助力破解华人融入难题？",
+   "link": "https://www.chinanews.com.cn/dxw/2026/11-11/10730171.shtml",
+   "pub": "2026-11-11 15:22",
+   "source": "中国新闻网"
   },
   {
    "title": "韩国一辆公交车冲撞32辆汽车致48人伤",
@@ -56,12 +164,6 @@
    "link": "https://news.cctv.com/2026/11/11/ARTImmpxrByNbH17oye3jmnz261111.shtml",
    "pub": "2026-11-11 15:14",
    "source": "央视网"
-  },
-  {
-   "title": "李强将访问泰国并赴菲律宾出席中国—东盟领导人会议",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730169.shtml",
-   "pub": "2026-11-11 15:08",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "首届AI赋能科学发现奖揭晓 全球四位科研人员获奖",
@@ -478,52 +580,16 @@
    "source": "央视网"
   },
   {
-   "title": "找一颗与地球相似的行星为啥这么难",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730021.shtml",
-   "pub": "2026-11-11 11:32",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "（乡村行·看振兴）广东徐村：“航天椒”鼓起村民“钱袋子”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730000.shtml",
-   "pub": "2026-11-11 11:30",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
    "link": "https://news.cctv.com/2026/11/11/ARTIiyatMWhzD4PXuma8Cymu261111.shtml",
    "pub": "2026-11-11 11:29",
    "source": "央视网"
   },
   {
-   "title": "颗粒归仓、秋粮丰收！一起守护大国粮仓",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730013.shtml",
-   "pub": "2026-11-11 11:27",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "新版《人类遗传资源管理条例实施细则》发布",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730010.shtml",
    "pub": "2026-11-11 11:25",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730009.shtml",
-   "pub": "2026-11-11 11:24",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "广东引才专列驶入福州大学 新兴产业岗位占比过半",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729994.shtml",
-   "pub": "2026-11-11 11:24",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "福建再添一植物新种：闽江源马兜铃",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729997.shtml",
-   "pub": "2026-11-11 11:22",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "国台办：人民军队日益强大 坚定捍卫国家主权、统一和领土完整",
@@ -538,12 +604,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "风笛伴寒而行，筑牢冬供“温暖防线”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730003.shtml",
-   "pub": "2026-11-11 11:15",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "美国众议院搁置弹劾防长赫格塞思的决议案",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729984.shtml",
    "pub": "2026-11-11 11:14",
@@ -556,12 +616,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "时代人物｜湟源的孩子",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729999.shtml",
-   "pub": "2026-11-11 11:11",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国台办：民进党当局应停止政治操弄 切实为民谋利",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729985.shtml",
    "pub": "2026-11-11 11:07",
@@ -571,24 +625,6 @@
    "title": "国台办：民进党当局所谓“反渗透法”是打压政治异己的工具",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729991.shtml",
    "pub": "2026-11-11 11:06",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "“闪身步”在岛内掀起模仿热潮 国台办回应",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729990.shtml",
-   "pub": "2026-11-11 11:04",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "《小城良方》等影视剧热播引发岛内“东北话听力挑战” 国台办回应",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729989.shtml",
-   "pub": "2026-11-11 11:03",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国务院台办：欢迎并支持更多台湾业者参与大陆微短剧创作",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729987.shtml",
-   "pub": "2026-11-11 11:02",
    "source": "中国新闻网·国内"
   },
   {
@@ -626,12 +662,6 @@
    "link": "https://news.cctv.com/2026/11/11/ARTI7YbYtLFDvlYazrsI0yr6261111.shtml",
    "pub": "2026-11-11 10:47",
    "source": "央视网"
-  },
-  {
-   "title": "人民空军，生日快乐！",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729971.shtml",
-   "pub": "2026-11-11 10:41",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "2026年中英清洁能源合作论坛举行",
@@ -820,12 +850,6 @@
    "source": "央视网"
   },
   {
-   "title": "保加利亚连环车祸已致12死  政府宣布全国哀悼",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
-   "pub": "2026-11-11 07:19",
-   "source": "中国新闻网"
-  },
-  {
    "title": "宁波舟山港年集装箱吞吐量突破4000万箱",
    "link": "https://news.cctv.com/2026/11/11/ARTI0vcT5yQKTo7C7BvOlfUy261111.shtml",
    "pub": "2026-11-11 07:15",
@@ -860,12 +884,6 @@
    "link": "https://news.cctv.com/2026/11/11/ARTILl8pdUIQV6QR9vXXraLn261111.shtml",
    "pub": "2026-11-11 07:01",
    "source": "央视网"
-  },
-  {
-   "title": "今天，祝你生日快乐！",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729882.shtml",
-   "pub": "2026-11-11 07:00",
-   "source": "中国新闻网"
   },
   {
    "title": "骸骨迷踪：前后跨越28年的“花坛藏尸案”侦破始末",
@@ -910,12 +928,6 @@
    "source": "央视网"
   },
   {
-   "title": "泰国内阁批准数据中心七级监管政策",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729866.shtml",
-   "pub": "2026-11-11 05:53",
-   "source": "中国新闻网"
-  },
-  {
    "title": "多地车主收到“车辆召回”短信 如何防范精准诱捕式诈骗？",
    "link": "https://news.cctv.com/2026/11/11/ARTIyWi1JMVjerwODH38PrrX261110.shtml",
    "pub": "2026-11-11 05:36",
@@ -938,12 +950,6 @@
    "link": "https://news.cctv.com/2026/11/11/ARTIwoznZDOYlc3KNkcsH3XV261111.shtml",
    "pub": "2026-11-11 04:14",
    "source": "央视网"
-  },
-  {
-   "title": "马来西亚前总理纳吉布开始居家服刑",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
-   "pub": "2026-11-11 00:01",
-   "source": "中国新闻网"
   }
  ],
  "ai": [
