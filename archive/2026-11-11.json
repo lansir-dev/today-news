@@ -1,19 +1,67 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-11 12:10",
- "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
+ "fetched": "2026-11-11 12:35",
+ "note": "今日抓取",
  "items": [
   {
-   "title": "应急管理部公布一批粉尘涉爆领域执法典型案例",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730030.shtml",
-   "pub": "2026-11-11 12:02",
+   "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
+   "pub": "2026-11-11 12:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“试配方”变“算配方”黑灯实验室开辟新赛道 科研人员从“操作员”转向“思想者”",
+   "link": "https://news.cctv.com/2026/11/11/ARTIusvSeRegP7KMOXE2twQj261111.shtml",
+   "pub": "2026-11-11 12:23",
+   "source": "央视网"
+  },
+  {
+   "title": "守好文脉算好老厂房的“盘活账” “不拆”老厂也能“织”出新消费",
+   "link": "https://news.cctv.com/2026/11/11/ARTIZGInfMVFkMGUHWy4l5H5261111.shtml",
+   "pub": "2026-11-11 12:22",
+   "source": "央视网"
+  },
+  {
+   "title": "医疗机构主动做强基层引导群众就近就医 激活分级诊疗内生动力",
+   "link": "https://news.cctv.com/2026/11/11/ARTINJjMkaP2d3N8CptDKPKY261111.shtml",
+   "pub": "2026-11-11 12:22",
+   "source": "央视网"
+  },
+  {
+   "title": "“6天+365天”！让“开放”成为可触摸日常是进博会最生动“成绩单”",
+   "link": "https://news.cctv.com/2026/11/11/ARTIG4yp4hgGJZObEJgbQay9261111.shtml",
+   "pub": "2026-11-11 12:22",
+   "source": "央视网"
+  },
+  {
+   "title": "进博会，明年见！邀请函不设门槛 “小而美”一样有舞台",
+   "link": "https://news.cctv.com/2026/11/11/ARTImek2mtQ0snTI6esIGvnN261111.shtml",
+   "pub": "2026-11-11 12:21",
+   "source": "央视网"
+  },
+  {
+   "title": "炮制历史谣言、筛选受众卖课 揭露伪史博主的流量生意",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730034.shtml",
+   "pub": "2026-11-11 12:21",
    "source": "中国新闻网·社会"
   },
   {
-   "title": "上海市道路停车收费政策发布：15分钟内限次免费停",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729973.shtml",
-   "pub": "2026-11-11 11:48",
+   "title": "直播间买到假货谁来赔？典型案例厘清商家、主播、平台责任",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730032.shtml",
+   "pub": "2026-11-11 12:10",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "枯水期逆势回升 中国最大淡水湖水位突破12米枯水位线",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730024.shtml",
+   "pub": "2026-11-11 12:09",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729981.shtml",
+   "pub": "2026-11-11 12:07",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "追光，驭光，成为光（评论员观察）",
@@ -112,16 +160,10 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729992.shtml",
-   "pub": "2026-11-11 11:15",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "以色列新一届议会议员宣誓就职 议会举行首次会议",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730001.shtml",
    "pub": "2026-11-11 11:15",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "风笛伴寒而行，筑牢冬供“温暖防线”",
@@ -202,10 +244,10 @@
    "source": "央视网"
   },
   {
-   "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729962.shtml",
+   "title": "山西现存大藏经珍本首次集中亮相",
+   "link": "https://photo.cctv.com/2026/11/11/PHOAT6LF02vW1VFMtb8LOHgV261111.shtml",
    "pub": "2026-11-11 10:50",
-   "source": "中国新闻网·国内"
+   "source": "央视网"
   },
   {
    "title": "一艘运载4万吨俄柴油的油轮驶向纽约，却在“临门一脚”时停航？",
@@ -214,9 +256,9 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "山西现存大藏经珍本首次集中亮相",
-   "link": "https://photo.cctv.com/2026/11/11/PHOAT6LF02vW1VFMtb8LOHgV261111.shtml",
-   "pub": "2026-11-11 10:50",
+   "title": "湖南道县：砂糖桔迎丰收",
+   "link": "https://photo.cctv.com/2026/11/11/PHOATAfzBzvjoRJ5m7vt3Nif261111.shtml",
+   "pub": "2026-11-11 10:48",
    "source": "央视网"
   },
   {
@@ -226,9 +268,9 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "湖南道县：砂糖桔迎丰收",
-   "link": "https://photo.cctv.com/2026/11/11/PHOATAfzBzvjoRJ5m7vt3Nif261111.shtml",
-   "pub": "2026-11-11 10:48",
+   "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
+   "link": "https://news.cctv.com/2026/11/11/ARTI7YbYtLFDvlYazrsI0yr6261111.shtml",
+   "pub": "2026-11-11 10:47",
    "source": "央视网"
   },
   {
@@ -236,12 +278,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729975.shtml",
    "pub": "2026-11-11 10:47",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
-   "link": "https://news.cctv.com/2026/11/11/ARTI7YbYtLFDvlYazrsI0yr6261111.shtml",
-   "pub": "2026-11-11 10:47",
-   "source": "央视网"
   },
   {
    "title": "一首童谣传唱近百年：美国人柏大卫与青海湟源的双向牵挂",
@@ -268,10 +304,10 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729958.shtml",
+   "title": "上海市道路停车收费政策发布：15分钟内限次免费停",
+   "link": "https://news.cctv.com/2026/11/11/ARTI6zNWaWJ7KESacNd19A4P261111.shtml",
    "pub": "2026-11-11 10:28",
-   "source": "中国新闻网·国内"
+   "source": "央视网"
   },
   {
    "title": "从钱塘江到泰晤士河—“诗画浙江”走进英国",
@@ -280,10 +316,10 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "上海市道路停车收费政策发布：15分钟内限次免费停",
-   "link": "https://news.cctv.com/2026/11/11/ARTI6zNWaWJ7KESacNd19A4P261111.shtml",
-   "pub": "2026-11-11 10:28",
-   "source": "央视网"
+   "title": "市场监管总局部署多项举措 共建放心消费生态圈",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729954.shtml",
+   "pub": "2026-11-11 10:25",
+   "source": "中国新闻网"
   },
   {
    "title": "日本学者：“安保三文件”相关修订或将加剧地区紧张局势",
@@ -298,16 +334,10 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "贵州省信访局原局长马磊被“双开”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729941.shtml",
-   "pub": "2026-11-11 10:15",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729939.shtml",
-   "pub": "2026-11-11 10:13",
-   "source": "中国新闻网·国内"
+   "title": "“一纸合约 多层关系”MCN机构签约乱象频发 如何完善行业规则？",
+   "link": "https://www.chinanews.com.cn/fz/2026/11-11/10729948.shtml",
+   "pub": "2026-11-11 10:18",
+   "source": "中国新闻网"
   },
   {
    "title": "陈永奇任江西省人民政府副省长、代理省长职务",
@@ -334,28 +364,28 @@
    "source": "央视网"
   },
   {
-   "title": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729940.shtml",
-   "pub": "2026-11-11 10:08",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "海南省人大常委会原副主任肖杰被提起公诉",
    "link": "https://news.cctv.com/2026/11/11/ARTIUYeHIl5ud7GzUG5X4xjf261111.shtml",
    "pub": "2026-11-11 10:08",
    "source": "央视网"
   },
   {
-   "title": "广东检察机关依法对肖杰涉嫌受贿案提起公诉",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729935.shtml",
-   "pub": "2026-11-11 10:01",
-   "source": "中国新闻网·国内"
+   "title": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729940.shtml",
+   "pub": "2026-11-11 10:08",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "涉嫌为俄罗斯从事间谍活动，一名美军士兵在英国被捕",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729936.shtml",
    "pub": "2026-11-11 10:01",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
+  },
+  {
+   "title": "广东检察机关依法对肖杰涉嫌受贿案提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729935.shtml",
+   "pub": "2026-11-11 10:01",
+   "source": "中国新闻网"
   },
   {
    "title": "韩正会见联合国秘书长古特雷斯",
@@ -379,7 +409,7 @@
    "title": "平台试点推出“机器人救护车” 全新就业赛道面临哪些挑战？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729925.shtml",
    "pub": "2026-11-11 09:47",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "四部门：进一步做好创新药安全合理配备使用工作",
@@ -403,7 +433,7 @@
    "title": "第八届中法文化论坛·温州菜品鉴活动在巴黎举行",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729904.shtml",
    "pub": "2026-11-11 08:59",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "未来三天北京晴天持续昼夜温差可达15℃ 扩散条件逐渐转差",
@@ -457,19 +487,13 @@
    "title": "第九届巴黎和平论坛开幕 聚焦“从主权到合作”",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729889.shtml",
    "pub": "2026-11-11 07:56",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "多地车主收到“车辆召回”短信 确有其事吗？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729893.shtml",
    "pub": "2026-11-11 07:53",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "美国防长赫格塞思举行记者会回应弹劾",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729884.shtml",
-   "pub": "2026-11-11 07:52",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "大道行丨亚太潮涌 同舟扬帆",
@@ -478,16 +502,22 @@
    "source": "央视网"
   },
   {
+   "title": "美国防长赫格塞思举行记者会回应弹劾",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729884.shtml",
+   "pub": "2026-11-11 07:52",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "外媒：美国众议院共和党人阻止了对赫格塞思的弹劾提案",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729891.shtml",
    "pub": "2026-11-11 07:47",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "你囤Token了吗？“双十一”AI消费套路避坑指南",
    "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729890.shtml",
    "pub": "2026-11-11 07:43",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "@高校毕业生：提升就业能力 这三类补贴别错过",
@@ -502,18 +532,6 @@
    "source": "央视网"
   },
   {
-   "title": "第一批新车次列车车票 今起陆续发售",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
-   "pub": "2026-11-11 07:34",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "严格贯彻执行民主集中制（学习贯彻党的二十届五中全会精神）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729885.shtml",
-   "pub": "2026-11-11 07:31",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "“影视考古”为何打动年轻观众",
    "link": "https://news.cctv.com/2026/11/11/ARTIls48Dc6U9qtnU4s34ETn261111.shtml",
    "pub": "2026-11-11 07:25",
@@ -523,7 +541,7 @@
    "title": "保加利亚连环车祸已致12死  政府宣布全国哀悼",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
    "pub": "2026-11-11 07:19",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "宁波舟山港年集装箱吞吐量突破4000万箱",
@@ -565,7 +583,7 @@
    "title": "今天，祝你生日快乐！",
    "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729882.shtml",
    "pub": "2026-11-11 07:00",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "骸骨迷踪：前后跨越28年的“花坛藏尸案”侦破始末",
@@ -685,7 +703,7 @@
    "title": "泰国内阁批准数据中心七级监管政策",
    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729866.shtml",
    "pub": "2026-11-11 05:53",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "多地车主收到“车辆召回”短信 如何防范精准诱捕式诈骗？",
@@ -710,9 +728,22 @@
    "link": "https://news.cctv.com/2026/11/11/ARTIwoznZDOYlc3KNkcsH3XV261111.shtml",
    "pub": "2026-11-11 04:14",
    "source": "央视网"
+  },
+  {
+   "title": "马来西亚前总理纳吉布开始居家服刑",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
+   "pub": "2026-11-11 00:01",
+   "source": "中国新闻网"
   }
  ],
  "ai": [
+  {
+   "title": "Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议",
+   "link": "https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy",
+   "meta": "Rohan Paul · 发布于 11-11 12:14 · 行业",
+   "summary": "Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。",
+   "origin": "https://x.com/rohanpaul_ai/status/2120369586096976098"
+  },
   {
    "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
    "link": "https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o",
@@ -761,13 +792,6 @@
    "meta": "Berkeley RDI：Blog · 发布于 11-11 08:00 · 论文",
    "summary": "UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。",
    "origin": "https://rdi.berkeley.edu/blog/cyberbingym"
-  },
-  {
-   "title": "OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施",
-   "link": "https://aihot.news/items/mx6m3dvh7s5zz7u91h4iqd5pt",
-   "meta": "OpenAI：失准报告与通报 · 发布于 11-10 08:00 · 论文",
-   "summary": "OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。",
-   "origin": "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"
   }
  ]
 }
