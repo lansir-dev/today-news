@@ -1,8 +1,134 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 10:35",
+ "fetched": "2026-11-12 11:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "专访孙中山家族后人孙雅丽：冀故乡的酸子树，让中山精神在宝岛再次扎根人心",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730677.shtml",
+   "pub": "2026-11-12 11:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "黄喜忠任江西省人民政府副省长",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730696.shtml",
+   "pub": "2026-11-12 11:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "俄外交部：日本应放弃推进再军事化",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
+   "pub": "2026-11-12 11:00",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2026年“校园苏州日”全国秋招在苏州大学落幕",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730691.shtml",
+   "pub": "2026-11-12 10:59",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美政商界人士呼吁共同推动稳定健康的美中关系",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730693.shtml",
+   "pub": "2026-11-12 10:58",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "云南文山至越南两条跨境直达运输线路正式启用",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730690.shtml",
+   "pub": "2026-11-12 10:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "M87*黑洞存在“甜甜圈”结构吗？最新天文研究确认无误",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730689.shtml",
+   "pub": "2026-11-12 10:56",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "山东省生态环境厅原一级巡视员霍太英被开除党籍",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730686.shtml",
+   "pub": "2026-11-12 10:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中消协：网购“AB货”同价不同质 公平交易不容“欺生凌弱”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730683.shtml",
+   "pub": "2026-11-12 10:52",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中新健康｜“减肥神药”或致永久失明 “司美格鲁肽副作用”冲上热搜",
+   "link": "https://www.chinanews.com.cn/jk/2026/11-12/10730631.shtml",
+   "pub": "2026-11-12 10:52",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中国外贸“APEC含量”十足 这组数据给出答案",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730687.shtml",
+   "pub": "2026-11-12 10:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "长征路上，红军干部始终站在队伍最前列，冲在战斗第一线",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730625.shtml",
+   "pub": "2026-11-12 10:50",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "山东省淄博市政协原副主席刘东军被开除党籍",
+   "link": "https://news.cctv.com/2026/11/12/ARTIUz7QWYta2FGtbOIOgyxq261112.shtml",
+   "pub": "2026-11-12 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "北京：五塔寺百年银杏满树金黄",
+   "link": "https://photo.cctv.com/2026/11/12/PHOAX6eaMWg8qDVJjBShGh9p261112.shtml",
+   "pub": "2026-11-12 10:47",
+   "source": "央视网"
+  },
+  {
+   "title": "北京即将迎来正式供暖 再生水“隔空换热”加入供能行列",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730678.shtml",
+   "pub": "2026-11-12 10:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "南昌鄱阳湖区迎来大批候鸟",
+   "link": "https://photo.cctv.com/2026/11/12/PHOAdaw2zoei2YBDpTcfvpJK261112.shtml",
+   "pub": "2026-11-12 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "湖南衡阳：采摘砂糖橘供应市场",
+   "link": "https://photo.cctv.com/2026/11/12/PHOA9w6w3ntlnsCFtk4bjT7p261112.shtml",
+   "pub": "2026-11-12 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "西藏山南：藏戏声声润古村 民俗活动助文旅",
+   "link": "https://photo.cctv.com/2026/11/12/PHOAdN3rkrzzQGYWBzaOAYq9261112.shtml",
+   "pub": "2026-11-12 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "上海：田野里的“乡村美术馆”",
+   "link": "https://photo.cctv.com/2026/11/12/PHOAZXbe3hnSDhE1csY1Bn3E261112.shtml",
+   "pub": "2026-11-12 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "把新疆难题，做成创新课题",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730675.shtml",
+   "pub": "2026-11-12 10:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730624.shtml",
+   "pub": "2026-11-12 10:29",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "“万万火急”昭初心 红土山乡启新程",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730662.shtml",
@@ -20,6 +146,12 @@
    "link": "https://news.cctv.com/2026/11/12/ARTItgtLCgfCFuk7VMLimeAz261112.shtml",
    "pub": "2026-11-12 10:26",
    "source": "央视网"
+  },
+  {
+   "title": "韩正出席全民早期预警倡议高级别活动并致辞",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730623.shtml",
+   "pub": "2026-11-12 10:24",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "大洋彼岸，95岁的他还在想念“酸啾啾”",
@@ -121,7 +253,7 @@
    "title": "湖南检察机关依法对韩嵩涉嫌受贿案提起公诉",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730638.shtml",
    "pub": "2026-11-12 10:01",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "内蒙古乌海一地“出现刺鼻气味” 当地通报：系应急演练催泪弹产生",
