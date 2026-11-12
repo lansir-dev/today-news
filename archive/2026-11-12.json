@@ -1,8 +1,104 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 14:35",
+ "fetched": "2026-11-12 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "油价12日24时起下调",
+   "link": "https://news.cctv.com/2026/11/12/ARTIPRG8wRss8VoBUyqBM2pW261112.shtml",
+   "pub": "2026-11-12 15:03",
+   "source": "央视网"
+  },
+  {
+   "title": "“中国角”亮相安塔利亚大会 街舞机器人成为“人气王”",
+   "link": "https://news.cctv.com/2026/11/12/ARTI2oullnkCH3uKDJuO3G9N261112.shtml",
+   "pub": "2026-11-12 14:57",
+   "source": "央视网"
+  },
+  {
+   "title": "8年寻归途 河北秦皇岛“戴河一号”为走失者点亮回家路",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730795.shtml",
+   "pub": "2026-11-12 14:53",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "超六成受访者希望建立“AB货”商家黑名单及公示制度",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730800.shtml",
+   "pub": "2026-11-12 14:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "全国总工会：今年重点支持建设200家工匠学院",
+   "link": "https://news.cctv.com/2026/11/12/ARTIKmvVUzUtRaxOeUX6rYR3261112.shtml",
+   "pub": "2026-11-12 14:52",
+   "source": "央视网"
+  },
+  {
+   "title": "北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温",
+   "link": "https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml",
+   "pub": "2026-11-12 14:52",
+   "source": "央视网"
+  },
+  {
+   "title": "美国家庭今冬取暖费预计平均上涨7.1%",
+   "link": "https://news.cctv.com/2026/11/12/ARTIPjyn87aF5kuOxC5n66h7261112.shtml",
+   "pub": "2026-11-12 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "近600家博物馆齐聚海口“博博会” 海量文创集中亮相",
+   "link": "https://news.cctv.com/2026/11/12/ARTItJ450gPjyiXCCDbAqxL2261112.shtml",
+   "pub": "2026-11-12 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "中国证监会：汇聚各方合力 全力维护市场平稳运行",
+   "link": "https://jingji.cctv.com/2026/11/12/ARTICwFcbz8MzVYWYVzJFuXE261112.shtml",
+   "pub": "2026-11-12 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "世界肺炎日：别把肺炎当感冒！识别肺炎症状早防早治",
+   "link": "https://news.cctv.com/2026/11/12/ARTIWYQS6SOZNa4EOsZITqhC261112.shtml",
+   "pub": "2026-11-12 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "印尼就总统窃听案嫌疑人涉嫌叛国进行立案调查",
+   "link": "https://news.cctv.com/2026/11/12/ARTI9gF92Ukix7mGLd0xw7lz261112.shtml",
+   "pub": "2026-11-12 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "俄媒：一名俄军官在圣彼得堡汽车爆炸事件中丧生",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730799.shtml",
+   "pub": "2026-11-12 14:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "工信部公开征求对《民爆行业生产安全事故应急预案（修订稿）》的意见",
+   "link": "https://news.cctv.com/2026/11/12/ARTINn0gxU5TIQ2Xb5H5pINi261112.shtml",
+   "pub": "2026-11-12 14:43",
+   "source": "央视网"
+  },
+  {
+   "title": "江西省人大常委会原委员郭兵被开除党籍",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730792.shtml",
+   "pub": "2026-11-12 14:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "COP31“长江十年行”影像展在土耳其举办",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730729.shtml",
+   "pub": "2026-11-12 14:40",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中蒙边境牧场“马背小学”蝶变记",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730783.shtml",
+   "pub": "2026-11-12 14:35",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "在科学慈善里看到社会力量：人生选择、多样探索与韧性托举",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730789.shtml",
@@ -16,6 +112,12 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "习言道｜同心协力共襄中华民族伟大复兴盛举",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730764.shtml",
+   "pub": "2026-11-12 14:27",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "甘肃草原里的“种子密码”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730777.shtml",
    "pub": "2026-11-12 14:27",
@@ -26,6 +128,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
    "pub": "2026-11-12 14:27",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026中美政党对话举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730765.shtml",
+   "pub": "2026-11-12 14:26",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "山东多地中小学秋假启幕 特色研学实践点亮假期时光",
@@ -58,12 +166,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "近600家博物馆齐聚海口“博博会” 海量文创集中亮相",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730776.shtml",
-   "pub": "2026-11-12 14:21",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "冯忠华同志任职",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730771.shtml",
    "pub": "2026-11-12 14:14",
@@ -86,12 +188,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIUBiC9O6tJfvTpJJwbPnk261112.shtml",
    "pub": "2026-11-12 14:00",
    "source": "央视网"
-  },
-  {
-   "title": "中国证监会：汇聚各方合力 全力维护市场平稳运行",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730755.shtml",
-   "pub": "2026-11-12 13:52",
-   "source": "中国新闻网"
   },
   {
    "title": "纪念孙中山先生诞辰160周年大会在北京举行 习近平发表重要讲话",
@@ -568,18 +664,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "“不只盯着干，大家还一起商量着办”（贯彻五中全会精神一线见闻）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730634.shtml",
-   "pub": "2026-11-12 09:57",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "透过进博之窗，世界深切感知“中国机遇2.0”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730632.shtml",
-   "pub": "2026-11-12 09:54",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "2026年秋招推出第三批131场就业服务活动",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730609.shtml",
    "pub": "2026-11-12 09:54",
@@ -646,22 +730,10 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
-   "pub": "2026-11-12 08:23",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "拜登在爱尔兰遭抗议者扔掷物品  一男子被起诉",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730600.shtml",
    "pub": "2026-11-12 08:21",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "中央气象台对台风“查帕卡”停止编号",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730601.shtml",
-   "pub": "2026-11-12 08:21",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "食物号称“降压降糖抗癌” 能代替药吗?",
@@ -670,22 +742,10 @@
    "source": "央视网"
   },
   {
-   "title": "大雾黄色预警：7省市有大雾 河北辽宁贵州部分地区有浓雾",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730599.shtml",
-   "pub": "2026-11-12 08:19",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "“微笑”卫星，将人类的视角“抬高”",
    "link": "https://news.cctv.com/2026/11/12/ARTIuOBAbUOnh7hYuDuBpHFe261112.shtml",
    "pub": "2026-11-12 08:17",
    "source": "央视网"
-  },
-  {
-   "title": "北京今天有雾昼夜温差大 明后天扩散条件逐渐转差能见度下降",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730597.shtml",
-   "pub": "2026-11-12 08:15",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "《江汉揽胜图》：长江经济带的古老切片",
@@ -865,12 +925,6 @@
    "title": "英爱多地学校收到威胁邮件 当局认定系境外恶作剧",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730569.shtml",
    "pub": "2026-11-12 06:03",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "报告显示多重挑战下在德中资企业短期投资意愿保持谨慎",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730568.shtml",
-   "pub": "2026-11-12 06:02",
    "source": "中国新闻网·国际"
   }
  ],
