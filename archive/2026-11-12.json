@@ -1,13 +1,103 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 14:05",
+ "fetched": "2026-11-12 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "在科学慈善里看到社会力量：人生选择、多样探索与韧性托举",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730789.shtml",
+   "pub": "2026-11-12 14:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "直播海报：民歌大观“我就是‘民’星”特别节目",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730790.shtml",
+   "pub": "2026-11-12 14:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "甘肃草原里的“种子密码”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730777.shtml",
+   "pub": "2026-11-12 14:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "重庆城市轨道交通运营里程跨越600公里",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
+   "pub": "2026-11-12 14:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "山东多地中小学秋假启幕 特色研学实践点亮假期时光",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730779.shtml",
+   "pub": "2026-11-12 14:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一场校地协作，如何助县域医疗“借智登高”？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730759.shtml",
+   "pub": "2026-11-12 14:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“消费入座”属商家自主安排还是变相设置最低消费？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730784.shtml",
+   "pub": "2026-11-12 14:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "全产业链赋能助农增收 小蜜橘为乡村振兴注入“甜蜜动能”",
+   "link": "https://news.cctv.com/2026/11/12/ARTI04wbw3ga2V2Cu58ckC8v261112.shtml",
+   "pub": "2026-11-12 14:23",
+   "source": "央视网"
+  },
+  {
+   "title": "一羊场内有身份不明残障务工人员？山西长治通报",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730774.shtml",
+   "pub": "2026-11-12 14:21",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "近600家博物馆齐聚海口“博博会” 海量文创集中亮相",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730776.shtml",
+   "pub": "2026-11-12 14:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "冯忠华同志任职",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730771.shtml",
+   "pub": "2026-11-12 14:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国证监会：中国发展具有长期确定性 投资中国具备坚实基础",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730763.shtml",
+   "pub": "2026-11-12 14:11",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "密西西比州民主党人翻转参议院席位",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml",
+   "pub": "2026-11-12 14:00",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "“一羊场内有身份不明残障务工人员”，官方通报",
    "link": "https://news.cctv.com/2026/11/12/ARTIUBiC9O6tJfvTpJJwbPnk261112.shtml",
    "pub": "2026-11-12 14:00",
    "source": "央视网"
+  },
+  {
+   "title": "中国证监会：汇聚各方合力 全力维护市场平稳运行",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730755.shtml",
+   "pub": "2026-11-12 13:52",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "纪念孙中山先生诞辰160周年大会在北京举行 习近平发表重要讲话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730743.shtml",
+   "pub": "2026-11-12 13:52",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "福建省两岸标准共通标准化技术委员会在福州成立",
@@ -496,12 +586,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "“十五五”时期我国将深化拓展“人工智能+”行动",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730629.shtml",
-   "pub": "2026-11-12 09:47",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "700号段来了 放心接听 但这4种电话别接、别回、别点",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730608.shtml",
    "pub": "2026-11-12 09:46",
@@ -530,12 +614,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIYHoVgllJyEgafIlpUhKj261112.shtml",
    "pub": "2026-11-12 09:21",
    "source": "央视网"
-  },
-  {
-   "title": "韩正在《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会上的发言（全文）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730611.shtml",
-   "pub": "2026-11-12 09:20",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "珍稀野生动物种群数量不断增加 万物和谐见证生态美",
@@ -764,12 +842,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIdALtt3EaGdp0yEUvHGTF261112.shtml",
    "pub": "2026-11-12 06:26",
    "source": "央视网"
-  },
-  {
-   "title": "守住你的钱袋子 “双十一”网购防骗指南请查收",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730574.shtml",
-   "pub": "2026-11-12 06:14",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "伊朗议长：美国必须满足伊方提出的七项条件",
