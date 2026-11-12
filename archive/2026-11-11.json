@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-12 22:05",
+ "fetched": "2026-11-12 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1200,6 +1200,20 @@
  ],
  "ai": [
   {
+   "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+   "link": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
+   "meta": "NVIDIA：Newsroom · 发布于 11-12 21:48 · 行业",
+   "summary": "NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。",
+   "origin": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+  },
+  {
+   "title": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
+   "link": "https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79",
+   "meta": "Figma AI / Agent / Make · 发布于 11-12 22:00 · 产品",
+   "summary": "Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。",
+   "origin": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/"
+  },
+  {
    "title": "Anthropic 官宣首次公开募股（IPO）",
    "link": "https://aihot.news/items/k99zjo9hbtous9r6vmmz7pxyh",
    "meta": "Anthropic · 发布于 11-12 19:30 · 行业",
@@ -1240,20 +1254,6 @@
    "meta": "Claude：YouTube · 发布于 11-12 01:30 · 教程",
    "summary": "Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。",
    "origin": "https://www.youtube.com/watch?v=C33hJGt-ySg"
-  },
-  {
-   "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
-   "link": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
-   "meta": "Runway：News · 发布于 11-12 07:25 · 模型",
-   "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。",
-   "origin": "https://runwayml.com/news/company-news/praxis-1-is-now-available"
-  },
-  {
-   "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
-   "link": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
-   "meta": "Anthropic：Alignment Science Blog · 发布于 11-11 08:00 · 论文",
-   "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
-   "origin": "https://alignment.anthropic.com/2026/worse-together/"
   }
  ]
 }

@@ -1,8 +1,14 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 22:05",
+ "fetched": "2026-11-12 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案",
+   "link": "https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml",
+   "pub": "2026-11-12 22:04",
+   "source": "央视网"
+  },
   {
    "title": "焦点访谈｜全面从严治党永远在路上",
    "link": "https://news.cctv.com/2026/11/12/ARTI97jmDcBawxa4UGP5bF33261112.shtml",
