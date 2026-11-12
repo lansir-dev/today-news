@@ -1,8 +1,122 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 10:05",
- "note": "今日抓取",
+ "fetched": "2026-11-12 10:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“万万火急”昭初心 红土山乡启新程",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730662.shtml",
+   "pub": "2026-11-12 10:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "朝中社：金正恩现场指导重要海军基地建设",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730649.shtml",
+   "pub": "2026-11-12 10:27",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "贵州省农业发展集团原党委书记芦忠于被“双开”",
+   "link": "https://news.cctv.com/2026/11/12/ARTItgtLCgfCFuk7VMLimeAz261112.shtml",
+   "pub": "2026-11-12 10:26",
+   "source": "央视网"
+  },
+  {
+   "title": "大洋彼岸，95岁的他还在想念“酸啾啾”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730658.shtml",
+   "pub": "2026-11-12 10:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "韩正出席应对气候变化南南合作高级别论坛并致辞",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730621.shtml",
+   "pub": "2026-11-12 10:18",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTIFN2ktTKxZST1dNS8lOoV261112.shtml",
+   "pub": "2026-11-12 10:14",
+   "source": "央视网"
+  },
+  {
+   "title": "华润集团原党委委员、副总经理韩嵩被提起公诉",
+   "link": "https://news.cctv.com/2026/11/12/ARTIOMXQVENQ849LKIxbYNNU261112.shtml",
+   "pub": "2026-11-12 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "针对网购“AB货”问题 中消协最新发声",
+   "link": "https://news.cctv.com/2026/11/12/ARTIRyf7Ssgfo0lOr77QeraB261112.shtml",
+   "pub": "2026-11-12 10:11",
+   "source": "央视网"
+  },
+  {
+   "title": "针对网购“AB货”问题 中消协最新发声",
+   "link": "https://news.cctv.com/2026/11/12/ARTI7OwxRfhrRkiLo9xTyZbr261112.shtml",
+   "pub": "2026-11-12 10:07",
+   "source": "央视网"
+  },
+  {
+   "title": "英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信",
+   "link": "https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml",
+   "pub": "2026-11-12 10:07",
+   "source": "央视网"
+  },
+  {
+   "title": "俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况",
+   "link": "https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml",
+   "pub": "2026-11-12 10:07",
+   "source": "央视网"
+  },
+  {
+   "title": "第二艘国产大型邮轮“爱达·花城号”完成首个试运营航次",
+   "link": "https://news.cctv.com/2026/11/12/ARTIN37oGgLFiF01dKMa2I6Z261112.shtml",
+   "pub": "2026-11-12 10:07",
+   "source": "央视网"
+  },
+  {
+   "title": "巴黎和平论坛“解读中国的全球角色和影响力”专题研讨会举办",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730598.shtml",
+   "pub": "2026-11-12 10:06",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴拿马外长回应美防长：运河由巴拿马掌控",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730613.shtml",
+   "pub": "2026-11-12 10:06",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "荷兰禽流感疫情蔓延 近8万只家禽被扑杀",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730626.shtml",
+   "pub": "2026-11-12 10:05",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "在无名战士墓前说笑 美防长赫格塞思等人被士兵大声告诫",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730627.shtml",
+   "pub": "2026-11-12 10:04",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "当工业遗存“邂逅”城市更新碰撞新火花 新场景新业态点燃老街老厂新活力",
+   "link": "https://news.cctv.com/2026/11/12/ARTIgLeJrREiEJUd2w2hyjpe261112.shtml",
+   "pub": "2026-11-12 10:04",
+   "source": "央视网"
+  },
+  {
+   "title": "全国冬小麦播种过八成 秋冬种进展顺利",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730641.shtml",
+   "pub": "2026-11-12 10:03",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "韩正会见土耳其总统埃尔多安",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730620.shtml",
+   "pub": "2026-11-12 10:02",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "湖南检察机关依法对韩嵩涉嫌受贿案提起公诉",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730638.shtml",
@@ -13,7 +127,7 @@
    "title": "内蒙古乌海一地“出现刺鼻气味” 当地通报：系应急演练催泪弹产生",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730628.shtml",
    "pub": "2026-11-12 09:59",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "“不只盯着干，大家还一起商量着办”（贯彻五中全会精神一线见闻）",
@@ -43,7 +157,7 @@
    "title": "700号段来了 放心接听 但这4种电话别接、别回、别点",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730608.shtml",
    "pub": "2026-11-12 09:46",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "中国外贸的APEC“底色”有多浓？数据里找到答案",
@@ -58,16 +172,16 @@
    "source": "央视网"
   },
   {
-   "title": "凡人善举汇聚力量 危急时刻他们挺身而出为城市注入正能量",
-   "link": "https://news.cctv.com/2026/11/12/ARTIYHoVgllJyEgafIlpUhKj261112.shtml",
-   "pub": "2026-11-12 09:21",
-   "source": "央视网"
-  },
-  {
    "title": "华南等地雨势较强 华北黄淮东北等地有大雾和霾天气",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730610.shtml",
    "pub": "2026-11-12 09:21",
    "source": "中国新闻网"
+  },
+  {
+   "title": "凡人善举汇聚力量 危急时刻他们挺身而出为城市注入正能量",
+   "link": "https://news.cctv.com/2026/11/12/ARTIYHoVgllJyEgafIlpUhKj261112.shtml",
+   "pub": "2026-11-12 09:21",
+   "source": "央视网"
   },
   {
    "title": "韩正在《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会上的发言（全文）",
@@ -110,12 +224,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730603.shtml",
    "pub": "2026-11-12 08:29",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "第二艘国产大型邮轮“爱达·花城号”完成首个试运营航次",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730602.shtml",
-   "pub": "2026-11-12 08:26",
-   "source": "中国新闻网"
   },
   {
    "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
@@ -172,16 +280,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "“跑偏”的技术",
-   "link": "https://news.cctv.com/2026/11/12/ARTIN9gxcxFVZuA0AFCsmeYv261112.shtml",
-   "pub": "2026-11-12 08:07",
-   "source": "央视网"
-  },
-  {
    "title": "伊朗高官宣布：目前波斯湾内没有美军存在",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730595.shtml",
    "pub": "2026-11-12 08:07",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "“跑偏”的技术",
+   "link": "https://news.cctv.com/2026/11/12/ARTIN9gxcxFVZuA0AFCsmeYv261112.shtml",
+   "pub": "2026-11-12 08:07",
+   "source": "央视网"
   },
   {
    "title": "【8点见】本科四年跑步570公里才能毕业？校方回应",
@@ -256,16 +364,16 @@
    "source": "央视网"
   },
   {
-   "title": "3元一顿 浙江丽水机关食堂把多备“余餐”留给了他们",
-   "link": "https://news.cctv.com/2026/11/12/ARTIh0AaStN4YoJD4pq1xrIk261112.shtml",
-   "pub": "2026-11-12 07:04",
-   "source": "央视网"
-  },
-  {
    "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
    "pub": "2026-11-12 07:04",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "3元一顿 浙江丽水机关食堂把多备“余餐”留给了他们",
+   "link": "https://news.cctv.com/2026/11/12/ARTIh0AaStN4YoJD4pq1xrIk261112.shtml",
+   "pub": "2026-11-12 07:04",
+   "source": "央视网"
   },
   {
    "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
@@ -292,21 +400,15 @@
    "source": "央视网"
   },
   {
-   "title": "泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识",
-   "link": "https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml",
-   "pub": "2026-11-12 06:39",
-   "source": "央视网"
-  },
-  {
    "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
    "pub": "2026-11-12 06:39",
    "source": "中国新闻网·国际"
   },
   {
-   "title": "单程运输节省3小时以上 云南新增两条中越跨境直达运输线路",
-   "link": "https://news.cctv.com/2026/11/12/ARTIK72oMevy9jaCJ50887Cg261112.shtml",
-   "pub": "2026-11-12 06:38",
+   "title": "泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识",
+   "link": "https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml",
+   "pub": "2026-11-12 06:39",
    "source": "央视网"
   },
   {
@@ -314,6 +416,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
    "pub": "2026-11-12 06:38",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "单程运输节省3小时以上 云南新增两条中越跨境直达运输线路",
+   "link": "https://news.cctv.com/2026/11/12/ARTIK72oMevy9jaCJ50887Cg261112.shtml",
+   "pub": "2026-11-12 06:38",
+   "source": "央视网"
   },
   {
    "title": "胡塞武装称过去24小时内沙特联军发动93次空袭",
