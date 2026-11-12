@@ -1,8 +1,74 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 15:35",
+ "fetched": "2026-11-12 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "韩国外长赵显将访华 中国外交部介绍有关安排",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730841.shtml",
+   "pub": "2026-11-12 16:02",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "油吃多了发胖，怎样吃才不胖？真相在这儿！",
+   "link": "https://news.cctv.com/2026/11/12/ARTIOZCzLQCbxvEibJmuAcUG261112.shtml",
+   "pub": "2026-11-12 15:54",
+   "source": "央视网"
+  },
+  {
+   "title": "事关技能人才评价 这部条例公开征求意见",
+   "link": "https://news.cctv.com/2026/11/12/ARTIOa1jgotbJerRU6hIGD6H261112.shtml",
+   "pub": "2026-11-12 15:48",
+   "source": "央视网"
+  },
+  {
+   "title": "比利时和智利将合并申办《海洋生物多样性协定》秘书处 中方：至少存在6个“不符合”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730835.shtml",
+   "pub": "2026-11-12 15:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：坚决反对美方泛化国家安全概念 无理打压中国机构",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730831.shtml",
+   "pub": "2026-11-12 15:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方：坚决反对美方泛化国家安全概念、划设各种名目的歧视性清单",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730828.shtml",
+   "pub": "2026-11-12 15:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国人餐桌上的APEC含量有多高？从一杯9.9元的咖啡说起",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730829.shtml",
+   "pub": "2026-11-12 15:36",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中方驳斥G7涉台联合声明：有关内容言辞荒谬",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730826.shtml",
+   "pub": "2026-11-12 15:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方谈东京审判宣判78周年：历史不容忘记，正义不容挑战",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730825.shtml",
+   "pub": "2026-11-12 15:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "印尼副总统吉布兰正式递交辞职信",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730812.shtml",
+   "pub": "2026-11-12 15:34",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "外交部：中美双方就两国元首互动保持着密切沟通",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730822.shtml",
+   "pub": "2026-11-12 15:32",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "日本报告本季首起禽流感疫情",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730811.shtml",
@@ -472,22 +538,10 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "黄喜忠任江西省人民政府副省长",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730696.shtml",
-   "pub": "2026-11-12 11:01",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "俄外交部：日本应放弃推进再军事化",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
    "pub": "2026-11-12 11:00",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "2026年“校园苏州日”全国秋招在苏州大学落幕",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730691.shtml",
-   "pub": "2026-11-12 10:59",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "美政商界人士呼吁共同推动稳定健康的美中关系",
@@ -508,28 +562,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "山东省生态环境厅原一级巡视员霍太英被开除党籍",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730686.shtml",
-   "pub": "2026-11-12 10:55",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "中消协：网购“AB货”同价不同质 公平交易不容“欺生凌弱”",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730683.shtml",
-   "pub": "2026-11-12 10:52",
-   "source": "中国新闻网"
-  },
-  {
    "title": "中新健康｜“减肥神药”或致永久失明 “司美格鲁肽副作用”冲上热搜",
    "link": "https://www.chinanews.com.cn/jk/2026/11-12/10730631.shtml",
    "pub": "2026-11-12 10:52",
    "source": "中国新闻网"
-  },
-  {
-   "title": "中国外贸“APEC含量”十足 这组数据给出答案",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730687.shtml",
-   "pub": "2026-11-12 10:52",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "长征路上，红军干部始终站在队伍最前列，冲在战斗第一线",
@@ -578,12 +614,6 @@
    "link": "https://photo.cctv.com/2026/11/12/PHOAZXbe3hnSDhE1csY1Bn3E261112.shtml",
    "pub": "2026-11-12 10:41",
    "source": "央视网"
-  },
-  {
-   "title": "把新疆难题，做成创新课题",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730675.shtml",
-   "pub": "2026-11-12 10:40",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "朝中社：金正恩现场指导重要海军基地建设",
@@ -752,12 +782,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIHOuTRV9BLeExuuDOJTHZ261112.shtml",
    "pub": "2026-11-12 08:36",
    "source": "央视网"
-  },
-  {
-   "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730603.shtml",
-   "pub": "2026-11-12 08:29",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "拜登在爱尔兰遭抗议者扔掷物品  一男子被起诉",
@@ -938,15 +962,16 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
    "pub": "2026-11-12 06:07",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
-   "pub": "2026-11-12 06:04",
-   "source": "中国新闻网·国际"
   }
  ],
  "ai": [
+  {
+   "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
+   "link": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
+   "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
+   "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。",
+   "origin": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/"
+  },
   {
    "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
    "link": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
@@ -995,13 +1020,6 @@
    "meta": "a16z：News · 发布于 11-11 23:02 · 观点",
    "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
    "origin": "https://www.a16z.news/p/welcome-to-the-b2a-economy"
-  },
-  {
-   "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
-   "link": "https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom",
-   "meta": "Rohan Paul · 发布于 11-11 22:38 · 行业",
-   "summary": "Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。",
-   "origin": "https://x.com/rohanpaul_ai/status/2120526677247939001"
   }
  ]
 }

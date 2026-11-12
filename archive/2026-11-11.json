@@ -1,7 +1,7 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-12 15:35",
- "note": "由次日抓取补存的昨日列表",
+ "fetched": "2026-11-12 16:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
    "title": "焦点访谈｜探寻大河重生密码：八十年治黄造就安澜奇迹",
@@ -1200,6 +1200,13 @@
  ],
  "ai": [
   {
+   "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
+   "link": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
+   "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
+   "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。",
+   "origin": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/"
+  },
+  {
    "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
    "link": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
    "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
@@ -1247,13 +1254,6 @@
    "meta": "a16z：News · 发布于 11-11 23:02 · 观点",
    "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
    "origin": "https://www.a16z.news/p/welcome-to-the-b2a-economy"
-  },
-  {
-   "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
-   "link": "https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom",
-   "meta": "Rohan Paul · 发布于 11-11 22:38 · 行业",
-   "summary": "Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。",
-   "origin": "https://x.com/rohanpaul_ai/status/2120526677247939001"
   }
  ]
 }
