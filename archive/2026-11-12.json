@@ -1,8 +1,14 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 18:05",
+ "fetched": "2026-11-12 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "冯忠华任广东省委副书记",
+   "link": "https://news.cctv.com/2026/11/12/ARTIoZVnDIWhFXFkkjIiEjFB261112.shtml",
+   "pub": "2026-11-12 18:14",
+   "source": "央视网"
+  },
   {
    "title": "从“魔都”破晓到“花城”绽放 国产大邮轮再启航",
    "link": "https://news.cctv.com/2026/11/12/ARTIIwHylFx9ZZQcBeJDSrSh261112.shtml",
