@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "fetched": "2026-11-12 19:35",
+ "fetched": "2026-11-12 20:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1200,6 +1200,13 @@
  ],
  "ai": [
   {
+   "title": "Anthropic 官宣首次公开募股（IPO）",
+   "link": "https://aihot.news/items/k99zjo9hbtous9r6vmmz7pxyh",
+   "meta": "Anthropic · 发布于 11-12 19:30 · 行业",
+   "summary": "Anthropic 官方宣布启动首次公开募股（IPO），并公布入口 ipo.anthropic.com。Anthropic 已向 SEC 提交注册声明及招股说明书，证券在注册声明生效前不得出售，初步招股说明书可经高盛与摩根士丹利获取。",
+   "origin": "https://x.com/AnthropicAI/status/2120841731302154708"
+  },
+  {
    "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
    "link": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
    "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
@@ -1247,13 +1254,6 @@
    "meta": "Anthropic：Alignment Science Blog · 发布于 11-11 08:00 · 论文",
    "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
    "origin": "https://alignment.anthropic.com/2026/worse-together/"
-  },
-  {
-   "title": "a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道",
-   "link": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
-   "meta": "a16z：News · 发布于 11-11 23:02 · 观点",
-   "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
-   "origin": "https://www.a16z.news/p/welcome-to-the-b2a-economy"
   }
  ]
 }
