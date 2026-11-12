@@ -1,8 +1,26 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 19:05",
+ "fetched": "2026-11-12 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "流感季来临，请收好这份“预防指南”",
+   "link": "https://news.cctv.com/2026/11/12/ARTImBd4adi91VOUiSQxzpdV261112.shtml",
+   "pub": "2026-11-12 19:30",
+   "source": "央视网"
+  },
+  {
+   "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTI10vCAUl26hEHTx6L3lWg261112.shtml",
+   "pub": "2026-11-12 19:28",
+   "source": "央视网"
+  },
+  {
+   "title": "数说APEC | 亚太“味道”丰富中国餐桌 APEC元素渗透进百姓生活烟火",
+   "link": "https://news.cctv.com/2026/11/12/ARTIKVit72IuT9nyQDKcqvuk261112.shtml",
+   "pub": "2026-11-12 19:08",
+   "source": "央视网"
+  },
   {
    "title": "泽连斯基：“星链”系统近期出现严重运行异常",
    "link": "https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml",
