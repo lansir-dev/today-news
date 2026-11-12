@@ -1,8 +1,68 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 11:05",
+ "fetched": "2026-11-12 11:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国际人士热切期待APEC“深圳时间”",
+   "link": "https://news.cctv.com/2026/11/12/ARTIIBHf3RyJGtZDVXSSxYU6261112.shtml",
+   "pub": "2026-11-12 11:28",
+   "source": "央视网"
+  },
+  {
+   "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+   "pub": "2026-11-12 11:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "独家视频丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTIn5YEb1tRTAaFngYeDaTC261112.shtml",
+   "pub": "2026-11-12 11:19",
+   "source": "央视网"
+  },
+  {
+   "title": "深圳各口岸进入“APEC时间” “3秒识物”智能查验台提升通关效率",
+   "link": "https://news.cctv.com/2026/11/12/ARTIG3BEPRyOF5IEXCCaiRBS261112.shtml",
+   "pub": "2026-11-12 11:17",
+   "source": "央视网"
+  },
+  {
+   "title": "智慧农机助力冬小麦播种 四级网络联动“托住”秋冬种的第一茬肥",
+   "link": "https://news.cctv.com/2026/11/12/ARTIUOSnHDejKzIZ30847pAj261112.shtml",
+   "pub": "2026-11-12 11:09",
+   "source": "央视网"
+  },
+  {
+   "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml",
+   "pub": "2026-11-12 11:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
+   "pub": "2026-11-12 11:06",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTIsCVfzCStYCdhIqu49WQi261112.shtml",
+   "pub": "2026-11-12 11:06",
+   "source": "央视网"
+  },
+  {
+   "title": "一批侵华日军细菌战化学战新罪证集中发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
+   "pub": "2026-11-12 11:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在北京举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730681.shtml",
+   "pub": "2026-11-12 11:04",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "专访孙中山家族后人孙雅丽：冀故乡的酸子树，让中山精神在宝岛再次扎根人心",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730677.shtml",
