@@ -1,8 +1,14 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 21:35",
+ "fetched": "2026-11-12 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜全面从严治党永远在路上",
+   "link": "https://news.cctv.com/2026/11/12/ARTI97jmDcBawxa4UGP5bF33261112.shtml",
+   "pub": "2026-11-12 21:33",
+   "source": "央视网"
+  },
   {
    "title": "“文明互鉴国际论坛二O二六”在澳门举办 以文化为桥 跨山海对话",
    "link": "https://news.cctv.com/2026/11/12/ARTIjgFIKvONQhDci8p8U2XP261112.shtml",
