@@ -1,8 +1,110 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 11:35",
+ "fetched": "2026-11-12 12:57",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730733.shtml",
+   "pub": "2026-11-12 12:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平：在纪念孙中山先生诞辰160周年大会上的讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTIJfq7lgyG4M6ztOiV9rAF261112.shtml",
+   "pub": "2026-11-12 12:21",
+   "source": "央视网"
+  },
+  {
+   "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/12/ARTIplejF6r4Dqeo6JWTsyKj261112.shtml",
+   "pub": "2026-11-12 12:15",
+   "source": "央视网"
+  },
+  {
+   "title": "华润集团原副总经理韩嵩被公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730730.shtml",
+   "pub": "2026-11-12 12:10",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "去不去养老院，老人和子女谁说了算",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730731.shtml",
+   "pub": "2026-11-12 12:01",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "文脉传承弦歌不辍，这些文物让你一秒穿越千年文明",
+   "link": "https://news.cctv.com/2026/11/12/ARTI5ueqftrJzmlUAqjSJnVO261112.shtml",
+   "pub": "2026-11-12 12:00",
+   "source": "央视网"
+  },
+  {
+   "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
+   "link": "https://news.cctv.com/2026/11/12/ARTI2sMlQWQ5vPohf1h9mleg261112.shtml",
+   "pub": "2026-11-12 11:54",
+   "source": "央视网"
+  },
+  {
+   "title": "厄尔尼诺致菲律宾农业损失近100亿比索 玉米和水稻生产受冲击",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730705.shtml",
+   "pub": "2026-11-12 11:52",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "“彩电大王”倪润峰逝世 享年82岁",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730724.shtml",
+   "pub": "2026-11-12 11:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "巴西前10月电动化轻型汽车销量同比增125.7%",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730702.shtml",
+   "pub": "2026-11-12 11:51",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "也门胡塞武装称袭击沙特利雅得机场等目标",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730701.shtml",
+   "pub": "2026-11-12 11:50",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "探访盐城鹤行书局：方寸书香点亮一座城",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
+   "pub": "2026-11-12 11:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "男子醉驾后伪造“送孕妻就医”记录 缘何被从重处罚→",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730727.shtml",
+   "pub": "2026-11-12 11:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "外媒：马克龙迎接斯洛伐克总统 仪仗队队员当场晕倒",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730718.shtml",
+   "pub": "2026-11-12 11:38",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "APEC朋友圈 | 俄外交部发言人：期待深圳APEC会议取得丰硕成果",
+   "link": "https://news.cctv.com/2026/11/12/ARTIzusKaNPLy3I3fDlA61x9261112.shtml",
+   "pub": "2026-11-12 11:35",
+   "source": "央视网"
+  },
+  {
+   "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
+   "pub": "2026-11-12 11:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
+   "pub": "2026-11-12 11:32",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "国际人士热切期待APEC“深圳时间”",
    "link": "https://news.cctv.com/2026/11/12/ARTIIBHf3RyJGtZDVXSSxYU6261112.shtml",
@@ -500,18 +602,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIlrk0b9LntKzBq2D4YUV0261112.shtml",
    "pub": "2026-11-12 07:35",
    "source": "央视网"
-  },
-  {
-   "title": "陈文清主持召开专题会议强调 深入贯彻落实习近平总书记重要指示精神 纵深推进依法从严查处危害食品安全违法犯罪专项工作",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
-   "pub": "2026-11-12 07:30",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央统战部宣讲",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730582.shtml",
-   "pub": "2026-11-12 07:28",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "俄罗斯总统普京12日将会见美方谈判代表",
