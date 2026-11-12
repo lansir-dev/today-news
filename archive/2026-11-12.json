@@ -1,8 +1,20 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 17:05",
+ "fetched": "2026-11-12 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广东省委宣传部原副部长倪谦被“双开”",
+   "link": "https://news.cctv.com/2026/11/12/ARTINqo2F73KHbgC1cxpnSwM261112.shtml",
+   "pub": "2026-11-12 17:11",
+   "source": "央视网"
+  },
+  {
+   "title": "“新设备+新体验”掀起冰雪新热潮 多项惠民举措点燃冬日热情",
+   "link": "https://news.cctv.com/2026/11/12/ARTIgzqLcrUD2MRyO5GDzZBl261112.shtml",
+   "pub": "2026-11-12 17:05",
+   "source": "央视网"
+  },
   {
    "title": "广西壮族自治区水利厅一级巡视员李建文接受监察调查",
    "link": "https://news.cctv.com/2026/11/12/ARTI89zzL5co6H67pQaMUPBe261112.shtml",
@@ -76,7 +88,7 @@
    "source": "央视网"
   },
   {
-   "title": "“一地两检”模式保障人员顺畅往来 深圳各口岸服务升级迎盛会",
+   "title": "深圳各口岸服务升级迎盛会 “一地两检”模式保障人员顺畅往来",
    "link": "https://news.cctv.com/2026/11/12/ARTIZPTt2cRHttA4jJQavI9I261112.shtml",
    "pub": "2026-11-12 16:30",
    "source": "央视网"
