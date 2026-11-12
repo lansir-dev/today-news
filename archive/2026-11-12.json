@@ -1,8 +1,80 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 16:35",
+ "fetched": "2026-11-12 17:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广西壮族自治区水利厅一级巡视员李建文接受监察调查",
+   "link": "https://news.cctv.com/2026/11/12/ARTI89zzL5co6H67pQaMUPBe261112.shtml",
+   "pub": "2026-11-12 17:02",
+   "source": "央视网"
+  },
+  {
+   "title": "涉巧克力广告宣扬错误婚恋观等 12起违法广告典型案例公布",
+   "link": "https://news.cctv.com/2026/11/12/ARTIvMSpoutcPY0qM4s5b30t261112.shtml",
+   "pub": "2026-11-12 16:48",
+   "source": "央视网"
+  },
+  {
+   "title": "深刻理解和把握持之以恒推进全面从严治党的重大原则",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730921.shtml",
+   "pub": "2026-11-12 16:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中外嘉宾齐聚黄山 共推RCEP世界遗产地文旅深度融合",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730851.shtml",
+   "pub": "2026-11-12 16:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "红星照耀中国丨会师塔下，山河有回响",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730919.shtml",
+   "pub": "2026-11-12 16:42",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "铁路部门通报网传“一旅客过安检喝白酒”：信息不实，系喝水用于拍视频",
+   "link": "https://news.cctv.com/2026/11/12/ARTIMURzjQsznJgPcmUns6lf261112.shtml",
+   "pub": "2026-11-12 16:40",
+   "source": "央视网"
+  },
+  {
+   "title": "特写：“小饭碗”装着“大民生”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730917.shtml",
+   "pub": "2026-11-12 16:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美国有史以来最贵的中期选举",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730911.shtml",
+   "pub": "2026-11-12 16:38",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "多地老菜市变身新地标 焕新不减烟火气",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730915.shtml",
+   "pub": "2026-11-12 16:37",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "记者手记：关于柏大卫故事的十个细节",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730914.shtml",
+   "pub": "2026-11-12 16:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "桑德罗·马科斯的腐败风波",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730913.shtml",
+   "pub": "2026-11-12 16:35",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "河南发布通知进一步规范药品集中采购",
+   "link": "https://news.cctv.com/2026/11/12/ARTImQgDLLIL2TKXhtBOFuc8261112.shtml",
+   "pub": "2026-11-12 16:32",
+   "source": "央视网"
+  },
   {
    "title": "“一地两检”模式保障人员顺畅往来 深圳各口岸服务升级迎盛会",
    "link": "https://news.cctv.com/2026/11/12/ARTIZPTt2cRHttA4jJQavI9I261112.shtml",
@@ -19,7 +91,7 @@
    "title": "《纪念孙中山先生诞辰160周年》纪念邮票首发",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730844.shtml",
    "pub": "2026-11-12 16:26",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "《纪念孙中山先生诞辰160周年》纪念邮票在广州首发",
@@ -496,12 +568,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730733.shtml",
-   "pub": "2026-11-12 12:27",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "习近平：在纪念孙中山先生诞辰160周年大会上的讲话",
    "link": "https://news.cctv.com/2026/11/12/ARTIJfq7lgyG4M6ztOiV9rAF261112.shtml",
    "pub": "2026-11-12 12:21",
@@ -512,12 +578,6 @@
    "link": "https://news.cctv.com/2026/11/12/ARTIplejF6r4Dqeo6JWTsyKj261112.shtml",
    "pub": "2026-11-12 12:15",
    "source": "央视网"
-  },
-  {
-   "title": "华润集团原副总经理韩嵩被公诉",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730730.shtml",
-   "pub": "2026-11-12 12:10",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "去不去养老院，老人和子女谁说了算",
@@ -658,12 +718,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "云南文山至越南两条跨境直达运输线路正式启用",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730690.shtml",
-   "pub": "2026-11-12 10:57",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "M87*黑洞存在“甜甜圈”结构吗？最新天文研究确认无误",
    "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730689.shtml",
    "pub": "2026-11-12 10:56",
@@ -674,12 +728,6 @@
    "link": "https://www.chinanews.com.cn/jk/2026/11-12/10730631.shtml",
    "pub": "2026-11-12 10:52",
    "source": "中国新闻网"
-  },
-  {
-   "title": "长征路上，红军干部始终站在队伍最前列，冲在战斗第一线",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730625.shtml",
-   "pub": "2026-11-12 10:50",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "山东省淄博市政协原副主席刘东军被开除党籍",
@@ -970,22 +1018,10 @@
    "source": "央视网"
   },
   {
-   "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
-   "pub": "2026-11-12 07:04",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "3元一顿 浙江丽水机关食堂把多备“余餐”留给了他们",
    "link": "https://news.cctv.com/2026/11/12/ARTIh0AaStN4YoJD4pq1xrIk261112.shtml",
    "pub": "2026-11-12 07:04",
    "source": "央视网"
-  },
-  {
-   "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
-   "pub": "2026-11-12 06:53",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "学习贯彻党的二十届五中全会精神权威访谈|持之以恒推进全面从严治党，确保党始终成为中国特色社会主义事业的坚强领导核心——访中央组织部研究室（政策法规局）主任（局长）张强",
