@@ -1,8 +1,32 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 18:35",
+ "fetched": "2026-11-12 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "泽连斯基：“星链”系统近期出现严重运行异常",
+   "link": "https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml",
+   "pub": "2026-11-12 18:52",
+   "source": "央视网"
+  },
+  {
+   "title": "英前首相卡梅伦警告现首相伯纳姆：勿试图重新加入欧盟",
+   "link": "https://news.cctv.com/2026/11/12/ARTIMypcOzbH9fco1bCaSKCS261112.shtml",
+   "pub": "2026-11-12 18:52",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”",
+   "link": "https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml",
+   "pub": "2026-11-12 18:52",
+   "source": "央视网"
+  },
+  {
+   "title": "加沙再遭以军空袭 过冬物资仍受阻",
+   "link": "https://news.cctv.com/2026/11/12/ARTIKVqwEOQD4TPl4zoapVCb261112.shtml",
+   "pub": "2026-11-12 18:52",
+   "source": "央视网"
+  },
   {
    "title": "冯忠华任广东省委副书记",
    "link": "https://news.cctv.com/2026/11/12/ARTIoZVnDIWhFXFkkjIiEjFB261112.shtml",
