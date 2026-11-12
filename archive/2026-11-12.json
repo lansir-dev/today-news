@@ -1,13 +1,73 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 15:05",
+ "fetched": "2026-11-12 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "日本报告本季首起禽流感疫情",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730811.shtml",
+   "pub": "2026-11-12 15:32",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "外交部：中方就中俄美元首会晤同有关方保持着沟通",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730820.shtml",
+   "pub": "2026-11-12 15:29",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "亚太之问 中国作答 | 绿色通道串起亚太供应链、产业链",
+   "link": "https://news.cctv.com/2026/11/12/ARTInFmk8ifGoriPpZGXIhzb261112.shtml",
+   "pub": "2026-11-12 15:28",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部谈东京审判宣判78周年：历史不容忘记",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730818.shtml",
+   "pub": "2026-11-12 15:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方会否担心黄仁勋事件影响中美关系？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730817.shtml",
+   "pub": "2026-11-12 15:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）从上海到北京再到深圳：中国与APEC的双向奔赴",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730810.shtml",
+   "pub": "2026-11-12 15:20",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "韩国外长赵显将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730813.shtml",
+   "pub": "2026-11-12 15:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日本被曝拟松动“无核三原则” 日本民众抗议：决不允许",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730803.shtml",
+   "pub": "2026-11-12 15:09",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "黑龙江与松花江（同江段）正式进入封冻期",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730807.shtml",
+   "pub": "2026-11-12 15:05",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "油价12日24时起下调",
    "link": "https://news.cctv.com/2026/11/12/ARTIPRG8wRss8VoBUyqBM2pW261112.shtml",
    "pub": "2026-11-12 15:03",
    "source": "央视网"
+  },
+  {
+   "title": "11月12日24时起，国内汽、柴油价格每吨分别下调645元、625元",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730806.shtml",
+   "pub": "2026-11-12 15:02",
+   "source": "中国新闻网"
   },
   {
    "title": "“中国角”亮相安塔利亚大会 街舞机器人成为“人气王”",
@@ -526,18 +586,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730624.shtml",
-   "pub": "2026-11-12 10:29",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "“万万火急”昭初心 红土山乡启新程",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730662.shtml",
-   "pub": "2026-11-12 10:28",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "朝中社：金正恩现场指导重要海军基地建设",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730649.shtml",
    "pub": "2026-11-12 10:27",
@@ -550,22 +598,10 @@
    "source": "央视网"
   },
   {
-   "title": "韩正出席全民早期预警倡议高级别活动并致辞",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730623.shtml",
-   "pub": "2026-11-12 10:24",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "大洋彼岸，95岁的他还在想念“酸啾啾”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730658.shtml",
    "pub": "2026-11-12 10:23",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "韩正出席应对气候变化南南合作高级别论坛并致辞",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730621.shtml",
-   "pub": "2026-11-12 10:18",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
@@ -644,12 +680,6 @@
    "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730641.shtml",
    "pub": "2026-11-12 10:03",
    "source": "中国新闻网"
-  },
-  {
-   "title": "韩正会见土耳其总统埃尔多安",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730620.shtml",
-   "pub": "2026-11-12 10:02",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "湖南检察机关依法对韩嵩涉嫌受贿案提起公诉",
@@ -913,18 +943,6 @@
    "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
    "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
    "pub": "2026-11-12 06:04",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "集安组织峰会通过宣言 取消亚美尼亚投票权",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730570.shtml",
-   "pub": "2026-11-12 06:04",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "英爱多地学校收到威胁邮件 当局认定系境外恶作剧",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730569.shtml",
-   "pub": "2026-11-12 06:03",
    "source": "中国新闻网·国际"
   }
  ],
