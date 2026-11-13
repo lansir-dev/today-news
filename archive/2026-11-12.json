@@ -1,7 +1,7 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 10:10",
- "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
+ "fetched": "2026-11-13 10:35",
+ "note": "由次日抓取补存的昨日列表",
  "items": [
   {
    "title": "独家视频丨习近平：继承孙中山先生的遗志 同心协力共襄中华民族伟大复兴盛举",
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+   "link": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+   "meta": "Hacker News：AI 热帖 · 发布于 11-13 02:00 · 模型",
+   "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+   "origin": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+  },
+  {
    "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
    "link": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
    "meta": "公众号：数字生命卡兹克 · 发布于 11-13 07:56 · 行业",
@@ -1319,13 +1326,6 @@
    "meta": "OpenAI：Alignment 研究博客 · 发布于 11-12 16:00 · 论文",
    "summary": "OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物等高风险双用途领域的模糊鲁棒性，通过扩大攻击者模型的测试时算力迭代搜索越狱，并要求攻击在多次重复测试中成功（worst@n），生成可靠的对抗训练数据用于 RL 训练。",
    "origin": "https://alignment.openai.com/fuzzy-robustness/"
-  },
-  {
-   "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
-   "link": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
-   "meta": "Matt Palmer · 发布于 11-13 02:22 · 产品",
-   "summary": "作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。",
-   "origin": "https://x.com/mattyp/status/2120945253666762973"
   }
  ]
 }

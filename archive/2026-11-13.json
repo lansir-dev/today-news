@@ -1,8 +1,32 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 10:10",
+ "fetched": "2026-11-13 10:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "“黄图画师”用AI生成“定制角色漫画” 国漫粉丝愤而报案",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731337.shtml",
+   "pub": "2026-11-13 10:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "冒充警察抓赌，只拿钱不抓人 9人“黑吃黑”获刑",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731334.shtml",
+   "pub": "2026-11-13 10:17",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "打造富豪人设，找人假扮父母 一男子以婚恋为名骗了近200万元",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731332.shtml",
+   "pub": "2026-11-13 10:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "冀北清洁能源基地外送绿电规模持续扩大 更多绿电“发得出”“用得好”",
+   "link": "https://news.cctv.com/2026/11/13/ARTI47RDNLcVA5RfXFzMTYUy261113.shtml",
+   "pub": "2026-11-13 10:12",
+   "source": "央视网"
+  },
   {
    "title": "拾光纪·实现孙中山先生“振兴中华”理想，总书记指明必由之路",
    "link": "https://news.cctv.com/2026/11/13/ARTIN3gOFdGJfnsJTMrgMcgx261113.shtml",
@@ -438,6 +462,13 @@
  ],
  "ai": [
   {
+   "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+   "link": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+   "meta": "Hacker News：AI 热帖 · 发布于 11-13 02:00 · 模型",
+   "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+   "origin": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+  },
+  {
    "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
    "link": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
    "meta": "公众号：数字生命卡兹克 · 发布于 11-13 07:56 · 行业",
@@ -485,13 +516,6 @@
    "meta": "OpenAI：Alignment 研究博客 · 发布于 11-12 16:00 · 论文",
    "summary": "OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物等高风险双用途领域的模糊鲁棒性，通过扩大攻击者模型的测试时算力迭代搜索越狱，并要求攻击在多次重复测试中成功（worst@n），生成可靠的对抗训练数据用于 RL 训练。",
    "origin": "https://alignment.openai.com/fuzzy-robustness/"
-  },
-  {
-   "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
-   "link": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
-   "meta": "Matt Palmer · 发布于 11-13 02:22 · 产品",
-   "summary": "作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。",
-   "origin": "https://x.com/mattyp/status/2120945253666762973"
   }
  ]
 }
