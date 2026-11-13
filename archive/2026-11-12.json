@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 20:05",
+ "fetched": "2026-11-13 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "MOSS-Live 全双工实时交互评测解读：与 GPT-Live-1、豆包的对比",
+   "link": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1",
+   "meta": "OpenMOSS / 复旦NLP / 上海创智 / MOSI · 发布于 11-13 00:00 · 模型",
+   "summary": "OpenMOSS 团队发布 MOSS-Live 全双工语音交互评测解读。依据 MOSS 官网 2026 年 11 月 13 日图表，MOSS-Live 六项全双工指标均居参评模型首位，无关语音误接话率 2.00%，低于 GPT-Live-1 的 68% 和豆包的 75%，停顿抢话率 1.44%。",
+   "origin": "https://openmoss.ai/blog/cn/moss-live/"
+  },
+  {
    "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
    "link": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
    "meta": "Latent Space · 发布于 11-13 17:04 · 行业",
@@ -1319,13 +1326,6 @@
    "meta": "TechCrunch：AI · 发布于 11-13 06:42 · 行业",
    "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
    "origin": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
-  },
-  {
-   "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
-   "link": "https://aihot.news/items/t5pucqx6ac58z0ed1b0875ci0",
-   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
-   "summary": "Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。",
-   "origin": "https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work"
   }
  ]
 }

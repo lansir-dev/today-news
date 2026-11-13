@@ -1,8 +1,32 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 20:05",
+ "fetched": "2026-11-13 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "深圳准备就绪 以高水平服务保障APEC盛会",
+   "link": "https://news.cctv.com/2026/11/13/ARTI6EEUUXa3zvjDNjUF4t6o261113.shtml",
+   "pub": "2026-11-13 20:21",
+   "source": "央视网"
+  },
+  {
+   "title": "今年前10个月社会融资规模新增28.61万亿元",
+   "link": "https://news.cctv.com/2026/11/13/ARTIGETv3Tr8prgUquvV83h8261113.shtml",
+   "pub": "2026-11-13 20:21",
+   "source": "央视网"
+  },
+  {
+   "title": "近镜头｜为强国建设民族复兴而团结奋斗",
+   "link": "https://news.cctv.com/2026/11/13/ARTIM5i1wyPo4voWwNUHjV9X261113.shtml",
+   "pub": "2026-11-13 20:21",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/13/ARTIzDnEpX2kjeGPAUWHYKZX261113.shtml",
+   "pub": "2026-11-13 20:16",
+   "source": "央视网"
+  },
   {
    "title": "同心协力共襄中华民族伟大复兴盛举——习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话引发热烈反响",
    "link": "https://news.cctv.com/2026/11/13/ARTIvkjC0Rv5WW7QmWXVBWE4261113.shtml",
