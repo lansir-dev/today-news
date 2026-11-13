@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 22:35",
+ "fetched": "2026-11-13 23:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,11 +1272,11 @@
  ],
  "ai": [
   {
-   "title": "DeepSeek 开放全家桶应用 API，V4.1-Flash 支持联网搜索、文件输入与语音独立接口",
-   "link": "https://aihot.news/items/w1edyi7hrsgj7uk5j4amwwwff",
-   "meta": "公众号：DeepSeek · 发布于 11-13 22:19 · 产品",
-   "summary": "DeepSeek 官方宣布开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入、阅读链接、模型安全等对话能力，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持这些功能。",
-   "origin": "https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ"
+   "title": "DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者",
+   "link": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
+   "meta": "DeepSeek：API 更新日志 · 发布于 11-13 00:00 · 产品",
+   "summary": "DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。",
+   "origin": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api"
   },
   {
    "title": "Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI",
