@@ -1,8 +1,20 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 19:35",
+ "fetched": "2026-11-13 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "同心协力共襄中华民族伟大复兴盛举——习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话引发热烈反响",
+   "link": "https://news.cctv.com/2026/11/13/ARTIvkjC0Rv5WW7QmWXVBWE4261113.shtml",
+   "pub": "2026-11-13 19:59",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+   "link": "https://news.cctv.com/2026/11/13/ARTIwxAIZmXd7H8WfYUvEus2261113.shtml",
+   "pub": "2026-11-13 19:59",
+   "source": "央视网"
+  },
   {
    "title": "习近平对国有企业党的建设工作作出重要指示",
    "link": "https://news.cctv.com/2026/11/13/ARTIHts2O2RDsZAUnDHjUv3j261113.shtml",
