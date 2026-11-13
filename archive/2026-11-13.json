@@ -1,8 +1,26 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 13:05",
+ "fetched": "2026-11-13 13:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "时政微观察丨从总书记引用的典故，感悟如何涵养党性",
+   "link": "https://news.cctv.com/2026/11/13/ARTInsRfUfJ2dEJ3ROGeASnR261113.shtml",
+   "pub": "2026-11-13 13:31",
+   "source": "央视网"
+  },
+  {
+   "title": "中国教育部：2027年全国硕士研究生报考人数为347万",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731427.shtml",
+   "pub": "2026-11-13 13:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "天冷总想吃口热乎的？这些小习惯正悄悄拉高你的血糖血脂",
+   "link": "https://news.cctv.com/2026/11/13/ARTIlSz5TERSb597b0NOoXSD261113.shtml",
+   "pub": "2026-11-13 13:24",
+   "source": "央视网"
+  },
   {
    "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
    "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731416.shtml",
@@ -98,6 +116,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731389.shtml",
    "pub": "2026-11-13 11:43",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）APEC进入“深圳时间” 为亚太经贸合作注入确定性",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731388.shtml",
+   "pub": "2026-11-13 11:42",
+   "source": "中国新闻网"
   },
   {
    "title": "习近平：要共同做大亚太合作蛋糕",
