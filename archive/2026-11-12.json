@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 16:35",
+ "fetched": "2026-11-13 17:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+   "link": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+   "meta": "公众号：腾讯混元 · 发布于 11-13 16:32 · 模型",
+   "summary": "腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。",
+   "origin": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg"
+  },
+  {
    "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
    "link": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
    "meta": "Rohan Paul · 发布于 11-13 14:56 · 行业",
@@ -1319,13 +1326,6 @@
    "meta": "Rohan Paul · 发布于 11-13 05:39 · 行业",
    "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
    "origin": "https://x.com/rohanpaul_ai/status/2120994977421705296"
-  },
-  {
-   "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
-   "link": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
-   "meta": "Gemini · 发布于 11-13 04:50 · 模型",
-   "summary": "Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。",
-   "origin": "https://x.com/GeminiApp/status/2120982674638864797"
   }
  ]
 }
