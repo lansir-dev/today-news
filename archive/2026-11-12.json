@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 12:05",
+ "fetched": "2026-11-13 12:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+   "link": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
+   "meta": "OpenAI：失准报告与通报 · 发布于 11-12 08:00 · 行业",
+   "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+   "origin": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/"
+  },
+  {
    "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
    "link": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
    "meta": "Hacker News：AI 热帖 · 发布于 11-13 02:00 · 模型",
@@ -1319,13 +1326,6 @@
    "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
    "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
    "origin": "https://claude.com/blog/claude-meetings"
-  },
-  {
-   "title": "OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性",
-   "link": "https://aihot.news/items/yg97h3u5vthadivuv5po5f0aw",
-   "meta": "OpenAI：Alignment 研究博客 · 发布于 11-12 16:00 · 论文",
-   "summary": "OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物等高风险双用途领域的模糊鲁棒性，通过扩大攻击者模型的测试时算力迭代搜索越狱，并要求攻击在多次重复测试中成功（worst@n），生成可靠的对抗训练数据用于 RL 训练。",
-   "origin": "https://alignment.openai.com/fuzzy-robustness/"
   }
  ]
 }
