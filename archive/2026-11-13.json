@@ -1,10 +1,142 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 15:35",
- "note": "今日抓取",
+ "fetched": "2026-11-13 16:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
-   "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
+   "title": "时隔两个月 伊朗再次打击美军在中东军事设施",
+   "link": "https://news.cctv.com/2026/11/13/ARTIthjl1qncMbVt4ozboCa6261113.shtml",
+   "pub": "2026-11-13 15:59",
+   "source": "央视网"
+  },
+  {
+   "title": "内部现分歧 美参议院民主党领袖连任遭挑战",
+   "link": "https://news.cctv.com/2026/11/13/ARTIELbO49aFPKgwPakgajUB261113.shtml",
+   "pub": "2026-11-13 15:59",
+   "source": "央视网"
+  },
+  {
+   "title": "巴基斯坦军方称打死74名武装分子",
+   "link": "https://news.cctv.com/2026/11/13/ARTIEG2jTv26T9tf5yVGMh75261113.shtml",
+   "pub": "2026-11-13 15:59",
+   "source": "央视网"
+  },
+  {
+   "title": "国防部：中美两国防务部门就各层级交流对话保持沟通协调",
+   "link": "https://news.cctv.com/2026/11/13/ARTIXsKD0KGziM7aArhTNNF1261113.shtml",
+   "pub": "2026-11-13 15:59",
+   "source": "央视网"
+  },
+  {
+   "title": "中期协：10月全国期货市场成交量同比增长50.08%",
+   "link": "https://jingji.cctv.com/2026/11/13/ARTII3g7ZYuNqHkYu44yYwWg261113.shtml",
+   "pub": "2026-11-13 15:59",
+   "source": "央视网"
+  },
+  {
+   "title": "国家发展改革委 国家能源局联合印发《“十五五”新型储能实施方案》",
+   "link": "https://news.cctv.com/2026/11/13/ARTI3UsHvJOdm0ZHAWYwuwHt261113.shtml",
+   "pub": "2026-11-13 15:58",
+   "source": "央视网"
+  },
+  {
+   "title": "国防部：中国军队将搭建更多更好的中外青年军官交流平台",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731518.shtml",
+   "pub": "2026-11-13 15:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "2026世界中文大会发布国际中文教育垂直大模型",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731519.shtml",
+   "pub": "2026-11-13 15:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国际商界人士期待APEC工商领导人峰会",
+   "link": "https://news.cctv.com/2026/11/13/ARTIw6n87PIW1aX5skSXKW1v261113.shtml",
+   "pub": "2026-11-13 15:49",
+   "source": "央视网"
+  },
+  {
+   "title": "全面升级！“爱达·花城号”打造多彩海上消费场景 海洋文旅“打开方式”更多元",
+   "link": "https://news.cctv.com/2026/11/13/ARTIDtjYE6FG4ASyyK8zXeT3261113.shtml",
+   "pub": "2026-11-13 15:45",
+   "source": "央视网"
+  },
+  {
+   "title": "江苏省徐州市人大常委会主任王安顺接受审查调查",
+   "link": "https://news.cctv.com/2026/11/13/ARTIqoPndfYsVnpeQcZDddDu261113.shtml",
+   "pub": "2026-11-13 15:44",
+   "source": "央视网"
+  },
+  {
+   "title": "中国科协通报：三人被撤销“全国优秀科技工作者”荣誉称号",
+   "link": "https://news.cctv.com/2026/11/13/ARTImWNrd6jFkh5Iv9L4w7j1261113.shtml",
+   "pub": "2026-11-13 15:41",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部：对于所谓的“中国间谍”论调，我们已经多次阐明立场",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731517.shtml",
+   "pub": "2026-11-13 15:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "驻伊尔库茨克总领馆提醒领区中国公民出入境须严格遵守俄海关规定",
+   "link": "https://news.cctv.com/2026/11/13/ARTIzf0g5p8gcDOOnr8vdJBW261113.shtml",
+   "pub": "2026-11-13 15:39",
+   "source": "央视网"
+  },
+  {
+   "title": "祖国腾飞，我奋飞——从八一飞行表演队多彩航迹看人民空军精神风貌",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731516.shtml",
+   "pub": "2026-11-13 15:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "上海出台首部科学数据管理专项文件",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731498.shtml",
+   "pub": "2026-11-13 15:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方回应中俄美元首会晤：同相关方保持着沟通",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731513.shtml",
+   "pub": "2026-11-13 15:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国外交部谈本届进博会：各国企业再次对中国市场投下“信任票”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731512.shtml",
+   "pub": "2026-11-13 15:35",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "今年以来北京新增道路非机动车停车位22.2万个",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731496.shtml",
+   "pub": "2026-11-13 15:35",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（乡村行·看振兴）川东广子村：从“静静等待”到“田野新生”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731495.shtml",
+   "pub": "2026-11-13 15:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中方：一贯反对滥用出口管制措施，扰乱全球产供链稳定",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731510.shtml",
+   "pub": "2026-11-13 15:33",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "APEC第三十三次领导人非正式会议将举行 中方：期待达成领导人深圳宣言",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731507.shtml",
+   "pub": "2026-11-13 15:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "两部门联合印发《“十五五”新型储能实施方案》",
    "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731504.shtml",
    "pub": "2026-11-13 15:28",
    "source": "中国新闻网·国内"
@@ -28,39 +160,21 @@
    "source": "中国新闻网"
   },
   {
-   "title": "江苏省徐州市人大常委会主任王安顺接受审查调查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731487.shtml",
-   "pub": "2026-11-13 15:14",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "甘肃成县：林下多茬皆成景 轮作套种无闲田",
    "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731475.shtml",
    "pub": "2026-11-13 15:12",
    "source": "中国新闻网·社会"
   },
   {
-   "title": "中国科协通报：三人被撤销“全国优秀科技工作者”荣誉称号",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731418.shtml",
-   "pub": "2026-11-13 15:11",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "国防部：菲方应严格约束个别政客的危险言行",
-   "link": "https://www.chinanews.com.cn/${mypath}/2026/11-13/10731492.shtml",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731492.shtml",
    "pub": "2026-11-13 15:09",
    "source": "中国新闻网·国内"
   },
   {
-   "title": "日本右翼势力种种行径是对战后国际秩序的公然挑衅",
+   "title": "国防部：日本右翼势力种种行径是对战后国际秩序的公然挑衅",
    "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731490.shtml",
    "pub": "2026-11-13 15:08",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国防部：中美两国防务部门就各层级交流对话保持沟通协调",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731488.shtml",
-   "pub": "2026-11-13 15:06",
    "source": "中国新闻网·国内"
   },
   {
@@ -124,16 +238,16 @@
    "source": "央视网"
   },
   {
-   "title": "中外记者近距离感受深圳的发展脉动 触摸中国式现代化生动实践",
-   "link": "https://news.cctv.com/2026/11/13/ARTIrREwgP6iokVvP7kRe2I3261113.shtml",
-   "pub": "2026-11-13 14:39",
-   "source": "央视网"
-  },
-  {
    "title": "相约旅游 买近万元套餐后“女友”失联 起底网恋骗局",
    "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731466.shtml",
    "pub": "2026-11-13 14:39",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中外记者近距离感受深圳的发展脉动 触摸中国式现代化生动实践",
+   "link": "https://news.cctv.com/2026/11/13/ARTIrREwgP6iokVvP7kRe2I3261113.shtml",
+   "pub": "2026-11-13 14:39",
+   "source": "央视网"
   },
   {
    "title": "欧洲夏季高温带来中国空调供不应求，马龙以案例谈企业绿色创新",
@@ -250,16 +364,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "习近平对国有企业党的建设工作作出重要指示",
-   "link": "https://news.cctv.com/2026/11/13/ARTIU9KKSf6GullZPwO7lg7T261113.shtml",
-   "pub": "2026-11-13 13:46",
-   "source": "央视网"
-  },
-  {
    "title": "天津集中销毁一批非法枪爆物品 警方持续严打枪爆违法犯罪",
    "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731433.shtml",
    "pub": "2026-11-13 13:46",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平对国有企业党的建设工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/13/ARTIU9KKSf6GullZPwO7lg7T261113.shtml",
+   "pub": "2026-11-13 13:46",
+   "source": "央视网"
   },
   {
    "title": "江苏南通对口支援筑科普阵地 天鹅泉释放生态红利",
@@ -358,22 +472,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "多地中小学迎来秋假 文博游、研学游、亲子游热度攀升",
-   "link": "https://news.cctv.com/2026/11/13/ARTI4lokUT2iekmZYprvVWb9261113.shtml",
-   "pub": "2026-11-13 11:48",
-   "source": "央视网"
-  },
-  {
    "title": "从华强北到平湖实验室 探访深圳的科创密码",
    "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731397.shtml",
    "pub": "2026-11-13 11:48",
    "source": "中国新闻网·国内"
   },
   {
-   "title": "6平方米档口连通世界 她的 “国际手账” 记录异国来客",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731396.shtml",
-   "pub": "2026-11-13 11:46",
-   "source": "中国新闻网·社会"
+   "title": "多地中小学迎来秋假 文博游、研学游、亲子游热度攀升",
+   "link": "https://news.cctv.com/2026/11/13/ARTI4lokUT2iekmZYprvVWb9261113.shtml",
+   "pub": "2026-11-13 11:48",
+   "source": "央视网"
   },
   {
    "title": "2026海外华文媒体山东行在济南启动",
@@ -388,22 +496,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "习近平：要共同做大亚太合作蛋糕",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731393.shtml",
-   "pub": "2026-11-13 11:41",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "日本民间团体举行集会 反对高市政权修宪扩军",
    "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731394.shtml",
    "pub": "2026-11-13 11:41",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "八省（区）林业有害生物联防联治工作会议在福建将乐举行",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731387.shtml",
-   "pub": "2026-11-13 11:41",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "2027年全国硕士研究生招生考试报名人数为347万",
@@ -424,40 +520,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "一站式打卡“未来之城” 深圳科创游攻略来了",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731377.shtml",
-   "pub": "2026-11-13 11:21",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "数说APEC | 双向奔赴的投资见证开放与共赢",
-   "link": "https://news.cctv.com/2026/11/13/ARTIeQ7m12DcvSi2DkIALjm9261113.shtml",
-   "pub": "2026-11-13 11:15",
-   "source": "央视网"
-  },
-  {
    "title": "2026年美国麻疹相关死亡病例升至6例",
    "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731371.shtml",
    "pub": "2026-11-13 11:15",
    "source": "中国新闻网·国际"
   },
   {
-   "title": "国际随笔｜走近中国，更新眼光",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731375.shtml",
-   "pub": "2026-11-13 11:14",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "纪念孙中山先生诞辰160周年瞻仰活动在沪举行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731347.shtml",
-   "pub": "2026-11-13 11:12",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "克里：美国等国应跟上中国绿能发展步伐",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731374.shtml",
-   "pub": "2026-11-13 11:09",
-   "source": "中国新闻网·国内"
+   "title": "数说APEC | 双向奔赴的投资见证开放与共赢",
+   "link": "https://news.cctv.com/2026/11/13/ARTIeQ7m12DcvSi2DkIALjm9261113.shtml",
+   "pub": "2026-11-13 11:15",
+   "source": "央视网"
   },
   {
    "title": "巴布亚新几内亚附近海域发生5.8级地震 震源深度20千米",
@@ -520,12 +592,6 @@
    "source": "央视网"
   },
   {
-   "title": "重庆荣昌营商环境体系观察：数字背后的温度",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731346.shtml",
-   "pub": "2026-11-13 10:47",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "贵州雷山：巡游展演庆苗年",
    "link": "https://photo.cctv.com/2026/11/13/PHOAkEDBZRom26KB4XHpT5a2261113.shtml",
    "pub": "2026-11-13 10:44",
@@ -556,12 +622,6 @@
    "source": "央视网"
   },
   {
-   "title": "无弦琵琶雕塑出圈背后的政协担当",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731325.shtml",
-   "pub": "2026-11-13 10:35",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "冒充警察抓赌，只拿钱不抓人 9人“黑吃黑”获刑",
    "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731334.shtml",
    "pub": "2026-11-13 10:17",
@@ -571,12 +631,6 @@
    "title": "冀北清洁能源基地外送绿电规模持续扩大 更多绿电“发得出”“用得好”",
    "link": "https://news.cctv.com/2026/11/13/ARTI47RDNLcVA5RfXFzMTYUy261113.shtml",
    "pub": "2026-11-13 10:12",
-   "source": "央视网"
-  },
-  {
-   "title": "拾光纪·实现孙中山先生“振兴中华”理想，总书记指明必由之路",
-   "link": "https://news.cctv.com/2026/11/13/ARTIN3gOFdGJfnsJTMrgMcgx261113.shtml",
-   "pub": "2026-11-13 10:05",
    "source": "央视网"
   },
   {
@@ -598,6 +652,12 @@
    "source": "中国新闻网·国际"
   },
   {
+   "title": "拾光纪·实现孙中山先生“振兴中华”理想，总书记指明必由之路",
+   "link": "https://news.cctv.com/2026/11/13/ARTIN3gOFdGJfnsJTMrgMcgx261113.shtml",
+   "pub": "2026-11-13 10:05",
+   "source": "央视网"
+  },
+  {
    "title": "北京今天有雾昼夜温差大 周日大气扩散条件和能见度将好转",
    "link": "https://news.cctv.com/2026/11/13/ARTIVGCmjlLhlhUe1Izhta4m261113.shtml",
    "pub": "2026-11-13 10:02",
@@ -608,12 +668,6 @@
    "link": "https://news.cctv.com/2026/11/13/ARTIt6wlKKa98UatmLIAdr45261113.shtml",
    "pub": "2026-11-13 10:00",
    "source": "央视网"
-  },
-  {
-   "title": "（深圳APEC）习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731304.shtml",
-   "pub": "2026-11-13 10:00",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "（深圳APEC）澳大利亚政商界人士：期待借APEC会议拓展对华合作",
@@ -682,16 +736,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "我国水土保持综合治理提质增效",
-   "link": "https://news.cctv.com/2026/11/13/ARTIn2f2C0gde3eHVIZSr2pg261113.shtml",
-   "pub": "2026-11-13 07:49",
-   "source": "央视网"
-  },
-  {
    "title": "出口暴涨116.6%！国产“新顶流”全球爆单",
    "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731256.shtml",
    "pub": "2026-11-13 07:49",
    "source": "中国新闻网"
+  },
+  {
+   "title": "我国水土保持综合治理提质增效",
+   "link": "https://news.cctv.com/2026/11/13/ARTIn2f2C0gde3eHVIZSr2pg261113.shtml",
+   "pub": "2026-11-13 07:49",
+   "source": "央视网"
   },
   {
    "title": "储能装备加速出海",
@@ -730,16 +784,16 @@
    "source": "央视网"
   },
   {
-   "title": "安理会通过决议 将联中稳定团任务期限延长一年",
-   "link": "https://news.cctv.com/2026/11/13/ARTIxSoEFTWGRKtfE3IFjRD0261113.shtml",
-   "pub": "2026-11-13 07:27",
-   "source": "央视网"
-  },
-  {
    "title": "胡塞武装宣布对沙特发起四次军事行动，打击石油设施及空军基地",
    "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731249.shtml",
    "pub": "2026-11-13 07:27",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "安理会通过决议 将联中稳定团任务期限延长一年",
+   "link": "https://news.cctv.com/2026/11/13/ARTIxSoEFTWGRKtfE3IFjRD0261113.shtml",
+   "pub": "2026-11-13 07:27",
+   "source": "央视网"
   },
   {
    "title": "我国在渤海超深层发现火山岩高产油气井",
