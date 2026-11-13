@@ -1,8 +1,26 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 18:05",
+ "fetched": "2026-11-13 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "同心协力共襄中华民族伟大复兴盛举",
+   "link": "https://news.cctv.com/2026/11/13/ARTINZTJDoEu1vx2vyPI20ql261113.shtml",
+   "pub": "2026-11-13 18:27",
+   "source": "央视网"
+  },
+  {
+   "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
+   "link": "https://news.cctv.com/2026/11/13/ARTI3OMU58h67PHMv2dpRvvy261113.shtml",
+   "pub": "2026-11-13 18:06",
+   "source": "央视网"
+  },
+  {
+   "title": "100%绿电供应，APEC会议如何实现绿电全覆盖？",
+   "link": "https://news.cctv.com/2026/11/13/ARTI1gTU9UWGptH1RdUbP2Ni261113.shtml",
+   "pub": "2026-11-13 18:05",
+   "source": "央视网"
+  },
   {
    "title": "多彩活动丰富秋假生活 惠民举措激活秋冬文旅消费",
    "link": "https://news.cctv.com/2026/11/13/ARTI4wyBQgYYBVIKaC4XUFvk261113.shtml",
