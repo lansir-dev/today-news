@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 21:35",
+ "fetched": "2026-11-13 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,27 @@
  ],
  "ai": [
   {
+   "title": "DeepSeek 开放全家桶应用 API，V4.1-Flash 支持联网搜索、文件输入与语音独立接口",
+   "link": "https://aihot.news/items/w1edyi7hrsgj7uk5j4amwwwff",
+   "meta": "公众号：DeepSeek · 发布于 11-13 22:19 · 产品",
+   "summary": "DeepSeek 官方宣布开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入、阅读链接、模型安全等对话能力，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持这些功能。",
+   "origin": "https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ"
+  },
+  {
+   "title": "Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI",
+   "link": "https://aihot.news/items/bp01lj0ahiqsoahba8sjor2b4",
+   "meta": "Apple：Newsroom · 发布于 11-13 00:00 · 产品",
+   "summary": "Apple 于 11 月 13 日正式开售 HomeView，提供桌面和壁挂两款型号，均售 $299（U.S.），首发澳大利亚、加拿大、印度、新西兰、新加坡、英国和美国市场。",
+   "origin": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/"
+  },
+  {
+   "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+   "link": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+   "meta": "TechCrunch：AI · 发布于 11-13 20:52 · 行业",
+   "summary": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。",
+   "origin": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+  },
+  {
    "title": "MOSS-Live 全双工实时交互评测解读：与 GPT-Live-1、豆包的对比",
    "link": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1",
    "meta": "OpenMOSS / 复旦NLP / 上海创智 / MOSI · 发布于 11-13 00:00 · 模型",
@@ -1305,27 +1326,6 @@
    "meta": "OpenAI：失准报告与通报 · 发布于 11-12 08:00 · 行业",
    "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
    "origin": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/"
-  },
-  {
-   "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
-   "link": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
-   "meta": "Hacker News：AI 热帖 · 发布于 11-13 02:00 · 模型",
-   "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
-   "origin": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
-  },
-  {
-   "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
-   "link": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-13 07:56 · 行业",
-   "summary": "英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。",
-   "origin": "https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg"
-  },
-  {
-   "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-   "link": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-   "meta": "TechCrunch：AI · 发布于 11-13 06:42 · 行业",
-   "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
-   "origin": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
   }
  ]
 }

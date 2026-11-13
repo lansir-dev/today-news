@@ -1,8 +1,38 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 21:05",
+ "fetched": "2026-11-13 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国际能源署预计第四季度全球石油供应转向过剩",
+   "link": "https://news.cctv.com/2026/11/13/ARTIzJnw3q0yHfLbybUjdQkA261113.shtml",
+   "pub": "2026-11-13 22:23",
+   "source": "央视网"
+  },
+  {
+   "title": "波兰华沙肖邦国际机场一架客机因无人机干扰中止降落",
+   "link": "https://news.cctv.com/2026/11/13/ARTI2RDD5Ce3bdeShwlHykEB261113.shtml",
+   "pub": "2026-11-13 22:15",
+   "source": "央视网"
+  },
+  {
+   "title": "越南胡志明市一家燃气店爆炸 致2死12伤",
+   "link": "https://news.cctv.com/2026/11/13/ARTISQ8B2dY51p3IYJ7M4clA261113.shtml",
+   "pub": "2026-11-13 22:13",
+   "source": "央视网"
+  },
+  {
+   "title": "专家解读食品标签：“0蔗糖”“零添加”未必更健康",
+   "link": "https://news.cctv.com/2026/11/13/ARTILWdLgAyFH7892aQHoPrl261113.shtml",
+   "pub": "2026-11-13 21:46",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜以党性铸魂固本 走好全面从严治党赶考路",
+   "link": "https://news.cctv.com/2026/11/13/ARTIWRCUGpEvK4OIJbxHOBEd261113.shtml",
+   "pub": "2026-11-13 21:43",
+   "source": "央视网"
+  },
   {
    "title": "中国足协澄清“阻止董路团队参加‘阿图什杯’”等网传不实信息",
    "link": "https://news.cctv.com/2026/11/13/ARTIA99fpsbIKH9KJrYEHomR261113.shtml",
