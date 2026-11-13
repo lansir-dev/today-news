@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 17:35",
+ "fetched": "2026-11-13 18:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+   "link": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+   "meta": "Latent Space · 发布于 11-13 17:04 · 行业",
+   "summary": "Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。",
+   "origin": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/"
+  },
+  {
    "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
    "link": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
    "meta": "公众号：腾讯混元 · 发布于 11-13 16:32 · 模型",
@@ -1319,13 +1326,6 @@
    "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
    "summary": "Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。",
    "origin": "https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work"
-  },
-  {
-   "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
-   "link": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n",
-   "meta": "Rohan Paul · 发布于 11-13 05:39 · 行业",
-   "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
-   "origin": "https://x.com/rohanpaul_ai/status/2120994977421705296"
   }
  ]
 }
