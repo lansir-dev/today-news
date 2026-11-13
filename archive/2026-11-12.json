@@ -1,8 +1,20 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-12 22:35",
+ "fetched": "2026-11-13 10:10",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "独家视频丨习近平：继承孙中山先生的遗志 同心协力共襄中华民族伟大复兴盛举",
+   "link": "https://news.cctv.com/2026/11/12/ARTI26rehTVAPUoHehEYX1O3261112.shtml",
+   "pub": "2026-11-12 23:41",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平：对孙中山先生最好的纪念，就是学习、继承、发扬他的宝贵精神",
+   "link": "https://news.cctv.com/2026/11/12/ARTIdP1dyuO6gOD1Xw2zcc0A261112.shtml",
+   "pub": "2026-11-12 23:38",
+   "source": "央视网"
+  },
   {
    "title": "冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案",
    "link": "https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml",
@@ -1260,60 +1272,60 @@
  ],
  "ai": [
   {
-   "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
-   "link": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
-   "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
-   "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。",
-   "origin": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/"
+   "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+   "link": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-13 07:56 · 行业",
+   "summary": "英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。",
+   "origin": "https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg"
   },
   {
-   "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
-   "link": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
-   "meta": "OpenRouter：Announcements · 发布于 11-12 08:00 · 教程",
-   "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
-   "origin": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/"
+   "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
+   "link": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+   "meta": "TechCrunch：AI · 发布于 11-13 06:42 · 行业",
+   "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
+   "origin": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
   },
   {
-   "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
-   "link": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
-   "meta": "Rohan Paul · 发布于 11-12 07:43 · 行业",
-   "summary": "WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。",
-   "origin": "https://x.com/rohanpaul_ai/status/2120663635479625930"
+   "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
+   "link": "https://aihot.news/items/t5pucqx6ac58z0ed1b0875ci0",
+   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
+   "summary": "Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。",
+   "origin": "https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work"
   },
   {
-   "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
-   "link": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
-   "meta": "Google Blog：AI · 发布于 11-12 02:00 · 产品",
-   "summary": "Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。",
-   "origin": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+   "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
+   "link": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n",
+   "meta": "Rohan Paul · 发布于 11-13 05:39 · 行业",
+   "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
+   "origin": "https://x.com/rohanpaul_ai/status/2120994977421705296"
   },
   {
-   "title": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
-   "link": "https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk",
-   "meta": "Claude：YouTube · 发布于 11-12 01:30 · 教程",
-   "summary": "Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。",
-   "origin": "https://www.youtube.com/watch?v=C33hJGt-ySg"
+   "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+   "link": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+   "meta": "Gemini · 发布于 11-13 04:50 · 模型",
+   "summary": "Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。",
+   "origin": "https://x.com/GeminiApp/status/2120982674638864797"
   },
   {
-   "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
-   "link": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
-   "meta": "Runway：News · 发布于 11-12 07:25 · 模型",
-   "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。",
-   "origin": "https://runwayml.com/news/company-news/praxis-1-is-now-available"
+   "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
+   "link": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
+   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
+   "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
+   "origin": "https://claude.com/blog/claude-meetings"
   },
   {
-   "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
-   "link": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
-   "meta": "Anthropic：Alignment Science Blog · 发布于 11-11 08:00 · 论文",
-   "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
-   "origin": "https://alignment.anthropic.com/2026/worse-together/"
+   "title": "OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性",
+   "link": "https://aihot.news/items/yg97h3u5vthadivuv5po5f0aw",
+   "meta": "OpenAI：Alignment 研究博客 · 发布于 11-12 16:00 · 论文",
+   "summary": "OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物等高风险双用途领域的模糊鲁棒性，通过扩大攻击者模型的测试时算力迭代搜索越狱，并要求攻击在多次重复测试中成功（worst@n），生成可靠的对抗训练数据用于 RL 训练。",
+   "origin": "https://alignment.openai.com/fuzzy-robustness/"
   },
   {
-   "title": "a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道",
-   "link": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
-   "meta": "a16z：News · 发布于 11-11 23:02 · 观点",
-   "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
-   "origin": "https://www.a16z.news/p/welcome-to-the-b2a-economy"
+   "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+   "link": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+   "meta": "Matt Palmer · 发布于 11-13 02:22 · 产品",
+   "summary": "作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。",
+   "origin": "https://x.com/mattyp/status/2120945253666762973"
   }
  ]
 }
