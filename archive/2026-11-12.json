@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "fetched": "2026-11-13 15:05",
+ "fetched": "2026-11-13 15:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1272,6 +1272,13 @@
  ],
  "ai": [
   {
+   "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+   "link": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+   "meta": "Rohan Paul · 发布于 11-13 14:56 · 行业",
+   "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。",
+   "origin": "https://x.com/rohanpaul_ai/status/2121135206342275529"
+  },
+  {
    "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
    "link": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
    "meta": "OpenAI：失准报告与通报 · 发布于 11-12 08:00 · 行业",
@@ -1319,13 +1326,6 @@
    "meta": "Gemini · 发布于 11-13 04:50 · 模型",
    "summary": "Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。",
    "origin": "https://x.com/GeminiApp/status/2120982674638864797"
-  },
-  {
-   "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
-   "link": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
-   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
-   "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
-   "origin": "https://claude.com/blog/claude-meetings"
   }
  ]
 }

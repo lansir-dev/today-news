@@ -1,8 +1,92 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 15:05",
+ "fetched": "2026-11-13 15:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731504.shtml",
+   "pub": "2026-11-13 15:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "菲律宾启动东盟峰会安保戒备 逾2.3万安保人员部署到位",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731477.shtml",
+   "pub": "2026-11-13 15:26",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "外交部回应中俄美元首会晤",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731503.shtml",
+   "pub": "2026-11-13 15:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日媒呼吁坚持“无核三原则” 反对高市政府鲁莽行径",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731499.shtml",
+   "pub": "2026-11-13 15:21",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "江苏省徐州市人大常委会主任王安顺接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731487.shtml",
+   "pub": "2026-11-13 15:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "甘肃成县：林下多茬皆成景 轮作套种无闲田",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731475.shtml",
+   "pub": "2026-11-13 15:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国科协通报：三人被撤销“全国优秀科技工作者”荣誉称号",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731418.shtml",
+   "pub": "2026-11-13 15:11",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国防部：菲方应严格约束个别政客的危险言行",
+   "link": "https://www.chinanews.com.cn/${mypath}/2026/11-13/10731492.shtml",
+   "pub": "2026-11-13 15:09",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日本右翼势力种种行径是对战后国际秩序的公然挑衅",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731490.shtml",
+   "pub": "2026-11-13 15:08",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部：中美两国防务部门就各层级交流对话保持沟通协调",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731488.shtml",
+   "pub": "2026-11-13 15:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "十淅高速（湖北段）顺利通过竣工验收",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731478.shtml",
+   "pub": "2026-11-13 15:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“床虱地图”，酒店行业的新挑战",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731486.shtml",
+   "pub": "2026-11-13 15:03",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第四届“沿着黄河遇见海”黄河口国际观鸟季在山东东营启幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731482.shtml",
+   "pub": "2026-11-13 15:01",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "深夜服务区喷涂涉诈网址 男子被当场抓获",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731485.shtml",
+   "pub": "2026-11-13 15:00",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "候鸟蹁跹书写生态和谐篇章 美丽中国迎“客”来",
    "link": "https://news.cctv.com/2026/11/13/ARTILFv3zNlb152HGgLKnUbJ261113.shtml",
@@ -322,36 +406,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "大雾天气致哈尔滨机场延误航班48架次",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731386.shtml",
-   "pub": "2026-11-13 11:40",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "一张草原奶皮的逆袭：蒙古族老味道跑出富民新速度",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731382.shtml",
-   "pub": "2026-11-13 11:39",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "从“宁德大黄鱼”看山海之城的海洋渔业现代化“良方”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731380.shtml",
-   "pub": "2026-11-13 11:37",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "（神州写真）工业旅游走热 中外游客热衷“进厂”体验中国智造",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731379.shtml",
-   "pub": "2026-11-13 11:37",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "黑龙江省首个危旧住房自主更新原拆原建项目通过竣工验收",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731368.shtml",
-   "pub": "2026-11-13 11:35",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "2027年全国硕士研究生招生考试报名人数为347万",
    "link": "https://news.cctv.com/2026/11/13/ARTIiUhDJOCmtCVBAZkXLUnc261113.shtml",
    "pub": "2026-11-13 11:34",
@@ -362,12 +416,6 @@
    "link": "https://news.cctv.com/2026/11/13/ARTIP0SCDeeWcKoiBrHQzKhR261113.shtml",
    "pub": "2026-11-13 11:32",
    "source": "央视网"
-  },
-  {
-   "title": "直播海报：火腿配美酒 记者带你打卡侨博会",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731390.shtml",
-   "pub": "2026-11-13 11:32",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境",
@@ -620,18 +668,6 @@
    "link": "https://news.cctv.com/2026/11/13/ARTItgwx4IFnbLP5R8jtsA3K261113.shtml",
    "pub": "2026-11-13 08:36",
    "source": "央视网"
-  },
-  {
-   "title": "同“台独”势力绑在一起没有任何前途",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731262.shtml",
-   "pub": "2026-11-13 08:28",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "学习贯彻党的二十届五中全会精神中央宣讲团在外交部宣讲",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731259.shtml",
-   "pub": "2026-11-13 08:06",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "【8点见】金饰克价，年内跌超500元",
@@ -906,6 +942,13 @@
  ],
  "ai": [
   {
+   "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+   "link": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+   "meta": "Rohan Paul · 发布于 11-13 14:56 · 行业",
+   "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。",
+   "origin": "https://x.com/rohanpaul_ai/status/2121135206342275529"
+  },
+  {
    "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
    "link": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
    "meta": "OpenAI：失准报告与通报 · 发布于 11-12 08:00 · 行业",
@@ -953,13 +996,6 @@
    "meta": "Gemini · 发布于 11-13 04:50 · 模型",
    "summary": "Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。",
    "origin": "https://x.com/GeminiApp/status/2120982674638864797"
-  },
-  {
-   "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
-   "link": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
-   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
-   "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
-   "origin": "https://claude.com/blog/claude-meetings"
   }
  ]
 }
