@@ -1,8 +1,26 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 19:05",
+ "fetched": "2026-11-13 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平对国有企业党的建设工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/13/ARTIHts2O2RDsZAUnDHjUv3j261113.shtml",
+   "pub": "2026-11-13 19:21",
+   "source": "央视网"
+  },
+  {
+   "title": "铁路部门通报“两名外籍旅客在高铁车门口吸烟”",
+   "link": "https://news.cctv.com/2026/11/13/ARTIJsntvPRGCpAPQvTaMATQ261113.shtml",
+   "pub": "2026-11-13 19:15",
+   "source": "央视网"
+  },
+  {
+   "title": "大雾预警升级至橙色 京津冀等15省区市有大雾局地有强浓雾",
+   "link": "https://news.cctv.com/2026/11/13/ARTI5GsGSWVSXYu4gFhw9jpk261113.shtml",
+   "pub": "2026-11-13 19:13",
+   "source": "央视网"
+  },
   {
    "title": "14日至18日冷空气将接连影响中东部地区有大范围雨雪天气",
    "link": "https://news.cctv.com/2026/11/13/ARTIFaDnRj0z4qWDi00KZ6l2261113.shtml",
