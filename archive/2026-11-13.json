@@ -1,8 +1,26 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 20:35",
+ "fetched": "2026-11-13 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中国足协澄清“阻止董路团队参加‘阿图什杯’”等网传不实信息",
+   "link": "https://news.cctv.com/2026/11/13/ARTIA99fpsbIKH9KJrYEHomR261113.shtml",
+   "pub": "2026-11-13 20:55",
+   "source": "央视网"
+  },
+  {
+   "title": "驻菲律宾使馆提醒在菲中国公民关注东盟峰会期间交通管制消息",
+   "link": "https://news.cctv.com/2026/11/13/ARTIDVo0110Xi0Bm7QwJPwDe261113.shtml",
+   "pub": "2026-11-13 20:51",
+   "source": "央视网"
+  },
+  {
+   "title": "常卫魏出任中国国家女子足球队主教练",
+   "link": "https://news.cctv.com/2026/11/13/ARTIiWGdh6ba4CGxdc3K1j3C261113.shtml",
+   "pub": "2026-11-13 20:48",
+   "source": "央视网"
+  },
   {
    "title": "深圳准备就绪 以高水平服务保障APEC盛会",
    "link": "https://news.cctv.com/2026/11/13/ARTI6EEUUXa3zvjDNjUF4t6o261113.shtml",
