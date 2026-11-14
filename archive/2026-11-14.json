@@ -1,8 +1,14 @@
 {
  "day": "2026-11-14",
- "fetched": "2026-11-14 22:05",
+ "fetched": "2026-11-14 23:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
+   "pub": "2026-11-14 22:56",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "勇立潮头再扬帆——中国携手亚太共启发展繁荣新航程",
    "link": "https://news.cctv.com/2026/11/14/ARTIeLeTd2Y9V8PvoxkBaEK3261114.shtml",
