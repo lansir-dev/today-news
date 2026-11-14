@@ -1,8 +1,32 @@
 {
  "day": "2026-11-14",
- "fetched": "2026-11-14 11:35",
+ "fetched": "2026-11-14 12:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "新疆库车市发生5.0级地震",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-14/10731928.shtml",
+   "pub": "2026-11-14 11:51",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "潘国强任宁德市委书记",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731927.shtml",
+   "pub": "2026-11-14 11:49",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "C909、AG600齐上阵！筑牢森林灭火空中防线",
+   "link": "https://news.cctv.com/2026/11/14/ARTIcjD2PWgtRhxXNZXIQYix261114.shtml",
+   "pub": "2026-11-14 11:41",
+   "source": "央视网"
+  },
+  {
+   "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
+   "pub": "2026-11-14 11:41",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "大雁、地瓜、船……习近平妙喻APEC合作",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731924.shtml",
