@@ -1,8 +1,44 @@
 {
  "day": "2026-11-14",
- "fetched": "2026-11-14 10:05",
+ "fetched": "2026-11-14 10:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "新疆阿克苏地区库车市发生5.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731904.shtml",
+   "pub": "2026-11-14 10:18",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "山东青州：仙客来竞相绽放",
+   "link": "https://photo.cctv.com/2026/11/14/PHOAXwNZfw2DgFUtkGkTxod6261114.shtml",
+   "pub": "2026-11-14 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "新疆库车：辣椒丰收晾晒忙",
+   "link": "https://photo.cctv.com/2026/11/14/PHOAlSfv4Z1gzjAN0Vve4YiG261114.shtml",
+   "pub": "2026-11-14 10:10",
+   "source": "央视网"
+  },
+  {
+   "title": "北京：故宫墙外银杏满目金黄 吸引游人驻足赏景",
+   "link": "https://photo.cctv.com/2026/11/14/PHOAFoO4Ea21lrPlsdISmgws261114.shtml",
+   "pub": "2026-11-14 10:08",
+   "source": "央视网"
+  },
+  {
+   "title": "江西九江：大批冬候鸟现身永修吴城 鄱阳湖候鸟季开启",
+   "link": "https://photo.cctv.com/2026/11/14/PHOAM9LI8GjfyEONkA4Aj7W8261114.shtml",
+   "pub": "2026-11-14 10:07",
+   "source": "央视网"
+  },
+  {
+   "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
+   "pub": "2026-11-14 10:07",
+   "source": "中国新闻网"
+  },
   {
    "title": "海南省文物局局长：封关运作打通海南文博开放“四大通道”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731889.shtml",
