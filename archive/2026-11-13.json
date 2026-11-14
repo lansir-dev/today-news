@@ -1,7 +1,7 @@
 {
  "day": "2026-11-13",
- "fetched": "2026-11-13 22:35",
- "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
+ "fetched": "2026-11-14 10:05",
+ "note": "由次日抓取补存的昨日列表",
  "items": [
   {
    "title": "国际能源署预计第四季度全球石油供应转向过剩",
@@ -1302,60 +1302,60 @@
  ],
  "ai": [
   {
-   "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
-   "link": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
-   "meta": "公众号：腾讯混元 · 发布于 11-13 16:32 · 模型",
-   "summary": "腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。",
-   "origin": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg"
+   "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户",
+   "link": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k",
+   "meta": "Cursor Blog · 发布于 11-13 20:00 · 行业",
+   "summary": "Cursor 发布安全事件完整调查：攻击者利用 Fireworks 暴露的访问密钥读取用于模型训练的 coding agent trace，少于 0.01% 客户的 API 凭证暴露。",
+   "origin": "https://cursor.com/blog/security-incident-update"
   },
   {
-   "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
-   "link": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
-   "meta": "Rohan Paul · 发布于 11-13 14:56 · 行业",
-   "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。",
-   "origin": "https://x.com/rohanpaul_ai/status/2121135206342275529"
+   "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+   "link": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+   "meta": "Rohan Paul · 发布于 11-14 07:54 · 行业",
+   "summary": "美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。报告称对超级智能的市场热情推高股票估值；截至10月AI基础设施债务超6800亿美元，约为2023年全年的5倍、占投资级公司借贷约31%；最大银行对大型科技、数据中心建设及融资工具的风险敞口接近1万亿美元。",
+   "origin": "https://x.com/rohanpaul_ai/status/2121391185499660332"
   },
   {
-   "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
-   "link": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
-   "meta": "OpenAI：失准报告与通报 · 发布于 11-12 08:00 · 行业",
-   "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
-   "origin": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/"
+   "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
+   "link": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+   "meta": "TechCrunch：AI · 发布于 11-14 06:43 · 行业",
+   "summary": "Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。",
+   "origin": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
   },
   {
-   "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
-   "link": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
-   "meta": "Hacker News：AI 热帖 · 发布于 11-13 02:00 · 模型",
-   "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
-   "origin": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   "title": "NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造",
+   "link": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr",
+   "meta": "Rohan Paul · 发布于 11-14 05:27 · 行业",
+   "summary": "Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。",
+   "origin": "https://x.com/rohanpaul_ai/status/2121354165352096179"
   },
   {
-   "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
-   "link": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-13 07:56 · 行业",
-   "summary": "英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。",
-   "origin": "https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg"
+   "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+   "link": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+   "meta": "Rohan Paul · 发布于 11-14 07:39 · 行业",
+   "summary": "Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。",
+   "origin": "https://x.com/rohanpaul_ai/status/2121387496722329833"
   },
   {
-   "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-   "link": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-   "meta": "TechCrunch：AI · 发布于 11-13 06:42 · 行业",
-   "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
-   "origin": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+   "title": "Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用",
+   "link": "https://aihot.news/items/h0obmlpmc44dqk1da164ca1z7",
+   "meta": "Google Research：Blog · 发布于 11-13 08:00 · 产品",
+   "summary": "Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。",
+   "origin": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
   },
   {
-   "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
-   "link": "https://aihot.news/items/t5pucqx6ac58z0ed1b0875ci0",
-   "meta": "Claude：Blog · 发布于 11-12 08:00 · 产品",
-   "summary": "Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。",
-   "origin": "https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work"
+   "title": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
+   "link": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
+   "meta": "Ado Kukic · 发布于 11-14 04:22 · 产品",
+   "summary": "Anthropic 的 Claude Duet 更新：截至昨日在等待名单上的全部美国 Pro、Max 和 Ultra 订阅者均已收到邀请，等待名单入口为 https://claude.com/product/claude-duet。研究预览附带限额重置，Pro 为 3 次，Max 和 Ultra 为 1 次；官方计划很快向美国以外更多国家开放，并继续征集反馈。",
+   "origin": "https://x.com/adocomplete/status/2121338030967697908"
   },
   {
-   "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
-   "link": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n",
-   "meta": "Rohan Paul · 发布于 11-13 05:39 · 行业",
-   "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
-   "origin": "https://x.com/rohanpaul_ai/status/2120994977421705296"
+   "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+   "link": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+   "meta": "Newcomer 新闻长文 · 发布于 11-14 03:27 · 行业",
+   "summary": "Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。",
+   "origin": "https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off"
   }
  ]
 }
