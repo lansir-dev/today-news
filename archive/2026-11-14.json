@@ -1,8 +1,20 @@
 {
  "day": "2026-11-14",
- "fetched": "2026-11-14 21:35",
- "note": "今日抓取",
+ "fetched": "2026-11-14 22:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "勇立潮头再扬帆——中国携手亚太共启发展繁荣新航程",
+   "link": "https://news.cctv.com/2026/11/14/ARTIeLeTd2Y9V8PvoxkBaEK3261114.shtml",
+   "pub": "2026-11-14 22:00",
+   "source": "央视网"
+  },
+  {
+   "title": "从承诺到行动：COP31上的中国答卷",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+   "pub": "2026-11-14 21:44",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "两岸网友共创视频｜我们的城市有条中山路",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
@@ -10,16 +22,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "焦点访谈｜充分发挥党的组织优势",
-   "link": "https://news.cctv.com/2026/11/14/ARTIoV2avpouehTWGItjKsId261114.shtml",
-   "pub": "2026-11-14 21:19",
-   "source": "央视网"
-  },
-  {
    "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
    "pub": "2026-11-14 21:19",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "焦点访谈｜充分发挥党的组织优势",
+   "link": "https://news.cctv.com/2026/11/14/ARTIoV2avpouehTWGItjKsId261114.shtml",
+   "pub": "2026-11-14 21:19",
+   "source": "央视网"
   },
   {
    "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
@@ -106,6 +118,12 @@
    "source": "央视网"
   },
   {
+   "title": "两岸青年十年踏访茶马古道 在台北举办纪实摄影展",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732142.shtml",
+   "pub": "2026-11-14 20:28",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "政策发力显效 多项先行指标持续改善",
    "link": "https://news.cctv.com/2026/11/14/ARTI2kfV6lLWU54PfhEo5dZm261114.shtml",
    "pub": "2026-11-14 20:28",
@@ -118,28 +136,22 @@
    "source": "央视网"
   },
   {
-   "title": "两岸青年十年踏访茶马古道 在台北举办纪实摄影展",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732142.shtml",
-   "pub": "2026-11-14 20:28",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "旅游特色孔子学院联盟揭牌成立",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10732141.shtml",
    "pub": "2026-11-14 20:27",
    "source": "中国新闻网·国内"
   },
   {
-   "title": "大雾橙色预警继续发布 京津冀等9省区市有浓雾或强浓雾",
-   "link": "https://news.cctv.com/2026/11/14/ARTIEiddG1dAGW2wnuUnI9ng261114.shtml",
-   "pub": "2026-11-14 20:24",
-   "source": "央视网"
-  },
-  {
    "title": "湖南祁阳织密普惠托育服务网   破解家长“带娃难”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732133.shtml",
    "pub": "2026-11-14 20:24",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "大雾橙色预警继续发布 京津冀等9省区市有浓雾或强浓雾",
+   "link": "https://news.cctv.com/2026/11/14/ARTIEiddG1dAGW2wnuUnI9ng261114.shtml",
+   "pub": "2026-11-14 20:24",
+   "source": "央视网"
   },
   {
    "title": "“第一口的蜜——叶圣陶美育思想文献展” 亮相央美美术馆",
@@ -262,6 +274,12 @@
    "source": "中国新闻网·国内"
   },
   {
+   "title": "东西问｜博科娃：竞争不应演变为对抗，交流不会自动带来理解",
+   "link": "https://www.chinanews.com.cn/dxw/2026/11-14/10732096.shtml",
+   "pub": "2026-11-14 18:40",
+   "source": "中国新闻网"
+  },
+  {
    "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
    "link": "https://news.cctv.com/2026/11/14/ARTI0CbnyS95QdXXvXhsij4m261114.shtml",
    "pub": "2026-11-14 18:40",
@@ -278,12 +296,6 @@
    "link": "https://news.cctv.com/2026/11/14/ARTISlAU2euVttSepXqfN947261114.shtml",
    "pub": "2026-11-14 18:40",
    "source": "央视网"
-  },
-  {
-   "title": "东西问｜博科娃：竞争不应演变为对抗，交流不会自动带来理解",
-   "link": "https://www.chinanews.com.cn/dxw/2026/11-14/10732096.shtml",
-   "pub": "2026-11-14 18:40",
-   "source": "中国新闻网"
   },
   {
    "title": "359.06万亿元、469.16万亿元、11.42万亿元 利好积聚成势护航中国经济",
@@ -412,16 +424,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "北京市发布大雾黄色预警 多区部分地区能见度小于500米",
-   "link": "https://news.cctv.com/2026/11/14/ARTI6h02aOMZZaEy7nIZ10Yf261114.shtml",
-   "pub": "2026-11-14 16:41",
-   "source": "央视网"
-  },
-  {
    "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
    "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732051.shtml",
    "pub": "2026-11-14 16:41",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "北京市发布大雾黄色预警 多区部分地区能见度小于500米",
+   "link": "https://news.cctv.com/2026/11/14/ARTI6h02aOMZZaEy7nIZ10Yf261114.shtml",
+   "pub": "2026-11-14 16:41",
+   "source": "央视网"
   },
   {
    "title": "（深圳APEC）APEC深圳会议各项筹备工作已就绪 呈现三个特点",
@@ -646,22 +658,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "我国10吨级电动商用飞机完成首次有人驾驶智能飞行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731939.shtml",
-   "pub": "2026-11-14 12:08",
-   "source": "中国新闻网·国内"
+   "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
+   "pub": "2026-11-14 11:41",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "C909、AG600齐上阵！筑牢森林灭火空中防线",
    "link": "https://news.cctv.com/2026/11/14/ARTIcjD2PWgtRhxXNZXIQYix261114.shtml",
    "pub": "2026-11-14 11:41",
    "source": "央视网"
-  },
-  {
-   "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
-   "pub": "2026-11-14 11:41",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "青春华章・我们的新长征｜闲置老楼谋“突围” 激活科创新动能",
@@ -760,16 +766,16 @@
    "source": "央视网"
   },
   {
-   "title": "江西九江：大批冬候鸟现身永修吴城 鄱阳湖候鸟季开启",
-   "link": "https://photo.cctv.com/2026/11/14/PHOAM9LI8GjfyEONkA4Aj7W8261114.shtml",
-   "pub": "2026-11-14 10:07",
-   "source": "央视网"
-  },
-  {
    "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
    "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
    "pub": "2026-11-14 10:07",
    "source": "中国新闻网"
+  },
+  {
+   "title": "江西九江：大批冬候鸟现身永修吴城 鄱阳湖候鸟季开启",
+   "link": "https://photo.cctv.com/2026/11/14/PHOAM9LI8GjfyEONkA4Aj7W8261114.shtml",
+   "pub": "2026-11-14 10:07",
+   "source": "央视网"
   },
   {
    "title": "一见·缅怀孙中山先生，感悟“振兴中华”的必由之路",
