@@ -1,8 +1,38 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 11:35",
+ "fetched": "2026-11-15 12:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "西藏拉萨《文成公主》大型实景剧第十四季收官",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732291.shtml",
+   "pub": "2026-11-15 11:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732299.shtml",
+   "pub": "2026-11-15 11:50",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "以军宣布：打死哈马斯一高级军事指挥官",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732298.shtml",
+   "pub": "2026-11-15 11:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "【和合共生】习言道｜展翅齐飞，习近平巧喻亚太合作",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732267.shtml",
+   "pub": "2026-11-15 11:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "【和合共生】一图读懂：APEC为何如此重要？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732269.shtml",
+   "pub": "2026-11-15 11:37",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "那台CT机的故事",
    "link": "https://news.cctv.com/2026/11/15/ARTIP0x7UE8zYly46FHsIG6s261115.shtml",
@@ -169,7 +199,7 @@
    "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
    "pub": "2026-11-15 09:19",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
