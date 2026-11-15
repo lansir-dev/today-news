@@ -1,8 +1,44 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 17:05",
+ "fetched": "2026-11-15 17:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "连休5天、免费滑雪！多地公布“雪假”时间",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
+   "pub": "2026-11-15 17:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功，助推器未能返回发射场",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732408.shtml",
+   "pub": "2026-11-15 17:22",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
+   "pub": "2026-11-15 17:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“开明阅读”启智育人 助力书香自贸港建设",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732401.shtml",
+   "pub": "2026-11-15 17:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "百余名专家探讨后申遗时代西夏陵破局之路",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732398.shtml",
+   "pub": "2026-11-15 17:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "【APEC面对面】相约深圳，解锁科技合作新看点 感知协同创新“加速度”",
+   "link": "https://news.cctv.com/2026/11/15/ARTIruxhhqRALuKrs8ieqs4N261115.shtml",
+   "pub": "2026-11-15 17:04",
+   "source": "央视网"
+  },
   {
    "title": "APEC互联互通落到普通人的日常 让生活更便利、人与人越走越近",
    "link": "https://news.cctv.com/2026/11/15/ARTIZzLtzCVfzYNyXdgT9M5t261115.shtml",
@@ -26,6 +62,12 @@
    "link": "https://news.cctv.com/2026/11/15/ARTIZNwdJkdxqVnhIFcbJ8wB261115.shtml",
    "pub": "2026-11-15 17:03",
    "source": "央视网"
+  },
+  {
+   "title": "台湾博主行走大陆 用镜头述烟火温情",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732396.shtml",
+   "pub": "2026-11-15 17:03",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "从“共同守护”到“共享保护” 亚太生态合作在山海间传递拓展新空间",
@@ -340,18 +382,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "【和合共生】习言道｜展翅齐飞，习近平巧喻亚太合作",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732267.shtml",
-   "pub": "2026-11-15 11:43",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "【和合共生】一图读懂：APEC为何如此重要？",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732269.shtml",
-   "pub": "2026-11-15 11:37",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "那台CT机的故事",
    "link": "https://news.cctv.com/2026/11/15/ARTIP0x7UE8zYly46FHsIG6s261115.shtml",
    "pub": "2026-11-15 11:30",
@@ -380,18 +410,6 @@
    "link": "https://news.cctv.com/2026/11/15/ARTIfvFq5PssPwwwYPMWtOfg261115.shtml",
    "pub": "2026-11-15 11:27",
    "source": "央视网"
-  },
-  {
-   "title": "深化经贸往来，把亚太合作的蛋糕越做越大（瞩望深圳APEC会议）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732271.shtml",
-   "pub": "2026-11-15 11:03",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "数说APEC丨APEC进口农产品丰富中国餐桌",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732261.shtml",
-   "pub": "2026-11-15 10:49",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "时政微观察丨三个关键词解码APEC“中国年”",
@@ -666,13 +684,6 @@
    "meta": "The Decoder：AI News · 发布于 11-15 03:05 · 行业",
    "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
    "origin": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
-  },
-  {
-   "title": "黄仁勋离开 Nvidia 后，亚洲多地如何回应",
-   "link": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
-   "meta": "TechCrunch：AI · 发布于 11-15 00:34 · 行业",
-   "summary": "黄仁勋离开 Nvidia 后，亚洲多地相继回应：韩国科技主管部门称 Nvidia 重申将向韩国供应26万块先进 GPU 并继续联合 AI 项目，中国台湾地区经济主管部门负责人龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本经济产业省表示将密切关注 Nvidia。",
-   "origin": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
   },
   {
    "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",

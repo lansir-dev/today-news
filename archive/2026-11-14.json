@@ -1,6 +1,6 @@
 {
  "day": "2026-11-14",
- "fetched": "2026-11-15 17:05",
+ "fetched": "2026-11-15 17:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1026,13 +1026,6 @@
    "meta": "The Decoder：AI News · 发布于 11-15 03:05 · 行业",
    "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
    "origin": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
-  },
-  {
-   "title": "黄仁勋离开 Nvidia 后，亚洲多地如何回应",
-   "link": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
-   "meta": "TechCrunch：AI · 发布于 11-15 00:34 · 行业",
-   "summary": "黄仁勋离开 Nvidia 后，亚洲多地相继回应：韩国科技主管部门称 Nvidia 重申将向韩国供应26万块先进 GPU 并继续联合 AI 项目，中国台湾地区经济主管部门负责人龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本经济产业省表示将密切关注 Nvidia。",
-   "origin": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
   },
   {
    "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
