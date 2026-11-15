@@ -1,8 +1,74 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 20:05",
+ "fetched": "2026-11-15 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "西藏多措并举扎实做好民生工作",
+   "link": "https://news.cctv.com/2026/11/15/ARTImkLA0qxCw2tcxl24wovn261115.shtml",
+   "pub": "2026-11-15 20:33",
+   "source": "央视网"
+  },
+  {
+   "title": "同舟共济：开放的深圳与亚太共赴新程",
+   "link": "https://news.cctv.com/2026/11/15/ARTIo9kA5XKQs6CnN0elRF6D261115.shtml",
+   "pub": "2026-11-15 20:32",
+   "source": "央视网"
+  },
+  {
+   "title": "民相亲在于心相通（记者手记）",
+   "link": "https://news.cctv.com/2026/11/15/ARTIoYY3RPvmzni80vHJe9Vl261115.shtml",
+   "pub": "2026-11-15 20:31",
+   "source": "央视网"
+  },
+  {
+   "title": "一见·当APEC“中国年”遇见“十五五”开局之年",
+   "link": "https://news.cctv.com/2026/11/15/ARTIfHsZ8Zd0ErCCOaCTk2ob261115.shtml",
+   "pub": "2026-11-15 20:31",
+   "source": "央视网"
+  },
+  {
+   "title": "一湾连亚太",
+   "link": "https://news.cctv.com/2026/11/15/ARTIRx6mAL5AopG6ws22hCY9261115.shtml",
+   "pub": "2026-11-15 20:30",
+   "source": "央视网"
+  },
+  {
+   "title": "新华鲜报｜51个一类新药进医保 创新药惠民“再提速”",
+   "link": "https://news.cctv.com/2026/11/15/ARTIZWTXBK1jxopDHfqD6JC2261115.shtml",
+   "pub": "2026-11-15 20:29",
+   "source": "央视网"
+  },
+  {
+   "title": "暨南大学120周年校庆累计获超4.6亿元捐赠",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732472.shtml",
+   "pub": "2026-11-15 20:23",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "【数说APEC】中国生态治理经验为亚太增“绿”",
+   "link": "https://news.cctv.com/2026/11/15/ARTIhTmFSXaKIpS5C3K0ltJ4261115.shtml",
+   "pub": "2026-11-15 20:04",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年APEC工商领导人峰会准备就绪",
+   "link": "https://news.cctv.com/2026/11/15/ARTIlnFYuscSsMA42uxa2mFx261115.shtml",
+   "pub": "2026-11-15 20:04",
+   "source": "央视网"
+  },
+  {
+   "title": "守护公平正义 高质量司法护航中国式现代化",
+   "link": "https://news.cctv.com/2026/11/15/ARTI1SxoiWXiBkMXaOenoOvr261115.shtml",
+   "pub": "2026-11-15 20:04",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神",
+   "link": "https://news.cctv.com/2026/11/15/ARTIApuZRUql4pqwOW3y0xtb261115.shtml",
+   "pub": "2026-11-15 20:04",
+   "source": "央视网"
+  },
   {
    "title": "中共中央印发《中国共产党地方委员会工作条例》",
    "link": "https://news.cctv.com/2026/11/15/ARTIQAobbCdjF2zptaQwxCyr261115.shtml",
@@ -22,6 +88,12 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "中国驻法国使馆举办二十届五中全会精神宣介会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732452.shtml",
+   "pub": "2026-11-15 19:39",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "今年深圳机场口岸出入境人员突破600万人次",
    "link": "https://news.cctv.com/2026/11/15/ARTIzy5HHksgxsIReP1OCQ2j261115.shtml",
    "pub": "2026-11-15 19:26",
@@ -32,6 +104,24 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732449.shtml",
    "pub": "2026-11-15 19:20",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“城市地理视野下的北京文学研究”研讨会在京举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732447.shtml",
+   "pub": "2026-11-15 19:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "一秒一度皆底线 退役飞行员长春揭秘飞行表演",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732444.shtml",
+   "pub": "2026-11-15 19:18",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "测控数据链系统助力中国10吨级电动商用飞机首次有人驾驶智能飞行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732442.shtml",
+   "pub": "2026-11-15 19:18",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "北京市政协建言养老事业与产业协同发展",
@@ -340,28 +430,10 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "东西问丨美中贸易全国委员会会长谭森：APEC的意义并不局限于中美",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732324.shtml",
-   "pub": "2026-11-15 15:11",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "第22期《求是》杂志发表习近平总书记重要文章",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732343.shtml",
-   "pub": "2026-11-15 15:11",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
    "link": "https://news.cctv.com/2026/11/15/ARTIvVIG28gyV9J7u8ijsgHE261115.shtml",
    "pub": "2026-11-15 15:02",
    "source": "央视网"
-  },
-  {
-   "title": "后申遗时代西夏陵如何保护利用 百余名专家齐聚银川研讨",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732338.shtml",
-   "pub": "2026-11-15 14:59",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "第三十八届韩素音国际翻译大赛颁奖仪式在京举行",
@@ -410,12 +482,6 @@
    "link": "https://news.cctv.com/2026/11/15/ARTI1X28Tadi0TPVHGp2vtAP261115.shtml",
    "pub": "2026-11-15 14:26",
    "source": "央视网"
-  },
-  {
-   "title": "设置多个环节 2026年APEC工商领导人峰会各项筹备已就绪",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732323.shtml",
-   "pub": "2026-11-15 14:25",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "多个景区接连被降级、摘牌！A级旅游景区如何“重构”？",
