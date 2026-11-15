@@ -1,8 +1,26 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 14:35",
+ "fetched": "2026-11-15 15:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+   "link": "https://news.cctv.com/2026/11/15/ARTIvVIG28gyV9J7u8ijsgHE261115.shtml",
+   "pub": "2026-11-15 15:02",
+   "source": "央视网"
+  },
+  {
+   "title": "第三十八届韩素音国际翻译大赛颁奖仪式在京举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732336.shtml",
+   "pub": "2026-11-15 14:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（深圳APEC）AI走上APEC：中外记者体验数智技术“福利”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732329.shtml",
+   "pub": "2026-11-15 14:36",
+   "source": "中国新闻网"
+  },
   {
    "title": "报考“外国人的四六级”首破百万人次 中文应用场景持续拓展",
    "link": "https://news.cctv.com/2026/11/15/ARTIAfRe3jBBoJQWpj1jURax261115.shtml",
@@ -518,10 +536,10 @@
    "origin": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
   },
   {
-   "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+   "title": "黄仁勋离开 Nvidia 后，亚洲多地如何回应",
    "link": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
    "meta": "TechCrunch：AI · 发布于 11-15 00:34 · 行业",
-   "summary": "黄仁勋离开 Nvidia 后，亚洲多国政府相继回应：韩国科技部称 Nvidia 重申将向韩国供应 260,000 块先进 GPU 并继续联合 AI 项目，台湾经济部长龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本产业省表示将密切关注 Nvidia。",
+   "summary": "黄仁勋离开 Nvidia 后，亚洲多地相继回应：韩国科技主管部门称 Nvidia 重申将向韩国供应26万块先进 GPU 并继续联合 AI 项目，中国台湾地区经济主管部门负责人龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本经济产业省表示将密切关注 Nvidia。",
    "origin": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
   },
   {
