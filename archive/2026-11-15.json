@@ -1,8 +1,44 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 11:05",
+ "fetched": "2026-11-15 11:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "那台CT机的故事",
+   "link": "https://news.cctv.com/2026/11/15/ARTIP0x7UE8zYly46FHsIG6s261115.shtml",
+   "pub": "2026-11-15 11:30",
+   "source": "央视网"
+  },
+  {
+   "title": "今起北方多地供暖！不热怎么办？注意这几件事",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732278.shtml",
+   "pub": "2026-11-15 11:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "动起来，消费“跑”起来——体育消费新观察",
+   "link": "https://news.cctv.com/2026/11/15/ARTI7naGwuzoWPszlfx381Tt261115.shtml",
+   "pub": "2026-11-15 11:28",
+   "source": "央视网"
+  },
+  {
+   "title": "香港首个五年规划落地提速（香江在线）",
+   "link": "https://news.cctv.com/2026/11/15/ARTIqOHEHijQXaLgLeQoi2ZK261115.shtml",
+   "pub": "2026-11-15 11:28",
+   "source": "央视网"
+  },
+  {
+   "title": "深圳筹备亚太经合组织领导人会议周扫描",
+   "link": "https://news.cctv.com/2026/11/15/ARTIfvFq5PssPwwwYPMWtOfg261115.shtml",
+   "pub": "2026-11-15 11:27",
+   "source": "央视网"
+  },
+  {
+   "title": "深化经贸往来，把亚太合作的蛋糕越做越大（瞩望深圳APEC会议）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732271.shtml",
+   "pub": "2026-11-15 11:03",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "数说APEC丨APEC进口农产品丰富中国餐桌",
    "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732261.shtml",
