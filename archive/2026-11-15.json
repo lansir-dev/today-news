@@ -1,8 +1,20 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 17:35",
+ "fetched": "2026-11-15 18:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "美国突发飞机相撞事故",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732416.shtml",
+   "pub": "2026-11-15 17:56",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "百元包吃住还能看海景房？起底“低价团”围猎老年人内幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732414.shtml",
+   "pub": "2026-11-15 17:44",
+   "source": "中国新闻网"
+  },
   {
    "title": "连休5天、免费滑雪！多地公布“雪假”时间",
    "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
@@ -14,6 +26,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732408.shtml",
    "pub": "2026-11-15 17:22",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "广西千年坭兴陶：以数智焕陶韵 借文创拓出海",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732403.shtml",
+   "pub": "2026-11-15 17:19",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
@@ -356,18 +374,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732297.shtml",
    "pub": "2026-11-15 12:04",
    "source": "中国新闻网"
-  },
-  {
-   "title": "多国汉学家谈中文学习：从笔下功夫到文化体悟",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732296.shtml",
-   "pub": "2026-11-15 12:03",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "西藏拉萨《文成公主》大型实景剧第十四季收官",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732291.shtml",
-   "pub": "2026-11-15 11:52",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
