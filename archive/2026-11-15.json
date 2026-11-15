@@ -1,8 +1,26 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 19:35",
- "note": "今日抓取",
+ "fetched": "2026-11-15 20:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中共中央印发《中国共产党地方委员会工作条例》",
+   "link": "https://news.cctv.com/2026/11/15/ARTIQAobbCdjF2zptaQwxCyr261115.shtml",
+   "pub": "2026-11-15 20:00",
+   "source": "央视网"
+  },
+  {
+   "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展",
+   "link": "https://news.cctv.com/2026/11/15/ARTIu7Rnd4dgZCodi1wUsq84261115.shtml",
+   "pub": "2026-11-15 19:57",
+   "source": "央视网"
+  },
+  {
+   "title": "中韩青年江西共建“友谊橙园”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732455.shtml",
+   "pub": "2026-11-15 19:42",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "今年深圳机场口岸出入境人员突破600万人次",
    "link": "https://news.cctv.com/2026/11/15/ARTIzy5HHksgxsIReP1OCQ2j261115.shtml",
@@ -52,6 +70,12 @@
    "source": "中国新闻网"
   },
   {
+   "title": "全美突发航班停飞，美国交通部长被要求辞职",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732418.shtml",
+   "pub": "2026-11-15 18:07",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "秒懂APEC，划重点！从“一、二、三、多”看懂建设亚太共同体从蓝图到行动",
    "link": "https://news.cctv.com/2026/11/15/ARTIYlI6cMzLGPjTVDm0UudN261115.shtml",
    "pub": "2026-11-15 18:07",
@@ -62,12 +86,6 @@
    "link": "https://news.cctv.com/2026/11/15/ARTIVYftNqta48Eqtm69Aagz261115.shtml",
    "pub": "2026-11-15 18:07",
    "source": "央视网"
-  },
-  {
-   "title": "全美突发航班停飞，美国交通部长被要求辞职",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732418.shtml",
-   "pub": "2026-11-15 18:07",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "用语言“架桥”迎接APEC盛会 志愿者向世界递出一张有“温度”的名片",
@@ -148,6 +166,12 @@
    "source": "央视网"
   },
   {
+   "title": "台湾博主行走大陆 用镜头述烟火温情",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732396.shtml",
+   "pub": "2026-11-15 17:03",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "APEC互联互通落到普通人的日常 让生活更便利、人与人越走越近",
    "link": "https://news.cctv.com/2026/11/15/ARTIZzLtzCVfzYNyXdgT9M5t261115.shtml",
    "pub": "2026-11-15 17:03",
@@ -172,12 +196,6 @@
    "source": "央视网"
   },
   {
-   "title": "台湾博主行走大陆 用镜头述烟火温情",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732396.shtml",
-   "pub": "2026-11-15 17:03",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "从“共同守护”到“共享保护” 亚太生态合作在山海间传递拓展新空间",
    "link": "https://news.cctv.com/2026/11/15/ARTILRJYMFWKHavsEPGt7Ghm261115.shtml",
    "pub": "2026-11-15 17:02",
@@ -190,16 +208,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "A级景区“不香了”？答好“重构”文旅服务这道“必答题”",
-   "link": "https://news.cctv.com/2026/11/15/ARTIVlsyMRQbHLmx5hOdve93261115.shtml",
-   "pub": "2026-11-15 17:00",
-   "source": "央视网"
-  },
-  {
    "title": "通辽400余万亩“吨粮田”背后，中国玉米为何敢“种密”了",
    "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732388.shtml",
    "pub": "2026-11-15 17:00",
    "source": "中国新闻网"
+  },
+  {
+   "title": "A级景区“不香了”？答好“重构”文旅服务这道“必答题”",
+   "link": "https://news.cctv.com/2026/11/15/ARTIVlsyMRQbHLmx5hOdve93261115.shtml",
+   "pub": "2026-11-15 17:00",
+   "source": "央视网"
   },
   {
    "title": "2026年医保商保“双目录”在江苏苏州发布 医保目录新增107种药品",
@@ -436,16 +454,16 @@
    "source": "央视网"
   },
   {
-   "title": "“立体化保障+便利化服务”已就绪 APEC氛围感拉满迎接各方宾朋",
-   "link": "https://news.cctv.com/2026/11/15/ARTI5ulhUKYjUOzfbNFLqbyO261115.shtml",
-   "pub": "2026-11-15 12:15",
-   "source": "央视网"
-  },
-  {
    "title": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
    "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732309.shtml",
    "pub": "2026-11-15 12:15",
    "source": "中国新闻网"
+  },
+  {
+   "title": "“立体化保障+便利化服务”已就绪 APEC氛围感拉满迎接各方宾朋",
+   "link": "https://news.cctv.com/2026/11/15/ARTI5ulhUKYjUOzfbNFLqbyO261115.shtml",
+   "pub": "2026-11-15 12:15",
+   "source": "央视网"
   },
   {
    "title": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
@@ -556,16 +574,16 @@
    "source": "央视网"
   },
   {
-   "title": "航行警告 渤海海峡黄海北部执行军事任务",
-   "link": "https://news.cctv.com/2026/11/15/ARTIl3cgAmUyUXC1X6t9LWnr261115.shtml",
-   "pub": "2026-11-15 09:25",
-   "source": "央视网"
-  },
-  {
    "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
    "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml",
    "pub": "2026-11-15 09:25",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "航行警告 渤海海峡黄海北部执行军事任务",
+   "link": "https://news.cctv.com/2026/11/15/ARTIl3cgAmUyUXC1X6t9LWnr261115.shtml",
+   "pub": "2026-11-15 09:25",
+   "source": "央视网"
   },
   {
    "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
