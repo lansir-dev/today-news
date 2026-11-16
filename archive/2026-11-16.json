@@ -1,8 +1,32 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 17:05",
+ "fetched": "2026-11-16 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "检察机关依法分别对谭景峰、牛顺生、王镇义、高常亮提起公诉",
+   "link": "https://news.cctv.com/2026/11/16/ARTIsUOdKfhmMCVCay9OuYsC261116.shtml",
+   "pub": "2026-11-16 17:30",
+   "source": "央视网"
+  },
+  {
+   "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+   "link": "https://news.cctv.com/2026/11/16/ARTI9OPhNNgdiZK4dpKApo7k261116.shtml",
+   "pub": "2026-11-16 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "前10个月西部陆海新通道沿线经通道进出口超8700亿元",
+   "link": "https://news.cctv.com/2026/11/16/ARTICEqfSk0RPG3uzxThtgAc261116.shtml",
+   "pub": "2026-11-16 17:07",
+   "source": "央视网"
+  },
+  {
+   "title": "克里米亚大桥遭袭 交通受限",
+   "link": "https://news.cctv.com/2026/11/16/ARTIkHiLabiBG4HpcCZrMPrP261116.shtml",
+   "pub": "2026-11-16 17:04",
+   "source": "央视网"
+  },
   {
    "title": "苏丹西部一城镇遭遇空袭 造成15人死亡",
    "link": "https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml",
