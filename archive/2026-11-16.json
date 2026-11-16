@@ -1,8 +1,38 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 19:35",
+ "fetched": "2026-11-16 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平广东行丨扎根创新创业沃土 推动深度融合——走进湾区未来科技城",
+   "link": "https://news.cctv.com/2026/11/16/ARTIo0JmdLRXvzpV1DadWqS3261116.shtml",
+   "pub": "2026-11-16 19:52",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平广东行丨复兴薪火永相传——走进孙中山故居纪念馆",
+   "link": "https://news.cctv.com/2026/11/16/ARTIbreWADABPDPMJhZiFNpD261116.shtml",
+   "pub": "2026-11-16 19:52",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平广东行丨“黄金内湾”的关键一“横”——走进深中通道",
+   "link": "https://news.cctv.com/2026/11/16/ARTIwm7adeYMsk6Tr4wdvRcU261116.shtml",
+   "pub": "2026-11-16 19:51",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平将同俄罗斯总统、美国总统举行中俄美元首会晤",
+   "link": "https://news.cctv.com/2026/11/16/ARTI3hpm7XYl1JqJvGDoppDO261116.shtml",
+   "pub": "2026-11-16 19:45",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平致信祝贺暨南大学建校120周年",
+   "link": "https://news.cctv.com/2026/11/16/ARTIAhLqLvWBHUwBQBWO9F5T261116.shtml",
+   "pub": "2026-11-16 19:42",
+   "source": "央视网"
+  },
   {
    "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
    "link": "https://news.cctv.com/2026/11/16/ARTIGgjVByhi1iiqBKbDT2wq261116.shtml",
