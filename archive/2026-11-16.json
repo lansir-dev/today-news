@@ -1,13 +1,103 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 14:35",
+ "fetched": "2026-11-16 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "六项水上北斗领域国家标准发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732778.shtml",
+   "pub": "2026-11-16 14:56",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "1至10月全国铁路完成固定资产投资增长 一批重点建设项目按下“加速键”",
+   "link": "https://news.cctv.com/2026/11/16/ARTIemKUdnHEgpjE1a18lSOS261116.shtml",
+   "pub": "2026-11-16 14:55",
+   "source": "央视网"
+  },
+  {
+   "title": "“数”说10月份经济运行“稳”的特质明显、“稳”的底气增强 展现出强大韧性和活力",
+   "link": "https://news.cctv.com/2026/11/16/ARTIu8NlkhExWP1RgunPx2WM261116.shtml",
+   "pub": "2026-11-16 14:48",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃民革“水墨系两岸”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732744.shtml",
+   "pub": "2026-11-16 14:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "甘肃渭源“朝夕有归处”的温暖底色",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732740.shtml",
+   "pub": "2026-11-16 14:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第二艘国产大型邮轮爱达·花城号停靠香港 完成试航通关测试",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732754.shtml",
+   "pub": "2026-11-16 14:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "西宁至成都铁路四川段全线站房主体结构封顶",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732738.shtml",
+   "pub": "2026-11-16 14:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国家消防救援局：11月30日前完成五类火灾隐患和消防安全违法行为自查自改",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732733.shtml",
+   "pub": "2026-11-16 14:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（深圳APEC）香蜜湖畔，“大鹏展翼”舒展岭南风韵",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732749.shtml",
+   "pub": "2026-11-16 14:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "两项地理学数智研究成果在沪“亮相” 服务城市防洪与全球气候治理",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732742.shtml",
+   "pub": "2026-11-16 14:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "李强在第29次中国－东盟领导人会议上的讲话（全文）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732718.shtml",
+   "pub": "2026-11-16 14:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "贵州花溪：一条带 一家人 一条心",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732745.shtml",
+   "pub": "2026-11-16 14:31",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "亚太人文交流活动15日在广东深圳举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732746.shtml",
+   "pub": "2026-11-16 14:31",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "10月中国一线城市二手房价续升 各线房价同比降幅收窄",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732756.shtml",
+   "pub": "2026-11-16 14:29",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "一线城市房价是否更接近转折点？国家统计局解读",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732729.shtml",
+   "pub": "2026-11-16 14:23",
+   "source": "中国新闻网"
+  },
   {
    "title": "警惕！这46款APP涉诈情况突出 名单公布",
    "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732725.shtml",
    "pub": "2026-11-16 14:22",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "科研走出实验室 上海高校青年学子以科创守护青少年心脑健康",
@@ -38,12 +128,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
    "pub": "2026-11-16 13:51",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "国家统计局：10月份我国工业机器人产量同比增长26%",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
-   "pub": "2026-11-16 13:46",
-   "source": "中国新闻网"
   },
   {
    "title": "日本民众反对高市政权扩军修宪，直言“不能再走战争道路”",
@@ -616,21 +700,9 @@
    "source": "央视网"
   },
   {
-   "title": "以平台对接推动项目“落地” 绿色联盟与脆弱二十国集团签署合作协议",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732572.shtml",
-   "pub": "2026-11-16 09:05",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
    "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
    "pub": "2026-11-16 09:04",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "居家机器人，何时进家门？",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732556.shtml",
-   "pub": "2026-11-16 08:27",
    "source": "中国新闻网"
   },
   {
@@ -664,22 +736,10 @@
    "source": "央视网"
   },
   {
-   "title": "推动干部树立和践行正确政绩观（学习贯彻党的二十届五中全会精神）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732542.shtml",
-   "pub": "2026-11-16 07:55",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "美国“火神”火箭未能将亚马逊卫星送入预定轨道",
    "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732548.shtml",
    "pub": "2026-11-16 07:54",
    "source": "中国新闻网"
-  },
-  {
-   "title": "《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）在APEC成员经济体主流媒体播出",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732540.shtml",
-   "pub": "2026-11-16 07:53",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "医保钱包2.0版上线，“异地孝心”一键直达",
