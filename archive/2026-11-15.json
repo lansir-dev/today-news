@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-16 13:35",
+ "fetched": "2026-11-16 14:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -899,13 +899,6 @@
    "meta": "腾讯混元：Research · 发布于 11-16 12:29 · 模型",
    "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
    "origin": "https://hunyuan.tencent.com/research/100145?langVersion=zh"
-  },
-  {
-   "title": "卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩",
-   "link": "https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4",
-   "meta": "卡兹克 · 发布于 11-16 11:37 · 教程",
-   "summary": "作者解析近期流行的 AI 生成纯HTML 3D游戏为何能压到极小：一个1.4M游戏demo中约700KB是打包的 Three.js，其余靠程序化生成，贴图、音效全部由代码现场合成，没有图片、模型或录音文件，浏览器通过 WebGL/WebGPU 调用显卡实时渲染。",
-   "origin": "https://x.com/Khazix0918/status/2122172073170837600"
   },
   {
    "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",

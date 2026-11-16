@@ -1,8 +1,32 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 13:35",
+ "fetched": "2026-11-16 14:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "一枚“奉”字签，百年离合路——沈阳故宫博物院建院百年记",
+   "link": "https://news.cctv.com/2026/11/16/ARTINjop2j9KiuEAWpwNG9wm261116.shtml",
+   "pub": "2026-11-16 14:00",
+   "source": "央视网"
+  },
+  {
+   "title": "“天价”抗癌药进医保，迈出普惠关键一步",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
+   "pub": "2026-11-16 13:51",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "日本民众反对高市政权扩军修宪，直言“不能再走战争道路”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732727.shtml",
+   "pub": "2026-11-16 13:46",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "迎APEC 深圳国际交流中心场馆设施已准备就绪",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732724.shtml",
+   "pub": "2026-11-16 13:36",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "秋招季，这些“坑”千万别踩",
    "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732721.shtml",
@@ -802,7 +826,7 @@
    "source": "央视网"
   },
   {
-   "title": "我的APEC朋友圈｜一颗蓝莓的APEC加速度",
+   "title": "我的APEC朋友圈｜一颗蓝莓的APEC“加速度”",
    "link": "https://news.cctv.com/2026/11/16/ARTIFnmlW6QQTeXpMDZzJ2sN261115.shtml",
    "pub": "2026-11-16 01:24",
    "source": "央视网"
@@ -827,13 +851,6 @@
    "meta": "腾讯混元：Research · 发布于 11-16 12:29 · 模型",
    "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
    "origin": "https://hunyuan.tencent.com/research/100145?langVersion=zh"
-  },
-  {
-   "title": "卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩",
-   "link": "https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4",
-   "meta": "卡兹克 · 发布于 11-16 11:37 · 教程",
-   "summary": "作者解析近期流行的 AI 生成纯HTML 3D游戏为何能压到极小：一个1.4M游戏demo中约700KB是打包的 Three.js，其余靠程序化生成，贴图、音效全部由代码现场合成，没有图片、模型或录音文件，浏览器通过 WebGL/WebGPU 调用显卡实时渲染。",
-   "origin": "https://x.com/Khazix0918/status/2122172073170837600"
   },
   {
    "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
