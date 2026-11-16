@@ -1,8 +1,14 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 20:35",
+ "fetched": "2026-11-16 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "美交通部长拒绝为全美航班停飞道歉",
+   "link": "https://news.cctv.com/2026/11/16/ARTI7bX5UUzSjz78t9bnUUF5261116.shtml",
+   "pub": "2026-11-16 21:32",
+   "source": "央视网"
+  },
   {
    "title": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
    "link": "https://news.cctv.com/2026/11/16/ARTIgms61BslWCG9TovEUgBW261116.shtml",

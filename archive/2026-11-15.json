@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-16 21:05",
+ "fetched": "2026-11-16 21:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -894,6 +894,13 @@
  ],
  "ai": [
   {
+   "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+   "link": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+   "meta": "The Verge：AI · 发布于 11-16 21:00 · 行业",
+   "summary": "英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。",
+   "origin": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
+  },
+  {
    "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
    "link": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
    "meta": "IT之家·人工智能 · 发布于 11-16 17:32 · 观点",
@@ -941,13 +948,6 @@
    "meta": "Apple：Newsroom · 发布于 11-15 00:00 · 论文",
    "summary": "Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。",
    "origin": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
-  },
-  {
-   "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-   "link": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-16 07:56 · 教程",
-   "summary": "作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。",
-   "origin": "https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg"
   }
  ]
 }
