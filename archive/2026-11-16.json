@@ -1,8 +1,20 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 16:05",
+ "fetched": "2026-11-16 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "供给稳增长、消费有活力 10月国民经济向新向优",
+   "link": "https://news.cctv.com/2026/11/16/ARTIBQvHQxpkikysLXdfSgmB261116.shtml",
+   "pub": "2026-11-16 16:26",
+   "source": "央视网"
+  },
+  {
+   "title": "养老服务从兜底保障迈向品质提升 持续擦亮养老民生底色",
+   "link": "https://news.cctv.com/2026/11/16/ARTI02uCw85T0diPf47G9O9t261116.shtml",
+   "pub": "2026-11-16 16:23",
+   "source": "央视网"
+  },
   {
    "title": "“亚太共同体”如何从愿景走向行动",
    "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732821.shtml",
