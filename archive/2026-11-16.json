@@ -1,8 +1,56 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 13:05",
+ "fetched": "2026-11-16 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "秋招季，这些“坑”千万别踩",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732721.shtml",
+   "pub": "2026-11-16 13:31",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "大范围雨雪持续！西北东北等局地有暴雪 湖南广西广东等地雨势较强",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732720.shtml",
+   "pub": "2026-11-16 13:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“流星雨之王”后天凌晨迎来极大",
+   "link": "https://news.cctv.com/2026/11/16/ARTI0ryI0QPrVjxLkEgaTQM8261116.shtml",
+   "pub": "2026-11-16 13:23",
+   "source": "央视网"
+  },
+  {
+   "title": "自媒体“陪跑”起号 一场精心包装的变现骗局",
+   "link": "https://news.cctv.com/2026/11/16/ARTIfJC7DnP635qCiMrQXwue261116.shtml",
+   "pub": "2026-11-16 13:21",
+   "source": "央视网"
+  },
+  {
+   "title": "海地遇刺总统遗孀登记为总统选举候选人",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732711.shtml",
+   "pub": "2026-11-16 13:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "一张自拍照，AI给癌症患者“算命”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732716.shtml",
+   "pub": "2026-11-16 13:11",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "李强出席第29次中国－东盟领导人会议",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732713.shtml",
+   "pub": "2026-11-16 13:05",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日本本州岛发生5.4级地震 震源深度280公里",
+   "link": "https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml",
+   "pub": "2026-11-16 13:05",
+   "source": "央视网"
+  },
   {
    "title": "我国自主研发电子航海日志系统今天正式发布",
    "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732710.shtml",
@@ -16,12 +64,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "自媒体“陪跑”起号 一场精心包装的变现骗局",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732709.shtml",
-   "pub": "2026-11-16 12:33",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "《多喜一家人》今日登陆CCTV-1晚间黄金档首播！",
    "link": "https://news.cctv.com/2026/11/16/ARTIXjnQBQtMaDNIbiiArjXT261116.shtml",
    "pub": "2026-11-16 12:28",
@@ -32,6 +74,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732708.shtml",
    "pub": "2026-11-16 12:24",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "Token首次走进直播间 如何管住AI解决问题的能力？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732705.shtml",
+   "pub": "2026-11-16 12:15",
+   "source": "中国新闻网"
   },
   {
    "title": "各地依托秋日景观资源推出“花式”特色活动 文旅消费市场活力奔涌",
@@ -124,14 +172,14 @@
    "source": "中国新闻网"
   },
   {
-   "title": "两日内近2200名非法移民抵达西班牙加那利群岛",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732656.shtml",
-   "pub": "2026-11-16 11:29",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "爱沙尼亚宣布将关闭与俄罗斯的所有边境口岸",
    "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732649.shtml",
+   "pub": "2026-11-16 11:29",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "两日内近2200名非法移民抵达西班牙加那利群岛",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732656.shtml",
    "pub": "2026-11-16 11:29",
    "source": "中国新闻网·国际"
   },
@@ -523,7 +571,7 @@
    "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
    "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
    "pub": "2026-11-16 09:04",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "居家机器人，何时进家门？",
@@ -773,6 +821,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
+   "link": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+   "meta": "腾讯混元：Research · 发布于 11-16 12:29 · 模型",
+   "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
+   "origin": "https://hunyuan.tencent.com/research/100145?langVersion=zh"
+  },
   {
    "title": "卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩",
    "link": "https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4",

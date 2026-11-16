@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-16 13:05",
+ "fetched": "2026-11-16 13:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -893,6 +893,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
+   "link": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+   "meta": "腾讯混元：Research · 发布于 11-16 12:29 · 模型",
+   "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
+   "origin": "https://hunyuan.tencent.com/research/100145?langVersion=zh"
+  },
   {
    "title": "卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩",
    "link": "https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4",
