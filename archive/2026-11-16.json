@@ -1,8 +1,26 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 18:35",
+ "fetched": "2026-11-16 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+   "link": "https://news.cctv.com/2026/11/16/ARTIGgjVByhi1iiqBKbDT2wq261116.shtml",
+   "pub": "2026-11-16 19:33",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平在广东中山考察",
+   "link": "https://news.cctv.com/2026/11/16/ARTIZq4YqR6GLFNvVwp39OQU261116.shtml",
+   "pub": "2026-11-16 19:30",
+   "source": "央视网"
+  },
+  {
+   "title": "初冬赏景客流高位运行 北京警方精准施策守护景区平安有序",
+   "link": "https://news.cctv.com/2026/11/16/ARTI3xsjN13OEu1rwPxrSV8V261116.shtml",
+   "pub": "2026-11-16 19:05",
+   "source": "央视网"
+  },
   {
    "title": "日研究所承认“富岳”超算遭非法访问",
    "link": "https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml",
