@@ -1,8 +1,26 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 12:35",
+ "fetched": "2026-11-16 13:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国自主研发电子航海日志系统今天正式发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732710.shtml",
+   "pub": "2026-11-16 12:47",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "APEC进入深圳时间：花团织锦绣 鹏城迎客来",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732700.shtml",
+   "pub": "2026-11-16 12:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "自媒体“陪跑”起号 一场精心包装的变现骗局",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732709.shtml",
+   "pub": "2026-11-16 12:33",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "《多喜一家人》今日登陆CCTV-1晚间黄金档首播！",
    "link": "https://news.cctv.com/2026/11/16/ARTIXjnQBQtMaDNIbiiArjXT261116.shtml",
@@ -26,6 +44,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732699.shtml",
    "pub": "2026-11-16 12:09",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国与东盟宣布将2027年定为人工智能合作年",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
+   "pub": "2026-11-16 11:57",
+   "source": "中国新闻网"
   },
   {
    "title": "“罗斯福”号抵达 美军在中东集结三个航空母舰打击群",
