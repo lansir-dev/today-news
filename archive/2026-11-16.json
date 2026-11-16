@@ -1,8 +1,38 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 21:35",
+ "fetched": "2026-11-16 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "市场监管总局通报41批次食品抽检不合格情况",
+   "link": "https://news.cctv.com/2026/11/16/ARTIU5cRFDN0xlSJ2zkE96db261116.shtml",
+   "pub": "2026-11-16 21:51",
+   "source": "央视网"
+  },
+  {
+   "title": "涉17家重点车企 供应商账款支付情况调研评估将进行",
+   "link": "https://jingji.cctv.com/2026/11/16/ARTI7VddLooecCerkpDHsptu261116.shtml",
+   "pub": "2026-11-16 21:45",
+   "source": "央视网"
+  },
+  {
+   "title": "中国成功连任国际电信联盟理事国",
+   "link": "https://news.cctv.com/2026/11/16/ARTIIdOc2A1cR1GnXJYYflbn261116.shtml",
+   "pub": "2026-11-16 21:45",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗称捕获一美军MQM-170无人机",
+   "link": "https://news.cctv.com/2026/11/16/ARTIQ1kBNSzLrrpIKqTfrKsf261116.shtml",
+   "pub": "2026-11-16 21:36",
+   "source": "央视网"
+  },
+  {
+   "title": "消息人士：胡塞武装逼近也门政府所在地亚丁",
+   "link": "https://news.cctv.com/2026/11/16/ARTIgEJCJiji2LcAchfpZix0261116.shtml",
+   "pub": "2026-11-16 21:36",
+   "source": "央视网"
+  },
   {
    "title": "美交通部长拒绝为全美航班停飞道歉",
    "link": "https://news.cctv.com/2026/11/16/ARTI7bX5UUzSjz78t9bnUUF5261116.shtml",
