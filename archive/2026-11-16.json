@@ -1,8 +1,38 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 16:35",
+ "fetched": "2026-11-16 17:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "苏丹西部一城镇遭遇空袭 造成15人死亡",
+   "link": "https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml",
+   "pub": "2026-11-16 17:02",
+   "source": "央视网"
+  },
+  {
+   "title": "联合国官员：中国新型电力系统建设为全球提供借鉴",
+   "link": "https://news.cctv.com/2026/11/16/ARTIy3SISLJCHAObyuHOLKsN261116.shtml",
+   "pub": "2026-11-16 17:01",
+   "source": "央视网"
+  },
+  {
+   "title": "冰雪热潮持续涌动 南北联动释放冬季户外消费潜力",
+   "link": "https://news.cctv.com/2026/11/16/ARTIjyKNV3qZ5kGiklI8rsXX261116.shtml",
+   "pub": "2026-11-16 16:42",
+   "source": "央视网"
+  },
+  {
+   "title": "冷暖双向奔赴 冬季户外运动释放文旅消费新活力",
+   "link": "https://news.cctv.com/2026/11/16/ARTIMhwtnd7qkxcL53isVIhQ261116.shtml",
+   "pub": "2026-11-16 16:42",
+   "source": "央视网"
+  },
+  {
+   "title": "前十月新动能贡献超五成 工业增长焕发强劲创新活力",
+   "link": "https://news.cctv.com/2026/11/16/ARTIswR86B994hVzPSo8VMXX261116.shtml",
+   "pub": "2026-11-16 16:42",
+   "source": "央视网"
+  },
   {
    "title": "供给稳增长、消费有活力 10月国民经济向新向优",
    "link": "https://news.cctv.com/2026/11/16/ARTIBQvHQxpkikysLXdfSgmB261116.shtml",
