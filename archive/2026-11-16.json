@@ -1,8 +1,14 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 18:05",
+ "fetched": "2026-11-16 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "日研究所承认“富岳”超算遭非法访问",
+   "link": "https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml",
+   "pub": "2026-11-16 18:04",
+   "source": "央视网"
+  },
   {
    "title": "习近平在广东中山考察",
    "link": "https://news.cctv.com/2026/11/16/ARTI643xj38JB9TYq7oJ9tIv261116.shtml",
