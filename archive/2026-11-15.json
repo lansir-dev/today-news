@@ -1,8 +1,14 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-15 21:35",
+ "fetched": "2026-11-16 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国家消防救援局：从严从重查处严重火灾隐患和消防安全违法行为",
+   "link": "https://news.cctv.com/2026/11/15/ARTIsXafexfqVA94epV7uWNk261115.shtml",
+   "pub": "2026-11-15 22:45",
+   "source": "央视网"
+  },
   {
    "title": "（深圳APEC）三个建筑师，给深圳APEC写了一份“国家答卷”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732513.shtml",
@@ -888,18 +894,46 @@
  ],
  "ai": [
   {
-   "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-   "link": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-   "meta": "TechCrunch：AI · 发布于 11-15 05:41 · 行业",
-   "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
-   "origin": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+   "title": "卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩",
+   "link": "https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4",
+   "meta": "卡兹克 · 发布于 11-16 11:37 · 教程",
+   "summary": "作者解析近期流行的 AI 生成纯HTML 3D游戏为何能压到极小：一个1.4M游戏demo中约700KB是打包的 Three.js，其余靠程序化生成，贴图、音效全部由代码现场合成，没有图片、模型或录音文件，浏览器通过 WebGL/WebGPU 调用显卡实时渲染。",
+   "origin": "https://x.com/Khazix0918/status/2122172073170837600"
   },
   {
-   "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-   "link": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-   "meta": "The Decoder：AI News · 发布于 11-15 03:05 · 行业",
-   "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
-   "origin": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+   "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
+   "link": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
+   "meta": "Arena · 发布于 11-16 10:21 · 模型",
+   "summary": "Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。",
+   "origin": "https://x.com/arena/status/2122153116959482051"
+  },
+  {
+   "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
+   "link": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
+   "meta": "通义千问 / Qwen · 发布于 11-16 11:46 · 模型",
+   "summary": "通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。",
+   "origin": "https://x.com/Alibaba_Qwen/status/2122174463479542126"
+  },
+  {
+   "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+   "link": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
+   "meta": "Qwen：Blog Retrieval · 发布于 11-16 10:00 · 模型",
+   "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
+   "origin": "https://qwen.ai/blog?id=qwen4-max"
+  },
+  {
+   "title": "Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用",
+   "link": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk",
+   "meta": "Apple：Newsroom · 发布于 11-15 00:00 · 论文",
+   "summary": "Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。",
+   "origin": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+  },
+  {
+   "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
+   "link": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-16 07:56 · 教程",
+   "summary": "作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。",
+   "origin": "https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg"
   }
  ]
 }
