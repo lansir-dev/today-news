@@ -1,8 +1,32 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-16 14:05",
+ "fetched": "2026-11-16 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "警惕！这46款APP涉诈情况突出 名单公布",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732725.shtml",
+   "pub": "2026-11-16 14:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "科研走出实验室 上海高校青年学子以科创守护青少年心脑健康",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732741.shtml",
+   "pub": "2026-11-16 14:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从工作室到央视 她让掐丝彩釉画出圈",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732737.shtml",
+   "pub": "2026-11-16 14:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新疆和静牦牛迎来销售旺季",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732734.shtml",
+   "pub": "2026-11-16 14:20",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "一枚“奉”字签，百年离合路——沈阳故宫博物院建院百年记",
    "link": "https://news.cctv.com/2026/11/16/ARTINjop2j9KiuEAWpwNG9wm261116.shtml",
@@ -14,6 +38,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
    "pub": "2026-11-16 13:51",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国家统计局：10月份我国工业机器人产量同比增长26%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
+   "pub": "2026-11-16 13:46",
+   "source": "中国新闻网"
   },
   {
    "title": "日本民众反对高市政权扩军修宪，直言“不能再走战争道路”",
