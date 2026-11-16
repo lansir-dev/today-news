@@ -1,7 +1,7 @@
 {
  "day": "2026-11-15",
- "fetched": "2026-11-16 22:05",
- "note": "由次日抓取补存的昨日列表",
+ "fetched": "2026-11-16 22:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
    "title": "国家消防救援局：从严从重查处严重火灾隐患和消防安全违法行为",
@@ -894,6 +894,20 @@
  ],
  "ai": [
   {
+   "title": "Anthropic 缩短协同漏洞披露政策时限",
+   "link": "https://aihot.news/items/hlcy3o9sbfz920grc9b6p86re",
+   "meta": "Anthropic：Research · 发布于 11-16 00:00 · 行业",
+   "summary": "Anthropic 更新其协同漏洞披露（CVD）政策，将高危及严重漏洞的披露窗口从 90 天缩短至 30 天，其他问题缩短至 45 天，适用于 2027 年 1 月 1 日或之后报告给供应商的漏洞。",
+   "origin": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+  },
+  {
+   "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+   "link": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+   "meta": "Lovable Blog · 发布于 11-16 21:30 · 产品",
+   "summary": "Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。",
+   "origin": "https://lovable.dev/blog/introducing-drafts"
+  },
+  {
    "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
    "link": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
    "meta": "The Verge：AI · 发布于 11-16 21:00 · 行业",
@@ -934,20 +948,6 @@
    "meta": "通义千问 / Qwen · 发布于 11-16 11:46 · 模型",
    "summary": "通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。",
    "origin": "https://x.com/Alibaba_Qwen/status/2122174463479542126"
-  },
-  {
-   "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-   "link": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-   "meta": "Qwen：Blog Retrieval · 发布于 11-16 10:00 · 模型",
-   "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
-   "origin": "https://qwen.ai/blog?id=qwen4-max"
-  },
-  {
-   "title": "Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用",
-   "link": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk",
-   "meta": "Apple：Newsroom · 发布于 11-15 00:00 · 论文",
-   "summary": "Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。",
-   "origin": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
   }
  ]
 }
