@@ -1,8 +1,44 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 13:05",
+ "fetched": "2026-11-17 13:50",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见加拿大总理卡尼",
+   "link": "https://news.cctv.com/2026/11/17/ARTIHyAQi9e3jbSDXIs1Qru8261117.shtml",
+   "pub": "2026-11-17 13:36",
+   "source": "央视网"
+  },
+  {
+   "title": "中新网评：5个师傅3个虚报故障，谁在逼维修师傅撒谎？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733335.shtml",
+   "pub": "2026-11-17 13:15",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "寒潮将给多地制造大风天气 北方十余省区市阵风可达7级以上",
+   "link": "https://news.cctv.com/2026/11/17/ARTIAL4RVf68Wc7TXpNaguid261117.shtml",
+   "pub": "2026-11-17 13:10",
+   "source": "央视网"
+  },
+  {
+   "title": "新华图讯丨习近平会见加拿大总理卡尼",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733340.shtml",
+   "pub": "2026-11-17 13:08",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "近镜头｜深中通道，辉映百年梦想",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733337.shtml",
+   "pub": "2026-11-17 13:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "蒙古国总统呼日勒苏赫宣布辞职",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733344.shtml",
+   "pub": "2026-11-17 13:04",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "《习近平法治思想干部读本》出版发行",
    "link": "https://news.cctv.com/2026/11/17/ARTIbZMMb4bA3nq2XIcfFx4S261117.shtml",
@@ -49,7 +85,7 @@
    "title": "尺素跨大洋：百余封书信里藏着柏大卫与湟源的半世烟火",
    "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733312.shtml",
    "pub": "2026-11-17 12:14",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "戈壁炼厂里的“兰师傅”：从手绘图纸读懂高原炼化装置",
@@ -110,12 +146,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733303.shtml",
    "pub": "2026-11-17 11:21",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "寒潮将给多地制造大风天气 北方十余省区市阵风可达7级以上",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733302.shtml",
-   "pub": "2026-11-17 11:21",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "葡萄牙大陆地区今年已出现10次热浪 创单年热浪次数新高",
@@ -662,12 +692,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733165.shtml",
    "pub": "2026-11-17 06:41",
    "source": "中国新闻网"
-  },
-  {
-   "title": "伊朗官方否认伊斯法罕省启动防空系统",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml",
-   "pub": "2026-11-17 05:53",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "中方敦促推进叙利亚包容治理进程",
