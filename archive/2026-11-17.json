@@ -1,8 +1,20 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 18:05",
+ "fetched": "2026-11-17 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交进行时丨习近平会见秘鲁总统藤森庆子",
+   "link": "https://news.cctv.com/2026/11/17/ARTIiPwzy4t5Fa24yNyY8s9g261117.shtml",
+   "pub": "2026-11-17 18:10",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见墨西哥总统辛鲍姆",
+   "link": "https://news.cctv.com/2026/11/17/ARTIqTfqvXfEI7n9lm1jEz6Z261117.shtml",
+   "pub": "2026-11-17 18:06",
+   "source": "央视网"
+  },
   {
    "title": "成都市京剧研究院院长宁跃雄接受审查调查",
    "link": "https://news.cctv.com/2026/11/17/ARTINpVCC1mQDRQD3BqKIWpm261117.shtml",
