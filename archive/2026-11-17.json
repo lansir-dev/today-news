@@ -1,8 +1,74 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 10:35",
+ "fetched": "2026-11-17 11:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "美丽中国丨赛里木湖冬日美",
+   "link": "https://photo.cctv.com/2026/11/17/PHOAFR2Om7f8moC0U3l1mt0D261117.shtml",
+   "pub": "2026-11-17 10:58",
+   "source": "央视网"
+  },
+  {
+   "title": "G331国道小荒沟江口特大桥主拱肋成功合龙",
+   "link": "https://photo.cctv.com/2026/11/17/PHOAAUIMpm0TTYWMGCJSCSxH261117.shtml",
+   "pub": "2026-11-17 10:58",
+   "source": "央视网"
+  },
+  {
+   "title": "北京：天坛公园北门外银杏大道迎来观赏热潮",
+   "link": "https://photo.cctv.com/2026/11/17/PHOAYK08GVhBYSNB20Or5iBH261117.shtml",
+   "pub": "2026-11-17 10:58",
+   "source": "央视网"
+  },
+  {
+   "title": "长征八号甲遥十三运载火箭转运至发射区 近期择期发射",
+   "link": "https://photo.cctv.com/2026/11/17/PHOAeayOTz79PUmxHxYlhez4261117.shtml",
+   "pub": "2026-11-17 10:58",
+   "source": "央视网"
+  },
+  {
+   "title": "深入了解中国 工商界人士收获满满",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733293.shtml",
+   "pub": "2026-11-17 10:57",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "向创新要活力，塑造亚太发展新动能",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733290.shtml",
+   "pub": "2026-11-17 10:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "聚焦APEC｜智利总统卡斯特抵达深圳",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733287.shtml",
+   "pub": "2026-11-17 10:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "TOP500、HPCG双榜第一！“灵晟”蝉联全球超算榜首",
+   "link": "https://news.cctv.com/2026/11/17/ARTIylEvTmRgVD7jIBCsXa4M261117.shtml",
+   "pub": "2026-11-17 10:52",
+   "source": "央视网"
+  },
+  {
+   "title": "8人凌晨3点潜入军工厂纵火，这个国家却要关闭对俄口岸！俄罗斯：这是“恐俄症”发作",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733273.shtml",
+   "pub": "2026-11-17 10:41",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中国—东盟自贸区经贸合作不断深入 “硬联通+软联通”创造更多新机遇",
+   "link": "https://news.cctv.com/2026/11/17/ARTIyMflO53YcBOgHZ3sK3Fo261117.shtml",
+   "pub": "2026-11-17 10:39",
+   "source": "央视网"
+  },
+  {
+   "title": "勒庞称若当选总统将不再为乌克兰提供财政援助",
+   "link": "https://news.cctv.com/2026/11/17/ARTIGWk16VLqr6Dz0UPJYgwS261117.shtml",
+   "pub": "2026-11-17 10:35",
+   "source": "央视网"
+  },
   {
    "title": "习近平会见加拿大总理卡尼",
    "link": "https://news.cctv.com/2026/11/17/ARTIZPGMggLIHsMLA6UwFKkJ261117.shtml",
