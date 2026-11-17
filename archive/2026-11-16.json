@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-17 17:46",
+ "fetched": "2026-11-17 18:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1320,6 +1320,13 @@
  ],
  "ai": [
   {
+   "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
+   "link": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
+   "meta": "IT之家·人工智能 · 发布于 11-17 17:41 · 论文",
+   "summary": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。",
+   "origin": "https://www.ithome.com/1/028/433.htm"
+  },
+  {
    "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
    "link": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
    "meta": "OpenAI：官网动态 · 发布于 11-17 08:00 · 行业",
@@ -1367,13 +1374,6 @@
    "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-16 20:00 · 教程",
    "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
    "origin": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
-  },
-  {
-   "title": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
-   "link": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
-   "meta": "The Verge：AI · 发布于 11-17 04:46 · 行业",
-   "summary": "加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。",
-   "origin": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
   }
  ]
 }
