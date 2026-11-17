@@ -1,0 +1,425 @@
+{
+ "day": "2026-11-17",
+ "fetched": "2026-11-17 09:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
+ "items": [
+  {
+   "title": "APEC“中国年”经贸成果丰硕 数智领域成为合作重点",
+   "link": "https://news.cctv.com/2026/11/17/ARTI3BH6WeC7rvV09vSTvduo261117.shtml",
+   "pub": "2026-11-17 09:33",
+   "source": "央视网"
+  },
+  {
+   "title": "直播海报：APEC进行时：漫游深圳，打卡城市地标",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733211.shtml",
+   "pub": "2026-11-17 09:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "今明天冷空气将携弱降水大风影响北京 阵风可达7级左右",
+   "link": "https://news.cctv.com/2026/11/17/ARTIoETWmqnP516Q3e8BEMCa261117.shtml",
+   "pub": "2026-11-17 09:18",
+   "source": "央视网"
+  },
+  {
+   "title": "初冬限定 内蒙古九峰山披上“雪顶皮肤”",
+   "link": "https://news.cctv.com/2026/11/17/ARTICMX7pqmSPt9fQiInIMcC261117.shtml",
+   "pub": "2026-11-17 09:16",
+   "source": "央视网"
+  },
+  {
+   "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+   "link": "https://news.cctv.com/2026/11/17/ARTIRuAHlLzt8mApn3Q9VWTL261117.shtml",
+   "pub": "2026-11-17 09:16",
+   "source": "央视网"
+  },
+  {
+   "title": "聚焦APEC｜2000余位政商界代表参加2026年APEC工商领导人峰会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733206.shtml",
+   "pub": "2026-11-17 09:10",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中东部降水依然广泛 寒潮将制造大风降温天气",
+   "link": "https://news.cctv.com/2026/11/17/ARTIXIisrXcc0YLhyEop55MQ261117.shtml",
+   "pub": "2026-11-17 09:10",
+   "source": "央视网"
+  },
+  {
+   "title": "时政现场说丨赓续先驱之志 奋进复兴征程",
+   "link": "https://news.cctv.com/2026/11/17/ARTIHLn2ZfODOaA4zp7AiaqA261117.shtml",
+   "pub": "2026-11-17 08:51",
+   "source": "央视网"
+  },
+  {
+   "title": "时政新闻眼丨习近平广东之行，带给我们哪些重要启示？",
+   "link": "https://news.cctv.com/2026/11/17/ARTIYixvJdoHQln3yKGDreqW261117.shtml",
+   "pub": "2026-11-17 08:47",
+   "source": "央视网"
+  },
+  {
+   "title": "刷新水深纪录！“梦想”号大洋钻探船完成钻井系统海试任务",
+   "link": "https://news.cctv.com/2026/11/17/ARTIZ4K5XsVsNavui3SLDBiK261117.shtml",
+   "pub": "2026-11-17 08:46",
+   "source": "央视网"
+  },
+  {
+   "title": "丘成桐谈AI与数学：守住对真理的好奇",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733193.shtml",
+   "pub": "2026-11-17 08:44",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "餐品送达却仍遭退款 揭秘外卖代下单诈骗套路",
+   "link": "https://news.cctv.com/2026/11/17/ARTI6hxoljgF7Y1HPq6lLM9t261117.shtml",
+   "pub": "2026-11-17 08:44",
+   "source": "央视网"
+  },
+  {
+   "title": "一枚胸针如何给人赋能？把AI穿戴在人身上，延伸人的感知、记忆、经验与决策",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733191.shtml",
+   "pub": "2026-11-17 08:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大国外交最前线丨APEC“中国年”！为什么是APEC？为什么是深圳？为什么是中国？",
+   "link": "https://news.cctv.com/2026/11/17/ARTIptEniID0y4xLiTzi2EtU261117.shtml",
+   "pub": "2026-11-17 08:38",
+   "source": "央视网"
+  },
+  {
+   "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
+   "link": "https://news.cctv.com/2026/11/17/ARTILV3Qx7rNgGiOUogmvuJp261117.shtml",
+   "pub": "2026-11-17 08:36",
+   "source": "央视网"
+  },
+  {
+   "title": "哪些人适合穿抗菌衣服？抗菌等级越高效果越好？",
+   "link": "https://news.cctv.com/2026/11/17/ARTIloETt9ENuOOuL6ClkGZm261117.shtml",
+   "pub": "2026-11-17 08:33",
+   "source": "央视网"
+  },
+  {
+   "title": "我的APEC朋友圈｜姚为群：为国际经贸安上“通用插头”",
+   "link": "https://news.cctv.com/2026/11/17/ARTIfvt1lOvl3hl9yz6YPi44261117.shtml",
+   "pub": "2026-11-17 08:31",
+   "source": "央视网"
+  },
+  {
+   "title": "中东部将有大范围雨雪和寒潮天气",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733187.shtml",
+   "pub": "2026-11-17 08:29",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
+   "link": "https://news.cctv.com/2026/11/17/ARTIh44a2iPqM28c5qfKY9Ym261117.shtml",
+   "pub": "2026-11-17 08:29",
+   "source": "央视网"
+  },
+  {
+   "title": "公共场合不同需求怎相容？“静音舱”背后的治理智慧",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733188.shtml",
+   "pub": "2026-11-17 08:28",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商",
+   "link": "https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml",
+   "pub": "2026-11-17 08:28",
+   "source": "央视网"
+  },
+  {
+   "title": "美军证实“罗斯福”号航母已抵达中东",
+   "link": "https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml",
+   "pub": "2026-11-17 08:26",
+   "source": "央视网"
+  },
+  {
+   "title": "订单排到明年！数据中心建设带火柴油发电机市场",
+   "link": "https://news.cctv.com/2026/11/17/ARTIOmNMwVKYQ26hU96ATAHk261117.shtml",
+   "pub": "2026-11-17 08:05",
+   "source": "央视网"
+  },
+  {
+   "title": "【8点见】警惕！这46款APP涉诈情况突出",
+   "link": "https://news.cctv.com/2026/11/17/ARTIFTZIqUIFOSqBptKJGpgt261117.shtml",
+   "pub": "2026-11-17 07:59",
+   "source": "央视网"
+  },
+  {
+   "title": "习言道｜奋力开创粤港澳大湾区高质量发展新局面",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733178.shtml",
+   "pub": "2026-11-17 07:56",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733180.shtml",
+   "pub": "2026-11-17 07:56",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "生产消费就业三大底盘稳稳托住！10月中国经济答卷“韧性十足”",
+   "link": "https://jingji.cctv.com/2026/11/17/ARTIiwZrivC0eixZapAqmkl0261117.shtml",
+   "pub": "2026-11-17 07:56",
+   "source": "央视网"
+  },
+  {
+   "title": "别让“AI面试官”把求职者“训练”成另一个AI",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733182.shtml",
+   "pub": "2026-11-17 07:49",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "秋假2.0升级为“小黄金周”，文旅市场持续火热",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733181.shtml",
+   "pub": "2026-11-17 07:43",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "美法官撤销国土安全部限制国际学生等停留期限新规",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733174.shtml",
+   "pub": "2026-11-17 07:39",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733179.shtml",
+   "pub": "2026-11-17 07:39",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2026年欧元金融周“中国日”活动在法兰克福举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733173.shtml",
+   "pub": "2026-11-17 07:38",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "英国首相伯纳姆直言“脱欧”弊大于利",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733171.shtml",
+   "pub": "2026-11-17 07:37",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "柬埔寨千年古迹西梅奔寺重新向游客开放",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733172.shtml",
+   "pub": "2026-11-17 07:37",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "第20届法语国家组织峰会通过《金边宣言》",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733170.shtml",
+   "pub": "2026-11-17 07:36",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "招聘旺季应警惕求职陷阱",
+   "link": "https://news.cctv.com/2026/11/17/ARTI2ycdfoZXtTO1c3lz8pB7261117.shtml",
+   "pub": "2026-11-17 07:24",
+   "source": "央视网"
+  },
+  {
+   "title": "FAA停飞风波未平，美联航又遭遇“大面积系统故障”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733169.shtml",
+   "pub": "2026-11-17 07:23",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "秋假如何让孩子们过得更尽兴、更有意义？",
+   "link": "https://www.chinanews.com.cn/edu/2026/11-17/10733168.shtml",
+   "pub": "2026-11-17 07:22",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "格式条款“虚拟商品不予退款”被判定无效",
+   "link": "https://news.cctv.com/2026/11/17/ARTIvWUnJghOtWkFvJrpsKqk261117.shtml",
+   "pub": "2026-11-17 07:16",
+   "source": "央视网"
+  },
+  {
+   "title": "“梦想”号大洋钻探船完成重大装备海试任务",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733167.shtml",
+   "pub": "2026-11-17 07:01",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "乌克兰首都基辅响起爆炸声",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733166.shtml",
+   "pub": "2026-11-17 07:00",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "APEC“中国年”经贸成果丰硕",
+   "link": "https://news.cctv.com/2026/11/17/ARTI6aCztnlTVlQ3s6vKwPb4261117.shtml",
+   "pub": "2026-11-17 06:54",
+   "source": "央视网"
+  },
+  {
+   "title": "印尼卡伊群岛发生6.6级地震，震源深度20千米",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733165.shtml",
+   "pub": "2026-11-17 06:41",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "伊朗官方否认伊斯法罕省启动防空系统",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml",
+   "pub": "2026-11-17 05:53",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方敦促推进叙利亚包容治理进程",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733162.shtml",
+   "pub": "2026-11-17 05:52",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "国家统计局：房地产市场出现了一定的积极变化",
+   "link": "https://jingji.cctv.com/2026/11/17/ARTIGWFlnJvTEIrIChF770Iu261117.shtml",
+   "pub": "2026-11-17 04:40",
+   "source": "央视网"
+  },
+  {
+   "title": "波黑新一届主席团成员宣誓就职",
+   "link": "https://news.cctv.com/2026/11/17/ARTIsuH8wpq4iz1yn4QH4k3P261117.shtml",
+   "pub": "2026-11-17 03:45",
+   "source": "央视网"
+  },
+  {
+   "title": "聚焦APEC丨在新闻中心领略非遗风采",
+   "link": "https://news.cctv.com/2026/11/17/ARTIavUV2s8Z5symmiOwuCfu261117.shtml",
+   "pub": "2026-11-17 03:13",
+   "source": "央视网"
+  },
+  {
+   "title": "聚焦APEC丨在新闻中心感受科技魅力",
+   "link": "https://news.cctv.com/2026/11/17/ARTIlYidHEjs3B8kX9xCL4G2261117.shtml",
+   "pub": "2026-11-17 02:52",
+   "source": "央视网"
+  },
+  {
+   "title": "冷空气持续影响 多地降雪降温",
+   "link": "https://news.cctv.com/2026/11/17/ARTIlZEzjCs3pDRK10Z9Fecs261117.shtml",
+   "pub": "2026-11-17 02:16",
+   "source": "央视网"
+  },
+  {
+   "title": "海泊千帆、鲜果竞速 透过深圳看开放包容的中国",
+   "link": "https://news.cctv.com/2026/11/17/ARTIz10txOXhGtxSRTjyp7fX261117.shtml",
+   "pub": "2026-11-17 01:13",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部：敦促日本早日彻底清除日遗化武毒害",
+   "link": "https://news.cctv.com/2026/11/17/ARTI6yj1rc5JPMw9vJozWOIT261117.shtml",
+   "pub": "2026-11-17 01:10",
+   "source": "央视网"
+  },
+  {
+   "title": "云南香格里拉：走进多民族学子的多彩校园生活",
+   "link": "https://news.cctv.com/2026/11/17/ARTI5GZ84rsmqQx2VnAyIBKj261117.shtml",
+   "pub": "2026-11-17 01:08",
+   "source": "央视网"
+  },
+  {
+   "title": "连茂君任吉林省委常委、长春市委书记",
+   "link": "https://news.cctv.com/2026/11/17/ARTIhFjkdi9AWxTRxQYkuA2t261117.shtml",
+   "pub": "2026-11-17 00:54",
+   "source": "央视网"
+  },
+  {
+   "title": "俄称下轮俄美乌三方会谈仍在阿布扎比举行 时间待定",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733160.shtml",
+   "pub": "2026-11-17 00:36",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "日本推动修订“安保三文件” 日媒披露“防卫产业基础战略”部分内容",
+   "link": "https://news.cctv.com/2026/11/17/ARTIiIMO6SXbYpVfgODxxBUe261117.shtml",
+   "pub": "2026-11-17 00:35",
+   "source": "央视网"
+  },
+  {
+   "title": "亚太工商界看好APEC机遇：深化开放合作，共享发展红利",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml",
+   "pub": "2026-11-17 00:30",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "第十四届中部博览会开幕在即 助力中部地区加快崛起",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733158.shtml",
+   "pub": "2026-11-17 00:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平致电祝贺波黑新一届主席团成员就职",
+   "link": "https://news.cctv.com/2026/11/17/ARTI7nZ5qJZDQPJFPG5o6Fcg261117.shtml",
+   "pub": "2026-11-17 00:22",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平致电祝贺波黑新一届主席团成员就职",
+   "link": "https://news.cctv.com/2026/11/17/ARTITQp2V4dZUUhBf42B8W4H261117.shtml",
+   "pub": "2026-11-17 00:01",
+   "source": "央视网"
+  }
+ ],
+ "ai": [
+  {
+   "title": "科技界人士质疑英伟达CEO辞职背后存在针对其的阴谋",
+   "link": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+   "meta": "The Verge：AI · 发布于 11-17 07:17 · 行业",
+   "summary": "英伟达CEO黄仁勋在任职超过33年后辞职，引发科技界震动。多位科技界人士呼吁其复职，并传播辞职背后存在针对他的阴谋的说法。有风投人士引用媒体报道质疑《纽约时报》关于某前高管是中国间谍的说法尚未获美国政府证实；半导体行业分析机构则猜测此举或与强化AI出口管制的立法有关。超过18.5万人签署公开信呼吁黄仁勋复职。",
+   "origin": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+  },
+  {
+   "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
+   "link": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+   "meta": "TechCrunch：AI · 发布于 11-17 06:03 · 行业",
+   "summary": "TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。",
+   "origin": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+  },
+  {
+   "title": "METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测",
+   "link": "https://aihot.news/items/m4emm1ej7qzex1k77a7mfaztd",
+   "meta": "METR：Notes · 发布于 11-16 00:00 · 论文",
+   "summary": "METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。结果显示智能体区分两类评测的能力在过去一年持续提升，Opus 5.5 在其数据集上把所有对齐评测排在所有能力评测之上。模型识别依据包括环境看起来像模拟的蜜罐等线索，作者将对齐线索分为环境级和任务级两类，并提出可借此迭代改进对齐评测设计。",
+   "origin": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/"
+  },
+  {
+   "title": "NotebookLM 推出来源一键生成可分享网站功能",
+   "link": "https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390",
+   "meta": "Gemini Notebook · 发布于 11-17 05:06 · 产品",
+   "summary": "NotebookLM 宣布用户可将自己的来源转成可交互、可分享的网站。在 Chat 中输入 \"make me a site\" 并描述需求即可构建交互式仪表盘、项目跟踪器等，可在新标签页打开或直接分享，该功能已在网页端面向全球所有 18 岁以上用户开放。",
+   "origin": "https://x.com/Gemini_Notebook/status/2122436141282660596"
+  },
+  {
+   "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
+   "link": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
+   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-16 20:00 · 教程",
+   "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
+   "origin": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  },
+  {
+   "title": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
+   "link": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
+   "meta": "The Verge：AI · 发布于 11-17 04:46 · 行业",
+   "summary": "加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。",
+   "origin": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  {
+   "title": "FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络",
+   "link": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+   "meta": "TechCrunch：AI · 发布于 11-17 01:36 · 行业",
+   "summary": "FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。",
+   "origin": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+  },
+  {
+   "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+   "link": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+   "meta": "IT之家·人工智能 · 发布于 11-17 09:03 · 观点",
+   "summary": "据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。",
+   "origin": "https://www.ithome.com/1/028/052.htm"
+  }
+ ]
+}
