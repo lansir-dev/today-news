@@ -1,8 +1,80 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 09:35",
+ "fetched": "2026-11-17 10:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "专访：中国推动亚太开放合作向纵深拓展——访亚太经合组织秘书处执行主任爱德华多·佩德罗萨",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733245.shtml",
+   "pub": "2026-11-17 09:58",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "我国北斗终端设备应用数量近4200万",
+   "link": "https://news.cctv.com/2026/11/17/ARTI4X2sl2HXwnhEuSj1lNIE261117.shtml",
+   "pub": "2026-11-17 09:55",
+   "source": "央视网"
+  },
+  {
+   "title": "怎样看待当前消费形势（每周经济评论）",
+   "link": "https://news.cctv.com/2026/11/17/ARTIwLCbMdlxIAT9CjsMYOBM261117.shtml",
+   "pub": "2026-11-17 09:55",
+   "source": "央视网"
+  },
+  {
+   "title": "湖南省娄底市人民政府原常务副市长谢学龙被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733220.shtml",
+   "pub": "2026-11-17 09:53",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "联合国：以军空袭接近联合国燃料运输车队 危及人员安全",
+   "link": "https://news.cctv.com/2026/11/17/ARTIRs0DjeqwSN1u4EadqEVN261117.shtml",
+   "pub": "2026-11-17 09:51",
+   "source": "央视网"
+  },
+  {
+   "title": "北方多地积极应对降温降雪天气 多部门迎“寒”而上保畅通保供暖",
+   "link": "https://news.cctv.com/2026/11/17/ARTIoPBQprZcRyebA21Juck6261117.shtml",
+   "pub": "2026-11-17 09:49",
+   "source": "央视网"
+  },
+  {
+   "title": "时政现场说丨推动深中产业协作，助力大湾区创新发展",
+   "link": "https://news.cctv.com/2026/11/17/ARTI7CUV4tHkReAMNr2qvJh7261117.shtml",
+   "pub": "2026-11-17 09:41",
+   "source": "央视网"
+  },
+  {
+   "title": "越共中央总书记、国家主席苏林抵达深圳",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733223.shtml",
+   "pub": "2026-11-17 09:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "哥伦比亚人工智能培训班官员参访福建漳州",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733204.shtml",
+   "pub": "2026-11-17 09:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "数说APEC | 透过数据看亮点 中国与贸易伙伴间“磁吸力”越来越强",
+   "link": "https://news.cctv.com/2026/11/17/ARTIPo4CzM8Ky9qxCWzYmHCP261117.shtml",
+   "pub": "2026-11-17 09:39",
+   "source": "央视网"
+  },
+  {
+   "title": "寒潮预警上线 中东部大部地区气温下滑明显",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733205.shtml",
+   "pub": "2026-11-17 09:35",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "吃“减肥神药”连吐3天去急诊 记者调查滥用处方药减肥现象",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733219.shtml",
+   "pub": "2026-11-17 09:33",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "APEC“中国年”经贸成果丰硕 数智领域成为合作重点",
    "link": "https://news.cctv.com/2026/11/17/ARTI3BH6WeC7rvV09vSTvduo261117.shtml",
@@ -109,7 +181,7 @@
    "title": "中东部将有大范围雨雪和寒潮天气",
    "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733187.shtml",
    "pub": "2026-11-17 08:29",
-   "source": "中国新闻网"
+   "source": "中国新闻网·社会"
   },
   {
    "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
@@ -259,7 +331,7 @@
    "title": "印尼卡伊群岛发生6.6级地震，震源深度20千米",
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733165.shtml",
    "pub": "2026-11-17 06:41",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "伊朗官方否认伊斯法罕省启动防空系统",
@@ -366,10 +438,17 @@
  ],
  "ai": [
   {
-   "title": "科技界人士质疑英伟达CEO辞职背后存在针对其的阴谋",
+   "title": "Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent",
+   "link": "https://aihot.news/items/o5vy2ohp1gixm197jxdmrtorl",
+   "meta": "Conductor 官方更新 · 发布于 11-16 08:00 · 产品",
+   "summary": "Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。",
+   "origin": "https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces"
+  },
+  {
+   "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
    "link": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
    "meta": "The Verge：AI · 发布于 11-17 07:17 · 行业",
-   "summary": "英伟达CEO黄仁勋在任职超过33年后辞职，引发科技界震动。多位科技界人士呼吁其复职，并传播辞职背后存在针对他的阴谋的说法。有风投人士引用媒体报道质疑《纽约时报》关于某前高管是中国间谍的说法尚未获美国政府证实；半导体行业分析机构则猜测此举或与强化AI出口管制的立法有关。超过18.5万人签署公开信呼吁黄仁勋复职。",
+   "summary": "The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。",
    "origin": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
   },
   {
@@ -413,13 +492,6 @@
    "meta": "TechCrunch：AI · 发布于 11-17 01:36 · 行业",
    "summary": "FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。",
    "origin": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
-  },
-  {
-   "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
-   "link": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
-   "meta": "IT之家·人工智能 · 发布于 11-17 09:03 · 观点",
-   "summary": "据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。",
-   "origin": "https://www.ithome.com/1/028/052.htm"
   }
  ]
 }
