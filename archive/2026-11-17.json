@@ -1,8 +1,32 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 18:35",
+ "fetched": "2026-11-17 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "雪落秦岭秋冬撞色 半山炽热半山白",
+   "link": "https://news.cctv.com/2026/11/17/ARTI8ejkOU328Ho4pzSbRKmu261117.shtml",
+   "pub": "2026-11-17 18:55",
+   "source": "央视网"
+  },
+  {
+   "title": "欲改“游戏规则” 欧洲五国要在卢旺达建遣返中心",
+   "link": "https://news.cctv.com/2026/11/17/ARTIcn2WwQHf7mZsSF0s2qpl261117.shtml",
+   "pub": "2026-11-17 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "官方通报“浙江U15队球员比赛中头部遭剧烈撞击后失去意识”",
+   "link": "https://news.cctv.com/2026/11/17/ARTISBY8Bixx0K98bflnIrna261117.shtml",
+   "pub": "2026-11-17 18:43",
+   "source": "央视网"
+  },
+  {
+   "title": "日本自民党与维新会讨论年内修订“安保三文件”",
+   "link": "https://news.cctv.com/2026/11/17/ARTISEivqv4lHHttBjrpdQLo261117.shtml",
+   "pub": "2026-11-17 18:42",
+   "source": "央视网"
+  },
   {
    "title": "大国外交进行时丨习近平会见秘鲁总统藤森庆子",
    "link": "https://news.cctv.com/2026/11/17/ARTIiPwzy4t5Fa24yNyY8s9g261117.shtml",
