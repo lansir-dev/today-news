@@ -1,19 +1,73 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 12:05",
+ "fetched": "2026-11-17 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
+   "pub": "2026-11-17 12:25",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "全球CEO对话中国 | 用一个词形容今天的中国经济，那就是“创新”",
+   "link": "https://news.cctv.com/2026/11/17/ARTIyJpTQFlYnTNSQJNt89II261117.shtml",
+   "pub": "2026-11-17 12:18",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平对人民法院工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/17/ARTICSF6mkRIYwLIYrchIZlP261117.shtml",
+   "pub": "2026-11-17 12:17",
+   "source": "央视网"
+  },
+  {
+   "title": "国家知识产权局印发《地理标志保护和运用“十五五”规划》",
+   "link": "https://news.cctv.com/2026/11/17/ARTIA2OCsL1WgfYGjLkPoPuk261117.shtml",
+   "pub": "2026-11-17 12:15",
+   "source": "央视网"
+  },
+  {
+   "title": "尺素跨大洋：百余封书信里藏着柏大卫与湟源的半世烟火",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733312.shtml",
+   "pub": "2026-11-17 12:14",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "戈壁炼厂里的“兰师傅”：从手绘图纸读懂高原炼化装置",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733311.shtml",
+   "pub": "2026-11-17 12:14",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "商务部等9部门深入推进再生资源回收体系建设",
+   "link": "https://news.cctv.com/2026/11/17/ARTIdvcGmyeGchAdEQp4h9wt261117.shtml",
+   "pub": "2026-11-17 12:13",
+   "source": "央视网"
+  },
+  {
+   "title": "连续6年稳步上行 海关总署发布西部陆海新通道对外贸易指数",
+   "link": "https://news.cctv.com/2026/11/17/ARTImR6RNAspMfHU3XJMCga6261117.shtml",
+   "pub": "2026-11-17 12:11",
+   "source": "央视网"
+  },
+  {
+   "title": "国家药监局：北京同仁堂等17家药企27批次药品不符合规定",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733328.shtml",
+   "pub": "2026-11-17 12:10",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平会见越共中央总书记、国家主席苏林",
+   "link": "https://news.cctv.com/2026/11/17/ARTI2opJD70vzpkfS8YuP0Z7261117.shtml",
+   "pub": "2026-11-17 12:05",
+   "source": "央视网"
+  },
   {
    "title": "直播间“低价甩卖”藏猫腻 上海杨浦警方捣毁一售假团伙",
    "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733310.shtml",
    "pub": "2026-11-17 11:57",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "习近平会见越共中央总书记、国家主席苏林",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733316.shtml",
-   "pub": "2026-11-17 11:48",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "谁参会？有什么价值？秒懂APEC工商领导人峰会",
@@ -674,12 +728,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml",
    "pub": "2026-11-17 00:30",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "第十四届中部博览会开幕在即 助力中部地区加快崛起",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733158.shtml",
-   "pub": "2026-11-17 00:24",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "习近平致电祝贺波黑新一届主席团成员就职",
