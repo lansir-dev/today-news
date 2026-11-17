@@ -1,8 +1,92 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 10:05",
+ "fetched": "2026-11-17 10:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见加拿大总理卡尼",
+   "link": "https://news.cctv.com/2026/11/17/ARTIZPGMggLIHsMLA6UwFKkJ261117.shtml",
+   "pub": "2026-11-17 10:33",
+   "source": "央视网"
+  },
+  {
+   "title": "AI漫剧看多了觉得真人“变丑”？心理学解释来了",
+   "link": "https://news.cctv.com/2026/11/17/ARTILB8k3nW6ogdLkvKzDtFM261117.shtml",
+   "pub": "2026-11-17 10:32",
+   "source": "央视网"
+  },
+  {
+   "title": "超170亿件“小包裹”见证城乡消费提质扩容 数智赋能快递行业加速跑",
+   "link": "https://news.cctv.com/2026/11/17/ARTIGzDj5ZT6KCvxxPm74G2W261117.shtml",
+   "pub": "2026-11-17 10:29",
+   "source": "央视网"
+  },
+  {
+   "title": "重庆“母城”推进革命文物活化利用 红色资源融入生活日常",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733257.shtml",
+   "pub": "2026-11-17 10:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "深圳APEC领导人非正式会议成果文件磋商工作已启动",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733265.shtml",
+   "pub": "2026-11-17 10:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "青海省海东市政协原副主席马维忠被“双开”",
+   "link": "https://news.cctv.com/2026/11/17/ARTIH4fblroiW3N3PXWrvgOm261117.shtml",
+   "pub": "2026-11-17 10:18",
+   "source": "央视网"
+  },
+  {
+   "title": "一中国游客因违规攀登富士山失联 驻日本大使馆提醒切勿违规擅自登山",
+   "link": "https://news.cctv.com/2026/11/17/ARTILw0DKzeXcuWVhAumkxJr261117.shtml",
+   "pub": "2026-11-17 10:16",
+   "source": "央视网"
+  },
+  {
+   "title": "中核集团原党组副书记、总经理顾军被提起公诉",
+   "link": "https://news.cctv.com/2026/11/17/ARTIOWjPEWAVZes4EcugSvhj261117.shtml",
+   "pub": "2026-11-17 10:14",
+   "source": "央视网"
+  },
+  {
+   "title": "湖南省娄底市人民政府原常务副市长谢学龙被“双开”",
+   "link": "https://news.cctv.com/2026/11/17/ARTI6IAjVkzcj8jSOxagD5OK261117.shtml",
+   "pub": "2026-11-17 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "推动修订“安保三文件” 日本“防卫产业基础战略”部分内容被曝光",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733251.shtml",
+   "pub": "2026-11-17 10:05",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "大型运投无人机“长鹰-8”完成运输投送试验",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733250.shtml",
+   "pub": "2026-11-17 10:04",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "我的APEC朋友圈 | APEC“老兵”姚为群以亲身经历感受中国角色变化",
+   "link": "https://news.cctv.com/2026/11/17/ARTIaFuXLE5Nkvvl7n9ljNCv261117.shtml",
+   "pub": "2026-11-17 10:04",
+   "source": "央视网"
+  },
+  {
+   "title": "湖北检察机关依法对顾军涉嫌受贿案提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733248.shtml",
+   "pub": "2026-11-17 10:01",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "国家邮政局：我国快递业务量连续两个月超170亿件",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733244.shtml",
+   "pub": "2026-11-17 09:59",
+   "source": "中国新闻网"
+  },
   {
    "title": "专访：中国推动亚太开放合作向纵深拓展——访亚太经合组织秘书处执行主任爱德华多·佩德罗萨",
    "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733245.shtml",
@@ -22,10 +106,10 @@
    "source": "央视网"
   },
   {
-   "title": "湖南省娄底市人民政府原常务副市长谢学龙被“双开”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733220.shtml",
-   "pub": "2026-11-17 09:53",
-   "source": "中国新闻网·国内"
+   "title": "中国驻日本大使馆提醒中国公民切勿违规擅自登山",
+   "link": "https://www.chinanews.com.cn/hr/2026/11-17/10733232.shtml",
+   "pub": "2026-11-17 09:54",
+   "source": "中国新闻网"
   },
   {
    "title": "联合国：以军空袭接近联合国燃料运输车队 危及人员安全",
