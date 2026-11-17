@@ -1,8 +1,32 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 19:35",
+ "fetched": "2026-11-17 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见巴布亚新几内亚总理马拉佩",
+   "link": "https://news.cctv.com/2026/11/17/ARTIXUd4375XxFkNlr0Ipekx261117.shtml",
+   "pub": "2026-11-17 20:01",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见加拿大总理卡尼",
+   "link": "https://news.cctv.com/2026/11/17/ARTIKZ3ExTTYxCXbW6TJdktI261117.shtml",
+   "pub": "2026-11-17 19:51",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见智利总统卡斯特",
+   "link": "https://news.cctv.com/2026/11/17/ARTI8loA7nesaz4cqgqENhcB261117.shtml",
+   "pub": "2026-11-17 19:47",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见秘鲁总统藤森庆子",
+   "link": "https://news.cctv.com/2026/11/17/ARTIAIvLfAnl64C9sw56dvt3261117.shtml",
+   "pub": "2026-11-17 19:40",
+   "source": "央视网"
+  },
   {
    "title": "习近平会见墨西哥总统辛鲍姆",
    "link": "https://news.cctv.com/2026/11/17/ARTI3w1R7A4foz13sNTBX8E9261117.shtml",
