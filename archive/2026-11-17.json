@@ -1,8 +1,32 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 11:35",
+ "fetched": "2026-11-17 12:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "直播间“低价甩卖”藏猫腻 上海杨浦警方捣毁一售假团伙",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733310.shtml",
+   "pub": "2026-11-17 11:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "习近平会见越共中央总书记、国家主席苏林",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733316.shtml",
+   "pub": "2026-11-17 11:48",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "谁参会？有什么价值？秒懂APEC工商领导人峰会",
+   "link": "https://news.cctv.com/2026/11/17/ARTIZgYfu1SNXO5J3kzPbJOB261117.shtml",
+   "pub": "2026-11-17 11:36",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
+   "pub": "2026-11-17 11:31",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "“意大利美食周”系列活动在京举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733295.shtml",
