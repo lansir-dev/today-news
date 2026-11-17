@@ -1,8 +1,26 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 12:35",
+ "fetched": "2026-11-17 13:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "《习近平法治思想干部读本》出版发行",
+   "link": "https://news.cctv.com/2026/11/17/ARTIbZMMb4bA3nq2XIcfFx4S261117.shtml",
+   "pub": "2026-11-17 12:49",
+   "source": "央视网"
+  },
+  {
+   "title": "一见·从中山之行，感悟跨越百年的复兴路",
+   "link": "https://news.cctv.com/2026/11/17/ARTIOIYenN581B3kLhUtCPxe261117.shtml",
+   "pub": "2026-11-17 12:45",
+   "source": "央视网"
+  },
+  {
+   "title": "法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733336.shtml",
+   "pub": "2026-11-17 12:40",
+   "source": "中国新闻网"
+  },
   {
    "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
