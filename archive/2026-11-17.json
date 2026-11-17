@@ -1,13 +1,73 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 14:35",
+ "fetched": "2026-11-17 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "辽宁司法救助“免申即享”织密民生保障网",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733404.shtml",
+   "pub": "2026-11-17 14:57",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）习近平会见加拿大总理卡尼",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
+   "pub": "2026-11-17 14:57",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）习近平会见巴布亚新几内亚总理马拉佩",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733426.shtml",
+   "pub": "2026-11-17 14:56",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "护航全生命周期健康 我国将逐步实现疫苗处方全覆盖",
+   "link": "https://news.cctv.com/2026/11/17/ARTIq8V3HKa4D3TEakyvYduB261117.shtml",
+   "pub": "2026-11-17 14:56",
+   "source": "央视网"
+  },
+  {
+   "title": "西部战区空军某旅探索“体系+”训练模式",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733432.shtml",
+   "pub": "2026-11-17 14:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“公益林树苗种在乱石堆”？官方通报",
+   "link": "https://news.cctv.com/2026/11/17/ARTIY1AffMldzEwXgDxFqaY5261117.shtml",
+   "pub": "2026-11-17 14:43",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见越共中央总书记、国家主席苏林",
+   "link": "https://news.cctv.com/2026/11/17/ARTIVugjCEh63tGMWEAB1TeO261117.shtml",
+   "pub": "2026-11-17 14:40",
+   "source": "央视网"
+  },
+  {
+   "title": "“用时光熬一碗米线” 两岸夫妻在南京开暖心小店",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733398.shtml",
+   "pub": "2026-11-17 14:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "我国全面推行疫苗处方",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733424.shtml",
+   "pub": "2026-11-17 14:37",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "注意！这些情形需要向公司支付违约金",
    "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733421.shtml",
    "pub": "2026-11-17 14:33",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "多国媒体和智库：期待APEC会议带来新机遇",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733411.shtml",
+   "pub": "2026-11-17 14:27",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "中国-东盟自贸协定3.0生效在即 区域大市场共享自由贸易红利",
@@ -52,7 +112,7 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "卡尼：加拿大或寻求与中国等车企合作",
+   "title": "加总理卡尼：加拿大或寻求与中国等车企合作",
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733390.shtml",
    "pub": "2026-11-17 14:14",
    "source": "中国新闻网·国际"
@@ -400,12 +460,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "深圳APEC领导人非正式会议成果文件磋商工作已启动",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733265.shtml",
-   "pub": "2026-11-17 10:21",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "青海省海东市政协原副主席马维忠被“双开”",
    "link": "https://news.cctv.com/2026/11/17/ARTIH4fblroiW3N3PXWrvgOm261117.shtml",
    "pub": "2026-11-17 10:18",
@@ -460,12 +514,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "专访：中国推动亚太开放合作向纵深拓展——访亚太经合组织秘书处执行主任爱德华多·佩德罗萨",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733245.shtml",
-   "pub": "2026-11-17 09:58",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "我国北斗终端设备应用数量近4200万",
    "link": "https://news.cctv.com/2026/11/17/ARTI4X2sl2HXwnhEuSj1lNIE261117.shtml",
    "pub": "2026-11-17 09:55",
@@ -500,12 +548,6 @@
    "link": "https://news.cctv.com/2026/11/17/ARTI7CUV4tHkReAMNr2qvJh7261117.shtml",
    "pub": "2026-11-17 09:41",
    "source": "央视网"
-  },
-  {
-   "title": "越共中央总书记、国家主席苏林抵达深圳",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733223.shtml",
-   "pub": "2026-11-17 09:40",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "数说APEC | 透过数据看亮点 中国与贸易伙伴间“磁吸力”越来越强",
