@@ -1,8 +1,92 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 11:05",
+ "fetched": "2026-11-17 11:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“意大利美食周”系列活动在京举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733295.shtml",
+   "pub": "2026-11-17 11:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "抵达深圳后，加拿大总理卡尼发文：期待为太平洋两岸开拓新机遇",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733303.shtml",
+   "pub": "2026-11-17 11:21",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "寒潮将给多地制造大风天气 北方十余省区市阵风可达7级以上",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733302.shtml",
+   "pub": "2026-11-17 11:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "葡萄牙大陆地区今年已出现10次热浪 创单年热浪次数新高",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733279.shtml",
+   "pub": "2026-11-17 11:20",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "欧洲“完整阵容”与乌美会谈  俄方指责欧洲无意推动和平解决冲突",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733246.shtml",
+   "pub": "2026-11-17 11:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "沈阳故宫博物院百年守护中华文脉",
+   "link": "https://news.cctv.com/2026/11/17/ARTIJi4A59mOXaM8uOp4kH0O261117.shtml",
+   "pub": "2026-11-17 11:18",
+   "source": "央视网"
+  },
+  {
+   "title": "多家外媒持续关注APEC盛会：中国向世界释放开放创新合作信号",
+   "link": "https://news.cctv.com/2026/11/17/ARTIj3cetjLChpaGYdpZnGWK261117.shtml",
+   "pub": "2026-11-17 11:17",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见巴布亚新几内亚总理马拉佩",
+   "link": "https://news.cctv.com/2026/11/17/ARTIUW1F4CAyTwMc1j8EQ0sP261117.shtml",
+   "pub": "2026-11-17 11:15",
+   "source": "央视网"
+  },
+  {
+   "title": "为世界经济注入确定性，中国一直在行动……",
+   "link": "https://news.cctv.com/2026/11/17/ARTIbKFRuxIwWs4l8VGPMEFs261117.shtml",
+   "pub": "2026-11-17 11:12",
+   "source": "央视网"
+  },
+  {
+   "title": "福建君子峰保护区再添4种大型真菌新种 累计发现8种新种",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733282.shtml",
+   "pub": "2026-11-17 11:11",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "助力6G与卫星互联网 中国实验验证Q/V频段最高码速率无线通信",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733281.shtml",
+   "pub": "2026-11-17 11:09",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "工商界的“智囊团”，如何发挥出最大效能？",
+   "link": "https://news.cctv.com/2026/11/17/ARTIsjVoYV47dE8eu8oLR8zS261117.shtml",
+   "pub": "2026-11-17 11:07",
+   "source": "央视网"
+  },
+  {
+   "title": "中韩青年走进江西上犹：观山水生态 探县域产业融合密码",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733278.shtml",
+   "pub": "2026-11-17 11:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "江西九江“有事先商量”：协商沉一线 民生有回响",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733277.shtml",
+   "pub": "2026-11-17 11:00",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "美丽中国丨赛里木湖冬日美",
    "link": "https://photo.cctv.com/2026/11/17/PHOAFR2Om7f8moC0U3l1mt0D261117.shtml",
@@ -433,7 +517,7 @@
    "title": "第20届法语国家组织峰会通过《金边宣言》",
    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733170.shtml",
    "pub": "2026-11-17 07:36",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "招聘旺季应警惕求职陷阱",
