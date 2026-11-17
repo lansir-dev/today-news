@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "fetched": "2026-11-17 19:05",
+ "fetched": "2026-11-17 19:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1320,6 +1320,13 @@
  ],
  "ai": [
   {
+   "title": "ChinaTalk 播客解读美国商务部132页出口管制新规",
+   "link": "https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz",
+   "meta": "ChinaTalk · 发布于 11-17 19:03 · 行业",
+   "summary": "ChinaTalk 邀请两位前美国国家安全委员会官员解读美国商务部发布的132页出口管制新规。新规针对三类渠道：对新加坡、马来西亚、泰国、印尼和巴西实施芯片许可要求，限制中国企业租用算力（约相当于200颗Blackwell或800颗H100的上限且追溯既往），并再度封堵台积电代工后门，对14纳米及以下中国芯片设计一律要求许可。嘉宾指出规则未覆盖美国境内算力这一关键剩余缺口。",
+   "origin": "https://www.chinatalk.media/p/bis-finally-takes-a-stand"
+  },
+  {
    "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
    "link": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
    "meta": "IT之家·人工智能 · 发布于 11-17 17:41 · 论文",
@@ -1367,13 +1374,6 @@
    "meta": "Gemini Notebook · 发布于 11-17 05:06 · 产品",
    "summary": "NotebookLM 宣布用户可将自己的来源转成可交互、可分享的网站。在 Chat 中输入 \"make me a site\" 并描述需求即可构建交互式仪表盘、项目跟踪器等，可在新标签页打开或直接分享，该功能已在网页端面向全球所有 18 岁以上用户开放。",
    "origin": "https://x.com/Gemini_Notebook/status/2122436141282660596"
-  },
-  {
-   "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
-   "link": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
-   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-16 20:00 · 教程",
-   "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
-   "origin": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
   }
  ]
 }

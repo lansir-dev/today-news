@@ -1,8 +1,38 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 19:05",
+ "fetched": "2026-11-17 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见墨西哥总统辛鲍姆",
+   "link": "https://news.cctv.com/2026/11/17/ARTI3w1R7A4foz13sNTBX8E9261117.shtml",
+   "pub": "2026-11-17 19:31",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见越共中央总书记、国家主席苏林",
+   "link": "https://news.cctv.com/2026/11/17/ARTIOWqZSZduPcf5rebzNmv9261117.shtml",
+   "pub": "2026-11-17 19:24",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见智利总统卡斯特",
+   "link": "https://news.cctv.com/2026/11/17/ARTIkshxOFaoEeZocNPOvYi4261117.shtml",
+   "pub": "2026-11-17 19:21",
+   "source": "央视网"
+  },
+  {
+   "title": "市场监管总局提醒：这些“汽车召回”信息是诈骗",
+   "link": "https://news.cctv.com/2026/11/17/ARTIsAqByJCnRrrRYcFPr0LG261117.shtml",
+   "pub": "2026-11-17 19:07",
+   "source": "央视网"
+  },
+  {
+   "title": "和合共生｜一辆新能源汽车的出海之路",
+   "link": "https://news.cctv.com/2026/11/17/ARTI9j1GHktjrvtKfp76vrPw261117.shtml",
+   "pub": "2026-11-17 19:05",
+   "source": "央视网"
+  },
   {
    "title": "雪落秦岭秋冬撞色 半山炽热半山白",
    "link": "https://news.cctv.com/2026/11/17/ARTI8ejkOU328Ho4pzSbRKmu261117.shtml",
