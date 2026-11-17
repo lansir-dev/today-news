@@ -1,8 +1,44 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 17:05",
+ "fetched": "2026-11-17 17:46",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国家海洋预报台发布海浪蓝色警报",
+   "link": "https://news.cctv.com/2026/11/17/ARTIKJT060gcaEWL0CLqWvZo261117.shtml",
+   "pub": "2026-11-17 17:41",
+   "source": "央视网"
+  },
+  {
+   "title": "湖北省武汉市人大常委会原副主任但长春被开除党籍",
+   "link": "https://news.cctv.com/2026/11/17/ARTIoe4S9QkSHxUwAgTdwG2o261117.shtml",
+   "pub": "2026-11-17 17:38",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交进行时丨习近平会见墨西哥总统辛鲍姆",
+   "link": "https://news.cctv.com/2026/11/17/ARTINMsNOIz3TtG5U3rsE6fN261117.shtml",
+   "pub": "2026-11-17 17:35",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部回应相关国家免签政策将于今年年底到期",
+   "link": "https://news.cctv.com/2026/11/17/ARTISglUo5qqlztwVlXtGJNo261117.shtml",
+   "pub": "2026-11-17 17:29",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见智利总统卡斯特",
+   "link": "https://news.cctv.com/2026/11/17/ARTILJxyFGEkiqix7iRlgj6h261117.shtml",
+   "pub": "2026-11-17 17:25",
+   "source": "央视网"
+  },
+  {
+   "title": "推动地方特色产业提质增效 地理标志将“土特产”变为增收“金名片”",
+   "link": "https://news.cctv.com/2026/11/17/ARTIwzh9JOJxbVJXV86xGZYA261117.shtml",
+   "pub": "2026-11-17 17:13",
+   "source": "央视网"
+  },
   {
    "title": "“鸟浪”奇观出圈让文旅淡季变旺季 “观鸟热”打开消费新空间",
    "link": "https://news.cctv.com/2026/11/17/ARTIPPoz2Hjn0bIVgZyLCb3Q261117.shtml",
