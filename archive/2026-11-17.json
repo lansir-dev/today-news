@@ -1,8 +1,38 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 21:35",
+ "fetched": "2026-11-17 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广电总局、民政部：确保广电视听服务覆盖到全体老年人",
+   "link": "https://news.cctv.com/2026/11/17/ARTIT0Kj94HVNiqFNbDGe5yn261117.shtml",
+   "pub": "2026-11-17 22:17",
+   "source": "央视网"
+  },
+  {
+   "title": "“雪”字头列车限时返场 铁路多彩标签精准对接旅客需求",
+   "link": "https://news.cctv.com/2026/11/17/ARTIpidZDrByBSDkQGv0J0r3261117.shtml",
+   "pub": "2026-11-17 22:13",
+   "source": "央视网"
+  },
+  {
+   "title": "商务部新闻发言人就中加经贸磋商成果答记者问",
+   "link": "https://jingji.cctv.com/2026/11/17/ARTIhKe6KSYVoI5pD9215Hgs261117.shtml",
+   "pub": "2026-11-17 22:08",
+   "source": "央视网"
+  },
+  {
+   "title": "美军否认其在巴林的雷达遭伊朗击中",
+   "link": "https://news.cctv.com/2026/11/17/ARTI2ayNXMWxzWyNkeQ6Xff4261117.shtml",
+   "pub": "2026-11-17 22:06",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗称打击巴林的美军雷达系统 巴林称已拦截",
+   "link": "https://news.cctv.com/2026/11/17/ARTIEg1oswY1vYhXSUrOSH6W261117.shtml",
+   "pub": "2026-11-17 22:05",
+   "source": "央视网"
+  },
   {
    "title": "到2030年 地理标志产品直接产值预期超1万亿",
    "link": "https://news.cctv.com/2026/11/17/ARTItdlpEgO2HnuSm2HvVhd3261117.shtml",
