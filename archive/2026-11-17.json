@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-18 12:35",
+ "fetched": "2026-11-18 13:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1344,6 +1344,13 @@
  ],
  "ai": [
   {
+   "title": "腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本",
+   "link": "https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp",
+   "meta": "腾讯混元 · 发布于 11-18 12:39 · 模型",
+   "summary": "腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。模型为 224B 参数（激活 12B），支持 1M 上下文，原生多模态，定位高效日常生产力场景。模型以 Tencent Hy License 发布，可在 Hugging Face（huggingface.co/tencent/Hy4-flash）和 GitHub（github.com/Tencent-Hunyuan/Hy4-flash）获取，官方预告 Hy4 即将推出。",
+   "origin": "https://x.com/TencentHunyuan/status/2122912575302119554"
+  },
+  {
    "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
    "link": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
    "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-17 20:00 · 教程",
@@ -1391,13 +1398,6 @@
    "meta": "Google · 发布于 11-18 06:35 · 产品",
    "summary": "Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。",
    "origin": "https://x.com/Google/status/2122820914777845813"
-  },
-  {
-   "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-   "link": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-18 06:36 · 模型",
-   "summary": "OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。",
-   "origin": "https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA"
   }
  ]
 }
