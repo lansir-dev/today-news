@@ -1,8 +1,20 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 18:35",
+ "fetched": "2026-11-18 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交最前线丨携手同行 共谋亚太繁荣发展大计",
+   "link": "https://news.cctv.com/2026/11/18/ARTIzcRWj4fwgZotSixfbodL261118.shtml",
+   "pub": "2026-11-18 19:02",
+   "source": "央视网"
+  },
+  {
+   "title": "寒潮蓝色预警：黑龙江吉林浙江福建等部分地区降温8至10℃",
+   "link": "https://news.cctv.com/2026/11/18/ARTIgcd3SfpYfyYhgEIAT6Aa261118.shtml",
+   "pub": "2026-11-18 19:01",
+   "source": "央视网"
+  },
   {
    "title": "中国与亚太同行初心始终不改  在APEC舞台上作用与贡献日益凸显",
    "link": "https://news.cctv.com/2026/11/18/ARTIJhgOCrgmkJCW3J0nto7t261118.shtml",
