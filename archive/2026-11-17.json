@@ -1,7 +1,7 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-18 19:35",
- "note": "由次日抓取补存的昨日列表",
+ "fetched": "2026-11-18 20:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
    "title": "物流降本、减税赋能 第十五届全国减轻企业负担政策宣传周启动",
@@ -1344,6 +1344,13 @@
  ],
  "ai": [
   {
+   "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型",
+   "link": "https://aihot.news/items/oisr0dfay736le62g425urn8l",
+   "meta": "Latent Space · 发布于 11-18 18:19 · 模型",
+   "summary": "Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。",
+   "origin": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/"
+  },
+  {
    "title": "Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢",
    "link": "https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw",
    "meta": "IT之家·人工智能 · 发布于 11-18 18:45 · 行业",
@@ -1391,13 +1398,6 @@
    "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-17 20:00 · 教程",
    "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
    "origin": "https://claude.dev/blog/chaos-loop-claude-docs-launch/"
-  },
-  {
-   "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
-   "link": "https://aihot.news/items/hpczcbqe8agr7jffko2cnsp31",
-   "meta": "Rohan Paul · 发布于 11-18 08:15 · 行业",
-   "summary": "据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各以 IPO 价格认购约 $10B。",
-   "origin": "https://x.com/rohanpaul_ai/status/2122845999387602999"
   }
  ]
 }

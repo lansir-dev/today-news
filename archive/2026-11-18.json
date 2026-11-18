@@ -1,8 +1,38 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 19:35",
+ "fetched": "2026-11-18 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文）",
+   "link": "https://news.cctv.com/2026/11/18/ARTIrsW7RAq0j0XWYl220U7e261118.shtml",
+   "pub": "2026-11-18 19:52",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见韩国总统李在明",
+   "link": "https://news.cctv.com/2026/11/18/ARTIUIAfLqZEh6DvIPR2ZnoJ261118.shtml",
+   "pub": "2026-11-18 19:50",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平迎接美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/18/ARTID8FxPgEQlB5OrlH9hvAp261118.shtml",
+   "pub": "2026-11-18 19:48",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见俄罗斯总统普京",
+   "link": "https://news.cctv.com/2026/11/18/ARTISYcfBwjOTolmeJoICz9P261118.shtml",
+   "pub": "2026-11-18 19:47",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交最前线丨特朗普总统抵达 深圳之行有哪些看点",
+   "link": "https://news.cctv.com/2026/11/18/ARTIM9IeAWZJwnGECz8txP0S261118.shtml",
+   "pub": "2026-11-18 19:45",
+   "source": "央视网"
+  },
   {
    "title": "大国外交最前线丨在欢迎宴会现场，读懂何为“一湾锦绣通亚太”",
    "link": "https://news.cctv.com/2026/11/18/ARTIz0JAzNNntuRmAjYclm90261118.shtml",
@@ -13,6 +43,12 @@
    "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
    "link": "https://news.cctv.com/2026/11/18/ARTIt4pOjTmKDrNwRJTAKNDD261118.shtml",
    "pub": "2026-11-18 19:27",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+   "link": "https://news.cctv.com/2026/11/18/ARTIyLqOhbcJGUzS5VmeBRH0261118.shtml",
+   "pub": "2026-11-18 19:21",
    "source": "央视网"
   },
   {
@@ -70,7 +106,7 @@
    "source": "央视网"
   },
   {
-   "title": "大国外交进行时丨普京：APEC为建设性交流提供广阔空间 期待俄中美领导人三边会晤",
+   "title": "大国外交进行时丨普京：APEC为建设性交流提供广阔空间 期待俄中美元首会晤",
    "link": "https://news.cctv.com/2026/11/18/ARTIBmvTw3lPvu4Rzqh6FUDP261118.shtml",
    "pub": "2026-11-18 18:03",
    "source": "央视网"
