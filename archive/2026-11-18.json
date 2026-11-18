@@ -1,8 +1,32 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 13:05",
+ "fetched": "2026-11-18 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "独家视频丨习近平会见俄罗斯总统普京",
+   "link": "https://news.cctv.com/2026/11/18/ARTIs059Pb5YJuHSRTs05wzY261118.shtml",
+   "pub": "2026-11-18 13:30",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平：坚定信心 勇毅前行 携手建设亚太共同体",
+   "link": "https://news.cctv.com/2026/11/18/ARTI6N59xKYzvCzDSypHJKXW261118.shtml",
+   "pub": "2026-11-18 13:30",
+   "source": "央视网"
+  },
+  {
+   "title": "体育消费新观察：动起来，消费“跑”起来",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734008.shtml",
+   "pub": "2026-11-18 13:19",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "大国外交最前线丨见证近邻与老友的“深圳之约”",
+   "link": "https://news.cctv.com/2026/11/18/ARTIrl6NFi7GYUwWeR7WxhOi261118.shtml",
+   "pub": "2026-11-18 13:09",
+   "source": "央视网"
+  },
   {
    "title": "（深圳APEC）习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
    "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733987.shtml",
