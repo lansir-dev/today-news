@@ -1,8 +1,20 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 21:05",
+ "fetched": "2026-11-18 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+   "link": "https://news.cctv.com/2026/11/18/ARTIR8PDzCv0KcjqtLpe8UtO261118.shtml",
+   "pub": "2026-11-18 21:31",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜共启亚太新航程 构建亚太共同体的中国贡献",
+   "link": "https://news.cctv.com/2026/11/18/ARTIo7qqSWcephqCNrSCtqNA261118.shtml",
+   "pub": "2026-11-18 21:30",
+   "source": "央视网"
+  },
   {
    "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
    "link": "https://news.cctv.com/2026/11/18/ARTIzmur9u4BYy27QYBGe16H261118.shtml",
