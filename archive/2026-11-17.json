@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-18 14:05",
+ "fetched": "2026-11-18 14:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1344,6 +1344,13 @@
  ],
  "ai": [
   {
+   "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
+   "link": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
+   "meta": "Tibo · 发布于 11-18 13:47 · 观点",
+   "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。",
+   "origin": "https://x.com/thsottiaux/status/2122929634916679820"
+  },
+  {
    "title": "Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认",
    "link": "https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng",
    "meta": "Rohan Paul · 发布于 11-18 13:19 · 行业",
@@ -1391,13 +1398,6 @@
    "meta": "TechCrunch：AI · 发布于 11-18 07:37 · 行业",
    "summary": "代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。",
    "origin": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-  },
-  {
-   "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
-   "link": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw",
-   "meta": "Wiz：Research · 发布于 11-18 06:03 · 行业",
-   "summary": "Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。",
-   "origin": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
   }
  ]
 }

@@ -1,8 +1,80 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 14:05",
+ "fetched": "2026-11-18 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "澳大利亚制裁一批涉定居点的以色列个人和实体",
+   "link": "https://news.cctv.com/2026/11/18/ARTI9wjChxnBOEaoHZFVprYr261118.shtml",
+   "pub": "2026-11-18 14:33",
+   "source": "央视网"
+  },
+  {
+   "title": "罗大佑发声获两岸民间支持 国台办指“德不孤，必有邻”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734060.shtml",
+   "pub": "2026-11-18 14:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "阿根廷抗议英国安妮公主在马岛等地开展官方访问",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10734017.shtml",
+   "pub": "2026-11-18 14:18",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "冷空气带火浙江慈溪棉拖鞋 “内鞋外穿”成新潮流",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734034.shtml",
+   "pub": "2026-11-18 14:18",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "全国人大常委会副委员长肖捷率团访问埃及",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734061.shtml",
+   "pub": "2026-11-18 14:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "时政微纪录丨习近平总书记赴广东中山考察纪实",
+   "link": "https://news.cctv.com/2026/11/18/ARTIu5KjFzVh652BbNIBrmuI261118.shtml",
+   "pub": "2026-11-18 14:14",
+   "source": "央视网"
+  },
+  {
+   "title": "【和合共生】习言道｜亚太工商界是全球经济的弄潮儿",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734004.shtml",
+   "pub": "2026-11-18 14:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "超强厄尔尼诺事件背景下 “中原粮仓”河南小麦如何“闯关”？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734018.shtml",
+   "pub": "2026-11-18 14:03",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "戈壁滩上“晋”行曲 ——一位山西援疆干部与北塔山牧场的600多天",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734015.shtml",
+   "pub": "2026-11-18 14:03",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一株海棠立北山 追记生于湟源、归葬湟源的美国友人柏美安",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734026.shtml",
+   "pub": "2026-11-18 14:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "长三角深化知识产权协同运营与区域创新合作 推动更多生物医药成果实现转化",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734028.shtml",
+   "pub": "2026-11-18 14:01",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "两岸同胞纪念孙中山先生诞辰160周年书画笔会在济南举办",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10734010.shtml",
+   "pub": "2026-11-18 14:01",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "证监会称“基金公司上报全部产品AI敞口”不属实",
    "link": "https://news.cctv.com/2026/11/18/ARTIJZHbKQqdOV7LTGQ6nnvI261118.shtml",
@@ -298,16 +370,16 @@
    "source": "中国新闻网·国内"
   },
   {
+   "title": "苹果、万豪等美国公司突发网络技术故障",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
+   "pub": "2026-11-18 10:53",
+   "source": "中国新闻网"
+  },
+  {
    "title": "国台办批陆委会恐吓台商",
    "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733939.shtml",
    "pub": "2026-11-18 10:53",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "苹果、万豪等美国公司突发网络技术故障",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
-   "pub": "2026-11-18 10:53",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "【我的APEC朋友圈】一本“国际手账”记录中国与亚太互利共赢的印记",
@@ -334,46 +406,10 @@
    "source": "央视网"
   },
   {
-   "title": "国台办回应台检调部门起诉高金素梅",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733936.shtml",
-   "pub": "2026-11-18 10:48",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "广西壮族自治区横州市委原书记梁枫接受纪律审查和监察调查",
    "link": "https://news.cctv.com/2026/11/18/ARTI8KRdKpPjOrcHfo2K2WyT261118.shtml",
    "pub": "2026-11-18 10:46",
    "source": "央视网"
-  },
-  {
-   "title": "国台办批所谓两岸交流“去统战化”言论",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733935.shtml",
-   "pub": "2026-11-18 10:45",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "聚焦APEC｜澳大利亚总理阿尔巴尼斯抵达深圳",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733933.shtml",
-   "pub": "2026-11-18 10:41",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "2026越南青年来华“红色研学之旅”云南行昆明启动",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733902.shtml",
-   "pub": "2026-11-18 10:39",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国台办评罗大佑近日批判民进党当局言论",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733931.shtml",
-   "pub": "2026-11-18 10:38",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733929.shtml",
-   "pub": "2026-11-18 10:36",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "西安：秦岭终南山南五台2026年冬季第一场雪后风光",
@@ -724,6 +760,12 @@
    "source": "中国新闻网·国际"
   },
   {
+   "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+   "pub": "2026-11-18 06:12",
+   "source": "中国新闻网"
+  },
+  {
    "title": "国产大型无人机“长鹰-8”完成运投试验",
    "link": "https://news.cctv.com/2026/11/18/ARTIqNvs2kSyJLznzvAO7UkN261118.shtml",
    "pub": "2026-11-18 05:05",
@@ -798,6 +840,13 @@
  ],
  "ai": [
   {
+   "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
+   "link": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
+   "meta": "Tibo · 发布于 11-18 13:47 · 观点",
+   "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。",
+   "origin": "https://x.com/thsottiaux/status/2122929634916679820"
+  },
+  {
    "title": "Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认",
    "link": "https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng",
    "meta": "Rohan Paul · 发布于 11-18 13:19 · 行业",
@@ -845,13 +894,6 @@
    "meta": "TechCrunch：AI · 发布于 11-18 07:37 · 行业",
    "summary": "代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。",
    "origin": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-  },
-  {
-   "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
-   "link": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw",
-   "meta": "Wiz：Research · 发布于 11-18 06:03 · 行业",
-   "summary": "Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。",
-   "origin": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
   }
  ]
 }
