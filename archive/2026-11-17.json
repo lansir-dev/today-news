@@ -1,8 +1,14 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-17 22:35",
+ "fetched": "2026-11-18 12:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "物流降本、减税赋能 第十五届全国减轻企业负担政策宣传周启动",
+   "link": "https://jingji.cctv.com/2026/11/17/ARTIdwqJ685qjvHtzusKIoDK261117.shtml",
+   "pub": "2026-11-17 22:40",
+   "source": "央视网"
+  },
   {
    "title": "广电总局、民政部：确保广电视听服务覆盖到全体老年人",
    "link": "https://news.cctv.com/2026/11/17/ARTIT0Kj94HVNiqFNbDGe5yn261117.shtml",
@@ -1338,60 +1344,60 @@
  ],
  "ai": [
   {
-   "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
-   "link": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
-   "meta": "OpenAI：官网动态 · 发布于 11-17 08:00 · 行业",
-   "summary": "OpenAI 宣布通过 Daybreak 工具向 NATO 及盟国网络防御机构提供先进网络安全模型，用于审查软件、调查可疑活动和验证漏洞。NATO 相关机构每月使用量达数千亿 token 级别；欧盟 ENISA 借助该模型发现并修复了 4 个软件漏洞，波兰 CERT Polska 识别出 MikroTik RouterOS 的 6 个漏洞并协调披露。",
-   "origin": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+   "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+   "link": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-17 20:00 · 教程",
+   "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+   "origin": "https://claude.dev/blog/chaos-loop-claude-docs-launch/"
   },
   {
-   "title": "Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent",
-   "link": "https://aihot.news/items/o5vy2ohp1gixm197jxdmrtorl",
-   "meta": "Conductor 官方更新 · 发布于 11-16 08:00 · 产品",
-   "summary": "Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。",
-   "origin": "https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces"
+   "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
+   "link": "https://aihot.news/items/hpczcbqe8agr7jffko2cnsp31",
+   "meta": "Rohan Paul · 发布于 11-18 08:15 · 行业",
+   "summary": "据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各以 IPO 价格认购约 $10B。",
+   "origin": "https://x.com/rohanpaul_ai/status/2122845999387602999"
   },
   {
-   "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
-   "link": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
-   "meta": "The Verge：AI · 发布于 11-17 07:17 · 行业",
-   "summary": "The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。",
-   "origin": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+   "title": "Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元",
+   "link": "https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc",
+   "meta": "IT之家·人工智能 · 发布于 11-18 08:12 · 行业",
+   "summary": "根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。",
+   "origin": "https://www.ithome.com/1/028/599.htm"
   },
   {
-   "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
-   "link": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
-   "meta": "TechCrunch：AI · 发布于 11-17 06:03 · 行业",
-   "summary": "TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。",
-   "origin": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+   "title": "Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会",
+   "link": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
+   "meta": "TechCrunch：AI · 发布于 11-18 07:37 · 行业",
+   "summary": "代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。",
+   "origin": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
   },
   {
-   "title": "METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测",
-   "link": "https://aihot.news/items/m4emm1ej7qzex1k77a7mfaztd",
-   "meta": "METR：Notes · 发布于 11-16 00:00 · 论文",
-   "summary": "METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。结果显示智能体区分两类评测的能力在过去一年持续提升，Opus 5.5 在其数据集上把所有对齐评测排在所有能力评测之上。模型识别依据包括环境看起来像模拟的蜜罐等线索，作者将对齐线索分为环境级和任务级两类，并提出可借此迭代改进对齐评测设计。",
-   "origin": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/"
+   "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
+   "link": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw",
+   "meta": "Wiz：Research · 发布于 11-18 06:03 · 行业",
+   "summary": "Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。",
+   "origin": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
   },
   {
-   "title": "NotebookLM 推出来源一键生成可分享网站功能",
-   "link": "https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390",
-   "meta": "Gemini Notebook · 发布于 11-17 05:06 · 产品",
-   "summary": "NotebookLM 宣布用户可将自己的来源转成可交互、可分享的网站。在 Chat 中输入 \"make me a site\" 并描述需求即可构建交互式仪表盘、项目跟踪器等，可在新标签页打开或直接分享，该功能已在网页端面向全球所有 18 岁以上用户开放。",
-   "origin": "https://x.com/Gemini_Notebook/status/2122436141282660596"
+   "title": "Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）",
+   "link": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
+   "meta": "Wiz：Research · 发布于 11-18 06:29 · 行业",
+   "summary": "2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现远程利用。",
+   "origin": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk"
   },
   {
-   "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
-   "link": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
-   "meta": "Anthropic：Claude.dev 开发者博客 · 发布于 11-16 20:00 · 教程",
-   "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
-   "origin": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+   "title": "Gemini 4 Hydrogen 全面上线 Google Search",
+   "link": "https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf",
+   "meta": "Google · 发布于 11-18 06:35 · 产品",
+   "summary": "Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。",
+   "origin": "https://x.com/Google/status/2122820914777845813"
   },
   {
-   "title": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
-   "link": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
-   "meta": "The Verge：AI · 发布于 11-17 04:46 · 行业",
-   "summary": "加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。",
-   "origin": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+   "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+   "link": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-18 06:36 · 模型",
+   "summary": "OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。",
+   "origin": "https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA"
   }
  ]
 }
