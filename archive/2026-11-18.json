@@ -1,8 +1,26 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 19:05",
+ "fetched": "2026-11-18 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交最前线丨在欢迎宴会现场，读懂何为“一湾锦绣通亚太”",
+   "link": "https://news.cctv.com/2026/11/18/ARTIz0JAzNNntuRmAjYclm90261118.shtml",
+   "pub": "2026-11-18 19:32",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+   "link": "https://news.cctv.com/2026/11/18/ARTIt4pOjTmKDrNwRJTAKNDD261118.shtml",
+   "pub": "2026-11-18 19:27",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+   "link": "https://news.cctv.com/2026/11/18/ARTILfB63rU2wIFE79qncjeC261118.shtml",
+   "pub": "2026-11-18 19:14",
+   "source": "央视网"
+  },
   {
    "title": "大国外交最前线丨携手同行 共谋亚太繁荣发展大计",
    "link": "https://news.cctv.com/2026/11/18/ARTIzcRWj4fwgZotSixfbodL261118.shtml",

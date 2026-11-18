@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "fetched": "2026-11-18 19:05",
+ "fetched": "2026-11-18 19:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1344,6 +1344,13 @@
  ],
  "ai": [
   {
+   "title": "Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢",
+   "link": "https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw",
+   "meta": "IT之家·人工智能 · 发布于 11-18 18:45 · 行业",
+   "summary": "据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。",
+   "origin": "https://www.ithome.com/1/029/015.htm"
+  },
+  {
    "title": "Gemini API 支持直传 Office 文件并新增多模态内容切片",
    "link": "https://aihot.news/items/a48izcq1y2jqtjr66xjvwqkak",
    "meta": "Gemini API：更新日志 · 发布于 11-18 08:00 · 产品",
@@ -1391,13 +1398,6 @@
    "meta": "Rohan Paul · 发布于 11-18 08:15 · 行业",
    "summary": "据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各以 IPO 价格认购约 $10B。",
    "origin": "https://x.com/rohanpaul_ai/status/2122845999387602999"
-  },
-  {
-   "title": "Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元",
-   "link": "https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc",
-   "meta": "IT之家·人工智能 · 发布于 11-18 08:12 · 行业",
-   "summary": "根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。",
-   "origin": "https://www.ithome.com/1/028/599.htm"
   }
  ]
 }
