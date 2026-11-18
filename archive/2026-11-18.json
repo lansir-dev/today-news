@@ -1,8 +1,26 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-18 12:05",
+ "fetched": "2026-11-18 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "聚焦APEC｜印度尼西亚总统普拉博沃抵达深圳",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733981.shtml",
+   "pub": "2026-11-18 12:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平会见韩国总统李在明",
+   "link": "https://news.cctv.com/2026/11/18/ARTIro4P7RpGMLjAivCxpsqc261118.shtml",
+   "pub": "2026-11-18 12:11",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见俄罗斯总统普京",
+   "link": "https://news.cctv.com/2026/11/18/ARTIouhqVecpeKkhumqN5Ehf261118.shtml",
+   "pub": "2026-11-18 12:07",
+   "source": "央视网"
+  },
   {
    "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
    "link": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
@@ -34,6 +52,12 @@
    "source": "央视网"
   },
   {
+   "title": "（深圳APEC）王毅会见加拿大外长阿南德",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733867.shtml",
+   "pub": "2026-11-18 11:48",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "（乡村行·看振兴）山西襄垣“四季生金”记：鹌鹑住上“智能房” 虾蟹搬入“暖棚里”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-18/10733932.shtml",
    "pub": "2026-11-18 11:48",
@@ -62,6 +86,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml",
    "pub": "2026-11-18 11:42",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "两部门联合发布十大计量重点攻关项目",
+   "link": "https://news.cctv.com/2026/11/18/ARTIFbfBoXrvKfEEAxagphpX261118.shtml",
+   "pub": "2026-11-18 11:25",
+   "source": "央视网"
   },
   {
    "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
@@ -98,12 +128,6 @@
    "link": "https://news.cctv.com/2026/11/18/ARTIPjS92gFJGvvBzJI4CLxx261118.shtml",
    "pub": "2026-11-18 11:13",
    "source": "央视网"
-  },
-  {
-   "title": "习近平会见韩国总统李在明",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733949.shtml",
-   "pub": "2026-11-18 11:12",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "坚持守正创新，永葆先进性纯洁性（评论员观察）",
@@ -520,12 +544,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "深化党建引领基层治理和基层政权建设（学习贯彻党的二十届五中全会精神）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733843.shtml",
-   "pub": "2026-11-18 07:45",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "出国干工程 未来五年，我国工程师这样“走出去”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733842.shtml",
    "pub": "2026-11-18 07:41",
@@ -548,12 +566,6 @@
    "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733836.shtml",
    "pub": "2026-11-18 07:38",
    "source": "中国新闻网"
-  },
-  {
-   "title": "植物能“听”会“说”，你知道吗？",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
-   "pub": "2026-11-18 07:34",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "神舟二十四号船箭就位 发射准备进展如何？",
