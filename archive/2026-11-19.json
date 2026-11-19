@@ -1,8 +1,32 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 19:35",
+ "fetched": "2026-11-19 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京市发布大风蓝色预警",
+   "link": "https://news.cctv.com/2026/11/19/ARTIYyJfr3WbmBo5DoLe9MWq261119.shtml",
+   "pub": "2026-11-19 20:03",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+   "link": "https://news.cctv.com/2026/11/19/ARTIMIvZp3uDgBOU1bZLPFof261119.shtml",
+   "pub": "2026-11-19 20:03",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/19/ARTIZ8rQTQLS9n6IEvwwBzLW261119.shtml",
+   "pub": "2026-11-19 20:03",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交进行时丨特朗普：中国一直很强大，未来中国也将继续保持强大",
+   "link": "https://news.cctv.com/2026/11/19/ARTIuVCN6z8LkAQQrtIMg5lg261119.shtml",
+   "pub": "2026-11-19 19:40",
+   "source": "央视网"
+  },
   {
    "title": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
    "link": "https://news.cctv.com/2026/11/19/ARTI7tt1sKJpbYrXh8B27tXE261119.shtml",
@@ -12,12 +36,6 @@
   {
    "title": "蒙古国国家大呼拉尔批准总统呼日勒苏赫辞职请求",
    "link": "https://news.cctv.com/2026/11/19/ARTIPaERucsfRqgpJdEHbXkn261119.shtml",
-   "pub": "2026-11-19 18:57",
-   "source": "央视网"
-  },
-  {
-   "title": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
-   "link": "https://news.cctv.com/2026/11/19/ARTIG2nPm1Ogu23CgFbStsTx261119.shtml",
    "pub": "2026-11-19 18:57",
    "source": "央视网"
   },
