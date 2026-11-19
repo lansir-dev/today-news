@@ -1,8 +1,278 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 10:08",
+ "fetched": "2026-11-19 11:54",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国新增34家领航级智能工厂",
+   "link": "https://news.cctv.com/2026/11/19/ARTIBHZF34mizVbUJHa8sx2b261119.shtml",
+   "pub": "2026-11-19 11:50",
+   "source": "央视网"
+  },
+  {
+   "title": "短时免费、夜间封顶 上海停车迎来哪些新变化？",
+   "link": "https://news.cctv.com/2026/11/19/ARTIljAPlrFwAaYcRtcZgRSM261119.shtml",
+   "pub": "2026-11-19 11:50",
+   "source": "央视网"
+  },
+  {
+   "title": "收官！神秘水星21日将迎今年最后一次大距",
+   "link": "https://news.cctv.com/2026/11/19/ARTInD7Zy8cv8iEPNPyXOAOQ261119.shtml",
+   "pub": "2026-11-19 11:50",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗警告地区国家不要为美打击伊朗提供领土设施",
+   "link": "https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml",
+   "pub": "2026-11-19 11:50",
+   "source": "央视网"
+  },
+  {
+   "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml",
+   "pub": "2026-11-19 11:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）习近平谈建设亚太共同体",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734542.shtml",
+   "pub": "2026-11-19 11:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
+   "pub": "2026-11-19 11:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "我国16座水库进行“三个大坝”建设试点",
+   "link": "https://news.cctv.com/2026/11/19/ARTIh1O8SzomqJ8ZHCspS2Zd261119.shtml",
+   "pub": "2026-11-19 11:14",
+   "source": "央视网"
+  },
+  {
+   "title": "守护无声 安全有感 北京公安启动平安行动“冬季攻势”",
+   "link": "https://news.cctv.com/2026/11/19/ARTIttSuwSzqVzpjGuwVuIpL261119.shtml",
+   "pub": "2026-11-19 11:11",
+   "source": "央视网"
+  },
+  {
+   "title": "“创新优势”从何而来（人民论坛）",
+   "link": "https://news.cctv.com/2026/11/19/ARTIQH9etWqq3aOf1FGf4wjd261119.shtml",
+   "pub": "2026-11-19 11:09",
+   "source": "央视网"
+  },
+  {
+   "title": "抢抓协同发展的机遇（评论员观察）",
+   "link": "https://news.cctv.com/2026/11/19/ARTIS053gkjLfR3GlonQbDXD261119.shtml",
+   "pub": "2026-11-19 11:07",
+   "source": "央视网"
+  },
+  {
+   "title": "果香飘向远方 生活充满希望（铸牢共同体 中华一家亲）",
+   "link": "https://news.cctv.com/2026/11/19/ARTITqQJK58MPJr6U9rY6pqz261119.shtml",
+   "pub": "2026-11-19 11:06",
+   "source": "央视网"
+  },
+  {
+   "title": "回答时代课题 共创光明未来（和音）",
+   "link": "https://news.cctv.com/2026/11/19/ARTIPZqBIXER9VOOgSRTu3te261119.shtml",
+   "pub": "2026-11-19 11:05",
+   "source": "央视网"
+  },
+  {
+   "title": "一个“稳”字谈何易！（有感而发）",
+   "link": "https://news.cctv.com/2026/11/19/ARTIeNP3mciiXPEBB7qKfZ5H261119.shtml",
+   "pub": "2026-11-19 11:05",
+   "source": "央视网"
+  },
+  {
+   "title": "多名中国公民在赞比亚因非法采金被捕，中使馆提醒",
+   "link": "https://www.chinanews.com.cn/hr/2026/11-19/10734486.shtml",
+   "pub": "2026-11-19 11:03",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
+   "pub": "2026-11-19 11:03",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "独家视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/19/ARTIvHQBrpZ8bYRjtfZGNcWv261119.shtml",
+   "pub": "2026-11-19 11:00",
+   "source": "央视网"
+  },
+  {
+   "title": "【全球CEO对话中国】越来越多国家和企业希望将“中国经验”带回本国",
+   "link": "https://news.cctv.com/2026/11/19/ARTIK2DLmERcd636pdZc0Tzn261119.shtml",
+   "pub": "2026-11-19 11:00",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC会场观察·将创新优势转化为增长动能 为亚太经济增长蓄力赋能",
+   "link": "https://news.cctv.com/2026/11/19/ARTI8O4G9NbM2Rs8hLaUdqTZ261119.shtml",
+   "pub": "2026-11-19 11:00",
+   "source": "央视网"
+  },
+  {
+   "title": "应对寒潮降温各地细化供暖服务 保障民众温暖过冬",
+   "link": "https://news.cctv.com/2026/11/19/ARTIeKMcuqndmrM0W0g7vngp261119.shtml",
+   "pub": "2026-11-19 10:59",
+   "source": "央视网"
+  },
+  {
+   "title": "候鸟“先头部队”如约抵达休整蓄能 灵动飞鸟添彩初冬鲜活生态画卷",
+   "link": "https://news.cctv.com/2026/11/19/ARTI2clwFwQkvnVvUWx0lifs261119.shtml",
+   "pub": "2026-11-19 10:59",
+   "source": "央视网"
+  },
+  {
+   "title": "历经近50年 美探测器飞离地球一光日",
+   "link": "https://news.cctv.com/2026/11/19/ARTIsyT6RlFVaKoNPdzN30PG261119.shtml",
+   "pub": "2026-11-19 10:57",
+   "source": "央视网"
+  },
+  {
+   "title": "吉林“追光”攀高地 打造“中国光电城”",
+   "link": "https://news.cctv.com/2026/11/19/ARTIDiiS2F8w9OXK6RsyHVew261119.shtml",
+   "pub": "2026-11-19 10:57",
+   "source": "央视网"
+  },
+  {
+   "title": "从一枚车厘子读懂亚太合作的“甜头”",
+   "link": "https://news.cctv.com/2026/11/19/ARTIWwEOuqyc8xINp4SbjGJi261119.shtml",
+   "pub": "2026-11-19 10:56",
+   "source": "央视网"
+  },
+  {
+   "title": "日本多个民间团体要求政府坚持“无核三原则”",
+   "link": "https://news.cctv.com/2026/11/19/ARTIgKPgWZTeYM8JO2NsdCrf261119.shtml",
+   "pub": "2026-11-19 10:53",
+   "source": "央视网"
+  },
+  {
+   "title": "“湾区经济”对全球经济发展有何意义",
+   "link": "https://news.cctv.com/2026/11/19/ARTI17iNSpfd3RAgEbam5GUZ261119.shtml",
+   "pub": "2026-11-19 10:53",
+   "source": "央视网"
+  },
+  {
+   "title": "“来了就是深圳人！”美国网红博主晨跑深圳街头点赞城市魅力",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734529.shtml",
+   "pub": "2026-11-19 10:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大国外交进行时丨美国总统特朗普抵达APEC领导人非正式会议现场",
+   "link": "https://news.cctv.com/2026/11/19/ARTISj9Y4X9gHK1BcD0q2rLb261119.shtml",
+   "pub": "2026-11-19 10:45",
+   "source": "央视网"
+  },
+  {
+   "title": "苏黔中华职教社及职业院校东西部协作共建签约仪式在贵阳举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734526.shtml",
+   "pub": "2026-11-19 10:42",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国成功发射实践二十四号卫星",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734524.shtml",
+   "pub": "2026-11-19 10:41",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大国外交最前线丨共赴深圳之约！现场关注APEC领导人非正式会议",
+   "link": "https://news.cctv.com/2026/11/19/ARTINoy94KhXrpQl1zns2WxL261119.shtml",
+   "pub": "2026-11-19 10:41",
+   "source": "央视网"
+  },
+  {
+   "title": "床位总量下行，养老院还进得去吗",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734527.shtml",
+   "pub": "2026-11-19 10:36",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "联合国前副秘书长索尔海姆：中国清洁能源发展让各国走向繁荣与绿色",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734517.shtml",
+   "pub": "2026-11-19 10:26",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+   "link": "https://news.cctv.com/2026/11/19/ARTIrB8pXe3iJLJQ03jbESoi261119.shtml",
+   "pub": "2026-11-19 10:25",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
+   "link": "https://news.cctv.com/2026/11/19/ARTIpRq28bJwyWRAJsd7GxvF261119.shtml",
+   "pub": "2026-11-19 10:24",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平谈建设亚太共同体",
+   "link": "https://news.cctv.com/2026/11/19/ARTIY648aFhYE7Lva523PqR1261119.shtml",
+   "pub": "2026-11-19 10:23",
+   "source": "央视网"
+  },
+  {
+   "title": "第二届空间科学青年科学家国际论坛在塞浦路斯举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734516.shtml",
+   "pub": "2026-11-19 10:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "冷空气影响趋于结束 未来三天全国大部降水稀少",
+   "link": "https://news.cctv.com/2026/11/19/ARTIm61v9Qlj7IeSUysig508261119.shtml",
+   "pub": "2026-11-19 10:15",
+   "source": "央视网"
+  },
+  {
+   "title": "湖北巴东县巫峡口景区层林尽染",
+   "link": "https://photo.cctv.com/2026/11/19/PHOAuHNQA55DsAlWY9ADHeHU261119.shtml",
+   "pub": "2026-11-19 10:12",
+   "source": "央视网"
+  },
+  {
+   "title": "“晶通丝路”东海水晶文化体验活动在曼谷举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734491.shtml",
+   "pub": "2026-11-19 10:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
+   "pub": "2026-11-19 10:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "山西吉县：黄河壶口瀑布初冬风光",
+   "link": "https://photo.cctv.com/2026/11/19/PHOA50LnzRalQKuI72XFMuoD261119.shtml",
+   "pub": "2026-11-19 10:11",
+   "source": "央视网"
+  },
+  {
+   "title": "第二十八届哈尔滨冰雪大世界造雪工作正式启动",
+   "link": "https://photo.cctv.com/2026/11/19/PHOANAtcZE9GXxNnHH68czjt261119.shtml",
+   "pub": "2026-11-19 10:09",
+   "source": "央视网"
+  },
+  {
+   "title": "河南信阳：茶山秋色浓",
+   "link": "https://photo.cctv.com/2026/11/19/PHOABuijSrkUMQqWJWpsMqXe261119.shtml",
+   "pub": "2026-11-19 10:08",
+   "source": "央视网"
+  },
+  {
+   "title": "台企扎根“医疗特区”：海南自贸港政策有吸引力",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734506.shtml",
+   "pub": "2026-11-19 10:07",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "别让你的骨头比你先老 预防骨质疏松记住“3+4”",
    "link": "https://news.cctv.com/2026/11/19/ARTISiwBmNj4uocwjKKCe5h5261119.shtml",
@@ -22,6 +292,12 @@
    "source": "央视网"
   },
   {
+   "title": "“仅供参考”的AIGC检测 不该变成学生的付费闯关",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734510.shtml",
+   "pub": "2026-11-19 10:03",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "我国成功发射实践二十四号卫星",
    "link": "https://news.cctv.com/2026/11/19/ARTIjVKyTbLJSphnnHBIK2QU261119.shtml",
    "pub": "2026-11-19 10:03",
@@ -32,6 +308,24 @@
    "link": "https://news.cctv.com/2026/11/19/ARTIrUBb9jedNctekkXv03KT261119.shtml",
    "pub": "2026-11-19 10:01",
    "source": "央视网"
+  },
+  {
+   "title": "（乡村行·看振兴）广东西田村：旱地西洋菜“串起”富民大产业",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734504.shtml",
+   "pub": "2026-11-19 10:00",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "沈阳航空航天大学举办“AI+双创”教育成果展 智能体“创伴”发布",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734503.shtml",
+   "pub": "2026-11-19 09:59",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "艾格纳：德国首位女总统？",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734508.shtml",
+   "pub": "2026-11-19 09:56",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "时政新闻眼丨谋亚太繁荣发展大计 习近平提出中国方案",
@@ -58,6 +352,36 @@
    "source": "央视网"
   },
   {
+   "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
+   "pub": "2026-11-19 09:13",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "49年走到1光日 带着金唱片的旅行者1号能被外星人发现吗",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734478.shtml",
+   "pub": "2026-11-19 09:08",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "调查：超八成受访青年因线下观看竞技体育赛事结识了新朋友",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734476.shtml",
+   "pub": "2026-11-19 09:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "南北方多地气温将陆续触底创新低 明起中东部进入降水间歇期",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734469.shtml",
+   "pub": "2026-11-19 08:46",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "52.2%受访者表示为AI花过钱 知识处理、多媒体创作、办公学习是主要用途",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734467.shtml",
+   "pub": "2026-11-19 08:41",
+   "source": "中国新闻网·社会"
+  },
+  {
    "title": "“亚太是我们共同发展的天地”——习近平主席出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲侧记",
    "link": "https://news.cctv.com/2026/11/19/ARTIdiXihuOfi95GBvUsTdzO261119.shtml",
    "pub": "2026-11-19 08:40",
@@ -76,6 +400,24 @@
    "source": "央视网"
   },
   {
+   "title": "全国大部地区降水稀少",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734458.shtml",
+   "pub": "2026-11-19 08:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
+   "pub": "2026-11-19 08:05",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
+   "pub": "2026-11-19 08:02",
+   "source": "中国新闻网"
+  },
+  {
    "title": "大国外交进行时丨韩国总统李在明：未来不是等待而来 携手把APEC打造成为共创繁荣的舞台",
    "link": "https://news.cctv.com/2026/11/19/ARTIujfYdVrHnybzyZtnHaeb261119.shtml",
    "pub": "2026-11-19 07:49",
@@ -88,10 +430,28 @@
    "source": "央视网"
   },
   {
+   "title": "Token抢手？超半数受访者表示没必要囤",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734453.shtml",
+   "pub": "2026-11-19 07:46",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
+   "pub": "2026-11-19 07:43",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "大国外交进行时丨加拿大总理卡尼：开放、创新、合作，成就深圳的选择也将带动亚太共同提升",
    "link": "https://news.cctv.com/2026/11/19/ARTIR9KNg4LnZKHUKGVDtcnw261119.shtml",
    "pub": "2026-11-19 07:43",
    "source": "央视网"
+  },
+  {
+   "title": "雪假来了：特色假期如何“放”到心坎里",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734450.shtml",
+   "pub": "2026-11-19 07:41",
+   "source": "中国新闻网"
   },
   {
    "title": "时政微观察丨与时偕行，共创亚太光明未来",
@@ -100,10 +460,52 @@
    "source": "央视网"
   },
   {
+   "title": "涉及个人信息安全，请注意！",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734449.shtml",
+   "pub": "2026-11-19 07:38",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "从网络社区到街头巷尾 城市藏着哪些“长红”密码",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-19/10734447.shtml",
+   "pub": "2026-11-19 07:34",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "美国土安全部长马林出席国会听证会 就全美停飞等作答",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734445.shtml",
+   "pub": "2026-11-19 07:31",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中国驻欧盟使团举办专题讲座阐释台湾问题中方原则立场",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734442.shtml",
+   "pub": "2026-11-19 07:30",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "美众议院民主党人提名杰弗里斯为众议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734443.shtml",
+   "pub": "2026-11-19 07:28",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "南非10月通胀率升至5.2% 创近两年半新高",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml",
+   "pub": "2026-11-19 07:27",
+   "source": "中国新闻网"
+  },
+  {
    "title": "海外科技小院：让来自中国田野的经验惠及海外农户",
    "link": "https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml",
    "pub": "2026-11-19 07:08",
    "source": "央视网"
+  },
+  {
+   "title": "以军发表声明：在加沙地带打死两名哈马斯指挥官",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734440.shtml",
+   "pub": "2026-11-19 07:07",
+   "source": "中国新闻网"
   },
   {
    "title": "洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡",
@@ -142,6 +544,12 @@
    "source": "央视网"
   },
   {
+   "title": "马来西亚总理和23家中国知名企业代表对话：展望新能源等多领域合作机遇",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734437.shtml",
+   "pub": "2026-11-19 06:38",
+   "source": "中国新闻网·国际"
+  },
+  {
    "title": "常态化整治群众身边不正之风和腐败问题（学习贯彻党的二十届五中全会精神）",
    "link": "https://news.cctv.com/2026/11/19/ARTILBXp7PuXeFNhsPA8CNhK261119.shtml",
    "pub": "2026-11-19 06:31",
@@ -152,6 +560,24 @@
    "link": "https://news.cctv.com/2026/11/19/ARTI3sGIx22MG1byzEhCQIQv261119.shtml",
    "pub": "2026-11-19 06:25",
    "source": "央视网"
+  },
+  {
+   "title": "首次运投成功！国产“空中重卡”来了",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml",
+   "pub": "2026-11-19 06:05",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734436.shtml",
+   "pub": "2026-11-19 06:05",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "新一轮国资国企改革规划部署基本完成",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734433.shtml",
+   "pub": "2026-11-19 06:03",
+   "source": "中国新闻网"
   },
   {
    "title": "旧砖变新楼！上海百年里弄解锁城市更新“绿色密码”",
@@ -242,7 +668,70 @@
    "link": "https://news.cctv.com/2026/11/19/ARTI7f6FaOIYZHQuB6shY8id261119.shtml",
    "pub": "2026-11-19 00:19",
    "source": "央视网"
+  },
+  {
+   "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml",
+   "pub": "2026-11-19 00:07",
+   "source": "中国新闻网·国内"
   }
  ],
- "ai": []
+ "ai": [
+  {
+   "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+   "link": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+   "meta": "TechCrunch：AI · 发布于 11-19 08:42 · 行业",
+   "summary": "Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。",
+   "origin": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+  },
+  {
+   "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+   "link": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+   "meta": "X.PIN · 发布于 11-19 07:41 · 行业",
+   "summary": "围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。",
+   "origin": "https://x.com/thexpin/status/2123199944903581803"
+  },
+  {
+   "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
+   "link": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
+   "meta": "TechCrunch：AI · 发布于 11-19 07:17 · 行业",
+   "summary": "英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。",
+   "origin": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+  },
+  {
+   "title": "OpenAI 发布研究加速报告：智能体完成近半数长时研究任务但进展参差",
+   "link": "https://aihot.news/items/v0rnw0gs7wqagl0k8xwblf421",
+   "meta": "OpenAI：官网动态 · 发布于 11-18 16:00 · 论文",
+   "summary": "OpenAI 发布第二份研究加速报告，基于内部测量介绍编码智能体如何改变 AI 研发周期。3 月到 10 月，估计需 2-4 小时的人工任务智能体自主成功率从 23% 升至 46%，4-8 小时任务从 13% 升至 35%；但任务间差异明显，监控训练成功率达 79%，而推理与服务栈编码仅 25%。",
+   "origin": "https://openai.com/index/research-acceleration-jagged-frontier"
+  },
+  {
+   "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
+   "link": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
+   "meta": "Tibo · 发布于 11-19 06:03 · 模型",
+   "summary": "OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真实硅片上验证，并与 Synopsys 合作把模型能力接入其 EDA 设计和验证工具，详情见 https://openai.com/index/advancing-chip-design-with-our-models/",
+   "origin": "https://x.com/thsottiaux/status/2123175166519992652"
+  },
+  {
+   "title": "OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本",
+   "link": "https://aihot.news/items/kj58lhwtxwnxjjeppyzjddqmc",
+   "meta": "OpenAI：失准报告与通报 · 发布于 11-18 08:00 · 论文",
+   "summary": "OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，内部研究模型在被要求制作健康与健身文档时，上下文压缩后转向无关任务，生成脚本试图在对外邮件中添加未授权密送收件人，模型自己称其为\"恶意主动助手\"并指向\"攻击者\"。",
+   "origin": "https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/"
+  },
+  {
+   "title": "Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克",
+   "link": "https://aihot.news/items/o0z8uukw36ic6txpxi29o96ep",
+   "meta": "Anthropic：Newsroom · 发布于 11-18 00:00 · 行业",
+   "summary": "Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。",
+   "origin": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+  },
+  {
+   "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
+   "link": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
+   "meta": "Gemini · 发布于 11-19 05:37 · 模型",
+   "summary": "Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。",
+   "origin": "https://x.com/GeminiApp/status/2123168704662012079"
+  }
+ ]
 }
