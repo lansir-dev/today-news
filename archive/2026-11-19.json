@@ -1,8 +1,62 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 14:05",
+ "fetched": "2026-11-19 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交进行时丨俄罗斯总统普京：同亚太经济体开展建设性伙伴合作 是俄罗斯的战略方针",
+   "link": "https://news.cctv.com/2026/11/19/ARTIOzgtxcxr8fFqekpfjDxn261119.shtml",
+   "pub": "2026-11-19 14:27",
+   "source": "央视网"
+  },
+  {
+   "title": "【和合共生】习言道｜推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734579.shtml",
+   "pub": "2026-11-19 14:23",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中越将举行第41次北部湾联合巡逻",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734612.shtml",
+   "pub": "2026-11-19 14:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "做科普是为了“偷懒”？四川华西医生因“有温度的医嘱”走红",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734610.shtml",
+   "pub": "2026-11-19 14:09",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "民盟“留住乡愁”实践基地在湖北咸宁刘家桥揭牌",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734595.shtml",
+   "pub": "2026-11-19 14:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "广西全民终身学习活动周开幕  让学习成为一种生活方式",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734594.shtml",
+   "pub": "2026-11-19 14:05",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "跨越500多年，阳明心学如何“对话”前沿科技？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734590.shtml",
+   "pub": "2026-11-19 14:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "5000斤台湾午仔鱼在京开售 两岸业者盼更多宝岛水产品“登陆”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734559.shtml",
+   "pub": "2026-11-19 14:03",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "最新天文研究：首次观测到双星系统中主星吞噬伴星过程",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734600.shtml",
+   "pub": "2026-11-19 14:03",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "河南新密中医验方“千碑林”引关注",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734589.shtml",
@@ -61,7 +115,7 @@
    "title": "委内瑞拉同美国签署协议恢复军事技术合作",
    "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
    "pub": "2026-11-19 12:48",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "打造红色沉浸式空间  沪三大红色场馆亮相长三角文博会",
@@ -788,12 +842,6 @@
    "link": "https://news.cctv.com/2026/11/19/ARTI7f6FaOIYZHQuB6shY8id261119.shtml",
    "pub": "2026-11-19 00:19",
    "source": "央视网"
-  },
-  {
-   "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml",
-   "pub": "2026-11-19 00:07",
-   "source": "中国新闻网·国内"
   }
  ],
  "ai": [
