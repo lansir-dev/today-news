@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 11:54",
+ "fetched": "2026-11-19 12:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
@@ -26,6 +26,12 @@
    "link": "https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml",
    "pub": "2026-11-19 11:50",
    "source": "央视网"
+  },
+  {
+   "title": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734557.shtml",
+   "pub": "2026-11-19 11:49",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
