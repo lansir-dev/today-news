@@ -1,8 +1,44 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 14:35",
+ "fetched": "2026-11-19 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交进行时丨中美两国元首步入会见现场",
+   "link": "https://news.cctv.com/2026/11/19/ARTIxo5pM5DKKl1ZeVyuKiTo261119.shtml",
+   "pub": "2026-11-19 15:01",
+   "source": "央视网"
+  },
+  {
+   "title": "“水脉变革”让新疆“白色荒滩”变“绿色粮仓”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734626.shtml",
+   "pub": "2026-11-19 14:55",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国驻哈巴罗夫斯克总领馆提醒领区内中国公民和企业注意消防安全",
+   "link": "https://news.cctv.com/2026/11/19/ARTImUROlcF0fEJ3Q3BCoPxb261119.shtml",
+   "pub": "2026-11-19 14:41",
+   "source": "央视网"
+  },
+  {
+   "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
+   "pub": "2026-11-19 14:37",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
+   "pub": "2026-11-19 14:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第二十二届辽宁省摄影艺术展暨第十六届中国东北三省摄影艺术展辽宁巡展举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734616.shtml",
+   "pub": "2026-11-19 14:33",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "大国外交进行时丨俄罗斯总统普京：同亚太经济体开展建设性伙伴合作 是俄罗斯的战略方针",
    "link": "https://news.cctv.com/2026/11/19/ARTIOzgtxcxr8fFqekpfjDxn261119.shtml",
@@ -19,7 +55,7 @@
    "title": "中越将举行第41次北部湾联合巡逻",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734612.shtml",
    "pub": "2026-11-19 14:22",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "做科普是为了“偷懒”？四川华西医生因“有温度的医嘱”走红",
@@ -56,6 +92,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734600.shtml",
    "pub": "2026-11-19 14:03",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“歌手厉娜卷入借贷纠纷”引热议，律师解读",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-19/10734584.shtml",
+   "pub": "2026-11-19 14:01",
+   "source": "中国新闻网"
   },
   {
    "title": "河南新密中医验方“千碑林”引关注",
@@ -218,6 +260,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
    "pub": "2026-11-19 11:27",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（深圳APEC）深圳之约，美企缘何“用脚投票”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734545.shtml",
+   "pub": "2026-11-19 11:16",
+   "source": "中国新闻网"
   },
   {
    "title": "我国16座水库进行“三个大坝”建设试点",
