@@ -1,6 +1,6 @@
 {
  "day": "2026-11-18",
- "fetched": "2026-11-19 13:05",
+ "fetched": "2026-11-19 13:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1344,6 +1344,13 @@
  ],
  "ai": [
   {
+   "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+   "link": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+   "meta": "IT之家·人工智能 · 发布于 11-19 12:49 · 行业",
+   "summary": "彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。",
+   "origin": "https://www.ithome.com/1/029/265.htm"
+  },
+  {
    "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
    "link": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
    "meta": "TechCrunch：AI · 发布于 11-19 08:42 · 行业",
@@ -1391,13 +1398,6 @@
    "meta": "Anthropic：Newsroom · 发布于 11-18 00:00 · 行业",
    "summary": "Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。",
    "origin": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-  },
-  {
-   "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-   "link": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-   "meta": "Gemini · 发布于 11-19 05:37 · 模型",
-   "summary": "Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。",
-   "origin": "https://x.com/GeminiApp/status/2123168704662012079"
   }
  ]
 }

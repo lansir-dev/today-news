@@ -1,8 +1,32 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 13:05",
+ "fetched": "2026-11-19 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交最前线丨中美元首深圳会晤，参加会见的美方代表有哪些？",
+   "link": "https://news.cctv.com/2026/11/19/ARTIYRzCMa9rNGkn9Ex99I40261119.shtml",
+   "pub": "2026-11-19 13:22",
+   "source": "央视网"
+  },
+  {
+   "title": "时政微纪录丨习主席的深圳APEC时间 第一集 亚太聚首",
+   "link": "https://news.cctv.com/2026/11/19/ARTIkQgTrGtiLbOTBQkNkNWb261119.shtml",
+   "pub": "2026-11-19 13:22",
+   "source": "央视网"
+  },
+  {
+   "title": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734580.shtml",
+   "pub": "2026-11-19 13:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国男足世界排名上升一位至第95位",
+   "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734575.shtml",
+   "pub": "2026-11-19 13:06",
+   "source": "中国新闻网"
+  },
   {
    "title": "委内瑞拉同美国签署协议恢复军事技术合作",
    "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
@@ -744,6 +768,13 @@
  ],
  "ai": [
   {
+   "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+   "link": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+   "meta": "IT之家·人工智能 · 发布于 11-19 12:49 · 行业",
+   "summary": "彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。",
+   "origin": "https://www.ithome.com/1/029/265.htm"
+  },
+  {
    "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
    "link": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
    "meta": "TechCrunch：AI · 发布于 11-19 08:42 · 行业",
@@ -791,13 +822,6 @@
    "meta": "Anthropic：Newsroom · 发布于 11-18 00:00 · 行业",
    "summary": "Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。",
    "origin": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-  },
-  {
-   "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-   "link": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-   "meta": "Gemini · 发布于 11-19 05:37 · 模型",
-   "summary": "Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。",
-   "origin": "https://x.com/GeminiApp/status/2123168704662012079"
   }
  ]
 }
