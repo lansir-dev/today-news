@@ -1,8 +1,38 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 13:35",
+ "fetched": "2026-11-19 14:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "河南新密中医验方“千碑林”引关注",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734589.shtml",
+   "pub": "2026-11-19 13:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "重庆耕地占补平衡改革落地  已建立“1+3+N”制度体系",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734602.shtml",
+   "pub": "2026-11-19 13:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "黑龙江漠河：守护最北民生 让边疆老年人更幸福",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734586.shtml",
+   "pub": "2026-11-19 13:48",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "习近平会见美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/19/ARTI1yzt0F67g0KCFDamI19F261119.shtml",
+   "pub": "2026-11-19 13:41",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/19/ARTIkkLWFhc4W75Vezi1VyiP261119.shtml",
+   "pub": "2026-11-19 13:36",
+   "source": "央视网"
+  },
   {
    "title": "大国外交最前线丨中美元首深圳会晤，参加会见的美方代表有哪些？",
    "link": "https://news.cctv.com/2026/11/19/ARTIYRzCMa9rNGkn9Ex99I40261119.shtml",
@@ -85,7 +115,7 @@
    "title": "国家数据局：开展新一批可信数据空间创新发展试点",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734558.shtml",
    "pub": "2026-11-19 12:04",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "我国新增34家领航级智能工厂",
