@@ -1,8 +1,38 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 12:35",
+ "fetched": "2026-11-19 13:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "委内瑞拉同美国签署协议恢复军事技术合作",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
+   "pub": "2026-11-19 12:48",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "打造红色沉浸式空间  沪三大红色场馆亮相长三角文博会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734555.shtml",
+   "pub": "2026-11-19 12:46",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新华图讯丨习近平主持亚太经合组织第三十三次领导人非正式会议",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734573.shtml",
+   "pub": "2026-11-19 12:46",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（近观中国）一湾锦绣通亚太，习近平讲述“深圳大故事”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734570.shtml",
+   "pub": "2026-11-19 12:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/19/ARTIjqE9WH5xpREzOj0zyHEe261119.shtml",
+   "pub": "2026-11-19 12:36",
+   "source": "央视网"
+  },
   {
    "title": "从共识到合作，更开放！亚太企业开辟供应链融通新路径",
    "link": "https://news.cctv.com/2026/11/19/ARTIVmcjFDVdY7LPW0pSAU0C261119.shtml",
@@ -217,7 +247,7 @@
    "title": "中国成功发射实践二十四号卫星",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734524.shtml",
    "pub": "2026-11-19 10:41",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "大国外交最前线丨共赴深圳之约！现场关注APEC领导人非正式会议",
