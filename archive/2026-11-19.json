@@ -1,8 +1,44 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 17:05",
+ "fetched": "2026-11-19 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+   "link": "https://news.cctv.com/2026/11/19/ARTIYJyuZ8x4LawxlizNEhji261119.shtml",
+   "pub": "2026-11-19 17:30",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交进行时丨俄罗斯总统普京抵达会晤现场",
+   "link": "https://news.cctv.com/2026/11/19/ARTIeVpn6Jp814Abj6iswH9Q261119.shtml",
+   "pub": "2026-11-19 17:30",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交最前线丨中美元首会见结束 如何在落实重要共识上付诸行动",
+   "link": "https://news.cctv.com/2026/11/19/ARTIiTrFe5OCSyrYYxGzeGAT261119.shtml",
+   "pub": "2026-11-19 17:30",
+   "source": "央视网"
+  },
+  {
+   "title": "江西发现植物新种华东堇菜",
+   "link": "https://news.cctv.com/2026/11/19/ARTIc2FJhimPQRBbBKw9nmEC261119.shtml",
+   "pub": "2026-11-19 17:24",
+   "source": "央视网"
+  },
+  {
+   "title": "2027届全国普通高校毕业生规模预计1299万人",
+   "link": "https://news.cctv.com/2026/11/19/ARTIjPK0HT6vMv1NMeV5ipnk261119.shtml",
+   "pub": "2026-11-19 17:24",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平就大国如何正确相处提出4点看法",
+   "link": "https://news.cctv.com/2026/11/19/ARTIb5OccNi9PsS1KglnTqIw261119.shtml",
+   "pub": "2026-11-19 17:06",
+   "source": "央视网"
+  },
   {
    "title": "“智慧供热”成为保供新抓手 保障群众舒适安心温暖过冬",
    "link": "https://news.cctv.com/2026/11/19/ARTIh1Of7mbcLjv58AAK7UyI261119.shtml",
