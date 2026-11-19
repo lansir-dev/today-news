@@ -1,8 +1,206 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 15:05",
+ "fetched": "2026-11-19 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "天津发布新版重污染天气应对预案 细化差异化管控举措",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734654.shtml",
+   "pub": "2026-11-19 15:30",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "乌克兰称袭击俄罗斯两座炼油厂",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734629.shtml",
+   "pub": "2026-11-19 15:28",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "韩国高考开考 多项措施严防考试作弊",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734614.shtml",
+   "pub": "2026-11-19 15:27",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "从一条巷子读懂“和合”——“何以中国·和合礼让”采访团桐城行侧记",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734655.shtml",
+   "pub": "2026-11-19 15:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+   "link": "https://news.cctv.com/2026/11/19/ARTIa6U24gvIirrTFV8Krdat261119.shtml",
+   "pub": "2026-11-19 15:27",
+   "source": "央视网"
+  },
+  {
+   "title": "长征何以是人类极限？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734652.shtml",
+   "pub": "2026-11-19 15:25",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新华图讯丨习近平会见美国总统特朗普",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734624.shtml",
+   "pub": "2026-11-19 15:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "金正恩会否与特朗普举行会晤？中方回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734645.shtml",
+   "pub": "2026-11-19 15:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "APEC会议期间中日领导人是否会举行会晤？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734644.shtml",
+   "pub": "2026-11-19 15:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "澳大利亚10月失业率升至4.9%",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734599.shtml",
+   "pub": "2026-11-19 15:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "洪都拉斯发生袭击事件造成至少12人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734574.shtml",
+   "pub": "2026-11-19 15:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国雪乡风景区开园 新增冰雪DIY体验",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734640.shtml",
+   "pub": "2026-11-19 15:18",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "鹄影蹁跹引客来 新疆“赏天鹅季”催热冬季文旅",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734633.shtml",
+   "pub": "2026-11-19 15:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "传统文化“潮”起来引流激活县域经济 “赛博方队”助兴节庆展演",
+   "link": "https://news.cctv.com/2026/11/19/ARTIShNlrFvyCyV4pMZ8vDk3261119.shtml",
+   "pub": "2026-11-19 15:16",
+   "source": "央视网"
+  },
+  {
+   "title": "“活”起来、“动”起来 秋假“偶遇”初雪趣味多孩子们乐享“童”款快乐",
+   "link": "https://news.cctv.com/2026/11/19/ARTIsRUOr1SskT4B9wfGltZC261119.shtml",
+   "pub": "2026-11-19 15:16",
+   "source": "央视网"
+  },
+  {
+   "title": "多位领导人在APEC工商领导人峰会上呼吁开放创新合作",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734639.shtml",
+   "pub": "2026-11-19 15:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从企业延伸至个人 中印尼金融合作为亚太经贸与经济增长创造新机遇",
+   "link": "https://news.cctv.com/2026/11/19/ARTI1LaGOpkvJugkOf3G9kZk261119.shtml",
+   "pub": "2026-11-19 15:15",
+   "source": "央视网"
+  },
+  {
+   "title": "“从钱凯到上海”开辟合作新空间 智慧赋能新时代亚拉陆海新通道",
+   "link": "https://news.cctv.com/2026/11/19/ARTI7bmKlGqOD4EyPkwCHyYc261119.shtml",
+   "pub": "2026-11-19 15:15",
+   "source": "央视网"
+  },
+  {
+   "title": "【APEC面对面】会场氛围带来信心与确定性 继续留在中国，在这里投资！",
+   "link": "https://news.cctv.com/2026/11/19/ARTILvMmJzD9pPzzfm5ADGzm261119.shtml",
+   "pub": "2026-11-19 15:15",
+   "source": "央视网"
+  },
+  {
+   "title": "马斯克盛赞深圳：“我是中国的粉丝，总是鼓励人们来中国走走看看”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734638.shtml",
+   "pub": "2026-11-19 15:14",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "会场上的交流变成项目、投资、订单 亚太合作结出看得见、摸得着的成果",
+   "link": "https://news.cctv.com/2026/11/19/ARTIc17PK6exB2wRWy7c38q5261119.shtml",
+   "pub": "2026-11-19 15:14",
+   "source": "央视网"
+  },
+  {
+   "title": "中国的主张带来一个更安全、繁荣、环保、团结的世界",
+   "link": "https://news.cctv.com/2026/11/19/ARTI5TvGDl6GqXIGnC77YJYL261119.shtml",
+   "pub": "2026-11-19 15:14",
+   "source": "央视网"
+  },
+  {
+   "title": "亚太政商界期待中国理念、中国方案引领亚太合作航向",
+   "link": "https://news.cctv.com/2026/11/19/ARTI2cPIGGpKCubFkx7MRDJT261119.shtml",
+   "pub": "2026-11-19 15:14",
+   "source": "央视网"
+  },
+  {
+   "title": "30年首次！深圳前海发出的这份倡议，写了什么？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734635.shtml",
+   "pub": "2026-11-19 15:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "上“新”+4！“考古中国”重大项目新成果串联起长江文明漫长线索",
+   "link": "https://news.cctv.com/2026/11/19/ARTIVdI0PfghgKOXUrNuEdyB261119.shtml",
+   "pub": "2026-11-19 15:13",
+   "source": "央视网"
+  },
+  {
+   "title": "21个经济体乘大势、共翱翔 中国发展蓝图为亚太和世界提供合作清单",
+   "link": "https://news.cctv.com/2026/11/19/ARTIIvVdNCTN63XrY6SsnSsh261119.shtml",
+   "pub": "2026-11-19 15:13",
+   "source": "央视网"
+  },
+  {
+   "title": "中方回应高市早苗礼宾安排：根据国际惯例作出适当礼宾安排",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734634.shtml",
+   "pub": "2026-11-19 15:12",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大熊猫“林阳”因病救治无效死亡 时年25岁",
+   "link": "https://news.cctv.com/2026/11/19/ARTIP8kHZEs58JsmhdqlXYMw261119.shtml",
+   "pub": "2026-11-19 15:12",
+   "source": "央视网"
+  },
+  {
+   "title": "“AI变现”图书热销 这类书籍如何挑选？",
+   "link": "https://news.cctv.com/2026/11/19/ARTIJw2omzbHQ1TBeFn3Li8V261119.shtml",
+   "pub": "2026-11-19 15:05",
+   "source": "央视网"
+  },
+  {
+   "title": "累计开行1万列！“中国造”商品车出口专列跑出加速度",
+   "link": "https://news.cctv.com/2026/11/19/ARTIuCjvQudxrcifxfEazU7T261119.shtml",
+   "pub": "2026-11-19 15:05",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平谈建设亚太共同体",
+   "link": "https://news.cctv.com/2026/11/19/ARTIKecKikiAD4oF13wx3dQW261119.shtml",
+   "pub": "2026-11-19 15:04",
+   "source": "央视网"
+  },
+  {
+   "title": "吉林市迎今冬最大降雪 校园上演趣味雪课",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734630.shtml",
+   "pub": "2026-11-19 15:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "独家视频丨习近平会见美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/19/ARTI49Of9yDu9BFNN1oI5Beb261119.shtml",
+   "pub": "2026-11-19 15:02",
+   "source": "央视网"
+  },
   {
    "title": "大国外交进行时丨中美两国元首步入会见现场",
    "link": "https://news.cctv.com/2026/11/19/ARTIxo5pM5DKKl1ZeVyuKiTo261119.shtml",
@@ -442,12 +640,6 @@
    "source": "央视网"
   },
   {
-   "title": "第二届空间科学青年科学家国际论坛在塞浦路斯举行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734516.shtml",
-   "pub": "2026-11-19 10:22",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "冷空气影响趋于结束 未来三天全国大部降水稀少",
    "link": "https://news.cctv.com/2026/11/19/ARTIm61v9Qlj7IeSUysig508261119.shtml",
    "pub": "2026-11-19 10:15",
@@ -488,12 +680,6 @@
    "link": "https://photo.cctv.com/2026/11/19/PHOABuijSrkUMQqWJWpsMqXe261119.shtml",
    "pub": "2026-11-19 10:08",
    "source": "央视网"
-  },
-  {
-   "title": "台企扎根“医疗特区”：海南自贸港政策有吸引力",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734506.shtml",
-   "pub": "2026-11-19 10:07",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "别让你的骨头比你先老 预防骨质疏松记住“3+4”",
@@ -622,18 +808,6 @@
    "source": "央视网"
   },
   {
-   "title": "全国大部地区降水稀少",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734458.shtml",
-   "pub": "2026-11-19 08:16",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
-   "pub": "2026-11-19 08:05",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
    "pub": "2026-11-19 08:02",
@@ -680,18 +854,6 @@
    "link": "https://news.cctv.com/2026/11/19/ARTIpOZJIMhh2dYrDwsA9MVF261119.shtml",
    "pub": "2026-11-19 07:39",
    "source": "央视网"
-  },
-  {
-   "title": "涉及个人信息安全，请注意！",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734449.shtml",
-   "pub": "2026-11-19 07:38",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "从网络社区到街头巷尾 城市藏着哪些“长红”密码",
-   "link": "https://www.chinanews.com.cn/cul/2026/11-19/10734447.shtml",
-   "pub": "2026-11-19 07:34",
-   "source": "中国新闻网"
   },
   {
    "title": "美国土安全部长马林出席国会听证会 就全美停飞等作答",
@@ -746,6 +908,12 @@
    "link": "https://news.cctv.com/2026/11/19/ARTI0lVo9ogIZEWqTGgn39mH261119.shtml",
    "pub": "2026-11-19 06:54",
    "source": "央视网"
+  },
+  {
+   "title": "美国民主党提名杰弗里斯为众议院议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
+   "pub": "2026-11-19 06:51",
+   "source": "中国新闻网"
   },
   {
    "title": "“小学毕业就停住了？”浙江省中小学生阅读数据发布",
