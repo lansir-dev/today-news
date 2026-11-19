@@ -1,8 +1,50 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 20:05",
+ "fetched": "2026-11-19 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国加快提升农产品品质",
+   "link": "https://news.cctv.com/2026/11/19/ARTIu7qaEqHszV3J5b8LaUUs261119.shtml",
+   "pub": "2026-11-19 20:27",
+   "source": "央视网"
+  },
+  {
+   "title": "我国新增34家领航级智能工厂",
+   "link": "https://news.cctv.com/2026/11/19/ARTIfQlm9HjLTrRu09H48Peg261119.shtml",
+   "pub": "2026-11-19 20:27",
+   "source": "央视网"
+  },
+  {
+   "title": "铁路公安强管理细服务护航学生秋假出行",
+   "link": "https://news.cctv.com/2026/11/19/ARTIDUD9fviqufIjo23ZCzUo261119.shtml",
+   "pub": "2026-11-19 20:14",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平对老龄工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/19/ARTINNTqCCMS9Ea7fU0rJZ7f261119.shtml",
+   "pub": "2026-11-19 20:12",
+   "source": "央视网"
+  },
+  {
+   "title": "有中国公民因签证和用工违规被调查 中国驻德班总领馆提醒",
+   "link": "https://news.cctv.com/2026/11/19/ARTINMCPxUGz2yMMoiu1FJHO261119.shtml",
+   "pub": "2026-11-19 20:06",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/19/ARTISXJez9J5nQp2QQnj87Av261119.shtml",
+   "pub": "2026-11-19 20:05",
+   "source": "央视网"
+  },
+  {
+   "title": "中俄美元首和平宣言",
+   "link": "https://news.cctv.com/2026/11/19/ARTIBhSaD74ambEzVIz3mSWr261119.shtml",
+   "pub": "2026-11-19 20:04",
+   "source": "央视网"
+  },
   {
    "title": "北京市发布大风蓝色预警",
    "link": "https://news.cctv.com/2026/11/19/ARTIYyJfr3WbmBo5DoLe9MWq261119.shtml",
@@ -36,6 +78,12 @@
   {
    "title": "蒙古国国家大呼拉尔批准总统呼日勒苏赫辞职请求",
    "link": "https://news.cctv.com/2026/11/19/ARTIPaERucsfRqgpJdEHbXkn261119.shtml",
+   "pub": "2026-11-19 18:57",
+   "source": "央视网"
+  },
+  {
+   "title": "视频丨彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
+   "link": "https://news.cctv.com/2026/11/19/ARTIG2nPm1Ogu23CgFbStsTx261119.shtml",
    "pub": "2026-11-19 18:57",
    "source": "央视网"
   },
