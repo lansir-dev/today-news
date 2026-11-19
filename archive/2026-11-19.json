@@ -1,8 +1,14 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 19:05",
+ "fetched": "2026-11-19 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
+   "link": "https://news.cctv.com/2026/11/19/ARTI7tt1sKJpbYrXh8B27tXE261119.shtml",
+   "pub": "2026-11-19 19:28",
+   "source": "央视网"
+  },
   {
    "title": "蒙古国国家大呼拉尔批准总统呼日勒苏赫辞职请求",
    "link": "https://news.cctv.com/2026/11/19/ARTIPaERucsfRqgpJdEHbXkn261119.shtml",
