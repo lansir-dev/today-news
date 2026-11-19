@@ -1,8 +1,14 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 17:35",
+ "fetched": "2026-11-19 18:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "独家视频丨习近平主持中俄美元首会晤",
+   "link": "https://news.cctv.com/2026/11/19/ARTIo0YhM2vxCwACRnCpe6JA261119.shtml",
+   "pub": "2026-11-19 17:53",
+   "source": "央视网"
+  },
   {
    "title": "视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
    "link": "https://news.cctv.com/2026/11/19/ARTIYJyuZ8x4LawxlizNEhji261119.shtml",
