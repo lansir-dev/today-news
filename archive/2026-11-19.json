@@ -1,8 +1,14 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 21:35",
+ "fetched": "2026-11-19 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平主持中俄美元首会晤",
+   "link": "https://news.cctv.com/2026/11/19/ARTIVoDQEfE8a0iZFV5jxkHz261119.shtml",
+   "pub": "2026-11-19 21:52",
+   "source": "央视网"
+  },
   {
    "title": "聚焦APEC丨2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣",
    "link": "https://news.cctv.com/2026/11/19/ARTIfQJVxoMnWj9XerJGKRsN261119.shtml",
