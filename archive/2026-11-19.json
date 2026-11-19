@@ -1,8 +1,26 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 20:35",
+ "fetched": "2026-11-19 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "独家视频丨习近平：大国良性互动不是选择题 而是必答题",
+   "link": "https://news.cctv.com/2026/11/19/ARTIUGMebWNTTRujOAf6vkGo261119.shtml",
+   "pub": "2026-11-19 20:53",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
+   "link": "https://news.cctv.com/2026/11/19/ARTI7AVKCYvEN3SXSdOmkzbL261119.shtml",
+   "pub": "2026-11-19 20:53",
+   "source": "央视网"
+  },
+  {
+   "title": "内蒙古电力（集团）有限责任公司原党委书记、董事长张海峰被开除党籍和公职",
+   "link": "https://news.cctv.com/2026/11/19/ARTIinDXW0ZFts2xjiF8UrLi261119.shtml",
+   "pub": "2026-11-19 20:38",
+   "source": "央视网"
+  },
   {
    "title": "我国加快提升农产品品质",
    "link": "https://news.cctv.com/2026/11/19/ARTIu7qaEqHszV3J5b8LaUUs261119.shtml",
