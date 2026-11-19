@@ -1,8 +1,26 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 21:05",
+ "fetched": "2026-11-19 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "聚焦APEC丨2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣",
+   "link": "https://news.cctv.com/2026/11/19/ARTIfQJVxoMnWj9XerJGKRsN261119.shtml",
+   "pub": "2026-11-19 21:29",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜共商发展大计 擘画亚太合作新蓝图",
+   "link": "https://news.cctv.com/2026/11/19/ARTInl0WF4zhx9kFwrrF2Ch8261119.shtml",
+   "pub": "2026-11-19 21:25",
+   "source": "央视网"
+  },
+  {
+   "title": "大国外交最前线丨从中俄美元首会晤 看如何答好关于“大国”的时代课题",
+   "link": "https://news.cctv.com/2026/11/19/ARTIsBfOELpnI7SXV3PkoXLe261119.shtml",
+   "pub": "2026-11-19 21:16",
+   "source": "央视网"
+  },
   {
    "title": "独家视频丨习近平：大国良性互动不是选择题 而是必答题",
    "link": "https://news.cctv.com/2026/11/19/ARTIUGMebWNTTRujOAf6vkGo261119.shtml",
