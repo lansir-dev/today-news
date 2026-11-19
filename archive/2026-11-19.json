@@ -1,8 +1,14 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 16:05",
+ "fetched": "2026-11-19 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见美国总统特朗普",
+   "link": "https://news.cctv.com/2026/11/19/ARTIOrJN4BiLSPBZH9UlqKSq261119.shtml",
+   "pub": "2026-11-19 16:30",
+   "source": "央视网"
+  },
   {
    "title": "韩国高考开考 多项措施严防考试作弊",
    "link": "https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml",
