@@ -1,8 +1,20 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 15:35",
+ "fetched": "2026-11-19 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "韩国高考开考 多项措施严防考试作弊",
+   "link": "https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml",
+   "pub": "2026-11-19 15:46",
+   "source": "央视网"
+  },
+  {
+   "title": "涉海地总统遇刺案 美国一牧师被裁定有罪",
+   "link": "https://news.cctv.com/2026/11/19/ARTINlLt2k4SiO7bD4R23Ezw261119.shtml",
+   "pub": "2026-11-19 15:46",
+   "source": "央视网"
+  },
   {
    "title": "天津发布新版重污染天气应对预案 细化差异化管控举措",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734654.shtml",
