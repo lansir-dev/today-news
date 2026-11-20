@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-20 11:35",
+ "fetched": "2026-11-20 12:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1314,6 +1314,13 @@
  ],
  "ai": [
   {
+   "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+   "link": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+   "meta": "公众号：腾讯混元 · 发布于 11-20 11:41 · 模型",
+   "summary": "腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。",
+   "origin": "https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA"
+  },
+  {
    "title": "Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts",
    "link": "https://aihot.news/items/stnka187ae3za2qnx70vqheg7",
    "meta": "Conductor 官方更新 · 发布于 11-19 08:00 · 产品",
@@ -1361,13 +1368,6 @@
    "meta": "Josh Woodward · 发布于 11-20 05:52 · 产品",
    "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
    "origin": "https://x.com/joshwoodward/status/2123534862569324703"
-  },
-  {
-   "title": "OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能",
-   "link": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1",
-   "meta": "OpenAI：官网动态 · 发布于 11-19 16:00 · 教程",
-   "summary": "OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。其中 Regression Workflow 在三个多月内跟踪超过 1700 次调查、定位超过 600 个根因，相当于每天约 17 次自动调查。",
-   "origin": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   }
  ]
 }
