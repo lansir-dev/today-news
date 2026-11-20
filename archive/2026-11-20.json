@@ -1,10 +1,34 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 15:05",
+ "fetched": "2026-11-20 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
-   "title": "可循环、轻量化……快递包装迎“新”逐“绿”不停步 全链条实践获双赢",
+   "title": "商务部：今年1—10月我国电子商务平稳发展",
+   "link": "https://news.cctv.com/2026/11/20/ARTIqfvlPAflLgKBGWbeq2Vm261120.shtml",
+   "pub": "2026-11-20 15:18",
+   "source": "央视网"
+  },
+  {
+   "title": "从大国重器至百姓民生 我国智能工厂培育取得初步成效",
+   "link": "https://news.cctv.com/2026/11/20/ARTIa5cB6nkovGovztT8fD96261120.shtml",
+   "pub": "2026-11-20 15:13",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见马来西亚总理安瓦尔",
+   "link": "https://news.cctv.com/2026/11/20/ARTIVt2ArV8sDjUs9UK5TCiF261120.shtml",
+   "pub": "2026-11-20 15:08",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见泰国总理阿努廷",
+   "link": "https://news.cctv.com/2026/11/20/ARTIMS637mvKMDwVnDwMM2MT261120.shtml",
+   "pub": "2026-11-20 15:06",
+   "source": "央视网"
+  },
+  {
+   "title": "可循环、轻量化……快递包装迎“新”逐“绿”不停步",
    "link": "https://news.cctv.com/2026/11/20/ARTIrVh58gCyFGTxCxULcIKj261120.shtml",
    "pub": "2026-11-20 15:00",
    "source": "央视网"
