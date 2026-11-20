@@ -1,8 +1,50 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 13:35",
+ "fetched": "2026-11-20 14:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "采油守望者：传承“三老四严” 数字赋能守护油田生命线",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735189.shtml",
+   "pub": "2026-11-20 13:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（乡村行·看振兴）寒江赏雾凇 非遗暖游人：吉林古镇做热“冷风景”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735187.shtml",
+   "pub": "2026-11-20 13:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（深圳APEC）烟火气和安全感，是深圳最高级的“素颜”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735182.shtml",
+   "pub": "2026-11-20 13:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）习近平会见澳大利亚总理阿尔巴尼斯",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735166.shtml",
+   "pub": "2026-11-20 13:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（深圳APEC）习近平会见印度尼西亚总统普拉博沃",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735167.shtml",
+   "pub": "2026-11-20 13:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从产品“出海”到品牌“出圈” 非遗国潮打开文化新空间",
+   "link": "https://news.cctv.com/2026/11/20/ARTIhutWndowDyVlE0ETCj9M261120.shtml",
+   "pub": "2026-11-20 13:48",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC“全家福”围巾 大有门道",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
+   "pub": "2026-11-20 13:38",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "大国外交最前线丨APEC会议闭幕后 习近平主席继续会见多国领导人",
    "link": "https://news.cctv.com/2026/11/20/ARTI7qr4LMvq0sLaRZfeVA7h261120.shtml",
@@ -550,6 +592,12 @@
    "source": "央视网"
   },
   {
+   "title": "国家邮政局公布2026年1-10月邮政行业运行情况",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735033.shtml",
+   "pub": "2026-11-20 09:10",
+   "source": "中国新闻网"
+  },
+  {
    "title": "“赛博确诊”ADHD：逃避，还是自救",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735032.shtml",
    "pub": "2026-11-20 09:08",
@@ -602,12 +650,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
    "pub": "2026-11-20 07:51",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735003.shtml",
-   "pub": "2026-11-20 07:50",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "产销、改装、回收，汽车消费全链条发力",
