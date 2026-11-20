@@ -1,8 +1,80 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 13:05",
+ "fetched": "2026-11-20 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交最前线丨APEC会议闭幕后 习近平主席继续会见多国领导人",
+   "link": "https://news.cctv.com/2026/11/20/ARTI7qr4LMvq0sLaRZfeVA7h261120.shtml",
+   "pub": "2026-11-20 13:30",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平：三国元首会晤播下的种子，必将生根发芽、开花结果",
+   "link": "https://news.cctv.com/2026/11/20/ARTIuR4nizFoCs0ZGS5aChQ6261120.shtml",
+   "pub": "2026-11-20 13:30",
+   "source": "央视网"
+  },
+  {
+   "title": "国家公园每五年开展一次“生态体检”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735177.shtml",
+   "pub": "2026-11-20 13:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新华图讯丨习近平会见新加坡总理黄循财",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735160.shtml",
+   "pub": "2026-11-20 13:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新华图讯丨习近平会见澳大利亚总理阿尔巴尼斯",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735165.shtml",
+   "pub": "2026-11-20 13:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新华图讯丨习近平会见印度尼西亚总统普拉博沃",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735162.shtml",
+   "pub": "2026-11-20 13:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
+   "pub": "2026-11-20 13:25",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "亚太经合组织贸易数字化合作框架（2027－2030）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735174.shtml",
+   "pub": "2026-11-20 13:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "统战牵线农技下沉 江西临川百合产业提质富民",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735163.shtml",
+   "pub": "2026-11-20 13:16",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "拖欠抚养费10万元，补齐仍要被追责？法院判了",
+   "link": "https://news.cctv.com/2026/11/20/ARTIvfCjwgmi3GiQGCMuJdWL261120.shtml",
+   "pub": "2026-11-20 13:11",
+   "source": "央视网"
+  },
+  {
+   "title": "为何会无意识长时间看手机？如何有效约束",
+   "link": "https://news.cctv.com/2026/11/20/ARTIVC0uKrBhI0cqdV1GfmMf261120.shtml",
+   "pub": "2026-11-20 13:11",
+   "source": "央视网"
+  },
+  {
+   "title": "（深圳APEC）与会多国人士眼中的深圳APEC",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735154.shtml",
+   "pub": "2026-11-20 13:07",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "大国外交进行时丨习近平会见新加坡总理黄循财",
    "link": "https://news.cctv.com/2026/11/20/ARTIia6CDLkfCyvUIlZglZir261120.shtml",
@@ -58,6 +130,12 @@
    "source": "央视网"
   },
   {
+   "title": "500元以下的羽绒服，到底能不能买？",
+   "link": "https://www.chinanews.com.cn/life/2026/11-20/10735144.shtml",
+   "pub": "2026-11-20 12:02",
+   "source": "中国新闻网"
+  },
+  {
    "title": "2026休闲度假大会在安徽石台举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
    "pub": "2026-11-20 11:58",
@@ -73,7 +151,7 @@
    "title": "湖北木雕艺人巧制木蜗牛 传统技艺焕新走红网络",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735129.shtml",
    "pub": "2026-11-20 11:46",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
@@ -115,7 +193,7 @@
    "title": "当AI“得知”自己将被关闭，它竟然干了这种事……",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735123.shtml",
    "pub": "2026-11-20 11:24",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "保险行会：法国10月骚乱造成财产损失超2亿欧元",
@@ -734,12 +812,6 @@
    "link": "https://news.cctv.com/2026/11/20/ARTI96NAS4KPFgSzdq99lLZ2261120.shtml",
    "pub": "2026-11-20 00:15",
    "source": "央视网"
-  },
-  {
-   "title": "习近平：大国和则世界安，大国斗则世界乱",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
-   "pub": "2026-11-20 00:13",
-   "source": "中国新闻网·国内"
   }
  ],
  "ai": [
