@@ -1,8 +1,20 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 16:05",
+ "fetched": "2026-11-20 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "河南省许昌市政协原副主席周亮军被“双开”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIoeKDhovJLkbNJVosvXxS261120.shtml",
+   "pub": "2026-11-20 16:30",
+   "source": "央视网"
+  },
+  {
+   "title": "海外游客扎堆华强北开启淘货模式 中国“新特产”正从深圳走向世界",
+   "link": "https://news.cctv.com/2026/11/20/ARTIY2OdbdhvW5Xk3pLwRvLQ261120.shtml",
+   "pub": "2026-11-20 16:12",
+   "source": "央视网"
+  },
   {
    "title": "我国发现距今39.5亿年古老岩石 科学家解开地球演化谜题“更上层楼”",
    "link": "https://news.cctv.com/2026/11/20/ARTIywGuBBpVib70sCtdeGWE261120.shtml",
