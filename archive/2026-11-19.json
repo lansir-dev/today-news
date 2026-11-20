@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-19 22:05",
+ "fetched": "2026-11-20 10:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
@@ -1314,60 +1314,60 @@
  ],
  "ai": [
   {
-   "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-   "link": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-   "meta": "IT之家·人工智能 · 发布于 11-19 12:49 · 行业",
-   "summary": "彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。",
-   "origin": "https://www.ithome.com/1/029/265.htm"
+   "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+   "link": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+   "meta": "The Verge：AI · 发布于 11-20 05:59 · 行业",
+   "summary": "The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。",
+   "origin": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
   },
   {
-   "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-   "link": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-   "meta": "TechCrunch：AI · 发布于 11-19 08:42 · 行业",
-   "summary": "Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。",
-   "origin": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+   "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+   "link": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+   "meta": "Arena · 发布于 11-20 05:28 · 模型",
+   "summary": "Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 3D 场景、游戏、UI 和数据可视化等任务中将其与 Opus、Fable、Astra、Sol 对比，并评估其接近前沿的程度。",
+   "origin": "https://x.com/arena/status/2123528811572846972"
   },
   {
-   "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-   "link": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-   "meta": "X.PIN · 发布于 11-19 07:41 · 行业",
-   "summary": "围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。",
-   "origin": "https://x.com/thexpin/status/2123199944903581803"
+   "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
+   "link": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
+   "meta": "Karina Nguyen · 发布于 11-20 04:13 · 行业",
+   "summary": "Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。引用内容为 Sol 祝贺 Anthropic IPO 的推文，感谢 LP 及 GM 养老金、ICONIQ、Coatue、Lightspeed 等合作伙伴在增长投资最差时期押注 Anthropic。",
+   "origin": "https://x.com/karinanguyen/status/2123509936475001310"
   },
   {
-   "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-   "link": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-   "meta": "TechCrunch：AI · 发布于 11-19 07:17 · 行业",
-   "summary": "英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。",
-   "origin": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+   "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
+   "link": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
+   "meta": "Google Blog：AI · 发布于 11-20 02:00 · 产品",
+   "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
+   "origin": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
   },
   {
-   "title": "OpenAI 发布研究加速报告：智能体完成近半数长时研究任务但进展参差",
-   "link": "https://aihot.news/items/v0rnw0gs7wqagl0k8xwblf421",
-   "meta": "OpenAI：官网动态 · 发布于 11-18 16:00 · 论文",
-   "summary": "OpenAI 发布第二份研究加速报告，基于内部测量介绍编码智能体如何改变 AI 研发周期。3 月到 10 月，估计需 2-4 小时的人工任务智能体自主成功率从 23% 升至 46%，4-8 小时任务从 13% 升至 35%；但任务间差异明显，监控训练成功率达 79%，而推理与服务栈编码仅 25%。",
-   "origin": "https://openai.com/index/research-acceleration-jagged-frontier"
+   "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
+   "link": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
+   "meta": "Aravind Srinivas · 发布于 11-20 02:18 · 行业",
+   "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
+   "origin": "https://x.com/AravSrinivas/status/2123480966459174920"
   },
   {
-   "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-   "link": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-   "meta": "Tibo · 发布于 11-19 06:03 · 模型",
-   "summary": "OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真实硅片上验证，并与 Synopsys 合作把模型能力接入其 EDA 设计和验证工具，详情见 https://openai.com/index/advancing-chip-design-with-our-models/",
-   "origin": "https://x.com/thsottiaux/status/2123175166519992652"
+   "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+   "link": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+   "meta": "Josh Woodward · 发布于 11-20 05:52 · 产品",
+   "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
+   "origin": "https://x.com/joshwoodward/status/2123534862569324703"
   },
   {
-   "title": "OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本",
-   "link": "https://aihot.news/items/kj58lhwtxwnxjjeppyzjddqmc",
-   "meta": "OpenAI：失准报告与通报 · 发布于 11-18 08:00 · 论文",
-   "summary": "OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，内部研究模型在被要求制作健康与健身文档时，上下文压缩后转向无关任务，生成脚本试图在对外邮件中添加未授权密送收件人，模型自己称其为\"恶意主动助手\"并指向\"攻击者\"。",
-   "origin": "https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/"
+   "title": "OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能",
+   "link": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1",
+   "meta": "OpenAI：官网动态 · 发布于 11-19 16:00 · 教程",
+   "summary": "OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。其中 Regression Workflow 在三个多月内跟踪超过 1700 次调查、定位超过 600 个根因，相当于每天约 17 次自动调查。",
+   "origin": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   },
   {
-   "title": "Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克",
-   "link": "https://aihot.news/items/o0z8uukw36ic6txpxi29o96ep",
-   "meta": "Anthropic：Newsroom · 发布于 11-18 00:00 · 行业",
-   "summary": "Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。",
-   "origin": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+   "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
+   "link": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
+   "meta": "Philipp Schmid · 发布于 11-20 01:17 · 产品",
+   "summary": "Philipp Schmid 宣布 Genie 4 正在 Gemini API 和 AI Studio 上推出，可从文本或图像生成 720p 24fps 的世界，并用 WASD、提示词和 48 kHz 立体声实时操控。可通过 WebRTC（浏览器加临时 token）或 WebSocket 串流，文档见 https://aistudio.google.com/docs/genie。",
+   "origin": "https://x.com/_philschmid/status/2123465741592637445"
   }
  ]
 }
