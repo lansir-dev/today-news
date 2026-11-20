@@ -1,8 +1,68 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 19:05",
+ "fetched": "2026-11-20 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平会见马来西亚总理安瓦尔",
+   "link": "https://news.cctv.com/2026/11/20/ARTI6Fs8VQAS7LEbs5BrNqR0261120.shtml",
+   "pub": "2026-11-20 19:31",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见泰国总理阿努廷",
+   "link": "https://news.cctv.com/2026/11/20/ARTIH3MrNJAZ84njXE1BLIX9261120.shtml",
+   "pub": "2026-11-20 19:31",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见新加坡总理黄循财",
+   "link": "https://news.cctv.com/2026/11/20/ARTI2vqFDJIcx9KukWGkIRRJ261120.shtml",
+   "pub": "2026-11-20 19:30",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+   "link": "https://news.cctv.com/2026/11/20/ARTIgZHjC4IZDeW65SuNfLXd261120.shtml",
+   "pub": "2026-11-20 19:29",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见印度尼西亚总统普拉博沃",
+   "link": "https://news.cctv.com/2026/11/20/ARTIplEbozVigxwSPbWlkSTC261120.shtml",
+   "pub": "2026-11-20 19:29",
+   "source": "央视网"
+  },
+  {
+   "title": "以色列被曝升级“大卫投石索”防空系统",
+   "link": "https://news.cctv.com/2026/11/20/ARTIDtCH4cRd7KUMsvkhn1QD261120.shtml",
+   "pub": "2026-11-20 19:24",
+   "source": "央视网"
+  },
+  {
+   "title": "10位国际友人获奖 第三届兰花奖获奖名单公布",
+   "link": "https://news.cctv.com/2026/11/20/ARTInLgPqED86a7OEhpbOxoT261120.shtml",
+   "pub": "2026-11-20 19:24",
+   "source": "央视网"
+  },
+  {
+   "title": "中美两军举行海上军事安全磋商机制工作小组会议和年度会晤",
+   "link": "https://news.cctv.com/2026/11/20/ARTIzmMjnx3QNYmK0z0cKtj6261120.shtml",
+   "pub": "2026-11-20 19:24",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年第二批质量督察全部实现督察进驻",
+   "link": "https://news.cctv.com/2026/11/20/ARTImZgUtxMunJmO1h80moWe261120.shtml",
+   "pub": "2026-11-20 19:23",
+   "source": "央视网"
+  },
+  {
+   "title": "《先秦诸子传》启播 读懂跨越千年的哲思",
+   "link": "https://news.cctv.com/2026/11/20/ARTIzLfwlWNwqnP5wxlrY8DM261120.shtml",
+   "pub": "2026-11-20 19:15",
+   "source": "央视网"
+  },
   {
    "title": "一城绽芳华，方寸焕新居！大型人居焕新文化类节目《好好安个家》即将播出",
    "link": "https://news.cctv.com/2026/11/20/ARTIpSvShftsi1GrvDpnE6Pe261120.shtml",
