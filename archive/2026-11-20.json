@@ -1,8 +1,14 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 12:35",
+ "fetched": "2026-11-20 13:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大国外交进行时丨习近平会见新加坡总理黄循财",
+   "link": "https://news.cctv.com/2026/11/20/ARTIia6CDLkfCyvUIlZglZir261120.shtml",
+   "pub": "2026-11-20 12:53",
+   "source": "央视网"
+  },
   {
    "title": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735137.shtml",
