@@ -1,8 +1,74 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 17:05",
+ "fetched": "2026-11-20 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "前三季度数字产业收入超32万亿元 同比增长14.8%",
+   "link": "https://news.cctv.com/2026/11/20/ARTIgiH0Q4UfdQKVDJ7OVy7V261120.shtml",
+   "pub": "2026-11-20 17:31",
+   "source": "央视网"
+  },
+  {
+   "title": "默茨：欧洲将“很快”加入乌克兰问题谈判",
+   "link": "https://news.cctv.com/2026/11/20/ARTIdqPkOzZsQaaYGGtMyNjx261120.shtml",
+   "pub": "2026-11-20 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "财政部：今年1—10月全国一般公共预算收入195671亿元",
+   "link": "https://news.cctv.com/2026/11/20/ARTIeIkNovkxWvkDBcvTkXKg261120.shtml",
+   "pub": "2026-11-20 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部回应日方最新表态：在台湾问题上尽快纠正错误言行",
+   "link": "https://news.cctv.com/2026/11/20/ARTIDXAqojIdYBmbXKQy7VQm261120.shtml",
+   "pub": "2026-11-20 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破",
+   "link": "https://news.cctv.com/2026/11/20/ARTI9v5RCKd57ngMCEcajCU2261120.shtml",
+   "pub": "2026-11-20 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "财政部：今年1—10月全国一般公共预算收入195671亿元",
+   "link": "https://news.cctv.com/2026/11/20/ARTIv8Edelfc7CYzfWOcoipd261120.shtml",
+   "pub": "2026-11-20 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "从生态图景到低碳日常 中国十年来可持续发展进展显著",
+   "link": "https://news.cctv.com/2026/11/20/ARTIZm3fpc8ByFFhZPgVZ4cR261120.shtml",
+   "pub": "2026-11-20 17:19",
+   "source": "央视网"
+  },
+  {
+   "title": "商务部：1—10月全国吸收外资6069.3亿元人民币",
+   "link": "https://news.cctv.com/2026/11/20/ARTI5IX89eFJBaGxUKLFYtTG261120.shtml",
+   "pub": "2026-11-20 17:18",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃省临夏州政协原副主席马晓璐被“双开”",
+   "link": "https://news.cctv.com/2026/11/20/ARTI0wXz1qDBdJtjF2Ak0e00261120.shtml",
+   "pub": "2026-11-20 17:16",
+   "source": "央视网"
+  },
+  {
+   "title": "国家网信办：9—10月新增133款生成式人工智能服务完成备案",
+   "link": "https://news.cctv.com/2026/11/20/ARTIHBHk4WuG4IqM14kzOZpb261120.shtml",
+   "pub": "2026-11-20 17:09",
+   "source": "央视网"
+  },
+  {
+   "title": "安徽省政协原常委张杰接受审查调查",
+   "link": "https://news.cctv.com/2026/11/20/ARTIzNVGJabU8QVc5BgXspFY261120.shtml",
+   "pub": "2026-11-20 17:06",
+   "source": "央视网"
+  },
   {
    "title": "无人机、无人艇、机器狗，科技感满满！智慧立体巡航为海底电缆做“体检”",
    "link": "https://news.cctv.com/2026/11/20/ARTIusgFK8B9KqDuweN4s0rL261120.shtml",
