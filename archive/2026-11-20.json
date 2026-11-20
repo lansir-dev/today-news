@@ -1,8 +1,26 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 22:05",
+ "fetched": "2026-11-20 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "剧透上新！哈尔滨冰雪大世界新增7条400米长冰滑梯",
+   "link": "https://news.cctv.com/2026/11/20/ARTIkVg9kQRZVxFDNtkblL8h261120.shtml",
+   "pub": "2026-11-20 22:12",
+   "source": "央视网"
+  },
+  {
+   "title": "第三届兰花奖颁奖典礼在京举行",
+   "link": "https://news.cctv.com/2026/11/20/ARTIgZCKbydQiVNMYUboWG2W261120.shtml",
+   "pub": "2026-11-20 22:06",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜共启亚太新航程 续写“亚太奇迹”新篇章",
+   "link": "https://news.cctv.com/2026/11/20/ARTITPDHNtQCc5oKdhYaCjyH261120.shtml",
+   "pub": "2026-11-20 22:04",
+   "source": "央视网"
+  },
   {
    "title": "北京拟明确租房正常损耗不得扣减押金",
    "link": "https://jingji.cctv.com/2026/11/20/ARTIazSilPAQcfCNuMP7F7mR261120.shtml",
