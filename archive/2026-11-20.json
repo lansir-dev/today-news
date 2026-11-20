@@ -1,8 +1,104 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 14:35",
+ "fetched": "2026-11-20 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "可循环、轻量化……快递包装迎“新”逐“绿”不停步 全链条实践获双赢",
+   "link": "https://news.cctv.com/2026/11/20/ARTIrVh58gCyFGTxCxULcIKj261120.shtml",
+   "pub": "2026-11-20 15:00",
+   "source": "央视网"
+  },
+  {
+   "title": "五角大楼官员：美国已为伊朗战事花费超480亿美元",
+   "link": "https://news.cctv.com/2026/11/20/ARTIaS4DFK9inda1ChS9Lbyy261120.shtml",
+   "pub": "2026-11-20 14:52",
+   "source": "央视网"
+  },
+  {
+   "title": "500元以下的羽绒服，到底能不能买？",
+   "link": "https://news.cctv.com/2026/11/20/ARTI8FatyOOasEmdZRWT6PaF261120.shtml",
+   "pub": "2026-11-20 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "国家公园每五年开展一次“生态体检”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIuAs7ddvX2WpygTAKJrDe261120.shtml",
+   "pub": "2026-11-20 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "数字平台、新能源货车进入运输场景 公路货运迎来新变化",
+   "link": "https://news.cctv.com/2026/11/20/ARTIVWb1cFAxQAfZx945D3Fc261120.shtml",
+   "pub": "2026-11-20 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "江苏提出到2030年基本实现交通运输现代化",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735232.shtml",
+   "pub": "2026-11-20 14:49",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "前10月中国快递收入增速“跑赢”业务量",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735226.shtml",
+   "pub": "2026-11-20 14:48",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "湖南省永州市委原常委、秘书长唐能武被开除党籍",
+   "link": "https://news.cctv.com/2026/11/20/ARTIaaDIvVCKoEyjBSfjWNtK261120.shtml",
+   "pub": "2026-11-20 14:46",
+   "source": "央视网"
+  },
+  {
+   "title": "中医药文化体验成西安入境游新热点",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735223.shtml",
+   "pub": "2026-11-20 14:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "武汉商学院原党委书记刘志辉被“双开”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIBM5TlB5gVVFPcnJFpe5G261120.shtml",
+   "pub": "2026-11-20 14:42",
+   "source": "央视网"
+  },
+  {
+   "title": "江苏首例侵入式脑机接口手术患者实现“脑控”轮椅出行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735221.shtml",
+   "pub": "2026-11-20 14:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "金融街证券董事长祝艳辉被查",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735202.shtml",
+   "pub": "2026-11-20 14:40",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "甘肃康县：林间麻出山 席上鲜入座",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735219.shtml",
+   "pub": "2026-11-20 14:38",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "以会为媒 四川将端出冰雪旅游季“大餐”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735205.shtml",
+   "pub": "2026-11-20 14:35",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "做好冬季电煤保供运输“加减法” 守护万家冬日暖意",
+   "link": "https://news.cctv.com/2026/11/20/ARTIbYRjwliNsvrVdMzptCIt261120.shtml",
+   "pub": "2026-11-20 14:32",
+   "source": "央视网"
+  },
+  {
+   "title": "探访成都花花猫岛：一座1500平方米孤岛上的流浪猫“桃花源”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735209.shtml",
+   "pub": "2026-11-20 14:31",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "享惠货值破百亿 海口海关“三同三溯”监管红利持续释放",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735206.shtml",
@@ -49,6 +145,12 @@
    "title": "APEC参会外企高管：亚太产业协同让互补红利加速释放",
    "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735193.shtml",
    "pub": "2026-11-20 14:14",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "深圳企业把“共赢”写进亚太产业链",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735195.shtml",
+   "pub": "2026-11-20 14:13",
    "source": "中国新闻网"
   },
   {
@@ -116,12 +218,6 @@
    "link": "https://news.cctv.com/2026/11/20/ARTIuR4nizFoCs0ZGS5aChQ6261120.shtml",
    "pub": "2026-11-20 13:30",
    "source": "央视网"
-  },
-  {
-   "title": "国家公园每五年开展一次“生态体检”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735177.shtml",
-   "pub": "2026-11-20 13:29",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "新华图讯丨习近平会见新加坡总理黄循财",
@@ -232,12 +328,6 @@
    "source": "央视网"
   },
   {
-   "title": "500元以下的羽绒服，到底能不能买？",
-   "link": "https://www.chinanews.com.cn/life/2026/11-20/10735144.shtml",
-   "pub": "2026-11-20 12:02",
-   "source": "中国新闻网"
-  },
-  {
    "title": "2026休闲度假大会在安徽石台举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
    "pub": "2026-11-20 11:58",
@@ -295,7 +385,7 @@
    "title": "当AI“得知”自己将被关闭，它竟然干了这种事……",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735123.shtml",
    "pub": "2026-11-20 11:24",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国内"
   },
   {
    "title": "保险行会：法国10月骚乱造成财产损失超2亿欧元",
@@ -520,12 +610,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "从深圳APEC的三个C，读懂亚太发展的“最大公约数”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735068.shtml",
-   "pub": "2026-11-20 10:02",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "冷空气影响趋于结束 全国大部降水缩减22日后南方降水将发展增多",
    "link": "https://news.cctv.com/2026/11/20/ARTIteDaItyJEO3ESqPJavni261120.shtml",
    "pub": "2026-11-20 10:02",
@@ -616,46 +700,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "全国大部降水稀少 未来十天冷空气势力较弱",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735018.shtml",
-   "pub": "2026-11-20 09:23",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
    "link": "https://news.cctv.com/2026/11/20/ARTIyThatNeY3S6IkGfwAUza261120.shtml",
    "pub": "2026-11-20 09:19",
    "source": "央视网"
   },
   {
-   "title": "国家邮政局公布2026年1-10月邮政行业运行情况",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735033.shtml",
-   "pub": "2026-11-20 09:10",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "“赛博确诊”ADHD：逃避，还是自救",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735032.shtml",
-   "pub": "2026-11-20 09:08",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "今天起，厨房这个地方，别忘了清洗！",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735029.shtml",
-   "pub": "2026-11-20 09:03",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
    "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735023.shtml",
    "pub": "2026-11-20 08:53",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "AI走进大学课堂：教什么，怎么教",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735011.shtml",
-   "pub": "2026-11-20 08:21",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "“线上气氛组，线下社恐人”：大学生如何破局",
