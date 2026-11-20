@@ -1,8 +1,56 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 19:35",
+ "fetched": "2026-11-20 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "特写：大国外交的“深圳时刻”",
+   "link": "https://news.cctv.com/2026/11/20/ARTI0HPALbe3kHqSfx9CFD8t261120.shtml",
+   "pub": "2026-11-20 20:26",
+   "source": "央视网"
+  },
+  {
+   "title": "通航倒计时！盛乐国际机场亮点抢先看",
+   "link": "https://jingji.cctv.com/2026/11/20/ARTIT2WW1xOpITYTKPLRpMeI261120.shtml",
+   "pub": "2026-11-20 20:23",
+   "source": "央视网"
+  },
+  {
+   "title": "国际丝绸组织正式成立",
+   "link": "https://news.cctv.com/2026/11/20/ARTIoPa8fsBW5WdzKLfNdZzv261120.shtml",
+   "pub": "2026-11-20 20:21",
+   "source": "央视网"
+  },
+  {
+   "title": "长江师范学院副院长米永生接受审查调查",
+   "link": "https://news.cctv.com/2026/11/20/ARTI1TSpkn7iKujiY0J3Jlmu261120.shtml",
+   "pub": "2026-11-20 20:18",
+   "source": "央视网"
+  },
+  {
+   "title": "今年前三季度我国银行业保险业总资产继续增长",
+   "link": "https://news.cctv.com/2026/11/20/ARTIaKu3ylklNiCWXqawWncx261120.shtml",
+   "pub": "2026-11-20 20:17",
+   "source": "央视网"
+  },
+  {
+   "title": "法国前总理德维尔潘宣布参加2027年总统选举",
+   "link": "https://news.cctv.com/2026/11/20/ARTIkXjX5WQr8tBidFXR7C5z261120.shtml",
+   "pub": "2026-11-20 20:14",
+   "source": "央视网"
+  },
+  {
+   "title": "俄副外长：乌克兰加入北约“完全不可接受”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIu4VBPZVqyjbMUu0E8iG3261120.shtml",
+   "pub": "2026-11-20 20:13",
+   "source": "央视网"
+  },
+  {
+   "title": "多地迎雨雪天气 各部门闻“雪”而动全力保障出行安全畅通",
+   "link": "https://news.cctv.com/2026/11/20/ARTIIH3bAVbA4gb5LsOtCrpv261120.shtml",
+   "pub": "2026-11-20 20:10",
+   "source": "央视网"
+  },
   {
    "title": "习近平会见马来西亚总理安瓦尔",
    "link": "https://news.cctv.com/2026/11/20/ARTI6Fs8VQAS7LEbs5BrNqR0261120.shtml",
