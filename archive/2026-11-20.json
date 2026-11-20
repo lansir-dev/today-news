@@ -1,8 +1,56 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 12:05",
- "note": "今日抓取",
+ "fetched": "2026-11-20 12:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735137.shtml",
+   "pub": "2026-11-20 12:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "多领域合力聚势“硕果累累” “稳、进、好、新”成发展关键词",
+   "link": "https://news.cctv.com/2026/11/20/ARTIZYPd54w3LoKpQ5XcfUoL261120.shtml",
+   "pub": "2026-11-20 12:20",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见马来西亚总理安瓦尔",
+   "link": "https://news.cctv.com/2026/11/20/ARTIE3xGBQbINppDAxMdCUlH261120.shtml",
+   "pub": "2026-11-20 12:18",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+   "link": "https://news.cctv.com/2026/11/20/ARTIcEubET9qn5fjoZPWrSHi261120.shtml",
+   "pub": "2026-11-20 12:18",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平会见印度尼西亚总统普拉博沃",
+   "link": "https://news.cctv.com/2026/11/20/ARTIShKRn3PIrF0XFvheO2Y3261120.shtml",
+   "pub": "2026-11-20 12:18",
+   "source": "央视网"
+  },
+  {
+   "title": "多彩非遗产品成外国游客“心头好” “国潮好物”出海活力持续释放",
+   "link": "https://news.cctv.com/2026/11/20/ARTIyW1H6vR0qtHX1Sk5zR9c261120.shtml",
+   "pub": "2026-11-20 12:06",
+   "source": "央视网"
+  },
+  {
+   "title": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735143.shtml",
+   "pub": "2026-11-20 12:05",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "声启新章！《中国唱将2026》今晚开播",
+   "link": "https://news.cctv.com/2026/11/20/ARTIyfCQP1eRaWT2DWL5wc4P261120.shtml",
+   "pub": "2026-11-20 12:05",
+   "source": "央视网"
+  },
   {
    "title": "2026休闲度假大会在安徽石台举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
@@ -34,16 +82,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "时政微纪录丨习主席的深圳APEC时间 第二集 和平之约",
-   "link": "https://news.cctv.com/2026/11/20/ARTI9pMYRw3kLdnLh1A9sgAj261120.shtml",
-   "pub": "2026-11-20 11:38",
-   "source": "央视网"
-  },
-  {
    "title": "中韩青年江西行，看见了什么？",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735128.shtml",
    "pub": "2026-11-20 11:38",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "时政微纪录丨习主席的深圳APEC时间 第二集 和平之约",
+   "link": "https://news.cctv.com/2026/11/20/ARTI9pMYRw3kLdnLh1A9sgAj261120.shtml",
+   "pub": "2026-11-20 11:38",
+   "source": "央视网"
   },
   {
    "title": "刷新纪录！我国实现6G频段最高码速率无线通信验证",
@@ -256,16 +304,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
-   "link": "https://news.cctv.com/2026/11/20/ARTInceVmRNoIKtjgnlSW2hO261120.shtml",
-   "pub": "2026-11-20 10:10",
-   "source": "央视网"
-  },
-  {
    "title": "一张卡片守望邻里",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735080.shtml",
    "pub": "2026-11-20 10:10",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
+   "link": "https://news.cctv.com/2026/11/20/ARTInceVmRNoIKtjgnlSW2hO261120.shtml",
+   "pub": "2026-11-20 10:10",
+   "source": "央视网"
   },
   {
    "title": "大风预警生效中！北京今天北风仍强劲 双休日晴天为主适宜出行",
@@ -286,16 +334,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "冷空气影响趋于结束 全国大部降水缩减22日后南方降水将发展增多",
-   "link": "https://news.cctv.com/2026/11/20/ARTIteDaItyJEO3ESqPJavni261120.shtml",
-   "pub": "2026-11-20 10:02",
-   "source": "央视网"
-  },
-  {
    "title": "从深圳APEC的三个C，读懂亚太发展的“最大公约数”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735068.shtml",
    "pub": "2026-11-20 10:02",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "冷空气影响趋于结束 全国大部降水缩减22日后南方降水将发展增多",
+   "link": "https://news.cctv.com/2026/11/20/ARTIteDaItyJEO3ESqPJavni261120.shtml",
+   "pub": "2026-11-20 10:02",
+   "source": "央视网"
   },
   {
    "title": "有中国公民在委内瑞拉遭网络电信诈骗 中使馆发布提醒",
@@ -322,16 +370,16 @@
    "source": "央视网"
   },
   {
-   "title": "政商界代表期待中国方案引领亚太合作 共同迈向繁荣",
-   "link": "https://news.cctv.com/2026/11/20/ARTIbmDcLUt4hY26e6q3itMB261120.shtml",
-   "pub": "2026-11-20 09:55",
-   "source": "央视网"
-  },
-  {
    "title": "（深圳APEC）会见特朗普，习近平三个词指引中美关系“正确航线”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735047.shtml",
    "pub": "2026-11-20 09:55",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "政商界代表期待中国方案引领亚太合作 共同迈向繁荣",
+   "link": "https://news.cctv.com/2026/11/20/ARTIbmDcLUt4hY26e6q3itMB261120.shtml",
+   "pub": "2026-11-20 09:55",
+   "source": "央视网"
   },
   {
    "title": "（近观中国）中俄美元首历史性会晤 习近平四句话论大国相处之道",
@@ -388,16 +436,16 @@
    "source": "央视网"
   },
   {
-   "title": "起床后这4件事易引发心梗，冬天尤其别做",
-   "link": "https://news.cctv.com/2026/11/20/ARTIYI7LqRriSK2K1cmcY1zC261120.shtml",
-   "pub": "2026-11-20 09:34",
-   "source": "央视网"
-  },
-  {
    "title": "纸箱、旧鞋架等堆放在楼道 发现邻居有这一行为请及时劝阻或举报",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735053.shtml",
    "pub": "2026-11-20 09:34",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "起床后这4件事易引发心梗，冬天尤其别做",
+   "link": "https://news.cctv.com/2026/11/20/ARTIYI7LqRriSK2K1cmcY1zC261120.shtml",
+   "pub": "2026-11-20 09:34",
+   "source": "央视网"
   },
   {
    "title": "11月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
@@ -690,11 +738,11 @@
  ],
  "ai": [
   {
-   "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-   "link": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-   "meta": "公众号：腾讯混元 · 发布于 11-20 11:41 · 模型",
-   "summary": "腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。",
-   "origin": "https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA"
+   "title": "腾讯混元开放 Hy4 权重",
+   "link": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+   "meta": "腾讯混元 · 发布于 11-20 11:52 · 模型",
+   "summary": "腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/LocalLLaMA 举行 AMA。",
+   "origin": "https://x.com/TencentHunyuan/status/2123625549147070538"
   },
   {
    "title": "Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts",
@@ -702,6 +750,13 @@
    "meta": "Conductor 官方更新 · 发布于 11-19 08:00 · 产品",
    "summary": "Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。",
    "origin": "https://www.conductor.build/changelog/0.97.0-first-class-artifacts"
+  },
+  {
+   "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+   "link": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+   "meta": "卡兹克 · 发布于 11-20 12:01 · 教程",
+   "summary": "卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。",
+   "origin": "https://x.com/Khazix0918/status/2123627885730951241"
   },
   {
    "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
@@ -737,13 +792,6 @@
    "meta": "Aravind Srinivas · 发布于 11-20 02:18 · 行业",
    "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
    "origin": "https://x.com/AravSrinivas/status/2123480966459174920"
-  },
-  {
-   "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-   "link": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-   "meta": "Josh Woodward · 发布于 11-20 05:52 · 产品",
-   "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
-   "origin": "https://x.com/joshwoodward/status/2123534862569324703"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-20 12:05",
+ "fetched": "2026-11-20 12:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1314,11 +1314,11 @@
  ],
  "ai": [
   {
-   "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-   "link": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-   "meta": "公众号：腾讯混元 · 发布于 11-20 11:41 · 模型",
-   "summary": "腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。",
-   "origin": "https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA"
+   "title": "腾讯混元开放 Hy4 权重",
+   "link": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+   "meta": "腾讯混元 · 发布于 11-20 11:52 · 模型",
+   "summary": "腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/LocalLLaMA 举行 AMA。",
+   "origin": "https://x.com/TencentHunyuan/status/2123625549147070538"
   },
   {
    "title": "Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts",
@@ -1326,6 +1326,13 @@
    "meta": "Conductor 官方更新 · 发布于 11-19 08:00 · 产品",
    "summary": "Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。",
    "origin": "https://www.conductor.build/changelog/0.97.0-first-class-artifacts"
+  },
+  {
+   "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+   "link": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+   "meta": "卡兹克 · 发布于 11-20 12:01 · 教程",
+   "summary": "卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。",
+   "origin": "https://x.com/Khazix0918/status/2123627885730951241"
   },
   {
    "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
@@ -1361,13 +1368,6 @@
    "meta": "Aravind Srinivas · 发布于 11-20 02:18 · 行业",
    "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
    "origin": "https://x.com/AravSrinivas/status/2123480966459174920"
-  },
-  {
-   "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-   "link": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-   "meta": "Josh Woodward · 发布于 11-20 05:52 · 产品",
-   "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
-   "origin": "https://x.com/joshwoodward/status/2123534862569324703"
   }
  ]
 }
