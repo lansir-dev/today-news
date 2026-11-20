@@ -1,8 +1,14 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 20:35",
+ "fetched": "2026-11-20 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "今年第二批旅游市场严重失信主体典型名单公布",
+   "link": "https://news.cctv.com/2026/11/20/ARTIYGuamxtK6yXs6oMtHnkm261120.shtml",
+   "pub": "2026-11-20 20:34",
+   "source": "央视网"
+  },
   {
    "title": "特写：大国外交的“深圳时刻”",
    "link": "https://news.cctv.com/2026/11/20/ARTI0HPALbe3kHqSfx9CFD8t261120.shtml",
