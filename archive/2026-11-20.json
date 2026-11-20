@@ -1,8 +1,62 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 14:05",
+ "fetched": "2026-11-20 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "享惠货值破百亿 海口海关“三同三溯”监管红利持续释放",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735206.shtml",
+   "pub": "2026-11-20 14:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新华图讯丨习近平会见马来西亚总理安瓦尔",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735207.shtml",
+   "pub": "2026-11-20 14:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新华图讯丨习近平会见泰国总理阿努廷",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735198.shtml",
+   "pub": "2026-11-20 14:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "河北隆化赴天津推介农旅品牌 签约拓展康养研学合作",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735212.shtml",
+   "pub": "2026-11-20 14:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "35千伏低频海底电缆迎首次智慧巡检 海陆空“体检”更全面",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735210.shtml",
+   "pub": "2026-11-20 14:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "广西首例心肺联合移植患者痊愈出院",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735200.shtml",
+   "pub": "2026-11-20 14:18",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "铜陵化学工业集团有限公司原党委委员、副总经理李霞严重违纪违法被开除党籍",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735179.shtml",
+   "pub": "2026-11-20 14:16",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "APEC参会外企高管：亚太产业协同让互补红利加速释放",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735193.shtml",
+   "pub": "2026-11-20 14:14",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735196.shtml",
+   "pub": "2026-11-20 14:10",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "采油守望者：传承“三老四严” 数字赋能守护油田生命线",
    "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735189.shtml",
@@ -16,10 +70,16 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "（深圳APEC）海外侨胞关注APEC会议：凝聚合作共识 共促亚太繁荣",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735124.shtml",
+   "pub": "2026-11-20 13:56",
+   "source": "中国新闻网·国内"
+  },
+  {
    "title": "（深圳APEC）烟火气和安全感，是深圳最高级的“素颜”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735182.shtml",
    "pub": "2026-11-20 13:55",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "（深圳APEC）习近平会见澳大利亚总理阿尔巴尼斯",
@@ -484,34 +544,16 @@
    "source": "央视网"
   },
   {
-   "title": "土耳其媒体人探访稻香村 点赞新疆乡村振兴成果",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735041.shtml",
-   "pub": "2026-11-20 09:57",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "驻德班总领馆提醒领区中国公民、机构、项目遵守签证法规、严格合法用工",
    "link": "https://news.cctv.com/2026/11/20/ARTIJRFFKMttMVLzaSJJkWOC261120.shtml",
    "pub": "2026-11-20 09:56",
    "source": "央视网"
   },
   {
-   "title": "（深圳APEC）会见特朗普，习近平三个词指引中美关系“正确航线”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735047.shtml",
-   "pub": "2026-11-20 09:55",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "政商界代表期待中国方案引领亚太合作 共同迈向繁荣",
    "link": "https://news.cctv.com/2026/11/20/ARTIbmDcLUt4hY26e6q3itMB261120.shtml",
    "pub": "2026-11-20 09:55",
    "source": "央视网"
-  },
-  {
-   "title": "（近观中国）中俄美元首历史性会晤 习近平四句话论大国相处之道",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735021.shtml",
-   "pub": "2026-11-20 09:54",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？",
@@ -536,12 +578,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml",
    "pub": "2026-11-20 09:44",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735017.shtml",
-   "pub": "2026-11-20 09:42",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "马斯克盛赞中国：我是中国的超级粉丝 不到中国不可能真正读懂中国",
@@ -646,12 +682,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "研究发现：大脑的“青春期”能持续到32岁左右",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
-   "pub": "2026-11-20 07:51",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "产销、改装、回收，汽车消费全链条发力",
    "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
    "pub": "2026-11-20 07:45",
@@ -692,12 +722,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734993.shtml",
    "pub": "2026-11-20 07:35",
    "source": "中国新闻网"
-  },
-  {
-   "title": "“互联网+AI监管”24小时全自动巡检 餐饮后厨有了智慧眼",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10734998.shtml",
-   "pub": "2026-11-20 07:32",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
