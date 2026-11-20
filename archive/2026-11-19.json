@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "fetched": "2026-11-20 21:35",
+ "fetched": "2026-11-20 22:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1314,6 +1314,13 @@
  ],
  "ai": [
   {
+   "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+   "link": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+   "meta": "MiniMax：Blog · 发布于 11-20 14:41 · 论文",
+   "summary": "MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。",
+   "origin": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model"
+  },
+  {
    "title": "腾讯混元开放 Hy4 权重",
    "link": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
    "meta": "腾讯混元 · 发布于 11-20 11:52 · 模型",
@@ -1361,13 +1368,6 @@
    "meta": "Google Blog：AI · 发布于 11-20 02:00 · 产品",
    "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
    "origin": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-  },
-  {
-   "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-   "link": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-   "meta": "Aravind Srinivas · 发布于 11-20 02:18 · 行业",
-   "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
-   "origin": "https://x.com/AravSrinivas/status/2123480966459174920"
   }
  ]
 }
