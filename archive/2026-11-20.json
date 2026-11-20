@@ -1,8 +1,14 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 18:05",
+ "fetched": "2026-11-20 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "一城绽芳华，方寸焕新居！大型人居焕新文化类节目《好好安个家》即将播出",
+   "link": "https://news.cctv.com/2026/11/20/ARTIpSvShftsi1GrvDpnE6Pe261120.shtml",
+   "pub": "2026-11-20 18:33",
+   "source": "央视网"
+  },
   {
    "title": "130公里时速气囊秒开 国产轻型直升机“吉祥鸟”首次开展应急漂浮试飞",
    "link": "https://news.cctv.com/2026/11/20/ARTIeR3nwY1v1QoagnwPyeJi261120.shtml",
