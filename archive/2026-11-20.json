@@ -1,8 +1,26 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 21:05",
+ "fetched": "2026-11-20 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国家数据集团开展首轮央地合作试点",
+   "link": "https://jingji.cctv.com/2026/11/20/ARTIBjSHDC6DV8dpwL7NgZxf261120.shtml",
+   "pub": "2026-11-20 21:33",
+   "source": "央视网"
+  },
+  {
+   "title": "咩咩咩 羊年纪念币来了",
+   "link": "https://jingji.cctv.com/2026/11/20/ARTIdrZVSnSPW46lyWptFtpa261120.shtml",
+   "pub": "2026-11-20 21:23",
+   "source": "央视网"
+  },
+  {
+   "title": "数万名日本民众签名反对日本拥有核潜艇",
+   "link": "https://news.cctv.com/2026/11/20/ARTIxwSVL3itBwQF3kVwBt64261120.shtml",
+   "pub": "2026-11-20 21:14",
+   "source": "央视网"
+  },
   {
    "title": "今年第二批旅游市场严重失信主体典型名单公布",
    "link": "https://news.cctv.com/2026/11/20/ARTIYGuamxtK6yXs6oMtHnkm261120.shtml",
