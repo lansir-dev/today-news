@@ -1,8 +1,26 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-20 15:35",
+ "fetched": "2026-11-20 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国发现距今39.5亿年古老岩石 科学家解开地球演化谜题“更上层楼”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIywGuBBpVib70sCtdeGWE261120.shtml",
+   "pub": "2026-11-20 15:47",
+   "source": "央视网"
+  },
+  {
+   "title": "官方辟谣“云南部分地区对市场开展大规模检查并高额罚款”",
+   "link": "https://news.cctv.com/2026/11/20/ARTIuuMgj0jsUY7ZAK9XMU5e261120.shtml",
+   "pub": "2026-11-20 15:40",
+   "source": "央视网"
+  },
+  {
+   "title": "贵州从江通报多地山林有人非法捕鸟：相关涉案人员被传唤",
+   "link": "https://news.cctv.com/2026/11/20/ARTIspTT8qaoY5KlbWB35rs1261120.shtml",
+   "pub": "2026-11-20 15:37",
+   "source": "央视网"
+  },
   {
    "title": "商务部：今年1—10月我国电子商务平稳发展",
    "link": "https://news.cctv.com/2026/11/20/ARTIqfvlPAflLgKBGWbeq2Vm261120.shtml",
