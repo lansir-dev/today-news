@@ -1,8 +1,26 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 12:05",
+ "fetched": "2026-11-21 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "台胞陶艺家：一脉窑火烧紫砂 手捏陶土牵两岸",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735684.shtml",
+   "pub": "2026-11-21 12:26",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735685.shtml",
+   "pub": "2026-11-21 12:15",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "共享新机遇 | 从深圳出发 APEC开启经贸合作新空间",
+   "link": "https://news.cctv.com/2026/11/21/ARTIaZBeBTQK8uNfVCzTTAEA261121.shtml",
+   "pub": "2026-11-21 12:08",
+   "source": "央视网"
+  },
   {
    "title": "共享新机遇 | 新赛道、新机遇 中国超大市场为全球经济增长提供“强支撑”",
    "link": "https://news.cctv.com/2026/11/21/ARTI0dQL7JbZ5kKHMAoD8n19261121.shtml",
