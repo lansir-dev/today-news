@@ -1,8 +1,50 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 17:05",
+ "fetched": "2026-11-21 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "解锁农业大棚里的“新”力量 蔬菜产业实现“智慧蝶变”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIxV2KL7c0yglvm6PEGYIv261121.shtml",
+   "pub": "2026-11-21 17:31",
+   "source": "央视网"
+  },
+  {
+   "title": "（乡村行·看振兴）广西梧州“允许抱球跑”的女篮赛：球场“不讲究” 跑出乡村新气象",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735786.shtml",
+   "pub": "2026-11-21 17:28",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中外儿童齐聚广州共唱粤语童谣",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735783.shtml",
+   "pub": "2026-11-21 17:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "埋土防寒 银川酿酒葡萄“盖被”越冬",
+   "link": "https://news.cctv.com/2026/11/21/ARTIiE72qwuNyvM5ea8Yw0PE261121.shtml",
+   "pub": "2026-11-21 17:15",
+   "source": "央视网"
+  },
+  {
+   "title": "沿着口岸看外贸 | 科技赋能港口建设“换挡提速” 对外贸易“加速跑”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIHCiH6VlmQoggGBOfLJXX261121.shtml",
+   "pub": "2026-11-21 17:10",
+   "source": "央视网"
+  },
+  {
+   "title": "乘客突发疾病 公交车秒变“救护车”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIS8K25fGtPaXPXCoYaQNh261121.shtml",
+   "pub": "2026-11-21 17:06",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普盛赞深圳城市建设：干净整洁、路面平整，看看人家，再看看我们自己……",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735781.shtml",
+   "pub": "2026-11-21 17:03",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "各地打造冬季文旅消费新场景新业态 “花式过冬”让冰雪游持续升温",
    "link": "https://news.cctv.com/2026/11/21/ARTINlrLcmokyT43WroiysAo261121.shtml",
@@ -596,12 +638,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735636.shtml",
    "pub": "2026-11-21 10:05",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "贵州毕节聚焦群众急难愁盼，完善支持保障机制 温暖193万人的外出务工路",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735645.shtml",
-   "pub": "2026-11-21 10:04",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "特朗普：中俄美元首会晤具有重大历史意义",
