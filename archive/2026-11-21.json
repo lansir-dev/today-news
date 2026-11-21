@@ -1,8 +1,20 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 22:05",
+ "fetched": "2026-11-21 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "多部门联动 为阿勒泰野生动物科学定点投放饲草料",
+   "link": "https://news.cctv.com/2026/11/21/ARTIwGFdxwlnwYKnzTE6mgCR261121.shtml",
+   "pub": "2026-11-21 22:32",
+   "source": "央视网"
+  },
+  {
+   "title": "泽连斯基会见英国国防大臣 讨论乌防空能力建设",
+   "link": "https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml",
+   "pub": "2026-11-21 22:19",
+   "source": "央视网"
+  },
   {
    "title": "星河为证七秩荣光！《2026航天之夜》今日上线，把中国浪漫写进太空",
    "link": "https://news.cctv.com/2026/11/21/ARTIRSOCqzP9NbzmvqBmt23W261121.shtml",
