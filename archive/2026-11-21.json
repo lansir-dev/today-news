@@ -1,8 +1,50 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 14:05",
+ "fetched": "2026-11-21 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "时政微纪录丨习近平总书记广东行",
+   "link": "https://news.cctv.com/2026/11/21/ARTIwINe6C9GdOUgDskysKIx261121.shtml",
+   "pub": "2026-11-21 14:27",
+   "source": "央视网"
+  },
+  {
+   "title": "时政微观察丨答好大国相处必答题，共同为世界和平托底",
+   "link": "https://news.cctv.com/2026/11/21/ARTICl7Id2KfFFKHo62aO7Ob261121.shtml",
+   "pub": "2026-11-21 14:27",
+   "source": "央视网"
+  },
+  {
+   "title": "唱空中国经济者终会落空",
+   "link": "https://news.cctv.com/2026/11/21/ARTI9wMRs7jlqytOOSQ7huoR261121.shtml",
+   "pub": "2026-11-21 14:22",
+   "source": "央视网"
+  },
+  {
+   "title": "五中全会精神在基层丨“放心田”背后是责任心",
+   "link": "https://news.cctv.com/2026/11/21/ARTIQD5EfUKj5Xr0bHKwf69k261121.shtml",
+   "pub": "2026-11-21 14:22",
+   "source": "央视网"
+  },
+  {
+   "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
+   "link": "https://news.cctv.com/2026/11/21/ARTINsUF1WWEIipAi44vO4YW261121.shtml",
+   "pub": "2026-11-21 14:21",
+   "source": "央视网"
+  },
+  {
+   "title": "全球甲烷中心首席执行官：近零甲烷标准可使油气业甲烷排放降约八成",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735708.shtml",
+   "pub": "2026-11-21 14:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国驻墨西哥使馆发言人就美国驻新拉雷多总领事涉华言论答记者问",
+   "link": "https://news.cctv.com/2026/11/21/ARTIhUPXlnTRTMebeM7J3Ow6261121.shtml",
+   "pub": "2026-11-21 14:11",
+   "source": "央视网"
+  },
   {
    "title": "多地冰雪旅游欣欣向荣 冬日“冷资源”成为拉动消费的“热动力”",
    "link": "https://news.cctv.com/2026/11/21/ARTItHafP2J5CYx2ezMVkrHJ261121.shtml",
