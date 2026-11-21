@@ -1,8 +1,38 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 15:05",
+ "fetched": "2026-11-21 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "2026中国电影节在菲律宾举办",
+   "link": "https://news.cctv.com/2026/11/21/ARTIDxoDYqgoPrVjEcNucTdc261121.shtml",
+   "pub": "2026-11-21 15:32",
+   "source": "央视网"
+  },
+  {
+   "title": "从凭“经验”到靠“数据” 科技赋能智慧养殖“畜”势勃发",
+   "link": "https://news.cctv.com/2026/11/21/ARTIS8lqKWau07VEuYMpazAd261121.shtml",
+   "pub": "2026-11-21 15:27",
+   "source": "央视网"
+  },
+  {
+   "title": "做好冬季电煤保供运输“加减法” 守护万家冬日暖意",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735736.shtml",
+   "pub": "2026-11-21 15:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“深圳展望”，为何成为APEC新的里程碑？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735734.shtml",
+   "pub": "2026-11-21 15:12",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "无人机共舞映蓉城 光影赴约“CMG电影文化嘉年华”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIopKL1mecOqImEVetzLdi261121.shtml",
+   "pub": "2026-11-21 15:10",
+   "source": "央视网"
+  },
   {
    "title": "田园劳作、公益课堂……各地特色活动“多点开花”点亮孩子秋日假期",
    "link": "https://news.cctv.com/2026/11/21/ARTIktifnq8Y3L5BVAgG63oE261121.shtml",
@@ -620,12 +650,6 @@
    "link": "https://news.cctv.com/2026/11/21/ARTIgYs6ZTK4vCMmnV2XugDn261121.shtml",
    "pub": "2026-11-21 08:14",
    "source": "央视网"
-  },
-  {
-   "title": "亚太媒体合作伙伴计划正式成立",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735610.shtml",
-   "pub": "2026-11-21 08:05",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "睡觉穿袜子有助入睡 但这5类人不建议→",
