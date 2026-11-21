@@ -1,8 +1,44 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 15:35",
+ "fetched": "2026-11-21 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "设置中转点、组成服务小队……多部门全力护航牧民“转场路”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIkMvG7KBTJ15Ay9YymgJG261121.shtml",
+   "pub": "2026-11-21 16:01",
+   "source": "央视网"
+  },
+  {
+   "title": "给成长多一种可能 浙江综合高中改革试点“三校”观察",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735739.shtml",
+   "pub": "2026-11-21 15:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "湖北兴山：有水喝、喝好水，就是村民最踏实的幸福感",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735751.shtml",
+   "pub": "2026-11-21 15:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“红星照耀中国·从琼崖烽火到开放自贸港”网络主题宣传活动在海口启动",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735743.shtml",
+   "pub": "2026-11-21 15:48",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "暖心打造运“蔬”专线 “卖菜公交”畅通农产品出村进城“最后一公里”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIltz4Yb1ycHrMPOcJeGF9261121.shtml",
+   "pub": "2026-11-21 15:44",
+   "source": "央视网"
+  },
+  {
+   "title": "岛内舆论高度关注特朗普不支持“台独”表态",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735733.shtml",
+   "pub": "2026-11-21 15:36",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "2026中国电影节在菲律宾举办",
    "link": "https://news.cctv.com/2026/11/21/ARTIDxoDYqgoPrVjEcNucTdc261121.shtml",
@@ -538,22 +574,10 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "国内外专家齐聚广州共商数智技术与运动健康深度融合新路径",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735634.shtml",
-   "pub": "2026-11-21 09:31",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "透过数据“升”看前三季度我国金融服务能力持续加强",
    "link": "https://news.cctv.com/2026/11/21/ARTIV9Z9lf7bEzbQk41HQR1W261121.shtml",
    "pub": "2026-11-21 09:27",
    "source": "央视网"
-  },
-  {
-   "title": "国产大模型引领全球开源生态 累计下载量突破100亿次",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735639.shtml",
-   "pub": "2026-11-21 09:26",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "“租购修养”全周期保障正在落实落细",
