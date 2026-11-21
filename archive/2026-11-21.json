@@ -1,8 +1,32 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 20:05",
+ "fetched": "2026-11-21 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "为推动亚太合作行稳致远指明方向——国际人士高度评价习近平主席重要讲话",
+   "link": "https://news.cctv.com/2026/11/21/ARTI4dn9FgnNREpESkmhpHsY261121.shtml",
+   "pub": "2026-11-21 20:29",
+   "source": "央视网"
+  },
+  {
+   "title": "国际人士表示中俄美元首会晤凝聚共识推动建设更美好世界",
+   "link": "https://news.cctv.com/2026/11/21/ARTIlLR9tJgDVPOADyKxmMoW261121.shtml",
+   "pub": "2026-11-21 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队总司令视察“导弹城”",
+   "link": "https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml",
+   "pub": "2026-11-21 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "俄方称克里米亚大桥铁路运输已全面恢复",
+   "link": "https://news.cctv.com/2026/11/21/ARTIFlLY2pLqkq6x8TjvrYRd261121.shtml",
+   "pub": "2026-11-21 20:25",
+   "source": "央视网"
+  },
   {
    "title": "北京警方抓获一名为电诈架设虚拟拨号设备嫌疑人",
    "link": "https://news.cctv.com/2026/11/21/ARTIk2WIk88MChG8znao0dV9261121.shtml",
