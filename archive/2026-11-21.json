@@ -1,12 +1,72 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 11:05",
- "note": "今日抓取",
+ "fetched": "2026-11-21 11:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
-   "title": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
-   "link": "https://news.cctv.com/2026/11/21/ARTI7b15wC3RJ4Yal6Xwgckf261121.shtml",
-   "pub": "2026-11-21 10:44",
+   "title": "各地“小而美”书店点亮生活 多元形态让阅读既有“书香气”更接“烟火气”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIosPpgdz91Ex4qSe7oB2l261121.shtml",
+   "pub": "2026-11-21 11:29",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年“数据要素×”大赛新疆分赛正式闭幕",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml",
+   "pub": "2026-11-21 11:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "河北丰南：东方白鹳舞蹁跹",
+   "link": "https://photo.cctv.com/2026/11/21/PHOANiggF6hExn3fvTzZ8hxU261121.shtml",
+   "pub": "2026-11-21 11:25",
+   "source": "央视网"
+  },
+  {
+   "title": "我国成功发射卫星互联网低轨30组卫星",
+   "link": "https://photo.cctv.com/2026/11/21/PHOAdSjrL2Y64Uq7GizbcGOu261121.shtml",
+   "pub": "2026-11-21 11:25",
+   "source": "央视网"
+  },
+  {
+   "title": "杭州：初冬西湖景致秀美",
+   "link": "https://photo.cctv.com/2026/11/21/PHOAVdsoHdLtHyIkE2AvLix8261121.shtml",
+   "pub": "2026-11-21 11:24",
+   "source": "央视网"
+  },
+  {
+   "title": "黑龙江齐齐哈尔：雪落仙洞山鹿群踏雪来",
+   "link": "https://photo.cctv.com/2026/11/21/PHOAFnn0GDRlZkNGGFgxEVJc261121.shtml",
+   "pub": "2026-11-21 11:24",
+   "source": "央视网"
+  },
+  {
+   "title": "单霁翔：让灿烂文化有尊严地传给子孙后代",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735668.shtml",
+   "pub": "2026-11-21 11:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美货运“龙”飞船脱离空间站启程返回地球",
+   "link": "https://news.cctv.com/2026/11/21/ARTI24fK086BIhbpy891jya9261121.shtml",
+   "pub": "2026-11-21 11:18",
+   "source": "央视网"
+  },
+  {
+   "title": "依法严惩性侵害未成年人犯罪 最高检发布指导性案例",
+   "link": "https://news.cctv.com/2026/11/21/ARTIjnPHWqCXK6sFFcNmAs1E261121.shtml",
+   "pub": "2026-11-21 11:17",
+   "source": "央视网"
+  },
+  {
+   "title": "闲置空间“活”起来变身便民新空间 “家门口的幸福”让民生温度直抵人心",
+   "link": "https://news.cctv.com/2026/11/21/ARTIYk80R4XGCnWZ3qqbAbcp261121.shtml",
+   "pub": "2026-11-21 11:12",
+   "source": "央视网"
+  },
+  {
+   "title": "时政新闻眼丨“深圳之约”圆满收官，亚太合作留下哪些鲜明印记？",
+   "link": "https://news.cctv.com/2026/11/21/ARTImSy3Cfeg4GYr6WU3cHFk261121.shtml",
+   "pub": "2026-11-21 11:07",
    "source": "央视网"
   },
   {
@@ -14,6 +74,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735647.shtml",
    "pub": "2026-11-21 10:44",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+   "link": "https://news.cctv.com/2026/11/21/ARTI7b15wC3RJ4Yal6Xwgckf261121.shtml",
+   "pub": "2026-11-21 10:44",
+   "source": "央视网"
   },
   {
    "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
@@ -58,21 +124,15 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
-   "link": "https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml",
-   "pub": "2026-11-21 10:23",
-   "source": "央视网"
-  },
-  {
    "title": "“我们把彼此视为重要合作伙伴”——访墨西哥外贸、投资和技术委员会墨中分委会主席巴尔德斯",
    "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735658.shtml",
    "pub": "2026-11-21 10:23",
    "source": "中国新闻网·国内"
   },
   {
-   "title": "英国推进移民制度改革 持续关停庇护安置酒店",
-   "link": "https://news.cctv.com/2026/11/21/ARTI03x7QnN1sVfvIxj1cLCf261121.shtml",
-   "pub": "2026-11-21 10:20",
+   "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
+   "link": "https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml",
+   "pub": "2026-11-21 10:23",
    "source": "央视网"
   },
   {
@@ -80,6 +140,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735657.shtml",
    "pub": "2026-11-21 10:20",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "英国推进移民制度改革 持续关停庇护安置酒店",
+   "link": "https://news.cctv.com/2026/11/21/ARTI03x7QnN1sVfvIxj1cLCf261121.shtml",
+   "pub": "2026-11-21 10:20",
+   "source": "央视网"
   },
   {
    "title": "国防教育进校园 让爱国强军的种子在童心中生根发芽",
