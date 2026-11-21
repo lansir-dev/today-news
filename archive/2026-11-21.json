@@ -1,13 +1,31 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 19:05",
+ "fetched": "2026-11-21 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
+   "title": "中外高校围绕“产学研用”达成19项合作",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735837.shtml",
+   "pub": "2026-11-21 19:29",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "伊朗宣布击落一架美军MQ-1无人机",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735843.shtml",
+   "pub": "2026-11-21 19:29",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "大国的历史主动，落笔即成新章",
+   "link": "https://news.cctv.com/2026/11/21/ARTIFkw04VQXx5ggBXyABdt9261121.shtml",
+   "pub": "2026-11-21 19:18",
+   "source": "央视网"
+  },
+  {
    "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
-   "pub": "2026-11-21 18:57",
-   "source": "中国新闻网·社会"
+   "link": "https://news.cctv.com/2026/11/21/ARTIDzhu4vClLLmqO0lAFTBU261121.shtml",
+   "pub": "2026-11-21 19:09",
+   "source": "央视网"
   },
   {
    "title": "2026文化抗战学术研讨会在桂林召开",
@@ -73,7 +91,7 @@
    "title": "开塞露能“平替面霜”？ 医生提醒切勿盲目尝试网络偏方",
    "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735815.shtml",
    "pub": "2026-11-21 18:34",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "中国驻沙特大使馆再次提醒在沙中资机构和中国公民注意安全",
@@ -506,12 +524,6 @@
    "link": "https://news.cctv.com/2026/11/21/ARTInp0DftKTxl3IcahOMJVM261121.shtml",
    "pub": "2026-11-21 13:29",
    "source": "央视网"
-  },
-  {
-   "title": "苏锡常欧美同学会聚智联动 共探未来产业新赛道",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735695.shtml",
-   "pub": "2026-11-21 13:25",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "专家：AI检测只是辅助依据 不能替代学术评价",
