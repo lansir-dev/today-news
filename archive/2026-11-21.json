@@ -1,13 +1,55 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 16:35",
+ "fetched": "2026-11-21 17:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "各地打造冬季文旅消费新场景新业态 “花式过冬”让冰雪游持续升温",
+   "link": "https://news.cctv.com/2026/11/21/ARTINlrLcmokyT43WroiysAo261121.shtml",
+   "pub": "2026-11-21 16:51",
+   "source": "央视网"
+  },
+  {
+   "title": "广西柳州通报打击非法猎捕贩卖野生鸟类 抓捕涉案人员35人",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735771.shtml",
+   "pub": "2026-11-21 16:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "聚焦AI攻防变局 第六届新一代通信网内生安全大会12月南京举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735758.shtml",
+   "pub": "2026-11-21 16:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "人力资源服务方向国家人工智能应用中试基地在重庆揭牌",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735757.shtml",
+   "pub": "2026-11-21 16:37",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（走进中国乡村）新雪季新疆“冰雪小镇”迎客忙",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735765.shtml",
+   "pub": "2026-11-21 16:37",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735773.shtml",
+   "pub": "2026-11-21 16:35",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "藏羚羊正值交配期 西藏那曲营造“不被打扰”的栖息环境",
    "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735766.shtml",
    "pub": "2026-11-21 16:32",
    "source": "中国新闻网"
+  },
+  {
+   "title": "西藏阿里地区档案馆实现馆藏档案100%数字化",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735768.shtml",
+   "pub": "2026-11-21 16:32",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "今年前三季度全国经营主体“提质向新”",
@@ -574,12 +616,6 @@
    "source": "央视网"
   },
   {
-   "title": "抢在前、备在先——能源全线迎战今冬“冲峰大考”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735643.shtml",
-   "pub": "2026-11-21 09:56",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "日出鎏金！根河雾凇披上金辉",
    "link": "https://news.cctv.com/2026/11/21/ARTIxiNnMbVEwx2qiNiiS3Ik261121.shtml",
    "pub": "2026-11-21 09:55",
@@ -592,18 +628,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "重庆统战教育高地建设积厚成势 五方面成果集中显现",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735629.shtml",
-   "pub": "2026-11-21 09:48",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "世界首个、蝉联榜首、刷新纪录！本周我国多领域捷报频传",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735640.shtml",
-   "pub": "2026-11-21 09:47",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "第二届文化养老产业交流会在厦门举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
    "pub": "2026-11-21 09:44",
@@ -614,12 +638,6 @@
    "link": "https://news.cctv.com/2026/11/21/ARTIG2WCvZDOfVQoI1pYaTc4261121.shtml",
    "pub": "2026-11-21 09:35",
    "source": "央视网"
-  },
-  {
-   "title": "中国科技馆“北辰对话”推出特别节目《雨林的“创”生》",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735631.shtml",
-   "pub": "2026-11-21 09:34",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "透过数据“升”看前三季度我国金融服务能力持续加强",
