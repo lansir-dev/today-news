@@ -1,8 +1,44 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 13:05",
+ "fetched": "2026-11-21 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "第四十届中国植保双交会在蓉开幕 发布10项团体标准",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735694.shtml",
+   "pub": "2026-11-21 13:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第六届“齐白石”全国大学生中国画作品展开幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735693.shtml",
+   "pub": "2026-11-21 13:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "俄外交部：元首外交在俄中关系中发挥特殊引领作用",
+   "link": "https://news.cctv.com/2026/11/21/ARTInp0DftKTxl3IcahOMJVM261121.shtml",
+   "pub": "2026-11-21 13:29",
+   "source": "央视网"
+  },
+  {
+   "title": "苏锡常欧美同学会聚智联动 共探未来产业新赛道",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735695.shtml",
+   "pub": "2026-11-21 13:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "专家：AI检测只是辅助依据 不能替代学术评价",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735696.shtml",
+   "pub": "2026-11-21 13:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "越南—中国西南地区发展战略对接论坛在昆明举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735690.shtml",
+   "pub": "2026-11-21 13:13",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "最高检发布指导性案例 依法严惩性侵害未成年人犯罪",
    "link": "https://www.chinanews.com.cn/fz/2026/11-21/10735665.shtml",
