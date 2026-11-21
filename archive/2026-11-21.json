@@ -1,8 +1,62 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 20:35",
+ "fetched": "2026-11-21 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平主席的深圳APEC时间",
+   "link": "https://news.cctv.com/2026/11/21/ARTIHvDB8lno2BGL88LrAQo9261121.shtml",
+   "pub": "2026-11-21 21:00",
+   "source": "央视网"
+  },
+  {
+   "title": "青海德令哈市发生5.6级地震 中国地震局启动四级应急响应",
+   "link": "https://news.cctv.com/2026/11/21/ARTIy4H7VjZUrlkGUDSY0f5h261121.shtml",
+   "pub": "2026-11-21 20:47",
+   "source": "央视网"
+  },
+  {
+   "title": "长安大学回应“14日面试13日出结果”",
+   "link": "https://news.cctv.com/2026/11/21/ARTIbCdTI82YkG7KyhtaoaoE261121.shtml",
+   "pub": "2026-11-21 20:43",
+   "source": "央视网"
+  },
+  {
+   "title": "小雪节气：中医支招顺冬藏、防寒燥",
+   "link": "https://news.cctv.com/2026/11/21/ARTIUHnU0urI37omsxC9OVZY261121.shtml",
+   "pub": "2026-11-21 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "多地秋假激发亲子文旅市场活力",
+   "link": "https://news.cctv.com/2026/11/21/ARTIYpmrYOosKvVMdvDcUBQF261121.shtml",
+   "pub": "2026-11-21 20:38",
+   "source": "央视网"
+  },
+  {
+   "title": "神舟二十四号载人飞行任务各系统进行发射场区合练",
+   "link": "https://news.cctv.com/2026/11/21/ARTIEArNs8kqqEavPGu3EYra261121.shtml",
+   "pub": "2026-11-21 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "10月份工业经济总体平稳 发展质量持续提升",
+   "link": "https://news.cctv.com/2026/11/21/ARTIoxN8SQfJGt7EsBHWAfqF261121.shtml",
+   "pub": "2026-11-21 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "【权威访谈】深入推进新时代党的建设新的伟大工程",
+   "link": "https://news.cctv.com/2026/11/21/ARTInBJrlfc0medPRAewHPYH261121.shtml",
+   "pub": "2026-11-21 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "南水北调“天河”大模型完成升级",
+   "link": "https://news.cctv.com/2026/11/21/ARTIm7nQISYyCYWNheR5yD95261121.shtml",
+   "pub": "2026-11-21 20:34",
+   "source": "央视网"
+  },
   {
    "title": "为推动亚太合作行稳致远指明方向——国际人士高度评价习近平主席重要讲话",
    "link": "https://news.cctv.com/2026/11/21/ARTI4dn9FgnNREpESkmhpHsY261121.shtml",
