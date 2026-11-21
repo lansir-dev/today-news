@@ -1,8 +1,80 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 18:35",
+ "fetched": "2026-11-21 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
+   "pub": "2026-11-21 18:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026文化抗战学术研讨会在桂林召开",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
+   "pub": "2026-11-21 18:48",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "第五届长江大保护司法论坛在武汉开幕",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
+   "pub": "2026-11-21 18:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "2026年以来昆明市检察机关办理涉外因素案件210件",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735823.shtml",
+   "pub": "2026-11-21 18:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "宁夏银川非遗创新设计大赛收官 36件作品让老手艺走进日常生活",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735821.shtml",
+   "pub": "2026-11-21 18:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "拉萨市城关区精准监督 破解小区治理难题",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735819.shtml",
+   "pub": "2026-11-21 18:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "特朗普、普京、李在明等APEC与会领导人感谢中国，点赞深圳：“这是历史性的一页”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735832.shtml",
+   "pub": "2026-11-21 18:41",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "全国300余位专家学者齐聚长春 共议教师教育改革",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735818.shtml",
+   "pub": "2026-11-21 18:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026城市“青活力”调查报告：近八成年轻人选择城市首看薪资",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735817.shtml",
+   "pub": "2026-11-21 18:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "重庆国际人才交流大会开幕",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735825.shtml",
+   "pub": "2026-11-21 18:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "李强同新加坡总理黄循财会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735776.shtml",
+   "pub": "2026-11-21 18:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "开塞露能“平替面霜”？ 医生提醒切勿盲目尝试网络偏方",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735815.shtml",
+   "pub": "2026-11-21 18:34",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "中国驻沙特大使馆再次提醒在沙中资机构和中国公民注意安全",
    "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735774.shtml",
@@ -448,22 +520,10 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "越南—中国西南地区发展战略对接论坛在昆明举行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735690.shtml",
-   "pub": "2026-11-21 13:13",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "最高检发布指导性案例 依法严惩性侵害未成年人犯罪",
    "link": "https://www.chinanews.com.cn/fz/2026/11-21/10735665.shtml",
    "pub": "2026-11-21 12:36",
    "source": "中国新闻网"
-  },
-  {
-   "title": "台胞陶艺家：一脉窑火烧紫砂 手捏陶土牵两岸",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735684.shtml",
-   "pub": "2026-11-21 12:26",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
@@ -508,12 +568,6 @@
    "source": "央视网"
   },
   {
-   "title": "2026年“数据要素×”大赛新疆分赛正式闭幕",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml",
-   "pub": "2026-11-21 11:28",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
    "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
    "pub": "2026-11-21 11:27",
@@ -542,12 +596,6 @@
    "link": "https://photo.cctv.com/2026/11/21/PHOAFnn0GDRlZkNGGFgxEVJc261121.shtml",
    "pub": "2026-11-21 11:24",
    "source": "央视网"
-  },
-  {
-   "title": "单霁翔：让灿烂文化有尊严地传给子孙后代",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735668.shtml",
-   "pub": "2026-11-21 11:20",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "美货运“龙”飞船脱离空间站启程返回地球",
@@ -610,22 +658,10 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "又到三峡满山红叶时 重庆巫山举行系列活动",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735650.shtml",
-   "pub": "2026-11-21 10:27",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
    "link": "https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml",
    "pub": "2026-11-21 10:23",
    "source": "央视网"
-  },
-  {
-   "title": "这杯“调解茶”：茶馆坐得下，云端连得上",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735657.shtml",
-   "pub": "2026-11-21 10:20",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "英国推进移民制度改革 持续关停庇护安置酒店",
@@ -676,18 +712,6 @@
    "source": "央视网"
   },
   {
-   "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735642.shtml",
-   "pub": "2026-11-21 09:53",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "第二届文化养老产业交流会在厦门举行",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
-   "pub": "2026-11-21 09:44",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
    "link": "https://news.cctv.com/2026/11/21/ARTIG2WCvZDOfVQoI1pYaTc4261121.shtml",
    "pub": "2026-11-21 09:35",
@@ -700,22 +724,10 @@
    "source": "央视网"
   },
   {
-   "title": "“租购修养”全周期保障正在落实落细",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735632.shtml",
-   "pub": "2026-11-21 09:22",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "“数”说前十个月“国家账本” 民生领域保障有力",
    "link": "https://news.cctv.com/2026/11/21/ARTIDUNs3r7X0WZQ6015tcgk261121.shtml",
    "pub": "2026-11-21 09:19",
    "source": "央视网"
-  },
-  {
-   "title": "“助眠神器”，真有用还是“割韭菜”？",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735625.shtml",
-   "pub": "2026-11-21 09:16",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "周末两天北京晴到多云 昼夜温差较大最低气温仅零下4℃",
