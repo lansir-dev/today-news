@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "fetched": "2026-11-21 19:35",
+ "fetched": "2026-11-21 20:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1260,6 +1260,13 @@
  ],
  "ai": [
   {
+   "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+   "link": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+   "meta": "The Decoder：AI News · 发布于 11-21 19:19 · 论文",
+   "summary": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。",
+   "origin": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+  },
+  {
    "title": "Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家",
    "link": "https://aihot.news/items/t68rgyv46hdbp52212ozxleh3",
    "meta": "Google Research：Blog · 发布于 11-20 08:00 · 产品",
@@ -1307,13 +1314,6 @@
    "meta": "OpenHands 官方博客 · 发布于 11-19 08:00 · 教程",
    "summary": "OpenHands 团队详解把大部分 CVE 修复工作交给 Agent 流水线的做法：Agent 选择修复、开 PR、合并低风险项并跟踪到部署，人每天只读一条最多 11 行的 Slack 消息和少量 PR。",
    "origin": "https://www.openhands.dev/blog/automating-cve-remediation-with-openhands"
-  },
-  {
-   "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-   "link": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-   "meta": "公众号：数字生命卡兹克 · 发布于 11-21 00:54 · 论文",
-   "summary": "Anthropic 数学家 Levent Alpöge 在个人网站宣布与 Claude 合作证明了黎曼猜想，没有论文，只放出 14 个压缩包共 175187 个 Lean 文件、1737 万行代码。",
-   "origin": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA"
   }
  ]
 }

@@ -1,8 +1,26 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 19:35",
+ "fetched": "2026-11-21 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京警方抓获一名为电诈架设虚拟拨号设备嫌疑人",
+   "link": "https://news.cctv.com/2026/11/21/ARTIk2WIk88MChG8znao0dV9261121.shtml",
+   "pub": "2026-11-21 19:52",
+   "source": "央视网"
+  },
+  {
+   "title": "【新思想引领新征程】努力让老年人的生活更加幸福美满",
+   "link": "https://news.cctv.com/2026/11/21/ARTIigtGCMXhxUZjNrob8Tje261121.shtml",
+   "pub": "2026-11-21 19:50",
+   "source": "央视网"
+  },
+  {
+   "title": "青海德令哈市发生5.6级地震 前突小队正在震中附近排查",
+   "link": "https://news.cctv.com/2026/11/21/ARTIwNCNmtCuCpQ9voip6bHC261121.shtml",
+   "pub": "2026-11-21 19:41",
+   "source": "央视网"
+  },
   {
    "title": "中外高校围绕“产学研用”达成19项合作",
    "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735837.shtml",
