@@ -1,8 +1,32 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-21 11:35",
+ "fetched": "2026-11-21 12:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "共享新机遇 | 新赛道、新机遇 中国超大市场为全球经济增长提供“强支撑”",
+   "link": "https://news.cctv.com/2026/11/21/ARTI0dQL7JbZ5kKHMAoD8n19261121.shtml",
+   "pub": "2026-11-21 11:39",
+   "source": "央视网"
+  },
+  {
+   "title": "推动古老殷商文脉走出书斋 数字科技破解甲骨文研究传播难题",
+   "link": "https://news.cctv.com/2026/11/21/ARTIFqbwT3rMGkADRxcXDElb261121.shtml",
+   "pub": "2026-11-21 11:37",
+   "source": "央视网"
+  },
+  {
+   "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
+   "pub": "2026-11-21 11:33",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
+   "pub": "2026-11-21 11:32",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "各地“小而美”书店点亮生活 多元形态让阅读既有“书香气”更接“烟火气”",
    "link": "https://news.cctv.com/2026/11/21/ARTIosPpgdz91Ex4qSe7oB2l261121.shtml",
@@ -14,6 +38,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml",
    "pub": "2026-11-21 11:28",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
+   "pub": "2026-11-21 11:27",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "河北丰南：东方白鹳舞蹁跹",
