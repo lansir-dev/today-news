@@ -1,8 +1,26 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 13:05",
+ "fetched": "2026-11-22 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "四川工会爱心托管解决职工“后顾之忧”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736023.shtml",
+   "pub": "2026-11-22 13:30",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国石油天然气集团有限公司副总经理谢军被查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736022.shtml",
+   "pub": "2026-11-22 13:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736018.shtml",
+   "pub": "2026-11-22 13:23",
+   "source": "中国新闻网"
+  },
   {
    "title": "多地秋假激发亲子文旅市场活力",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736014.shtml",
