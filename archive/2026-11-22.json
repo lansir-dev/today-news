@@ -1,8 +1,44 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 15:05",
+ "fetched": "2026-11-22 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "精准施策 北京警方护航周末群众出游出行平安有序",
+   "link": "https://news.cctv.com/2026/11/22/ARTIiyEUWsakytabd25r2v78261122.shtml",
+   "pub": "2026-11-22 15:31",
+   "source": "央视网"
+  },
+  {
+   "title": "拓市场、转赛道、延链条 “沙漠之舟”全链生金变身牧民致富“富民之舟”",
+   "link": "https://news.cctv.com/2026/11/22/ARTIAibRGTEfhHIxXWMQhtTC261122.shtml",
+   "pub": "2026-11-22 15:25",
+   "source": "央视网"
+  },
+  {
+   "title": "整理“太空家园”，就等新乘组“拎包入住” ！| 神二十三乘组边“迎新”边备返",
+   "link": "https://news.cctv.com/2026/11/22/ARTIgw7HAxxomaJhahlRfNYT261122.shtml",
+   "pub": "2026-11-22 15:24",
+   "source": "央视网"
+  },
+  {
+   "title": "可用，不可见！首批可信数据空间创新发展服务产业与民生需求",
+   "link": "https://news.cctv.com/2026/11/22/ARTIG41W9lxmjsKCMj887nWr261122.shtml",
+   "pub": "2026-11-22 15:24",
+   "source": "央视网"
+  },
+  {
+   "title": "“冬日雪暖阳·好戏在沈阳”——沈阳苏家屯农民画主题大集启幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736059.shtml",
+   "pub": "2026-11-22 15:08",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "瑞士联邦副主席兼外长卡西斯将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736064.shtml",
+   "pub": "2026-11-22 15:07",
+   "source": "中国新闻网"
+  },
   {
    "title": "四川雅安市石棉县发生3.3级地震，震源深度13千米",
    "link": "https://news.cctv.com/2026/11/22/ARTIPGv9nU2hlFzrLYRgd6VT261122.shtml",
@@ -25,13 +61,13 @@
    "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
    "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
    "pub": "2026-11-22 14:34",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利",
    "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736048.shtml",
    "pub": "2026-11-22 14:30",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "（东西问·兰花奖）英国导演柯文思：真实的中国生活就是最好的叙事",
@@ -49,7 +85,7 @@
    "title": "韩国总统李在明受理教育部长官崔教振辞呈",
    "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736036.shtml",
    "pub": "2026-11-22 13:42",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
@@ -583,12 +619,6 @@
    "title": "网络交友被骗压岁钱 警惕针对青少年的“小额多次式诈骗”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml",
    "pub": "2026-11-22 08:39",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "学生课间玩耍不慎摔伤 谁来担责",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735943.shtml",
-   "pub": "2026-11-22 08:36",
    "source": "中国新闻网·社会"
   },
   {
