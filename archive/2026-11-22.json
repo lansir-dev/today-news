@@ -1,8 +1,38 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 16:05",
+ "fetched": "2026-11-22 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
+   "link": "https://news.cctv.com/2026/11/22/ARTI6eSabAA5QFZCa9ezizdE261122.shtml",
+   "pub": "2026-11-22 16:30",
+   "source": "央视网"
+  },
+  {
+   "title": "冰雪大世界建设进行时 哈尔滨今年还有这些亮点",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736088.shtml",
+   "pub": "2026-11-22 16:28",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "柬埔寨时隔两年多再现猴痘确诊病例",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736067.shtml",
+   "pub": "2026-11-22 16:13",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "特朗普连发30多张照片盛赞APEC会议，照片配文“GOAT”（有史以来最伟大的）",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736082.shtml",
+   "pub": "2026-11-22 16:11",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "尼日利亚一船只倾覆 已致24人死亡",
+   "link": "https://news.cctv.com/2026/11/22/ARTIU9ch4JVksuC9y2Fxtb4R261122.shtml",
+   "pub": "2026-11-22 16:04",
+   "source": "央视网"
+  },
   {
    "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
@@ -559,12 +589,6 @@
    "title": "世界客属第34届恳亲大会海口闭幕 新加坡为第36届世客会举办地",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735962.shtml",
    "pub": "2026-11-22 10:18",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "兰花奖外宾开启山西行：中国的国际化“古已有之”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735964.shtml",
-   "pub": "2026-11-22 10:16",
    "source": "中国新闻网·社会"
   },
   {
