@@ -1,8 +1,44 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 14:35",
+ "fetched": "2026-11-22 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "四川雅安市石棉县发生3.3级地震，震源深度13千米",
+   "link": "https://news.cctv.com/2026/11/22/ARTIPGv9nU2hlFzrLYRgd6VT261122.shtml",
+   "pub": "2026-11-22 14:43",
+   "source": "央视网"
+  },
+  {
+   "title": "共享中国式现代化机遇",
+   "link": "https://news.cctv.com/2026/11/22/ARTIM40pKS6fpsEMmjvENMdq261122.shtml",
+   "pub": "2026-11-22 14:40",
+   "source": "央视网"
+  },
+  {
+   "title": "中国排球名宿郎平获颁国际排联最高荣誉“排球勋章”",
+   "link": "https://www.chinanews.com.cn/ty/2026/11-22/10736051.shtml",
+   "pub": "2026-11-22 14:39",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
+   "pub": "2026-11-22 14:34",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736048.shtml",
+   "pub": "2026-11-22 14:30",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "（东西问·兰花奖）英国导演柯文思：真实的中国生活就是最好的叙事",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736047.shtml",
+   "pub": "2026-11-22 14:29",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "【和合共生】习言道｜历史性会晤里的历史与未来",
    "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736034.shtml",
