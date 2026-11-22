@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-22 18:05",
+ "fetched": "2026-11-22 18:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1085,6 +1085,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
+   "link": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
+   "meta": "IT之家·人工智能 · 发布于 11-22 17:35 · 观点",
+   "summary": "2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。",
+   "origin": "https://www.ithome.com/1/030/677.htm"
+  },
   {
    "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
    "link": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",

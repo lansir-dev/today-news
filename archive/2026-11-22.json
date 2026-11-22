@@ -1,8 +1,26 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 17:35",
+ "fetched": "2026-11-22 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "海外博主看中国 | 在600多米高空见证中国“钢铁奇迹”",
+   "link": "https://news.cctv.com/2026/11/22/ARTIUwgai1HiK1BPKrnNGkzJ261122.shtml",
+   "pub": "2026-11-22 18:27",
+   "source": "央视网"
+  },
+  {
+   "title": "行贿犯罪嫌疑人刘贤志被遣返回国",
+   "link": "https://news.cctv.com/2026/11/22/ARTIViMR9JrUhOoZqhyaYNmK261122.shtml",
+   "pub": "2026-11-22 18:18",
+   "source": "央视网"
+  },
+  {
+   "title": "大风蓝色预警继续：内蒙古山西河北等地部分地区有5～6级风",
+   "link": "https://news.cctv.com/2026/11/22/ARTIf9BIBnlbw4PYNU3ECWsp261122.shtml",
+   "pub": "2026-11-22 18:14",
+   "source": "央视网"
+  },
   {
    "title": "新疆乌鲁木齐市乌鲁木齐县发生4.5级地震 震源深度30千米",
    "link": "https://news.cctv.com/2026/11/22/ARTIez5nKlD9v7YQwaMXiT28261122.shtml",
