@@ -1,8 +1,14 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 21:05",
+ "fetched": "2026-11-22 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "近镜头｜跨越山海 亚太扬帆",
+   "link": "https://news.cctv.com/2026/11/22/ARTIllec6QGanZHvHu1lX8f3261122.shtml",
+   "pub": "2026-11-22 21:19",
+   "source": "央视网"
+  },
   {
    "title": "【文化中国行】福建嵩口古镇留住最美乡愁",
    "link": "https://news.cctv.com/2026/11/22/ARTIVJGGmpDOH6lb9yd2z8zT261122.shtml",
