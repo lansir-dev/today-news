@@ -1,8 +1,50 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 12:05",
+ "fetched": "2026-11-22 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "从“设计”到“产品” 一项项全球创新构想从中国“试验场”走向“大市场”",
+   "link": "https://news.cctv.com/2026/11/22/ARTI1LPmWK0IeoDWlt39KZjb261122.shtml",
+   "pub": "2026-11-22 12:29",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC“中国年” 亚太合作启新航",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736011.shtml",
+   "pub": "2026-11-22 12:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "乡蔬专线畅联“田间地头”与“城区菜场” 暖心服务彰显为民初心",
+   "link": "https://news.cctv.com/2026/11/22/ARTI8WR9SdYJiSMjCDguJL1v261122.shtml",
+   "pub": "2026-11-22 12:28",
+   "source": "央视网"
+  },
+  {
+   "title": "数智技术为“老手艺”装上“新引擎” 历史经典产业向“新”发展",
+   "link": "https://news.cctv.com/2026/11/22/ARTIvOvgNrzSvkmbACQdbgMK261122.shtml",
+   "pub": "2026-11-22 12:28",
+   "source": "央视网"
+  },
+  {
+   "title": "打开串联城乡的“观鸟地图” 解锁“观鸟经济”点绿成“金”新密码",
+   "link": "https://news.cctv.com/2026/11/22/ARTIzknIYuIihUT1ziOSgbe1261122.shtml",
+   "pub": "2026-11-22 12:27",
+   "source": "央视网"
+  },
+  {
+   "title": "福建君子峰发现4个大型真菌新种",
+   "link": "https://news.cctv.com/2026/11/22/ARTIIUVN0cSssqNEdvGYxhNq261122.shtml",
+   "pub": "2026-11-22 12:11",
+   "source": "央视网"
+  },
+  {
+   "title": "探访老昆明杂书馆：藏在居民区里的“时光容器”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736005.shtml",
+   "pub": "2026-11-22 12:07",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "新字头、新读音 铁路部门解答车次编排改革热点问题",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735992.shtml",
@@ -62,6 +104,12 @@
    "link": "https://news.cctv.com/2026/11/22/ARTIhJithLPr8ta2ZlH5hNQ5261122.shtml",
    "pub": "2026-11-22 11:46",
    "source": "央视网"
+  },
+  {
+   "title": "我国首批可信数据空间创新发展试点取得阶段性进展",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-22/10736003.shtml",
+   "pub": "2026-11-22 11:44",
+   "source": "中国新闻网"
   },
   {
    "title": "创新之城涌“新”潮",
