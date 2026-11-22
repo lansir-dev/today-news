@@ -1,8 +1,62 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 15:35",
+ "fetched": "2026-11-22 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
+   "pub": "2026-11-22 15:50",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "南非开普敦一酒馆发生枪击事件 致4死5伤",
+   "link": "https://news.cctv.com/2026/11/22/ARTItBnRvds8W8jvIqVlOYV6261122.shtml",
+   "pub": "2026-11-22 15:42",
+   "source": "央视网"
+  },
+  {
+   "title": "（走进中国乡村）湖南安化茶企抱团出海  “黑茶之乡”加速拓展全球市场",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736071.shtml",
+   "pub": "2026-11-22 15:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "4000元、96集、一个人  AI短剧《重生螳螂》的爆款样本",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736070.shtml",
+   "pub": "2026-11-22 15:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "秋假出游“爆款”扎堆“上新” “行走课堂”为文旅市场注入持久活力",
+   "link": "https://news.cctv.com/2026/11/22/ARTI7uhiu2m7RxMOARJAHK0l261122.shtml",
+   "pub": "2026-11-22 15:40",
+   "source": "央视网"
+  },
+  {
+   "title": "APEC“中国年”留下亮眼数据 更有清晰方向：开放合作是发展振兴正确选择",
+   "link": "https://news.cctv.com/2026/11/22/ARTI7mj8ZTW1SI7noTFsPMnO261122.shtml",
+   "pub": "2026-11-22 15:39",
+   "source": "央视网"
+  },
+  {
+   "title": "开放底座，提供场景……APEC会议落幕这样的普惠在会场外继续发生",
+   "link": "https://news.cctv.com/2026/11/22/ARTI98tm2hyZlWOEcjbXOxTQ261122.shtml",
+   "pub": "2026-11-22 15:39",
+   "source": "央视网"
+  },
+  {
+   "title": "泰国大城府：千年古都展现历史文化魅力",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736053.shtml",
+   "pub": "2026-11-22 15:35",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "莫迪：“印度民众响应我的号召，帮助降低了黄金价格”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736069.shtml",
+   "pub": "2026-11-22 15:34",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "精准施策 北京警方护航周末群众出游出行平安有序",
    "link": "https://news.cctv.com/2026/11/22/ARTIiyEUWsakytabd25r2v78261122.shtml",
@@ -614,12 +668,6 @@
    "link": "https://www.chinanews.com.cn/fz/2026/11-22/10735945.shtml",
    "pub": "2026-11-22 08:49",
    "source": "中国新闻网"
-  },
-  {
-   "title": "网络交友被骗压岁钱 警惕针对青少年的“小额多次式诈骗”",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml",
-   "pub": "2026-11-22 08:39",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "【8点见】饭店88元红烧“小鸡”竟是候鸟，官方通报！",
