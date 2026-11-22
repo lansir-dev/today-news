@@ -1,8 +1,32 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 13:35",
+ "fetched": "2026-11-22 14:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "韩国总统李在明受理教育部长官崔教振辞呈",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736036.shtml",
+   "pub": "2026-11-22 13:42",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736035.shtml",
+   "pub": "2026-11-22 13:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "全国“最美五老”何红明：点亮边疆万千少年“心灯”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736031.shtml",
+   "pub": "2026-11-22 13:35",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "200余名中外人士徒步寻访“南京安全区”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736029.shtml",
+   "pub": "2026-11-22 13:31",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "四川工会爱心托管解决职工“后顾之忧”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736023.shtml",
@@ -523,12 +547,6 @@
    "title": "学生课间玩耍不慎摔伤 谁来担责",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735943.shtml",
    "pub": "2026-11-22 08:36",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "节气物候图鉴：小雪雪渐落 全国初雪进程地图看哪里将披银装",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735942.shtml",
-   "pub": "2026-11-22 08:33",
    "source": "中国新闻网·社会"
   },
   {
