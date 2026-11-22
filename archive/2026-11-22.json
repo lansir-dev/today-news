@@ -1,8 +1,50 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 16:35",
+ "fetched": "2026-11-22 17:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "山上鸟毛遍地 餐馆售卖“野味” 谁在围猎南迁候鸟？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736102.shtml",
+   "pub": "2026-11-22 16:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "红星照耀中国 | 史志馆里的“红领巾”",
+   "link": "https://news.cctv.com/2026/11/22/ARTIjFjAm9XnsTw1Qa2WVS8h261122.shtml",
+   "pub": "2026-11-22 16:56",
+   "source": "央视网"
+  },
+  {
+   "title": "国产大型邮轮“爱达·花城号”开启商业首航",
+   "link": "https://news.cctv.com/2026/11/22/ARTIm3Vo4gChbyITfSIFmeJV261122.shtml",
+   "pub": "2026-11-22 16:51",
+   "source": "央视网"
+  },
+  {
+   "title": "黑河红河谷国际滑雪场开板迎客",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736094.shtml",
+   "pub": "2026-11-22 16:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（乡村行·看振兴）“中国芦柑之乡”福建永春果香越山海",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736089.shtml",
+   "pub": "2026-11-22 16:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736083.shtml",
+   "pub": "2026-11-22 16:42",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "“六张网”投资发力：创新有支撑，民生有温度",
+   "link": "https://news.cctv.com/2026/11/22/ARTIjhPZBCpqaQfbNdeolI6d261122.shtml",
+   "pub": "2026-11-22 16:36",
+   "source": "央视网"
+  },
   {
    "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
    "link": "https://news.cctv.com/2026/11/22/ARTI6eSabAA5QFZCa9ezizdE261122.shtml",
@@ -578,18 +620,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735960.shtml",
    "pub": "2026-11-22 10:19",
    "source": "中国新闻网"
-  },
-  {
-   "title": "十载传脉新质启新 北京国际城市设计大会召开",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735959.shtml",
-   "pub": "2026-11-22 10:19",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "世界客属第34届恳亲大会海口闭幕 新加坡为第36届世客会举办地",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735962.shtml",
-   "pub": "2026-11-22 10:18",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "三峡红叶景如画",
