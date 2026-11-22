@@ -1,8 +1,86 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 11:05",
+ "fetched": "2026-11-22 11:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "T、K为何划归高速旅客列车？普速列车Z、N、V如何选定？权威解答来了",
+   "link": "https://news.cctv.com/2026/11/22/ARTIJ1duvZvpTQPIyECtWM1t261122.shtml",
+   "pub": "2026-11-22 11:32",
+   "source": "央视网"
+  },
+  {
+   "title": "巅峰对决！“丝路之星”国际音乐大赛年度总冠军今夜揭晓",
+   "link": "https://news.cctv.com/2026/11/22/ARTI7fRKboIDeGj8PYhsqrfG261122.shtml",
+   "pub": "2026-11-22 11:27",
+   "source": "央视网"
+  },
+  {
+   "title": "印尼糖果厂火灾已致3人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736000.shtml",
+   "pub": "2026-11-22 11:26",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "从长征精神中汲取团结奋进的力量（国际论坛）",
+   "link": "https://news.cctv.com/2026/11/22/ARTIllgCVEdkhVgdeEPhxsSp261122.shtml",
+   "pub": "2026-11-22 11:23",
+   "source": "央视网"
+  },
+  {
+   "title": "（文化新纪行）方寸之间藏民俗 江西南昌老糕模焕发新活力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735998.shtml",
+   "pub": "2026-11-22 11:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "为新时期大国协调互动构建新范式——国际社会高度评价中俄美元首历史性会晤",
+   "link": "https://news.cctv.com/2026/11/22/ARTIdxyc2KufS0Z0zgvJ43C8261122.shtml",
+   "pub": "2026-11-22 11:19",
+   "source": "央视网"
+  },
+  {
+   "title": "文化中国行·微纪录片丨一部创新老戏为何让年轻人叫好",
+   "link": "https://news.cctv.com/2026/11/22/ARTIzKgtIoriaISJGm5uxFuo261122.shtml",
+   "pub": "2026-11-22 11:19",
+   "source": "央视网"
+  },
+  {
+   "title": "从亿万老年人的幸福晚年看大国民生答卷",
+   "link": "https://news.cctv.com/2026/11/22/ARTIAaTHgEVTR3tyMbAJ7kYz261122.shtml",
+   "pub": "2026-11-22 11:19",
+   "source": "央视网"
+  },
+  {
+   "title": "流感季出现新特点 这些防护要点请收好",
+   "link": "https://news.cctv.com/2026/11/22/ARTIDudWWbSlr5uBoa3J887o261122.shtml",
+   "pub": "2026-11-22 11:15",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普返美后点赞深圳：“那股活力令人赞叹”",
+   "link": "https://news.cctv.com/2026/11/22/ARTInm0sSDvxuIu05G6lvTfP261122.shtml",
+   "pub": "2026-11-22 11:10",
+   "source": "央视网"
+  },
+  {
+   "title": "千年文脉，何以传世——CCTV-4《传世书院》11月22日起播出",
+   "link": "https://news.cctv.com/2026/11/22/ARTIf8DDTK5MTSnsq5OFflQ2261122.shtml",
+   "pub": "2026-11-22 11:08",
+   "source": "央视网"
+  },
+  {
+   "title": "藏在烟火里的大理70年开放记：路通、货畅、人相亲",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735993.shtml",
+   "pub": "2026-11-22 11:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "【何以中国·和合礼让】事已至此，先喝杯“热茶”",
+   "link": "https://news.cctv.com/2026/11/22/ARTIcckRdwwFS3svI9IeJO0x261122.shtml",
+   "pub": "2026-11-22 11:02",
+   "source": "央视网"
+  },
   {
    "title": "中国石油天然气集团有限公司党组成员、副总经理谢军接受中央纪委国家监委纪律审查和监察调查",
    "link": "https://news.cctv.com/2026/11/22/ARTIhRR63zDNHofHZGSVu34s261122.shtml",
