@@ -1,8 +1,98 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 10:35",
+ "fetched": "2026-11-22 11:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中国石油天然气集团有限公司党组成员、副总经理谢军接受中央纪委国家监委纪律审查和监察调查",
+   "link": "https://news.cctv.com/2026/11/22/ARTIhRR63zDNHofHZGSVu34s261122.shtml",
+   "pub": "2026-11-22 11:01",
+   "source": "央视网"
+  },
+  {
+   "title": "AI中国｜秋假遇雪假！小假期打开大课堂 激活文旅消费新活力",
+   "link": "https://news.cctv.com/2026/11/22/ARTIiBukBduEwrv7unXW16JZ261122.shtml",
+   "pub": "2026-11-22 10:58",
+   "source": "央视网"
+  },
+  {
+   "title": "北京：满目金黄 银杏进入最佳观赏期",
+   "link": "https://photo.cctv.com/2026/11/22/PHOA0CLWloGl19Va4Wctfmn6261122.shtml",
+   "pub": "2026-11-22 10:51",
+   "source": "央视网"
+  },
+  {
+   "title": "（寻味中华｜节令）小雪纳物藏旧味 名泉入盏熨新寒",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735987.shtml",
+   "pub": "2026-11-22 10:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10735989.shtml",
+   "pub": "2026-11-22 10:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "广西北海首个海上自然探索邮轮启航 解锁海上微度假",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735985.shtml",
+   "pub": "2026-11-22 10:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "共商“十五五”科技传播大计 2026年中国科技传播论坛在北京举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735978.shtml",
+   "pub": "2026-11-22 10:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "广东顺德香云纱根植岭南水乡走向海外",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735977.shtml",
+   "pub": "2026-11-22 10:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "三亚升级推出婚庆文旅IP“天涯海角婚庆浪漫盛典”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735981.shtml",
+   "pub": "2026-11-22 10:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "健康科普 | 2026年流感季呈现新特点，不同人群如何科学防范？",
+   "link": "https://news.cctv.com/2026/11/22/ARTIHeIZ7076jdqrtVYq4nqK261122.shtml",
+   "pub": "2026-11-22 10:38",
+   "source": "央视网"
+  },
+  {
+   "title": "兜民生幸福，攒发展底气！交通→水利→电网→管网 多个重大工程建设正酣",
+   "link": "https://news.cctv.com/2026/11/22/ARTIkLDy4LLmKZXblJWVw8gX261122.shtml",
+   "pub": "2026-11-22 10:38",
+   "source": "央视网"
+  },
+  {
+   "title": "对外贸易“加速”，节能方案走俏，靠什么？解锁口岸外贸稳增长密码→",
+   "link": "https://news.cctv.com/2026/11/22/ARTIeuhD2nxzR1njDQPNE14w261122.shtml",
+   "pub": "2026-11-22 10:38",
+   "source": "央视网"
+  },
+  {
+   "title": "共识向场外延伸！看产能、找配套、谈合作，外企高官直奔产业一线……",
+   "link": "https://news.cctv.com/2026/11/22/ARTImL0mhiPzw2w3t7zCJxNV261122.shtml",
+   "pub": "2026-11-22 10:36",
+   "source": "央视网"
+  },
+  {
+   "title": "主产区因地因苗落细田间管理 夯实来年丰产丰收基础",
+   "link": "https://news.cctv.com/2026/11/22/ARTI6sKZo3pdOoD62TT3ChCd261122.shtml",
+   "pub": "2026-11-22 10:36",
+   "source": "央视网"
+  },
+  {
+   "title": "院士专家为春城昆明“把脉” 云南省城市高质量发展高端智库揭牌",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735971.shtml",
+   "pub": "2026-11-22 10:32",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "田汉之孙谈抗战文艺跨国传播：至今仍引海外华人共鸣",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735967.shtml",
@@ -20,6 +110,12 @@
    "link": "https://news.cctv.com/2026/11/22/ARTIakbtnupNorHn8ObnyQTq261122.shtml",
    "pub": "2026-11-22 10:23",
    "source": "央视网"
+  },
+  {
+   "title": "从经侦一线到书桌，46岁警察写出多部热门小说",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-22/10735956.shtml",
+   "pub": "2026-11-22 10:22",
+   "source": "中国新闻网"
   },
   {
    "title": "揭秘网络女主播真实生态 女博士卧底体验至今心有余悸",
@@ -85,7 +181,7 @@
    "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
    "link": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml",
    "pub": "2026-11-22 09:37",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "时政微纪录丨习主席的深圳APEC时间 第三集 潮起深圳",
@@ -121,7 +217,7 @@
    "title": "青海德令哈5.6级地震 青藏铁路部分区间限速开行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735950.shtml",
    "pub": "2026-11-22 09:11",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行",
