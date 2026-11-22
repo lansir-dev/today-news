@@ -1,8 +1,32 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 17:05",
+ "fetched": "2026-11-22 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "新疆乌鲁木齐市乌鲁木齐县发生4.5级地震 震源深度30千米",
+   "link": "https://news.cctv.com/2026/11/22/ARTIez5nKlD9v7YQwaMXiT28261122.shtml",
+   "pub": "2026-11-22 17:19",
+   "source": "央视网"
+  },
+  {
+   "title": "口岸车流穿梭、人流密集、物流繁忙……经贸相融让新职业、新活力加速“生长”",
+   "link": "https://news.cctv.com/2026/11/22/ARTILPuusshO2zVG2pEZWOYP261122.shtml",
+   "pub": "2026-11-22 17:15",
+   "source": "央视网"
+  },
+  {
+   "title": "“有事喊一声、邻里做相帮、互惠一家亲” 创新服务共建老年友好社会",
+   "link": "https://news.cctv.com/2026/11/22/ARTI6grkCNyj6UqAq6B93wn1261122.shtml",
+   "pub": "2026-11-22 17:14",
+   "source": "央视网"
+  },
+  {
+   "title": "澳中工商业委员会COO：乐见澳中关系保持稳定 有利于双方发展",
+   "link": "https://news.cctv.com/2026/11/22/ARTIPDla4NqHv71FKUBNkd5L261122.shtml",
+   "pub": "2026-11-22 17:09",
+   "source": "央视网"
+  },
   {
    "title": "山上鸟毛遍地 餐馆售卖“野味” 谁在围猎南迁候鸟？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736102.shtml",
