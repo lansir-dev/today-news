@@ -1,8 +1,80 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 10:05",
+ "fetched": "2026-11-22 10:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "田汉之孙谈抗战文艺跨国传播：至今仍引海外华人共鸣",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735967.shtml",
+   "pub": "2026-11-22 10:27",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "网购牛仔裤水洗后轻戳就破 消费者要求“退一赔三”该得到支持吗？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735966.shtml",
+   "pub": "2026-11-22 10:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
+   "link": "https://news.cctv.com/2026/11/22/ARTIakbtnupNorHn8ObnyQTq261122.shtml",
+   "pub": "2026-11-22 10:23",
+   "source": "央视网"
+  },
+  {
+   "title": "揭秘网络女主播真实生态 女博士卧底体验至今心有余悸",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735965.shtml",
+   "pub": "2026-11-22 10:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "14日的面试13日出结果？长安大学致歉",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735960.shtml",
+   "pub": "2026-11-22 10:19",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "十载传脉新质启新 北京国际城市设计大会召开",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735959.shtml",
+   "pub": "2026-11-22 10:19",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "世界客属第34届恳亲大会海口闭幕 新加坡为第36届世客会举办地",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735962.shtml",
+   "pub": "2026-11-22 10:18",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "兰花奖外宾开启山西行：中国的国际化“古已有之”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735964.shtml",
+   "pub": "2026-11-22 10:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "三峡红叶景如画",
+   "link": "https://photo.cctv.com/2026/11/22/PHOA5NN7gB2O7SemAf1xUEMc261122.shtml",
+   "pub": "2026-11-22 10:11",
+   "source": "央视网"
+  },
+  {
+   "title": "广西南宁：冬日繁花似锦",
+   "link": "https://photo.cctv.com/2026/11/22/PHOAlwFXQOGwATzQxoqvdnw9261122.shtml",
+   "pub": "2026-11-22 10:08",
+   "source": "央视网"
+  },
+  {
+   "title": "浙江德清：下渚湖冬捕 品鱼汤饭",
+   "link": "https://photo.cctv.com/2026/11/22/PHOAFRFFOsNQ0aW1f2XBK4ic261122.shtml",
+   "pub": "2026-11-22 10:05",
+   "source": "央视网"
+  },
+  {
+   "title": "全国政协召开双周协商座谈会 围绕构建以先进制造业为骨干的现代化产业体系协商议政 王沪宁主持",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml",
+   "pub": "2026-11-22 09:58",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
    "link": "https://news.cctv.com/2026/11/22/ARTIQu34TaMWRbDasC2YRF8R261122.shtml",
