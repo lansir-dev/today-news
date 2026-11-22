@@ -1,8 +1,14 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 19:05",
+ "fetched": "2026-11-22 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "人间小雪闲中过 岁岁温柔岁岁安",
+   "link": "https://news.cctv.com/2026/11/22/ARTIlVMiOTDuQNINiQAKLGII261122.shtml",
+   "pub": "2026-11-22 19:24",
+   "source": "央视网"
+  },
   {
    "title": "【讲习所·和合共生】习近平引领亚太共同体建设迈入新阶段",
    "link": "https://news.cctv.com/2026/11/22/ARTIXf3129dRD2w8odmLIh4a261122.shtml",
