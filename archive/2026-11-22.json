@@ -1,8 +1,26 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 20:05",
+ "fetched": "2026-11-22 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "全国秋冬种进入尾声 冬季田管有序展开",
+   "link": "https://news.cctv.com/2026/11/22/ARTICqH4v6qyGZEg4wt2sdIN261122.shtml",
+   "pub": "2026-11-22 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "前10个月全国一般公共预算收入同比增长4.9%",
+   "link": "https://news.cctv.com/2026/11/22/ARTIBEk1503SE9FY3mlT2ypY261122.shtml",
+   "pub": "2026-11-22 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "独家视频丨习近平：看五十年的中国来深圳",
+   "link": "https://news.cctv.com/2026/11/22/ARTI6dhCl5Fm22jYEgvpEOd8261122.shtml",
+   "pub": "2026-11-22 20:12",
+   "source": "央视网"
+  },
   {
    "title": "【新思想引领新征程】帮扶不断线 幸福不掉队",
    "link": "https://news.cctv.com/2026/11/22/ARTIrTgw52FWMpCb8CqNLW1k261122.shtml",

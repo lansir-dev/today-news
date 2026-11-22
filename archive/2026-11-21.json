@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "fetched": "2026-11-22 20:05",
+ "fetched": "2026-11-22 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1085,6 +1085,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+   "link": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+   "meta": "The Decoder：AI News · 发布于 11-22 19:08 · 行业",
+   "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
+   "origin": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+  },
   {
    "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
    "link": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
