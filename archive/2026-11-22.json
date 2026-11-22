@@ -1,8 +1,14 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-22 19:35",
+ "fetched": "2026-11-22 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "【新思想引领新征程】帮扶不断线 幸福不掉队",
+   "link": "https://news.cctv.com/2026/11/22/ARTIrTgw52FWMpCb8CqNLW1k261122.shtml",
+   "pub": "2026-11-22 19:58",
+   "source": "央视网"
+  },
   {
    "title": "人间小雪闲中过 岁岁温柔岁岁安",
    "link": "https://news.cctv.com/2026/11/22/ARTIlVMiOTDuQNINiQAKLGII261122.shtml",
