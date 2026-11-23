@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-23 17:35",
+ "fetched": "2026-11-23 18:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1103,6 +1103,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+   "link": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+   "meta": "公众号：智谱 · 发布于 11-23 17:42 · 模型",
+   "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
+   "origin": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ"
+  },
   {
    "title": "Anthropic IPO 前三家机构如何重注押注",
    "link": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
