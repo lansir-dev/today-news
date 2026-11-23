@@ -1,8 +1,38 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 18:35",
+ "fetched": "2026-11-23 19:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
+   "pub": "2026-11-23 18:46",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "河北衡水湖迎候鸟迁徙高峰 3万余只候鸟云集",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736584.shtml",
+   "pub": "2026-11-23 18:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
+   "pub": "2026-11-23 18:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "银杏叶“金装”没穿上？原来是先保果实、后顾“颜值”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736587.shtml",
+   "pub": "2026-11-23 18:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "习近平法治思想对外翻译传播高端学术研讨会召开",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736381.shtml",
+   "pub": "2026-11-23 18:28",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "中央气象台：全国大部分地区大气扩散条件较好",
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736528.shtml",
@@ -26,6 +56,12 @@
    "link": "https://news.cctv.com/2026/11/23/ARTIFB5vRDLp447WyoJQzW32261123.shtml",
    "pub": "2026-11-23 18:04",
    "source": "央视网"
+  },
+  {
+   "title": "中国足协发布《红图计划》 统一青少年足球培养理念",
+   "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
+   "pub": "2026-11-23 18:01",
+   "source": "中国新闻网"
   },
   {
    "title": "青闽产销对接暨“青海家宴”饗在福建活动举办",
@@ -310,12 +346,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "新一轮冷空气将影响广东 全省气温继续下降",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736456.shtml",
-   "pub": "2026-11-23 16:00",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "中国科技新闻学会新质生产力传播专委会成立 发布“五个100”行动计划",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736455.shtml",
    "pub": "2026-11-23 15:59",
@@ -356,12 +386,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736467.shtml",
    "pub": "2026-11-23 15:37",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "寻访椰城红色印记：琼崖星火照亮自贸港新程",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736474.shtml",
-   "pub": "2026-11-23 15:37",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "中俄美元首会晤是否讨论乌克兰危机？ 外交部回应",
@@ -446,12 +470,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
    "pub": "2026-11-23 14:59",
    "source": "中国新闻网"
-  },
-  {
-   "title": "88元红烧“小鸡”竟是南迁候鸟？捕杀食用候鸟需全链条治理",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736433.shtml",
-   "pub": "2026-11-23 14:57",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "檐上落雪，新章起笔 | 与TVCC一日店长石笑歌共赴“开新”之约",
@@ -835,7 +853,7 @@
    "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736231.shtml",
    "pub": "2026-11-23 07:37",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "2026年清华财经新闻论坛在美举行",
