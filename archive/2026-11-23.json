@@ -1,8 +1,20 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 20:35",
+ "fetched": "2026-11-23 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“投资于人”促进就业高质量发展",
+   "link": "https://news.cctv.com/2026/11/23/ARTIKDfI0asqizcSIVmt36mM261123.shtml",
+   "pub": "2026-11-23 21:02",
+   "source": "央视网"
+  },
+  {
+   "title": "以正确政绩观引领城市更新提质增效",
+   "link": "https://news.cctv.com/2026/11/23/ARTIxeh2IFTvW9E8A12eHTBO261123.shtml",
+   "pub": "2026-11-23 21:01",
+   "source": "央视网"
+  },
   {
    "title": "俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米",
    "link": "https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml",
