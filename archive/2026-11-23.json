@@ -1,8 +1,38 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 18:05",
+ "fetched": "2026-11-23 18:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "中央气象台：全国大部分地区大气扩散条件较好",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736528.shtml",
+   "pub": "2026-11-23 18:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "住建部公布四起瓶装液化石油气领域典型执法案例",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736576.shtml",
+   "pub": "2026-11-23 18:19",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "北京市生态环境保护营商竞争力综合指数连续四年蝉联全国第一",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736570.shtml",
+   "pub": "2026-11-23 18:06",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "网传内蒙古一地有野狼进城 官方通报：系流浪犬",
+   "link": "https://news.cctv.com/2026/11/23/ARTIFB5vRDLp447WyoJQzW32261123.shtml",
+   "pub": "2026-11-23 18:04",
+   "source": "央视网"
+  },
+  {
+   "title": "青闽产销对接暨“青海家宴”饗在福建活动举办",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736561.shtml",
+   "pub": "2026-11-23 17:58",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "就近、安全、实惠让孩子吃好“每日第一餐” 鼓励机关食堂、社会餐厅提供早餐服务",
    "link": "https://news.cctv.com/2026/11/23/ARTIEgZ9b58ZXTq2pT1Yv6QG261123.shtml",
@@ -424,12 +454,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "从“火与土”跨越到“液与晶” 中国团队研发出陶瓷低温制造新路径",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736430.shtml",
-   "pub": "2026-11-23 14:57",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "檐上落雪，新章起笔 | 与TVCC一日店长石笑歌共赴“开新”之约",
    "link": "https://news.cctv.com/2026/11/23/ARTIQmYpxr5YUDYpAD3fPd7C261123.shtml",
    "pub": "2026-11-23 14:56",
@@ -464,12 +488,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736413.shtml",
    "pub": "2026-11-23 14:36",
    "source": "中国新闻网·国内"
-  },
-  {
-   "title": "广西下达中央水库移民扶持基金移民补助资金11.07亿元 184万人受益",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736401.shtml",
-   "pub": "2026-11-23 14:35",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "陕北筹备清涧起义100周年纪念活动",
@@ -1043,13 +1061,6 @@
    "meta": "The Decoder：AI News · 发布于 11-22 19:08 · 行业",
    "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
    "origin": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
-  },
-  {
-   "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-   "link": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-   "meta": "IT之家·人工智能 · 发布于 11-22 17:35 · 观点",
-   "summary": "2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。",
-   "origin": "https://www.ithome.com/1/030/677.htm"
   }
  ]
 }
