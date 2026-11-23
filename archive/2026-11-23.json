@@ -1,8 +1,56 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 21:05",
+ "fetched": "2026-11-23 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜讲清、讲准、讲实、讲透 这个宣讲团不一般！",
+   "link": "https://news.cctv.com/2026/11/23/ARTIh8iaZWi1busXt6zH6RYR261123.shtml",
+   "pub": "2026-11-23 21:18",
+   "source": "央视网"
+  },
+  {
+   "title": "让“边角地”成为“幸福地”（人民时评）",
+   "link": "https://news.cctv.com/2026/11/23/ARTIsZQ2rgcios0lgyxYFGyu261123.shtml",
+   "pub": "2026-11-23 21:17",
+   "source": "央视网"
+  },
+  {
+   "title": "修“心学”，强党性（人民论坛）",
+   "link": "https://news.cctv.com/2026/11/23/ARTI26GUlUJcxMLyWbwR6Bma261123.shtml",
+   "pub": "2026-11-23 21:16",
+   "source": "央视网"
+  },
+  {
+   "title": "为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响",
+   "link": "https://news.cctv.com/2026/11/23/ARTIT2FhcSuMme1c1Zl0DQbs261123.shtml",
+   "pub": "2026-11-23 21:14",
+   "source": "央视网"
+  },
+  {
+   "title": "来深圳，看五十年的中国",
+   "link": "https://news.cctv.com/2026/11/23/ARTIbeoOscKKad2zNiY1u8qb261123.shtml",
+   "pub": "2026-11-23 21:11",
+   "source": "央视网"
+  },
+  {
+   "title": "国际观察：共启亚太共同体新航程",
+   "link": "https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml",
+   "pub": "2026-11-23 21:08",
+   "source": "央视网"
+  },
+  {
+   "title": "电子商务助力经济向新向优",
+   "link": "https://news.cctv.com/2026/11/23/ARTIy2iGG8SaAIQ5Jx6lmkbb261123.shtml",
+   "pub": "2026-11-23 21:06",
+   "source": "央视网"
+  },
+  {
+   "title": "聚焦APEC·记者手记丨亚太合作的“深圳印记”",
+   "link": "https://news.cctv.com/2026/11/23/ARTIONj6TX9He592S8quKZl1261123.shtml",
+   "pub": "2026-11-23 21:04",
+   "source": "央视网"
+  },
   {
    "title": "“投资于人”促进就业高质量发展",
    "link": "https://news.cctv.com/2026/11/23/ARTIKDfI0asqizcSIVmt36mM261123.shtml",
