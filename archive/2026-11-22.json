@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-23 22:05",
+ "fetched": "2026-11-23 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1103,6 +1103,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "NVIDIA 董事会恢复黄仁勋总裁、CEO 兼董事职务",
+   "link": "https://aihot.news/items/gdveoivkyxm7gf8k5tsspii95",
+   "meta": "indigo · 发布于 11-23 22:12 · 行业",
+   "summary": "作者引用 NVIDIA 新闻室公告称，NVIDIA 董事会恢复黄仁勋（Jensen Huang）总裁、CEO 兼董事会董事职务，并附官方公告链接；作者正文只有一句玩梗配图 Return of the Jensen。",
+   "origin": "https://x.com/indigox/status/2124868756723863790"
+  },
   {
    "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
    "link": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
