@@ -1,13 +1,145 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 15:05",
+ "fetched": "2026-11-23 16:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "新一轮冷空气将影响广东 全省气温继续下降",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736456.shtml",
+   "pub": "2026-11-23 16:00",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国科技新闻学会新质生产力传播专委会成立 发布“五个100”行动计划",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736455.shtml",
+   "pub": "2026-11-23 15:59",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“来到深圳后，这座城市当时展现出的现代化程度更让我感到震撼”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736489.shtml",
+   "pub": "2026-11-23 15:56",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "COP31闭幕未就政治决定达成一致 外交部回应",
+   "link": "https://news.cctv.com/2026/11/23/ARTIjLfDsv7Obgkv5Ljjjxig261123.shtml",
+   "pub": "2026-11-23 15:53",
+   "source": "央视网"
+  },
+  {
+   "title": "来深圳，看五十年的中国",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736481.shtml",
+   "pub": "2026-11-23 15:49",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方：一贯主张国际刑事法院应该秉持客观公正立场",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736479.shtml",
+   "pub": "2026-11-23 15:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "人力资源社会保障部就《社会保险基金监督条例（征求意见稿）》公开征求意见",
+   "link": "https://news.cctv.com/2026/11/23/ARTIgKrwnkfb3WYxzc3EYdje261123.shtml",
+   "pub": "2026-11-23 15:44",
+   "source": "央视网"
+  },
+  {
+   "title": "荷兰外交大臣贝伦德森将访华 中方介绍此访期待",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736467.shtml",
+   "pub": "2026-11-23 15:37",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "寻访椰城红色印记：琼崖星火照亮自贸港新程",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736474.shtml",
+   "pub": "2026-11-23 15:37",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中俄美元首会晤是否讨论乌克兰危机？ 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736465.shtml",
+   "pub": "2026-11-23 15:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：中方始终认为对话谈判是解决乌克兰危机唯一可行出路",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736457.shtml",
+   "pub": "2026-11-23 15:30",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "《走进互联网——网络平台入门通识》出版座谈会在京举行",
+   "link": "https://news.cctv.com/2026/11/23/ARTISHyADJYXnLUcq99f55AI261123.shtml",
+   "pub": "2026-11-23 15:28",
+   "source": "央视网"
+  },
+  {
+   "title": "A股收评：超4600只个股飘红 三大指数触底反弹集体收涨",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736452.shtml",
+   "pub": "2026-11-23 15:26",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "教育部就《教材管理条例（征求意见稿）》公开征求意见",
+   "link": "https://news.cctv.com/2026/11/23/ARTIkaFWWeFi9TDI9ANF9ACy261123.shtml",
+   "pub": "2026-11-23 15:23",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+   "link": "https://news.cctv.com/2026/11/23/ARTIy1W6vENvdUfg71lS8GO0261123.shtml",
+   "pub": "2026-11-23 15:23",
+   "source": "央视网"
+  },
+  {
+   "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+   "link": "https://news.cctv.com/2026/11/23/ARTI1emqAr2ebLIW28qxq3Cm261123.shtml",
+   "pub": "2026-11-23 15:21",
+   "source": "央视网"
+  },
+  {
+   "title": "绿色和平组织代表因文托尔：中国清洁技术角色受关注 呼吁各国要加大行动力度",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736446.shtml",
+   "pub": "2026-11-23 15:18",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "荷兰外交大臣贝伦德森将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736441.shtml",
+   "pub": "2026-11-23 15:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "当OPC遇上AI短剧 爆款背后一位创作者的历史表达",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-23/10736437.shtml",
+   "pub": "2026-11-23 15:11",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "科技部原重大专项司司长刘敏接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736436.shtml",
+   "pub": "2026-11-23 15:08",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "俄官员：下一轮俄美乌三方谈判日期尚未确定",
+   "link": "https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml",
+   "pub": "2026-11-23 15:06",
+   "source": "央视网"
+  },
+  {
+   "title": "统一青少年足球培养理念 中国足协发布《红图计划》",
+   "link": "https://news.cctv.com/2026/11/23/ARTI9c8Hba0fv5Q7PqfBzybv261123.shtml",
+   "pub": "2026-11-23 15:02",
+   "source": "央视网"
+  },
   {
    "title": "近期货车肇事导致的交通事故多发 公安部交管局发布提示",
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
    "pub": "2026-11-23 14:59",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "88元红烧“小鸡”竟是南迁候鸟？捕杀食用候鸟需全链条治理",
@@ -175,7 +307,7 @@
    "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736377.shtml",
    "pub": "2026-11-23 13:23",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "129万元一支的抗癌药进医保，怎么做到的？",
@@ -484,22 +616,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "第八届新时代“枫桥经验”论坛在杭州举行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736269.shtml",
-   "pub": "2026-11-23 09:46",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
    "pub": "2026-11-23 09:43",
    "source": "中国新闻网"
-  },
-  {
-   "title": "论道AI时代 华东律师业探索法律服务新路径",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736265.shtml",
-   "pub": "2026-11-23 09:37",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "歼-15成功着舰14周年 历史性时刻珍贵画面回顾→",
@@ -538,28 +658,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "中国农业发展银行董事会办公室原主任张俊强被查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736252.shtml",
-   "pub": "2026-11-23 09:15",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜被查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736250.shtml",
-   "pub": "2026-11-23 09:14",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "黄金跌跌不休，何时反弹？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736253.shtml",
    "pub": "2026-11-23 09:12",
    "source": "中国新闻网"
-  },
-  {
-   "title": "中央政府驻港联络办发言人：优中选优展现新气象，选贤任能开创新局面",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736249.shtml",
-   "pub": "2026-11-23 09:10",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "主播私闯果园带货糟蹋苹果？官方通报：系误入相邻果园",
@@ -592,22 +694,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "冷空气继续影响我国中东部地区",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736236.shtml",
-   "pub": "2026-11-23 08:09",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
    "pub": "2026-11-23 08:08",
    "source": "中国新闻网"
-  },
-  {
-   "title": "北京今天风寒效应明显 最高气温8℃ 阵风可达6至7级",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736230.shtml",
-   "pub": "2026-11-23 08:06",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "城市也要容得下野生动物",
@@ -655,7 +745,7 @@
    "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
    "pub": "2026-11-23 06:47",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "古特雷斯对COP31未就政治决定达成一致表示失望",
