@@ -1,8 +1,122 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 20:05",
- "note": "今日抓取",
+ "fetched": "2026-11-23 20:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米",
+   "link": "https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml",
+   "pub": "2026-11-23 20:30",
+   "source": "央视网"
+  },
+  {
+   "title": "【权威访谈】充分发挥党的组织优势",
+   "link": "https://news.cctv.com/2026/11/23/ARTI19EQ63OfpIkAT8ocQe5Z261123.shtml",
+   "pub": "2026-11-23 20:29",
+   "source": "央视网"
+  },
+  {
+   "title": "海南省公安厅原党委委员、副厅长董长青被开除党籍",
+   "link": "https://news.cctv.com/2026/11/23/ARTIfjbXq0ZV3LBbRGZ4AEZM261123.shtml",
+   "pub": "2026-11-23 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "《自然中国·青海篇》揭秘“中华水塔”之上万物何以生生不息",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736635.shtml",
+   "pub": "2026-11-23 20:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "经纬线 · 这张“全家福”，APEC近十年来首次",
+   "link": "https://news.cctv.com/2026/11/23/ARTIrd9fKbWUkIGvPIyvOiSh261123.shtml",
+   "pub": "2026-11-23 20:24",
+   "source": "央视网"
+  },
+  {
+   "title": "从喜马拉雅山脚到南海之滨：尼泊尔青年在海南看见“机会与友谊”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736627.shtml",
+   "pub": "2026-11-23 20:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "月牙泉水域面积缘何创20余年新高",
+   "link": "https://news.cctv.com/2026/11/23/ARTIkwbMeJptEhLoWoMrHCSx261123.shtml",
+   "pub": "2026-11-23 20:17",
+   "source": "央视网"
+  },
+  {
+   "title": "北大马来西亚校友“阳光医行”义诊走进社区",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736608.shtml",
+   "pub": "2026-11-23 20:16",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "韩国总统李在明提名多名长官人选",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736606.shtml",
+   "pub": "2026-11-23 20:15",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "封关元年话琼台融合 “十五五·同心聚力自贸港”八期沙龙举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736625.shtml",
+   "pub": "2026-11-23 20:12",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "西藏“十四五”科技创新成果丰硕 多项“首个”“首创”落地高原",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736620.shtml",
+   "pub": "2026-11-23 20:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "1300株冬樱花航天育种种苗扎根云南华宁",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736624.shtml",
+   "pub": "2026-11-23 20:12",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新雪季开启 各地冰雪运动持续火热",
+   "link": "https://news.cctv.com/2026/11/23/ARTI1ui45d5qJl0VZjO8pmcb261123.shtml",
+   "pub": "2026-11-23 20:12",
+   "source": "央视网"
+  },
+  {
+   "title": "新技术加速技能结构分化 专家建言职业教育教材建设创新",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736616.shtml",
+   "pub": "2026-11-23 20:05",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
+   "pub": "2026-11-23 20:05",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "宁夏实施三项行动推进健康学校建设 全方位守护学生身心健康",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736618.shtml",
+   "pub": "2026-11-23 20:04",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "神舟二十四号发射在即 空间站与任务各系统准备工作顺利推进",
+   "link": "https://news.cctv.com/2026/11/23/ARTIxKAdP46aA8MJvjtXJmLc261123.shtml",
+   "pub": "2026-11-23 20:04",
+   "source": "央视网"
+  },
+  {
+   "title": "《婴幼儿辅助食品生产许可审查细则（2026版）》发布",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736623.shtml",
+   "pub": "2026-11-23 20:03",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "各地积极拓宽住房公积金使用范围",
+   "link": "https://news.cctv.com/2026/11/23/ARTIqOLhFXOiHJDEO5LDeiNs261123.shtml",
+   "pub": "2026-11-23 20:02",
+   "source": "央视网"
+  },
   {
    "title": "我国加强“一老一小”服务体系建设",
    "link": "https://news.cctv.com/2026/11/23/ARTIsb7XfrvuCvxZN2awyBhV261123.shtml",
@@ -214,22 +328,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "泽连斯基证实击沉俄罗斯护卫舰",
-   "link": "https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml",
-   "pub": "2026-11-23 17:07",
-   "source": "央视网"
-  },
-  {
-   "title": "海南省公安厅原党委委员、副厅长董长青被开除党籍",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736531.shtml",
-   "pub": "2026-11-23 17:07",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "印度贾坎德邦拟建煤矿项目遭居民抗议 12名警察受伤",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736532.shtml",
    "pub": "2026-11-23 17:07",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "泽连斯基证实击沉俄罗斯护卫舰",
+   "link": "https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml",
+   "pub": "2026-11-23 17:07",
+   "source": "央视网"
   },
   {
    "title": "受贿1.93亿 浙江省人大常委会原副主任高兴夫一审被判死缓",
@@ -358,16 +466,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "时政微周刊丨总书记的一周（11月16日—11月22日）",
-   "link": "https://news.cctv.com/2026/11/23/ARTIexwFDWpkBJ0oOGkWlPjr261123.shtml",
-   "pub": "2026-11-23 16:18",
-   "source": "央视网"
-  },
-  {
    "title": "（乡村行·看振兴）浙江海宁：桃园村里有“桃源”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736509.shtml",
    "pub": "2026-11-23 16:18",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "时政微周刊丨总书记的一周（11月16日—11月22日）",
+   "link": "https://news.cctv.com/2026/11/23/ARTIexwFDWpkBJ0oOGkWlPjr261123.shtml",
+   "pub": "2026-11-23 16:18",
+   "source": "央视网"
   },
   {
    "title": "“援”定天山：安徽大别山区瓜蒌在戈壁结“金瓜”",
@@ -382,34 +490,10 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "【文化中国行】福建嵩口古镇留住最美乡愁",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736499.shtml",
-   "pub": "2026-11-23 16:09",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "四川市域（郊）铁路成都至眉山线全线桥通",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736463.shtml",
-   "pub": "2026-11-23 16:09",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "吉林雪场推出“冰雪寄”服务 雪友“轻装”上雪道",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736462.shtml",
-   "pub": "2026-11-23 16:07",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "驻韩美军直升机首次赴日本开展实弹射击训练",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736483.shtml",
    "pub": "2026-11-23 16:05",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "钟南山：医学容不得半点“差不多”  医疗健康领域要有专业AI",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736461.shtml",
-   "pub": "2026-11-23 16:05",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "中国科技新闻学会新质生产力传播专委会成立 发布“五个100”行动计划",
@@ -508,12 +592,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "科技部原重大专项司司长刘敏接受审查调查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736436.shtml",
-   "pub": "2026-11-23 15:08",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "俄官员：下一轮俄美乌三方谈判日期尚未确定",
    "link": "https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml",
    "pub": "2026-11-23 15:06",
@@ -560,18 +638,6 @@
    "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736373.shtml",
    "pub": "2026-11-23 14:40",
    "source": "中国新闻网"
-  },
-  {
-   "title": "留村土窑洞里的红军东征记忆",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736413.shtml",
-   "pub": "2026-11-23 14:36",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "陕北筹备清涧起义100周年纪念活动",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736396.shtml",
-   "pub": "2026-11-23 14:32",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "原价129万元的药 为何能进基本医保目录？",
@@ -676,6 +742,12 @@
    "source": "央视网"
   },
   {
+   "title": "金正恩接受十国新任大使递交国书",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736358.shtml",
+   "pub": "2026-11-23 11:50",
+   "source": "中国新闻网"
+  },
+  {
    "title": "广纳英才促就业 “一站式”就业服务让人才扎下根、干成事、见实效",
    "link": "https://news.cctv.com/2026/11/23/ARTII5Mw5mykR8xWzoilspdH261123.shtml",
    "pub": "2026-11-23 11:50",
@@ -686,12 +758,6 @@
    "link": "https://news.cctv.com/2026/11/23/ARTISvGfN7hrRsPqCelEWWri261123.shtml",
    "pub": "2026-11-23 11:50",
    "source": "央视网"
-  },
-  {
-   "title": "金正恩接受十国新任大使递交国书",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736358.shtml",
-   "pub": "2026-11-23 11:50",
-   "source": "中国新闻网"
   },
   {
    "title": "“吃住行游购”全方位“种草”慕名而来 “先囤后约”成为秋假出游新亮点",
@@ -784,16 +850,16 @@
    "source": "央视网"
   },
   {
-   "title": "黎政府谴责以军闯入黎学校拍摄宣传视频",
-   "link": "https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml",
-   "pub": "2026-11-23 10:39",
-   "source": "央视网"
-  },
-  {
    "title": "前10个月全国一般公共预算收入同比增长4.9%",
    "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736328.shtml",
    "pub": "2026-11-23 10:39",
    "source": "中国新闻网"
+  },
+  {
+   "title": "黎政府谴责以军闯入黎学校拍摄宣传视频",
+   "link": "https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml",
+   "pub": "2026-11-23 10:39",
+   "source": "央视网"
   },
   {
    "title": "广西就鸟类保护问题约谈8县（市、区）林长 将全域清网排查",
@@ -883,7 +949,7 @@
    "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
    "pub": "2026-11-23 08:08",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
@@ -916,16 +982,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
-   "link": "https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml",
-   "pub": "2026-11-23 06:47",
-   "source": "央视网"
-  },
-  {
    "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
    "pub": "2026-11-23 06:47",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+   "link": "https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml",
+   "pub": "2026-11-23 06:47",
+   "source": "央视网"
   },
   {
    "title": "古特雷斯对COP31未就政治决定达成一致表示失望",
@@ -1108,13 +1174,6 @@
    "meta": "OpenAI：官网动态 · 发布于 11-22 08:00 · 观点",
    "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
    "origin": "https://openai.com/index/perplexity-and-intelligence"
-  },
-  {
-   "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-   "link": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-   "meta": "The Decoder：AI News · 发布于 11-22 19:08 · 行业",
-   "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
-   "origin": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
   }
  ]
 }

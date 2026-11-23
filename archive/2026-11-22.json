@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "fetched": "2026-11-23 20:05",
+ "fetched": "2026-11-23 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1144,13 +1144,6 @@
    "meta": "OpenAI：官网动态 · 发布于 11-22 08:00 · 观点",
    "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
    "origin": "https://openai.com/index/perplexity-and-intelligence"
-  },
-  {
-   "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-   "link": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-   "meta": "The Decoder：AI News · 发布于 11-22 19:08 · 行业",
-   "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
-   "origin": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
   }
  ]
 }
