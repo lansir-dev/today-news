@@ -1,13 +1,37 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-23 13:35",
+ "fetched": "2026-11-23 14:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "技术系统故障频发 美国情报总监忙打“预防针”",
+   "link": "https://news.cctv.com/2026/11/23/ARTIq5AkUkQ2ZZmu3fm5lRVS261123.shtml",
+   "pub": "2026-11-23 13:56",
+   "source": "央视网"
+  },
+  {
+   "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
+   "pub": "2026-11-23 13:43",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "澳大利亚拟维持处方药最高自付额",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
+   "pub": "2026-11-23 13:43",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "工信部通报23款APP及SDK信息窗口乱跳转、无法关闭",
+   "link": "https://news.cctv.com/2026/11/23/ARTILvyi3OwjdyXZvHxT9RYj261123.shtml",
+   "pub": "2026-11-23 13:36",
+   "source": "央视网"
+  },
   {
    "title": "美国死刑执行再出意外：耗时超一小时，行刑人员费力找静脉，囚犯痛苦呻吟",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736382.shtml",
    "pub": "2026-11-23 13:27",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
@@ -248,6 +272,12 @@
    "link": "https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml",
    "pub": "2026-11-23 10:39",
    "source": "央视网"
+  },
+  {
+   "title": "前10个月全国一般公共预算收入同比增长4.9%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736328.shtml",
+   "pub": "2026-11-23 10:39",
+   "source": "中国新闻网"
   },
   {
    "title": "广西就鸟类保护问题约谈8县（市、区）林长 将全域清网排查",
