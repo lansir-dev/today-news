@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-24 15:35",
+ "fetched": "2026-11-24 17:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1215,6 +1215,13 @@
    "origin": "https://www.chinatalk.media/p/jensen-returns"
   },
   {
+   "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+   "link": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+   "meta": "Tibo · 发布于 11-24 16:15 · 产品",
+   "summary": "OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。",
+   "origin": "https://x.com/thsottiaux/status/2125141302501417232"
+  },
+  {
    "title": "Claude 推出插件，统一连接器与技能的接入方式",
    "link": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
    "meta": "Claude · 发布于 11-24 04:56 · 产品",
@@ -1241,13 +1248,6 @@
    "meta": "Claude：Blog · 发布于 11-23 08:00 · 产品",
    "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
    "origin": "https://claude.com/blog/introducing-claude-ship"
-  },
-  {
-   "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-   "link": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-   "meta": "Tibo · 发布于 11-24 06:48 · 产品",
-   "summary": "ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。",
-   "origin": "https://x.com/thsottiaux/status/2124998553856844186"
   }
  ]
 }
