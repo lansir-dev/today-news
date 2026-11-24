@@ -1,8 +1,20 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 20:35",
+ "fetched": "2026-11-24 21:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "湖南华容一中学老师被指骚扰学生 官方通报",
+   "link": "https://news.cctv.com/2026/11/24/ARTImVdZWe0KPmBH4Zt4U5dT261124.shtml",
+   "pub": "2026-11-24 20:37",
+   "source": "央视网"
+  },
+  {
+   "title": "【权威访谈】驰而不息正风肃纪 坚定不移一体推进不敢腐不能腐不想腐",
+   "link": "https://news.cctv.com/2026/11/24/ARTIlVG1i7UpMRisL2EiyVSd261124.shtml",
+   "pub": "2026-11-24 20:34",
+   "source": "央视网"
+  },
   {
    "title": "“十五五”时期我国将持续深化“一带一路”经贸合作",
    "link": "https://news.cctv.com/2026/11/24/ARTILbXKKWxUe0T9y07xrAeT261124.shtml",
