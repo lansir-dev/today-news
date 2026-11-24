@@ -1,8 +1,50 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 12:05",
+ "fetched": "2026-11-24 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "金与正谴责瑞士将朝鲜一个夏令营列入制裁名单：令人吃惊的卑鄙行径",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736883.shtml",
+   "pub": "2026-11-24 12:32",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "我国月球探测工程已取得阶段性重要成果 中国人“探月之旅”行稳致远",
+   "link": "https://news.cctv.com/2026/11/24/ARTIp5tg61Xo2ALpcgE2K2jM261124.shtml",
+   "pub": "2026-11-24 12:32",
+   "source": "央视网"
+  },
+  {
+   "title": "我国雨雪范围大幅缩减 云南局地有暴雨",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736881.shtml",
+   "pub": "2026-11-24 12:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "民主党人：将“动用全部权力”调查黄仁勋、特朗普",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736880.shtml",
+   "pub": "2026-11-24 12:27",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤",
+   "link": "https://news.cctv.com/2026/11/24/ARTIzDdiYaLxcizxOYbZehmI261124.shtml",
+   "pub": "2026-11-24 12:22",
+   "source": "央视网"
+  },
+  {
+   "title": "武毅谈中外航天员联合飞行：文化有差异，但探索飞天的梦想一致",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736879.shtml",
+   "pub": "2026-11-24 12:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "首位外籍访客、创新跨乘组搭接模式 神舟二十四号任务“看点”先睹为快",
+   "link": "https://news.cctv.com/2026/11/24/ARTINq4mmQnOlpLe5Od85NHP261124.shtml",
+   "pub": "2026-11-24 12:05",
+   "source": "央视网"
+  },
   {
    "title": "走进神舟二十四号载人飞行任务 巴基斯坦航天员将在轨开展四项太空实验",
    "link": "https://news.cctv.com/2026/11/24/ARTI98yaNBS091KJjmiLfBIi261124.shtml",
@@ -427,12 +469,6 @@
    "title": "巴基斯坦航天员穆罕默德·齐尚·阿里将成为首位到访中国“天宫”的外籍航天员",
    "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736764.shtml",
    "pub": "2026-11-24 09:14",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "中国载人航天工程首位外籍航天员 主要承担任务有这些",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736760.shtml",
-   "pub": "2026-11-24 09:12",
    "source": "中国新闻网·国内"
   },
   {
