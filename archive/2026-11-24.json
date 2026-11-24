@@ -1,8 +1,14 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 18:35",
+ "fetched": "2026-11-24 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "四川省阿坝州人大常委会原党组副书记贺松被“双开”",
+   "link": "https://news.cctv.com/2026/11/24/ARTIQaNDAB851WpqQPV0ythq261124.shtml",
+   "pub": "2026-11-24 18:45",
+   "source": "央视网"
+  },
   {
    "title": "大连森林动物园门口有出租车拼客、宰客？官方：4台车辆当事人被罚款",
    "link": "https://news.cctv.com/2026/11/24/ARTIaKBIiRAO9DPjTRP50Lqp261124.shtml",
