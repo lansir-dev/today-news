@@ -1,8 +1,38 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 22:05",
+ "fetched": "2026-11-24 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京西四北历史文保区完成退租超1100户",
+   "link": "https://news.cctv.com/2026/11/24/ARTIj8t5MzWThfv8hGvuQjR4261124.shtml",
+   "pub": "2026-11-24 22:33",
+   "source": "央视网"
+  },
+  {
+   "title": "广西一猪舍起火致5死事故调查报告公布：丢烟头点燃纸箱引发火灾",
+   "link": "https://news.cctv.com/2026/11/24/ARTIIrnSqXt4uEOZ56psSmye261124.shtml",
+   "pub": "2026-11-24 22:27",
+   "source": "央视网"
+  },
+  {
+   "title": "电动自行车擅自“改灯”“加灯”，违法！",
+   "link": "https://news.cctv.com/2026/11/24/ARTIgKzqL1hUrZqCgxFozD75261124.shtml",
+   "pub": "2026-11-24 22:25",
+   "source": "央视网"
+  },
+  {
+   "title": "越南龙虾，新鲜直达！又一条进口通道开通",
+   "link": "https://jingji.cctv.com/2026/11/24/ARTId6dT7e2UU5tf5VhHXeOi261124.shtml",
+   "pub": "2026-11-24 22:18",
+   "source": "央视网"
+  },
+  {
+   "title": "市场监管总局：我国牵头制定的人工智能数据质量国际标准被欧盟采纳",
+   "link": "https://jingji.cctv.com/2026/11/24/ARTIB75e9abCK03qcq2hYXTy261124.shtml",
+   "pub": "2026-11-24 22:16",
+   "source": "央视网"
+  },
   {
    "title": "焦点访谈｜107+12！医保目录再扩容，让更多好药可及、可负担",
    "link": "https://news.cctv.com/2026/11/24/ARTI1fQYogZRVT521PevoIX5261124.shtml",
