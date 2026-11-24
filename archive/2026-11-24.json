@@ -1,8 +1,146 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 17:35",
+ "fetched": "2026-11-24 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "大连森林动物园门口有出租车拼客、宰客？官方：4台车辆当事人被罚款",
+   "link": "https://news.cctv.com/2026/11/24/ARTIaKBIiRAO9DPjTRP50Lqp261124.shtml",
+   "pub": "2026-11-24 18:29",
+   "source": "央视网"
+  },
+  {
+   "title": "74.8%，内需贡献率怎么看（经济新方位·八大重点任务看落实）",
+   "link": "https://jingji.cctv.com/2026/11/24/ARTIVT14FI3ksj9TYabflDYM261124.shtml",
+   "pub": "2026-11-24 17:50",
+   "source": "央视网"
+  },
+  {
+   "title": "为何总有人刻意“看空”中国经济？",
+   "link": "https://jingji.cctv.com/2026/11/24/ARTIGQHv98LgD9DC8Uqm7SjZ261124.shtml",
+   "pub": "2026-11-24 17:50",
+   "source": "央视网"
+  },
+  {
+   "title": "炉火里的温暖——青甘藏地震灾区恢复重建见闻",
+   "link": "https://news.cctv.com/2026/11/24/ARTIfg2gcDs8vg9YWWvfMwce261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "踏浪弄潮万象新——因地制宜发展新质生产力的江苏实践",
+   "link": "https://news.cctv.com/2026/11/24/ARTIs7SJGlbkGnPjNTtu5xUu261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "关注一块防滑垫 查清一笔民生账（贯彻五中全会精神一线见闻）",
+   "link": "https://news.cctv.com/2026/11/24/ARTIlgrjcRtxf3THk6t7A6oa261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "河南省南阳市原副市长邓俊峰被“双开”",
+   "link": "https://news.cctv.com/2026/11/24/ARTIomGnIPFE6IgRo1ywVBEV261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "市场最前沿丨经纬不辍，千年丝韵织出“新”故事",
+   "link": "https://news.cctv.com/2026/11/24/ARTIRHJHAo1FfzLkxQp7WLjj261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "深刻把握“坚持全面从严”的原则",
+   "link": "https://news.cctv.com/2026/11/24/ARTINp0XwFSQPJYD7NS3a1Kl261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "面向视障人群 我国布局人工智能人机交互新赛道",
+   "link": "https://news.cctv.com/2026/11/24/ARTI1Ysfb409uAwB3rA2H24M261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "心有所畏、言有所戒、行有所止",
+   "link": "https://news.cctv.com/2026/11/24/ARTIyWOR7HZ3GESgtecGyWv9261124.shtml",
+   "pub": "2026-11-24 17:49",
+   "source": "央视网"
+  },
+  {
+   "title": "激活内需新动能 一图读懂消费基础设施建设",
+   "link": "https://news.cctv.com/2026/11/24/ARTInbad6E9SFz7SBLq9mTsX261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "“坚定信心、勇毅前行，携手建设亚太共同体”",
+   "link": "https://news.cctv.com/2026/11/24/ARTIHCf6eQE4f3gYD4SA7d0k261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "“想要一个深圳同款”何以让世界共鸣",
+   "link": "https://news.cctv.com/2026/11/24/ARTIdjndUKXg7VTOIImQ51sp261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "“深圳把绿色理念真正融入了现代城市建设”",
+   "link": "https://news.cctv.com/2026/11/24/ARTItpDXmsoGm8UOhCgatCTZ261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "2026世界市长对话·乌鲁木齐活动在新疆启动",
+   "link": "https://news.cctv.com/2026/11/24/ARTIMZYZBeZCvXAqzNyIdNaL261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "一条围巾里的中国心意",
+   "link": "https://news.cctv.com/2026/11/24/ARTIkKcqXXHzW1WQbNkweYn5261124.shtml",
+   "pub": "2026-11-24 17:48",
+   "source": "央视网"
+  },
+  {
+   "title": "聚焦APEC丨共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
+   "link": "https://news.cctv.com/2026/11/24/ARTIyXnc3HaIAoK8e5g9RtyZ261124.shtml",
+   "pub": "2026-11-24 17:47",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃省人大环境资源保护委员会原副主任委员苏跃华被“双开”",
+   "link": "https://news.cctv.com/2026/11/24/ARTIKliAUUQHxgrELRC4nByd261124.shtml",
+   "pub": "2026-11-24 17:47",
+   "source": "央视网"
+  },
+  {
+   "title": "“持续做大做强先进制造业”（总书记的人民情怀）",
+   "link": "https://news.cctv.com/2026/11/24/ARTIZEW4CWIgZMkzCtpQhMXz261124.shtml",
+   "pub": "2026-11-24 17:47",
+   "source": "央视网"
+  },
+  {
+   "title": "四川省达州市人大常委会原党组成员、副主任罗建受贿案一审宣判",
+   "link": "https://news.cctv.com/2026/11/24/ARTIIUpIjMlD2kWaTguBtwCt261124.shtml",
+   "pub": "2026-11-24 17:46",
+   "source": "央视网"
+  },
+  {
+   "title": "今年上半年 我国人工智能核心产业规模预计超7500亿元",
+   "link": "https://news.cctv.com/2026/11/24/ARTIm7chT1cWslQbbeIZjDFN261124.shtml",
+   "pub": "2026-11-24 17:42",
+   "source": "央视网"
+  },
+  {
+   "title": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判",
+   "link": "https://news.cctv.com/2026/11/24/ARTIWJTg0KxFuvyKPpooCHPB261124.shtml",
+   "pub": "2026-11-24 17:35",
+   "source": "央视网"
+  },
   {
    "title": "台湾省全国人大代表赴广东调研",
    "link": "https://www.chinanews.com.cn/gn/2026/11-24/10737067.shtml",
