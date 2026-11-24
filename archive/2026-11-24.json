@@ -1,8 +1,50 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 13:05",
+ "fetched": "2026-11-24 14:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "全国大部雨雪将逐步缩减 晴燥格局或持续至12月初",
+   "link": "https://news.cctv.com/2026/11/24/ARTI12A1PC7CCs09507U1VYG261124.shtml",
+   "pub": "2026-11-24 14:03",
+   "source": "央视网"
+  },
+  {
+   "title": "大风蓝色预警：内蒙古山东等8省区部分地区阵风可达8至9级",
+   "link": "https://news.cctv.com/2026/11/24/ARTIc7OkK39XCm15fW1hop86261124.shtml",
+   "pub": "2026-11-24 13:58",
+   "source": "央视网"
+  },
+  {
+   "title": "江苏扬州14部门联合出台十条措施 以法治合力守护大运河“生态+文遗”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736898.shtml",
+   "pub": "2026-11-24 13:42",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "自然资源部发文规范临时用地管理",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736896.shtml",
+   "pub": "2026-11-24 13:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "广西开展非法销售野生鸟类排查整治行动 将建交易暗语监测词库",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736894.shtml",
+   "pub": "2026-11-24 13:39",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "事关危险货物包装安全 市场监管总局发布国家标准",
+   "link": "https://news.cctv.com/2026/11/24/ARTI88djXjLAtLyTsq2CswiU261124.shtml",
+   "pub": "2026-11-24 13:19",
+   "source": "央视网"
+  },
+  {
+   "title": "陕西子洲一天然气井发生着火事故致2人死亡",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736888.shtml",
+   "pub": "2026-11-24 13:09",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "神舟二十四号飞船即将“出征” 长征二号F遥24运载火箭正在加注推进剂",
    "link": "https://news.cctv.com/2026/11/24/ARTIybrDhTqkzBr33efewb3u261124.shtml",
@@ -445,12 +487,6 @@
    "title": "巴基斯坦航天员穆罕默德·齐尚·阿里将以载荷专家身份执行短期飞行任务",
    "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736775.shtml",
    "pub": "2026-11-24 09:28",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "汤洪波即将成为首位三次到访“天宫”的航天员",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736773.shtml",
-   "pub": "2026-11-24 09:25",
    "source": "中国新闻网·国内"
   },
   {
