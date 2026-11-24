@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "fetched": "2026-11-24 20:05",
+ "fetched": "2026-11-24 20:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1192,5 +1192,62 @@
    "source": "央视网"
   }
  ],
- "ai": []
+ "ai": [
+  {
+   "title": "ChinaTalk 分析美国算力租赁新规或使中国前沿算力推迟约六个月",
+   "link": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+   "meta": "ChinaTalk · 发布于 11-24 18:58 · 行业",
+   "summary": "ChinaTalk 的 Quinn Ennis 分析美国 BIS 于 11 月 16 日发布的算力租赁临时最终规则（11 月 19 日生效）：向提供中国公司超过约 760 块 H100 等值算力的海外数据中心供应芯片需申请许可，并覆盖印尼、马来西亚、新加坡、泰国、巴西的先进 AI 芯片出口，同时关闭 Foundry Due-Diligence 漏洞。作者用自建算力模型量化新规效果，给出执行力度与延迟月数的区间估算，为判断政策影响提供可参照框架。",
+   "origin": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow"
+  },
+  {
+   "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+   "link": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+   "meta": "卡兹克 · 发布于 11-24 14:12 · 教程",
+   "summary": "数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。要点包括让 Gemini 当方案顾问、按状态变化逐项审查动效，完成后让 GPT 审查再合并上线。",
+   "origin": "https://x.com/Khazix0918/status/2125110224143171669"
+  },
+  {
+   "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+   "link": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+   "meta": "公众号：MiniMax · 发布于 11-24 10:11 · 产品",
+   "summary": "MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。",
+   "origin": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ"
+  },
+  {
+   "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+   "link": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+   "meta": "ChinaTalk · 发布于 11-24 09:41 · 行业",
+   "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。",
+   "origin": "https://www.chinatalk.media/p/jensen-returns"
+  },
+  {
+   "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+   "link": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+   "meta": "Tibo · 发布于 11-24 16:15 · 产品",
+   "summary": "OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。",
+   "origin": "https://x.com/thsottiaux/status/2125141302501417232"
+  },
+  {
+   "title": "Claude 推出插件，统一连接器与技能的接入方式",
+   "link": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+   "meta": "Claude · 发布于 11-24 04:56 · 产品",
+   "summary": "Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 https://claude.ai/plugins 浏览 10,000 多个插件。",
+   "origin": "https://x.com/claudeai/status/2124970294523945328"
+  },
+  {
+   "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
+   "link": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
+   "meta": "Anthropic：Research · 发布于 11-23 00:00 · 论文",
+   "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。",
+   "origin": "https://www.anthropic.com/research/working-with-ai"
+  },
+  {
+   "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+   "link": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+   "meta": "Figma AI / Agent / Make · 发布于 11-24 04:54 · 产品",
+   "summary": "Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。",
+   "origin": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/"
+  }
+ ]
 }
