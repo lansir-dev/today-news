@@ -1,8 +1,20 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 21:05",
+ "fetched": "2026-11-24 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "焦点访谈｜107+12！医保目录再扩容，让更多好药可及、可负担",
+   "link": "https://news.cctv.com/2026/11/24/ARTI1fQYogZRVT521PevoIX5261124.shtml",
+   "pub": "2026-11-24 21:50",
+   "source": "央视网"
+  },
+  {
+   "title": "方便群众错峰办业务 北京多区公安分局出入境接待大厅相继推出元旦春节前出入境延时办证专场",
+   "link": "https://news.cctv.com/2026/11/24/ARTIu3HIoX0fNtTkxlXJSnMt261124.shtml",
+   "pub": "2026-11-24 21:44",
+   "source": "央视网"
+  },
   {
    "title": "湖南华容一中学老师被指骚扰学生 官方通报",
    "link": "https://news.cctv.com/2026/11/24/ARTImVdZWe0KPmBH4Zt4U5dT261124.shtml",
