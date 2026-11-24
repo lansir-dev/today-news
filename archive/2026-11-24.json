@@ -1,8 +1,98 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 15:05",
+ "fetched": "2026-11-24 15:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "西藏那曲市巴青县发生3.0级地震 震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/24/ARTIVfsMvSxD0m4XA566rM2N261124.shtml",
+   "pub": "2026-11-24 15:31",
+   "source": "央视网"
+  },
+  {
+   "title": "青海玉树州杂多县发生3.1级地震 震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/24/ARTIqZrEJ3JMRwx2qtUrbluw261124.shtml",
+   "pub": "2026-11-24 15:31",
+   "source": "央视网"
+  },
+  {
+   "title": "中方：始终秉持相互尊重、平等相待的原则发展同所罗门群岛的关系",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736975.shtml",
+   "pub": "2026-11-24 15:30",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：瑞士联邦主席、联邦副主席先后访华 体现两国高度政治互信",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736972.shtml",
+   "pub": "2026-11-24 15:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "巴基斯坦航天员将到访中国“天宫” 中方对此航天盛事充满期待",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736970.shtml",
+   "pub": "2026-11-24 15:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中巴航天员将携手进入中国空间站 外交部：充满期待",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736969.shtml",
+   "pub": "2026-11-24 15:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“援”定天山：江西牵挂的“第101个县”在新疆",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736947.shtml",
+   "pub": "2026-11-24 15:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "司法部、全国普法办发布第一批全国法治宣传教育创新案例",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736956.shtml",
+   "pub": "2026-11-24 15:16",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中铝集团所属企业原专职董事富崇彦接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736959.shtml",
+   "pub": "2026-11-24 15:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "黄仁勋复职重掌英伟达 中国外交部：对此不作评论",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736963.shtml",
+   "pub": "2026-11-24 15:15",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "多所高校推出暖心举措 用“细腻+无声+有温度”的服务护航学子学习生活",
+   "link": "https://news.cctv.com/2026/11/24/ARTIxM88nagmIpnP0hsSNumj261124.shtml",
+   "pub": "2026-11-24 15:15",
+   "source": "央视网"
+  },
+  {
+   "title": "A股收评：超3400只个股飘绿，沪指高开低走收涨",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-24/10736962.shtml",
+   "pub": "2026-11-24 15:13",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "一见·看中国，三座APEC之城的时间印记",
+   "link": "https://news.cctv.com/2026/11/24/ARTIL7GyVdrQnlV0ZM1zEbCA261124.shtml",
+   "pub": "2026-11-24 15:12",
+   "source": "央视网"
+  },
+  {
+   "title": "绿道，“缝合”城市生活",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736958.shtml",
+   "pub": "2026-11-24 15:10",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国家疾控局：流感已进入流行季 及时接种流感疫苗",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736955.shtml",
+   "pub": "2026-11-24 15:07",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "2026中国—东盟周展开多场交流活动 中国与东盟共商互联互通新机遇",
    "link": "https://news.cctv.com/2026/11/24/ARTIwnLFqrEcqU0SYFL1EvAa261124.shtml",
@@ -472,28 +562,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "丁薛祥访问新加坡并主持中新双边合作机制会议",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736810.shtml",
-   "pub": "2026-11-24 10:28",
-   "source": "中国新闻网·国内"
+   "title": "首批高标准数字园区建设对象名单公布，91家入选",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-24/10736820.shtml",
+   "pub": "2026-11-24 10:25",
+   "source": "中国新闻网"
   },
   {
    "title": "从买车→“用车”→回收利用 扩大汽车消费政策发力推动“全链条”扩容升级",
    "link": "https://news.cctv.com/2026/11/24/ARTI65Ij9sQb9BNrqrfwEVec261124.shtml",
    "pub": "2026-11-24 10:22",
    "source": "央视网"
-  },
-  {
-   "title": "从APEC到中国乡野：十国青年眼中的现代化“微观样本”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736822.shtml",
-   "pub": "2026-11-24 10:19",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "关注一块防滑垫 查清一笔民生账",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736818.shtml",
-   "pub": "2026-11-24 10:17",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "陕西省委原常委、西安市委原书记方红卫被提起公诉",
@@ -520,12 +598,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "各地积极拓宽住房公积金使用范围",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736805.shtml",
-   "pub": "2026-11-24 10:07",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "德国巴登-符腾堡州一公寓内发现5人死亡",
    "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736780.shtml",
    "pub": "2026-11-24 10:06",
@@ -544,22 +616,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "甘肃检察机关依法对方红卫涉嫌受贿案提起公诉",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736803.shtml",
-   "pub": "2026-11-24 10:01",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "揽月着陆器飞行任务有序推进 载人登月任务将开展多项关键试验",
    "link": "https://news.cctv.com/2026/11/24/ARTIr9ASc3z6m5vekOaLC9F0261124.shtml",
    "pub": "2026-11-24 09:59",
    "source": "央视网"
-  },
-  {
-   "title": "航天员朱杨柱执行一年期在轨驻留试验任务",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736799.shtml",
-   "pub": "2026-11-24 09:58",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "A股三大股指集体高开",
@@ -578,12 +638,6 @@
    "link": "https://news.cctv.com/2026/11/24/ARTIjRJNRyNRRBoi4PPMp6Nl261124.shtml",
    "pub": "2026-11-24 09:55",
    "source": "央视网"
-  },
-  {
-   "title": "揽月着陆器首次飞行任务按计划有序推进",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736797.shtml",
-   "pub": "2026-11-24 09:54",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "公安部网安局公布2026年度使用AI工具编造传播网络谣言10起典型案例",
