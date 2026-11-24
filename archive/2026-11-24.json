@@ -1,8 +1,26 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 19:05",
+ "fetched": "2026-11-24 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
+   "link": "https://news.cctv.com/2026/11/24/ARTIlCkU7qXopTWWfqH5M4sh261124.shtml",
+   "pub": "2026-11-24 19:17",
+   "source": "央视网"
+  },
+  {
+   "title": "广西藤县警方：一公交司机突发身体不适撞3车后死亡",
+   "link": "https://news.cctv.com/2026/11/24/ARTItMK1zKeWJ7JidN6vK17f261124.shtml",
+   "pub": "2026-11-24 19:17",
+   "source": "央视网"
+  },
+  {
+   "title": "2026年10月全国查处违反中央八项规定精神问题28934起",
+   "link": "https://news.cctv.com/2026/11/24/ARTIUEHIP3UMErIMHH11OF4E261124.shtml",
+   "pub": "2026-11-24 19:10",
+   "source": "央视网"
+  },
   {
    "title": "四川省阿坝州人大常委会原党组副书记贺松被“双开”",
    "link": "https://news.cctv.com/2026/11/24/ARTIQaNDAB851WpqQPV0ythq261124.shtml",
