@@ -1,13 +1,103 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-24 14:05",
+ "fetched": "2026-11-24 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "哥伦比亚省政府大楼附近爆炸袭击事件受伤人数升至19人",
+   "link": "https://news.cctv.com/2026/11/24/ARTIZSCCqW4gYjAouMKchWoy261124.shtml",
+   "pub": "2026-11-24 14:29",
+   "source": "央视网"
+  },
+  {
+   "title": "（乡村行·看振兴）毛豆结出富民果 江西玉山统战铺就共富路",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736928.shtml",
+   "pub": "2026-11-24 14:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "韩国加码高考作弊举报悬赏 赏金最高5亿韩元",
+   "link": "https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml",
+   "pub": "2026-11-24 14:26",
+   "source": "央视网"
+  },
+  {
+   "title": "越南首都河内一餐馆发生爆炸致至少2死6伤",
+   "link": "https://news.cctv.com/2026/11/24/ARTIOtKZ9kyZwXlkpufxWi3Z261124.shtml",
+   "pub": "2026-11-24 14:24",
+   "source": "央视网"
+  },
+  {
+   "title": "林下“金凤凰”啄开致富门 湖南新田厦源村生态养殖激活古村动能",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736925.shtml",
+   "pub": "2026-11-24 14:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "我国陪诊行业首个国家标准实施 让陪诊有据可依有责可追",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736927.shtml",
+   "pub": "2026-11-24 14:19",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "天光落峡江 “朝辞白帝彩云间”照进现实！",
+   "link": "https://news.cctv.com/2026/11/24/ARTIw9hc3oXZtKvSQlIeR81y261124.shtml",
+   "pub": "2026-11-24 14:19",
+   "source": "央视网"
+  },
+  {
+   "title": "民进中央2026年参政党理论研究年会在哈尔滨开幕",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736916.shtml",
+   "pub": "2026-11-24 14:18",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "四川省推动新时代“枫桥经验”工会实践落地见效",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736918.shtml",
+   "pub": "2026-11-24 14:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国空间站首迎外籍航天员 将开展4个中巴合作科学项目",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736915.shtml",
+   "pub": "2026-11-24 14:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“猫鸟之争”的背后：一座城市如何安放流浪猫？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736921.shtml",
+   "pub": "2026-11-24 14:14",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2027年元旦春节期间全国工会送温暖活动启动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736909.shtml",
+   "pub": "2026-11-24 14:13",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "自然资源部规范临时用地管理 促有效投资加快落地",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736919.shtml",
+   "pub": "2026-11-24 14:09",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "社保基金监管迎新规 守好每一分“养老钱”“保命钱”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736913.shtml",
+   "pub": "2026-11-24 14:03",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "全国大部雨雪将逐步缩减 晴燥格局或持续至12月初",
    "link": "https://news.cctv.com/2026/11/24/ARTI12A1PC7CCs09507U1VYG261124.shtml",
    "pub": "2026-11-24 14:03",
    "source": "央视网"
+  },
+  {
+   "title": "第二十三次中国岩石力学与工程学术年会在成都举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736903.shtml",
+   "pub": "2026-11-24 14:00",
+   "source": "中国新闻网·国内"
   },
   {
    "title": "大风蓝色预警：内蒙古山东等8省区部分地区阵风可达8至9级",
@@ -79,7 +169,7 @@
    "title": "民主党人：将“动用全部权力”调查黄仁勋、特朗普",
    "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736880.shtml",
    "pub": "2026-11-24 12:27",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤",
@@ -424,12 +514,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "中国空间站首迎外籍航天员 将开展4个中巴合作科学项目",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736793.shtml",
-   "pub": "2026-11-24 09:50",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "公安部网安局公布2026年度使用AI工具编造传播网络谣言10起典型案例",
    "link": "https://news.cctv.com/2026/11/24/ARTIxNWQt1swwGZ3QXly2rdt261124.shtml",
    "pub": "2026-11-24 09:42",
@@ -448,46 +532,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "巴基斯坦航天员齐尚·阿里将与张志远、黎家盈搭乘神舟二十三号飞船返回地球",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736781.shtml",
-   "pub": "2026-11-24 09:35",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "神舟二十四航天员乘组确定 “天宫”将迎来首位外籍航天员",
    "link": "https://news.cctv.com/2026/11/24/ARTIh6Gi4IRdIGEMDwqLxM1M261124.shtml",
    "pub": "2026-11-24 09:34",
    "source": "央视网"
   },
   {
-   "title": "【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736756.shtml",
-   "pub": "2026-11-24 09:33",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "用新质生产力打造医疗外交新模式——中国医疗方案深化中埃合作",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736754.shtml",
-   "pub": "2026-11-24 09:31",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "官方：航天员黎家盈在空间科学研究等方面很好完成了各项任务",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736776.shtml",
-   "pub": "2026-11-24 09:31",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "黄仁勋复职后首次亮相 英伟达股价暴涨超31%",
    "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736783.shtml",
    "pub": "2026-11-24 09:29",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "巴基斯坦航天员穆罕默德·齐尚·阿里将以载荷专家身份执行短期飞行任务",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736775.shtml",
-   "pub": "2026-11-24 09:28",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "神舟二十四号瞄准北京时间明日08时18分发射",
@@ -792,6 +846,13 @@
  ],
  "ai": [
   {
+   "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+   "link": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+   "meta": "卡兹克 · 发布于 11-24 14:12 · 教程",
+   "summary": "数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。要点包括让 Gemini 当方案顾问、按状态变化逐项审查动效，完成后让 GPT 审查再合并上线。",
+   "origin": "https://x.com/Khazix0918/status/2125110224143171669"
+  },
+  {
    "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
    "link": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
    "meta": "公众号：MiniMax · 发布于 11-24 10:11 · 产品",
@@ -839,13 +900,6 @@
    "meta": "Tibo · 发布于 11-24 06:48 · 产品",
    "summary": "ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。",
    "origin": "https://x.com/thsottiaux/status/2124998553856844186"
-  },
-  {
-   "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-   "link": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-   "meta": "The Verge：AI · 发布于 11-24 02:26 · 行业",
-   "summary": "俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。",
-   "origin": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
   }
  ]
 }
