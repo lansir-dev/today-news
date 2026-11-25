@@ -1,8 +1,26 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 17:35",
+ "fetched": "2026-11-25 18:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "获刑十一年 高以忱受贿、利用影响力受贿案一审宣判",
+   "link": "https://news.cctv.com/2026/11/25/ARTIn9PLuc0sb8uJ8QWNQ6tO261125.shtml",
+   "pub": "2026-11-25 18:00",
+   "source": "央视网"
+  },
+  {
+   "title": "河南省焦作市政协原副主席吕沛被“双开”",
+   "link": "https://news.cctv.com/2026/11/25/ARTI7tcai5UREeoGrvqz6Wv0261125.shtml",
+   "pub": "2026-11-25 17:51",
+   "source": "央视网"
+  },
+  {
+   "title": "五中全会精神在基层丨六尺巷世代存礼让 党组织基层暖人心",
+   "link": "https://news.cctv.com/2026/11/25/ARTIqA4gNZco9aDU4Y29AbvK261125.shtml",
+   "pub": "2026-11-25 17:43",
+   "source": "央视网"
+  },
   {
    "title": "广州累计主导参与研制国际、国家、行业标准1.6万项",
    "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737636.shtml",
