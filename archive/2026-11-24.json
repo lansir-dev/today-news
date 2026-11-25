@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "fetched": "2026-11-25 22:05",
+ "fetched": "2026-11-25 22:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1482,6 +1482,13 @@
  ],
  "ai": [
   {
+   "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+   "link": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+   "meta": "OpenClaw · 发布于 11-25 22:05 · 产品",
+   "summary": "OpenClaw 发布 2026.11.10 版本，新增聊天内 Deep Research、新的 OpenClaw 记忆系统 Knowledge，以及 Browser handoff 功能。本次版本包含 7,671 个 PR、349 位贡献者，完整说明见 https://docs.openclaw.ai/releases/2026.11.10。",
+   "origin": "https://x.com/openclaw/status/2125591827600531554"
+  },
+  {
    "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
    "link": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
    "meta": "面壁智能 OpenBMB · 发布于 11-25 21:00 · 论文",
@@ -1529,13 +1536,6 @@
    "meta": "Thinking Machines Lab：News · 发布于 11-24 15:00 · 论文",
    "summary": "Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 (medium)，单次预测成本降低 15 倍。",
    "origin": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/"
-  },
-  {
-   "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
-   "link": "https://aihot.news/items/youah0x28ti3a58sj8ku26rdy",
-   "meta": "METR：Blog · 发布于 11-24 00:00 · 观点",
-   "summary": "METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。",
-   "origin": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/"
   }
  ]
 }

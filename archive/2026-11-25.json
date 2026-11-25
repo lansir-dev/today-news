@@ -1,8 +1,32 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 22:05",
+ "fetched": "2026-11-25 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "刑事法律援助全球会议举行 国际司法界官员：中国经验值得借鉴",
+   "link": "https://news.cctv.com/2026/11/25/ARTIyCmPkStESeQQWhvf15OU261125.shtml",
+   "pub": "2026-11-25 22:13",
+   "source": "央视网"
+  },
+  {
+   "title": "陈予彤，好样的！高三女生跪地10分钟救回同学",
+   "link": "https://people.cctv.com/2026/11/25/ARTIrtQXJSpZGSPw7Ztzwn8c261125.shtml",
+   "pub": "2026-11-25 22:09",
+   "source": "央视网"
+  },
+  {
+   "title": "“鲲龙”来了！本届珠海航展首架大型主力参展机型抵达",
+   "link": "https://news.cctv.com/2026/11/25/ARTIA8B3BIjKpugmMEk10jQP261125.shtml",
+   "pub": "2026-11-25 22:07",
+   "source": "央视网"
+  },
+  {
+   "title": "三访“天宫”，汤洪波家乡小院这一刻沸腾了！",
+   "link": "https://military.cctv.com/2026/11/25/ARTIz9PzEi1DNz9TLXbrxUSE261125.shtml",
+   "pub": "2026-11-25 22:03",
+   "source": "央视网"
+  },
   {
    "title": "中国空间站迎首位外籍航天员 北航外国留学生共庆历史时刻",
    "link": "https://news.cctv.com/2026/11/25/ARTIGJKsnt4QBZcTCI1WWiYb261125.shtml",
