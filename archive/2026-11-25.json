@@ -1,8 +1,56 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 15:05",
- "note": "今日抓取",
+ "fetched": "2026-11-25 15:35",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737559.shtml",
+   "pub": "2026-11-25 15:29",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "民生一件事 | 打通社区老龄化服务“最暖一公里”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIuCwiup1yCeQxfxfPkhKW261125.shtml",
+   "pub": "2026-11-25 15:29",
+   "source": "央视网"
+  },
+  {
+   "title": "朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
+   "link": "https://news.cctv.com/2026/11/25/ARTIdEXewK4HAaDfEzng6ZOr261125.shtml",
+   "pub": "2026-11-25 15:29",
+   "source": "央视网"
+  },
+  {
+   "title": "外交部：关税战、贸易战不符合任何一方的利益",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737552.shtml",
+   "pub": "2026-11-25 15:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "多地获批开展试点工作 全国“一盘棋”推进6G创新",
+   "link": "https://news.cctv.com/2026/11/25/ARTInN6WvdEasuPV2lOFeuk8261125.shtml",
+   "pub": "2026-11-25 15:27",
+   "source": "央视网"
+  },
+  {
+   "title": "中巴航天员共赴“天宫” 外交部：中国载人航天工程国际合作新的里程碑",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737551.shtml",
+   "pub": "2026-11-25 15:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
+   "link": "https://news.cctv.com/2026/11/25/ARTIX7F9mpGQ1XQvjF0r6Vln261125.shtml",
+   "pub": "2026-11-25 15:14",
+   "source": "央视网"
+  },
+  {
+   "title": "液体动力托举首次中外航天员太空同行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737533.shtml",
+   "pub": "2026-11-25 15:03",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "从酒泉到西安：母校师生见证武毅奔赴星海",
    "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737537.shtml",
@@ -40,16 +88,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "多视角看点火，感受中国航天极致浪漫！180秒回顾神二十四发射的精彩瞬间",
-   "link": "https://news.cctv.com/2026/11/25/ARTInCkRZa2oSKJV3ordHpPb261125.shtml",
-   "pub": "2026-11-25 14:38",
-   "source": "央视网"
-  },
-  {
    "title": "中外航天员实现首次“太空握手” 神二十四乘组顺利进驻“天宫”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737524.shtml",
    "pub": "2026-11-25 14:38",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "多视角看点火，感受中国航天极致浪漫！180秒回顾神二十四发射的精彩瞬间",
+   "link": "https://news.cctv.com/2026/11/25/ARTInCkRZa2oSKJV3ordHpPb261125.shtml",
+   "pub": "2026-11-25 14:38",
+   "source": "央视网"
   },
   {
    "title": "“京沪神车”1462次谢幕 曾是铁路线上定员最大列车之一",
@@ -112,16 +160,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "中国驻伊朗大使馆提醒在伊中国公民防范治安事件",
-   "link": "https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml",
-   "pub": "2026-11-25 13:49",
-   "source": "央视网"
-  },
-  {
    "title": "深耕中国丨唱空声再吵，挡不住外资“用脚投票”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737485.shtml",
    "pub": "2026-11-25 13:49",
    "source": "中国新闻网"
+  },
+  {
+   "title": "中国驻伊朗大使馆提醒在伊中国公民防范治安事件",
+   "link": "https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml",
+   "pub": "2026-11-25 13:49",
+   "source": "央视网"
   },
   {
    "title": "合肥长丰县通报农田灌溉用水受污染：已赶赴现场核查处置",
@@ -346,16 +394,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "截至10月底 我国累计发电装机容量同比增长10.9%",
-   "link": "https://news.cctv.com/2026/11/25/ARTIWCHQ4SwgDTK3Pi5uVmDT261125.shtml",
-   "pub": "2026-11-25 11:28",
-   "source": "央视网"
-  },
-  {
    "title": "从协商会场到旷野一线 山东地矿画出新时代统战同心圆",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737427.shtml",
    "pub": "2026-11-25 11:28",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "截至10月底 我国累计发电装机容量同比增长10.9%",
+   "link": "https://news.cctv.com/2026/11/25/ARTIWCHQ4SwgDTK3Pi5uVmDT261125.shtml",
+   "pub": "2026-11-25 11:28",
+   "source": "央视网"
   },
   {
    "title": "哥伦比亚旅游城市发生人质劫持事件",
@@ -388,16 +436,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "今天至明天白天北京气温回升 明天夜间山区有雨雪天气",
-   "link": "https://news.cctv.com/2026/11/25/ARTIsNsQqSd14qz4w12KbA7Y261125.shtml",
-   "pub": "2026-11-25 11:25",
-   "source": "央视网"
-  },
-  {
    "title": "（国际观察）卢拉政府打出财政“组合拳” 巴西市场信心能否回暖？",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737417.shtml",
    "pub": "2026-11-25 11:25",
    "source": "中国新闻网"
+  },
+  {
+   "title": "今天至明天白天北京气温回升 明天夜间山区有雨雪天气",
+   "link": "https://news.cctv.com/2026/11/25/ARTIsNsQqSd14qz4w12KbA7Y261125.shtml",
+   "pub": "2026-11-25 11:25",
+   "source": "央视网"
   },
   {
    "title": "评论：台湾陆剧迷值得一场线下的粉丝见面会",
@@ -472,16 +520,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
-   "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
-   "pub": "2026-11-25 11:09",
-   "source": "央视网"
-  },
-  {
    "title": "红星照耀中国｜战旗为什么这样红",
    "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737410.shtml",
    "pub": "2026-11-25 11:09",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
+   "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
+   "pub": "2026-11-25 11:09",
+   "source": "央视网"
   },
   {
    "title": "特朗普“赦免”2026年感恩节火鸡 并祝美国民众节日快乐",
@@ -502,33 +550,15 @@
    "source": "央视网"
   },
   {
-   "title": "国台办点赞《声生不息·天涯共此时》",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737397.shtml",
-   "pub": "2026-11-25 11:03",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "贵州省纪委监委原一级巡视员饶瑜珠被开除党籍",
    "link": "https://news.cctv.com/2026/11/25/ARTIA3d4rTed5CJ9VXbQ9PLx261125.shtml",
    "pub": "2026-11-25 11:02",
    "source": "央视网"
   },
   {
-   "title": "国台办回应日首相回避涉台错误言论",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737394.shtml",
-   "pub": "2026-11-25 11:02",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "印尼一矿井发生事故 致29人被困",
    "link": "https://news.cctv.com/2026/11/25/ARTIhQyypvmfhyboq856jZPm261125.shtml",
    "pub": "2026-11-25 10:57",
-   "source": "央视网"
-  },
-  {
-   "title": "非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制",
-   "link": "https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml",
-   "pub": "2026-11-25 10:55",
    "source": "央视网"
   },
   {
@@ -544,10 +574,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "国台办谈大陆文化新三样火爆台湾",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737383.shtml",
-   "pub": "2026-11-25 10:54",
-   "source": "中国新闻网·国内"
+   "title": "非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制",
+   "link": "https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml",
+   "pub": "2026-11-25 10:55",
+   "source": "央视网"
   },
   {
    "title": "南非总统：南非正采取多方面举措应对美贸易限制",
@@ -694,16 +724,16 @@
    "source": "中国新闻网"
   },
   {
-   "title": "见证“巴铁”航天梦想启航！中巴合作不断向更广、更深的领域拓展",
-   "link": "https://news.cctv.com/2026/11/25/ARTINqqK9tFpdtod5fBm7dSm261125.shtml",
-   "pub": "2026-11-25 09:41",
-   "source": "央视网"
-  },
-  {
    "title": "“重返”办案现场 浙江检察英模讲述公平正义背后的坚守",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737333.shtml",
    "pub": "2026-11-25 09:41",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "见证“巴铁”航天梦想启航！中巴合作不断向更广、更深的领域拓展",
+   "link": "https://news.cctv.com/2026/11/25/ARTINqqK9tFpdtod5fBm7dSm261125.shtml",
+   "pub": "2026-11-25 09:41",
+   "source": "央视网"
   },
   {
    "title": "赏冰雪、泡温泉、品美食 哈尔滨市松北区推出三大特色主题游玩线路",
