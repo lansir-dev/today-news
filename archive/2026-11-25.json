@@ -1,8 +1,38 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 12:35",
+ "fetched": "2026-11-25 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平对党内法规工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/25/ARTImsrirqRU9rzAghGnDs6v261125.shtml",
+   "pub": "2026-11-25 13:28",
+   "source": "央视网"
+  },
+  {
+   "title": "从定制化训练到中文学习，巴基斯坦航天员的中国“飞天课”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737476.shtml",
+   "pub": "2026-11-25 13:22",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "伪装成科技公司搞舆情敲诈？这个恶势力团伙覆灭了",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737472.shtml",
+   "pub": "2026-11-25 13:04",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+   "link": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
+   "pub": "2026-11-25 13:00",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
+   "pub": "2026-11-25 12:37",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "我国首套600MW级压缩空气储能系统膨胀机顺利下线",
    "link": "https://news.cctv.com/2026/11/25/ARTIkgQ4mgsDIZQEdz8okktV261125.shtml",
@@ -472,12 +502,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "广东高院：以严格公正司法实质化解行政争议",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737340.shtml",
-   "pub": "2026-11-25 10:04",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737346.shtml",
    "pub": "2026-11-25 10:02",
@@ -494,12 +518,6 @@
    "link": "https://news.cctv.com/2026/11/25/ARTIxlxVJVo5SczdmqbdRnXb261125.shtml",
    "pub": "2026-11-25 09:59",
    "source": "央视网"
-  },
-  {
-   "title": "为建设亚太共同体贡献媒体力量——访马来西亚国家新闻社首席执行官努鲁·阿菲达",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737342.shtml",
-   "pub": "2026-11-25 09:57",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "AI面试官上岗引关注 评论：需兼顾效率与公平",
@@ -894,6 +912,13 @@
  ],
  "ai": [
   {
+   "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+   "link": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+   "meta": "公众号：千问APP · 发布于 11-25 12:32 · 产品",
+   "summary": "千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。文中示例包括定时提醒朋友带饮料、定时来电叫醒起床、代订包间或询问快递等场景，并邀请用户在评论区分享想安排的任务。",
+   "origin": "https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw"
+  },
+  {
    "title": "矩阵乘法指数被证明精确为 9/4",
    "link": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
    "meta": "Greg Brockman · 发布于 11-25 10:35 · 论文",
@@ -941,13 +966,6 @@
    "meta": "Claude：Blog · 发布于 11-24 08:00 · 产品",
    "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
    "origin": "https://claude.com/blog/install-as-app"
-  },
-  {
-   "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
-   "link": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
-   "meta": "Cognition 模型 / Devin 博客 · 发布于 11-24 00:00 · 模型",
-   "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
-   "origin": "https://cognition.com/blog/swe-2-1"
   }
  ]
 }
