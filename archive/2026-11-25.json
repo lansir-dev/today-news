@@ -1,8 +1,20 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 19:05",
+ "fetched": "2026-11-25 19:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
+   "link": "https://news.cctv.com/2026/11/25/ARTIUYGKDPgGbskEZtCq23D1261125.shtml",
+   "pub": "2026-11-25 19:26",
+   "source": "央视网"
+  },
+  {
+   "title": "习近平对党内法规工作作出重要指示",
+   "link": "https://news.cctv.com/2026/11/25/ARTI3AFDVKTlflXhOnDN1zWk261125.shtml",
+   "pub": "2026-11-25 19:24",
+   "source": "央视网"
+  },
   {
    "title": "10月空气质量状况公布 全国PM2.5平均浓度值同比持平",
    "link": "https://news.cctv.com/2026/11/25/ARTIrwTAub67fG5lby5NxFIb261125.shtml",
