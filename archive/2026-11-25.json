@@ -1,8 +1,128 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 18:35",
+ "fetched": "2026-11-25 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "10月空气质量状况公布 全国PM2.5平均浓度值同比持平",
+   "link": "https://news.cctv.com/2026/11/25/ARTIrwTAub67fG5lby5NxFIb261125.shtml",
+   "pub": "2026-11-25 18:52",
+   "source": "央视网"
+  },
+  {
+   "title": "大风蓝色预警：新疆青海等8省区部分地区阵风可达7至9级",
+   "link": "https://news.cctv.com/2026/11/25/ARTIXX72FlTPm7kOSXK0Vjmt261125.shtml",
+   "pub": "2026-11-25 18:51",
+   "source": "央视网"
+  },
+  {
+   "title": "深刻把握“坚持问题导向”的原则",
+   "link": "https://news.cctv.com/2026/11/25/ARTIiAQY0pZhTkfhlOI3KHvD261125.shtml",
+   "pub": "2026-11-25 18:47",
+   "source": "央视网"
+  },
+  {
+   "title": "“坚定信心、勇毅前行，携手建设亚太共同体”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIa0SODl8Qu2Jgm6yTA7uG261125.shtml",
+   "pub": "2026-11-25 18:47",
+   "source": "央视网"
+  },
+  {
+   "title": "山东省人大法制委员会原副主任委员唐福泉等4人被提起公诉",
+   "link": "https://news.cctv.com/2026/11/25/ARTI1K8nziOJrahya0WZZPA7261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "“我乘飞机23小时跨越太平洋，只为拥抱中国新疆扑面而来的温暖”",
+   "link": "https://news.cctv.com/2026/11/25/ARTICACU9AZE0hiax8etj5rK261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "“用世界的眼光看中国，用中国的眼光看世界”（我和中国的故事）",
+   "link": "https://news.cctv.com/2026/11/25/ARTIvstfwmzheFG1WIrY8j6I261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特",
+   "link": "https://news.cctv.com/2026/11/25/ARTIyNpgrcpl22up4bHg7qdC261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "完善全球治理，携手迈向人类命运共同体",
+   "link": "https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "治理精度从哪儿来",
+   "link": "https://news.cctv.com/2026/11/25/ARTIDoEhI0Bqsn5LrGkZGD3t261125.shtml",
+   "pub": "2026-11-25 18:46",
+   "source": "央视网"
+  },
+  {
+   "title": "递稳跨年政策衔接“交接棒”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIBViaVxwd7Qaf8PuKvWqv261125.shtml",
+   "pub": "2026-11-25 18:45",
+   "source": "央视网"
+  },
+  {
+   "title": "读懂六尺巷，在互谅互让中涵养社会新风",
+   "link": "https://news.cctv.com/2026/11/25/ARTIwPqc6Jv4tSL5h9lwE1HF261125.shtml",
+   "pub": "2026-11-25 18:45",
+   "source": "央视网"
+  },
+  {
+   "title": "在实践中淬炼锻造干部干事创业真本领",
+   "link": "https://news.cctv.com/2026/11/25/ARTI1vu9IqOFfVPlyMEepMHo261125.shtml",
+   "pub": "2026-11-25 18:45",
+   "source": "央视网"
+  },
+  {
+   "title": "全球媒体聚焦 | “这次任务是载人航天惠及全球更多群体的新一步”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIxkFIGJr5OoWf7DWeqpPb261125.shtml",
+   "pub": "2026-11-25 18:44",
+   "source": "央视网"
+  },
+  {
+   "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
+   "link": "https://news.cctv.com/2026/11/25/ARTI31lT2UoOhJIaVSIwMK4e261125.shtml",
+   "pub": "2026-11-25 18:44",
+   "source": "央视网"
+  },
+  {
+   "title": "“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯",
+   "link": "https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml",
+   "pub": "2026-11-25 18:44",
+   "source": "央视网"
+  },
+  {
+   "title": "为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）",
+   "link": "https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml",
+   "pub": "2026-11-25 18:44",
+   "source": "央视网"
+  },
+  {
+   "title": "“世界工厂”迈向科创高地——广东经济生态观察之一",
+   "link": "https://news.cctv.com/2026/11/25/ARTI3lNvwQQwFPT62Woji0ry261125.shtml",
+   "pub": "2026-11-25 18:44",
+   "source": "央视网"
+  },
+  {
+   "title": "呼吸道疾病进入高发季 儿童什么时候需要就医",
+   "link": "https://news.cctv.com/2026/11/25/ARTIUKzE3LihpPDsXVn34bG3261125.shtml",
+   "pub": "2026-11-25 18:43",
+   "source": "央视网"
+  },
+  {
+   "title": "新动能是一步一步闯出来的（经济新方位·八大重点任务看落实）",
+   "link": "https://news.cctv.com/2026/11/25/ARTIrMtpUuIpHjkRBFbR9Gfw261125.shtml",
+   "pub": "2026-11-25 18:43",
+   "source": "央视网"
+  },
   {
    "title": "重庆73岁男子坠楼致2男孩被砸 官方通报：伤者无生命危险",
    "link": "https://news.cctv.com/2026/11/25/ARTIgiCbgmCWhGuqsrAdOR5x261125.shtml",
@@ -1093,6 +1213,12 @@
    "title": "知情人士：美仍未向乌交付新一批“爱国者”拦截弹",
    "link": "https://military.cctv.com/2026/11/25/ARTIbJtTP8ImPLfRE9qPHPKS261125.shtml",
    "pub": "2026-11-25 03:55",
+   "source": "央视网"
+  },
+  {
+   "title": "泽连斯基证实乌方在芬兰湾袭击俄货船",
+   "link": "https://news.cctv.com/2026/11/25/ARTIdQDx9Rhhzs4bpgaqrAQt261125.shtml",
+   "pub": "2026-11-25 03:54",
    "source": "央视网"
   },
   {
