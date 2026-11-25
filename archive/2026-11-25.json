@@ -1,8 +1,38 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 21:35",
+ "fetched": "2026-11-25 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中国空间站迎首位外籍航天员 北航外国留学生共庆历史时刻",
+   "link": "https://news.cctv.com/2026/11/25/ARTIGJKsnt4QBZcTCI1WWiYb261125.shtml",
+   "pub": "2026-11-25 22:01",
+   "source": "央视网"
+  },
+  {
+   "title": "从一人守护到科学管护 他把天鹅当“孩子”守护33年",
+   "link": "https://people.cctv.com/2026/11/25/ARTIyoYf0GRptFwv7IBAmxLx261125.shtml",
+   "pub": "2026-11-25 21:54",
+   "source": "央视网"
+  },
+  {
+   "title": "咳嗽频发不只是因为受凉 这几种情况必须及时就医",
+   "link": "https://news.cctv.com/2026/11/25/ARTI1tDtuphf77UeIfB11fkD261125.shtml",
+   "pub": "2026-11-25 21:48",
+   "source": "央视网"
+  },
+  {
+   "title": "C919商业客运航班首次执飞济南",
+   "link": "https://news.cctv.com/2026/11/25/ARTIozfMzhskNmyZprnyLXfz261125.shtml",
+   "pub": "2026-11-25 21:43",
+   "source": "央视网"
+  },
+  {
+   "title": "设施风貌升级 北京公园“精雕细琢”还景于民",
+   "link": "https://news.cctv.com/2026/11/25/ARTIUVLS4o4vmDQzvYNsNHgv261125.shtml",
+   "pub": "2026-11-25 21:39",
+   "source": "央视网"
+  },
   {
    "title": "济滨高铁试运行 山东最大地下高铁站同步测试",
    "link": "https://news.cctv.com/2026/11/25/ARTIAjcufVK0w37QHI1WrCNB261125.shtml",
@@ -986,6 +1016,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737403.shtml",
    "pub": "2026-11-25 11:04",
    "source": "中国新闻网"
+  },
+  {
+   "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+   "link": "https://news.cctv.com/2026/11/25/ARTIBbKF29m757H1PuUqFG1g261125.shtml",
+   "pub": "2026-11-25 11:03",
+   "source": "央视网"
   },
   {
    "title": "贵州省纪委监委原一级巡视员饶瑜珠被开除党籍",
