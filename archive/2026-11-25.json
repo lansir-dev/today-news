@@ -1,8 +1,20 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 18:05",
+ "fetched": "2026-11-25 18:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "重庆73岁男子坠楼致2男孩被砸 官方通报：伤者无生命危险",
+   "link": "https://news.cctv.com/2026/11/25/ARTIgiCbgmCWhGuqsrAdOR5x261125.shtml",
+   "pub": "2026-11-25 18:33",
+   "source": "央视网"
+  },
+  {
+   "title": "台湾屏东县海域发生4.8级地震 震源深度20千米",
+   "link": "https://news.cctv.com/2026/11/25/ARTInS9GqZuZuTKRp9W6P8xj261125.shtml",
+   "pub": "2026-11-25 18:24",
+   "source": "央视网"
+  },
   {
    "title": "获刑十一年 高以忱受贿、利用影响力受贿案一审宣判",
    "link": "https://news.cctv.com/2026/11/25/ARTIn9PLuc0sb8uJ8QWNQ6tO261125.shtml",
@@ -1081,12 +1093,6 @@
    "title": "知情人士：美仍未向乌交付新一批“爱国者”拦截弹",
    "link": "https://military.cctv.com/2026/11/25/ARTIbJtTP8ImPLfRE9qPHPKS261125.shtml",
    "pub": "2026-11-25 03:55",
-   "source": "央视网"
-  },
-  {
-   "title": "泽连斯基证实乌方在芬兰湾袭击俄货船",
-   "link": "https://news.cctv.com/2026/11/25/ARTIdQDx9Rhhzs4bpgaqrAQt261125.shtml",
-   "pub": "2026-11-25 03:54",
    "source": "央视网"
   },
   {
