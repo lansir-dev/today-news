@@ -1,8 +1,158 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 16:35",
+ "fetched": "2026-11-25 17:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广州累计主导参与研制国际、国家、行业标准1.6万项",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737636.shtml",
+   "pub": "2026-11-25 17:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "多国人士赞赏中国推动国际航天合作：协作带来积极成果",
+   "link": "https://news.cctv.com/2026/11/25/ARTIcVvry239M6cpHQvfOl73261125.shtml",
+   "pub": "2026-11-25 17:23",
+   "source": "央视网"
+  },
+  {
+   "title": "金建希“卖官鬻爵”案12月3日终审宣判",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737650.shtml",
+   "pub": "2026-11-25 17:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "立行立改类问题整改率98.1% 2025年度山东审计整改报告出炉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737635.shtml",
+   "pub": "2026-11-25 17:16",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明被提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737634.shtml",
+   "pub": "2026-11-25 17:14",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "尼泊尔泥石流受灾区开始发放住房租赁补贴",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737628.shtml",
+   "pub": "2026-11-25 17:09",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2026年中国文化馆年会在湖北宜昌举办",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737632.shtml",
+   "pub": "2026-11-25 17:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从“市场开放”到“制度共建” 中国与东盟经贸合作带来更多新机遇",
+   "link": "https://news.cctv.com/2026/11/25/ARTIrlumnv2QxMjtaGKMm1ZV261125.shtml",
+   "pub": "2026-11-25 17:07",
+   "source": "央视网"
+  },
+  {
+   "title": "“何以中国·探寻中华文明地标”网络主题宣传活动在河南郑州启动",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737630.shtml",
+   "pub": "2026-11-25 17:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "台青陈家宏跨界“触电”建工保险 投身大陆建工数字化服务",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737629.shtml",
+   "pub": "2026-11-25 17:06",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "获刑十一年 高以忱受贿、利用影响力受贿案一审宣判",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737640.shtml",
+   "pub": "2026-11-25 17:03",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "台湾屏东县海域发生4.8级地震 震源深度20千米",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737638.shtml",
+   "pub": "2026-11-25 17:02",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737591.shtml",
+   "pub": "2026-11-25 17:00",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“新名”“新车”新期待，一路驰骋向未来",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737622.shtml",
+   "pub": "2026-11-25 16:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "朝鲜驱逐瑞士外交办事处代表",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737612.shtml",
+   "pub": "2026-11-25 16:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "特写：大漠长夜护飞天",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737618.shtml",
+   "pub": "2026-11-25 16:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "成都西部脑谷集中发布多款脑机接口新品",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737614.shtml",
+   "pub": "2026-11-25 16:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "澳大利亚10月CPI同比上涨4.9%",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737512.shtml",
+   "pub": "2026-11-25 16:44",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "宁夏泾源护林员写下50万字“村史” 为家乡留住乡愁",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737609.shtml",
+   "pub": "2026-11-25 16:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国台办：APEC会议成台胞读懂大陆的生动舞台",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737608.shtml",
+   "pub": "2026-11-25 16:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "驻华使节、外交官走进北京青创村：感受创业氛围，寻找合作机遇",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737606.shtml",
+   "pub": "2026-11-25 16:42",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "海南城乡低保标准统一提升至850元/月",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737601.shtml",
+   "pub": "2026-11-25 16:42",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从景观到服务 北京市属公园“精雕细琢”优化游园体验",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737595.shtml",
+   "pub": "2026-11-25 16:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "广东美丽河湖见闻：三江汇清流 韩江白鹭飞",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737594.shtml",
+   "pub": "2026-11-25 16:32",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "沙退水进鸟归来：青土湖守住民勤绿洲“北大门”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737593.shtml",
+   "pub": "2026-11-25 16:32",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "安徽池州通报4岁男童走失：已找到，经确认已无生命体征",
    "link": "https://news.cctv.com/2026/11/25/ARTI60wxehf5lmoUxfjvAGnB261125.shtml",
@@ -44,6 +194,12 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737589.shtml",
    "pub": "2026-11-25 16:19",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "广东网络餐饮治理观察：近50万商户背后的食安攻坚",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737569.shtml",
+   "pub": "2026-11-25 16:13",
+   "source": "中国新闻网·社会"
   },
   {
    "title": "中国篮协回应辽宁本钢赛后沟通争议",
@@ -250,24 +406,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "从酒泉到西安：母校师生见证武毅奔赴星海",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737537.shtml",
-   "pub": "2026-11-25 14:59",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737539.shtml",
-   "pub": "2026-11-25 14:57",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "见证历史！中外航天员在中国空间站合影",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737532.shtml",
-   "pub": "2026-11-25 14:49",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
    "link": "https://news.cctv.com/2026/11/25/ARTIPcg7Dq5dozKBWLP7NE5C261125.shtml",
    "pub": "2026-11-25 14:47",
@@ -286,12 +424,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "中外航天员实现首次“太空握手” 神二十四乘组顺利进驻“天宫”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737524.shtml",
-   "pub": "2026-11-25 14:38",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "多视角看点火，感受中国航天极致浪漫！180秒回顾神二十四发射的精彩瞬间",
    "link": "https://news.cctv.com/2026/11/25/ARTInCkRZa2oSKJV3ordHpPb261125.shtml",
    "pub": "2026-11-25 14:38",
@@ -302,12 +434,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737522.shtml",
    "pub": "2026-11-25 14:35",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "国台办以数据驳“台商赴陆投资金额下滑”说",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737519.shtml",
-   "pub": "2026-11-25 14:31",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "长江源头国际重要湿地首现白额雁",
@@ -382,22 +508,10 @@
    "source": "央视网"
   },
   {
-   "title": "中国航天员首次挑战一年期在轨驻留 专家解析“太空长住”保障",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737478.shtml",
-   "pub": "2026-11-25 13:40",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "加防长回应五角大楼指责：“我们不向美国汇报”",
    "link": "https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml",
    "pub": "2026-11-25 13:38",
    "source": "央视网"
-  },
-  {
-   "title": "外籍航天员首次进入中国空间站，需要“中文十级”吗？",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737488.shtml",
-   "pub": "2026-11-25 13:37",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "一经济嫌犯从俄罗斯被引渡回中国 涉案金额超150亿元",
@@ -412,12 +526,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "神舟二十四号成功发射 中国电科提供全链条全周期全流程服务保障",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737484.shtml",
-   "pub": "2026-11-25 13:36",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "江苏扬州警方通报一起交通事故致1死2伤",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737479.shtml",
    "pub": "2026-11-25 13:35",
@@ -430,12 +538,6 @@
    "source": "央视网"
   },
   {
-   "title": "从定制化训练到中文学习，巴基斯坦航天员的中国“飞天课”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737476.shtml",
-   "pub": "2026-11-25 13:22",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "伪装成科技公司搞舆情敲诈？这个恶势力团伙覆灭了",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737472.shtml",
    "pub": "2026-11-25 13:04",
@@ -446,12 +548,6 @@
    "link": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
    "pub": "2026-11-25 13:00",
    "source": "中国新闻网"
-  },
-  {
-   "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
-   "pub": "2026-11-25 12:37",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "我国首套600MW级压缩空气储能系统膨胀机顺利下线",
@@ -550,12 +646,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "从协商会场到旷野一线 山东地矿画出新时代统战同心圆",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737427.shtml",
-   "pub": "2026-11-25 11:28",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "截至10月底 我国累计发电装机容量同比增长10.9%",
    "link": "https://news.cctv.com/2026/11/25/ARTIWCHQ4SwgDTK3Pi5uVmDT261125.shtml",
    "pub": "2026-11-25 11:28",
@@ -578,12 +668,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737419.shtml",
    "pub": "2026-11-25 11:27",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "哈尔滨市阿城区：冰雪运动、研学康养、民俗体验深度融合",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737387.shtml",
-   "pub": "2026-11-25 11:26",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "（国际观察）卢拉政府打出财政“组合拳” 巴西市场信心能否回暖？",
@@ -610,12 +694,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "一根银针、一间间诊室：暨南人在非洲播撒民心相通的种子",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737385.shtml",
-   "pub": "2026-11-25 11:24",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "德国11月IFO商业景气指数升至2023年春季以来最高水平",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737399.shtml",
    "pub": "2026-11-25 11:23",
@@ -632,18 +710,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737382.shtml",
    "pub": "2026-11-25 11:21",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "广西部署开展打击非法捕猎、贩卖、食用鸟类等野生动物专项行动",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737408.shtml",
-   "pub": "2026-11-25 11:20",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "欧洲中期天气预报中心主任点赞重庆全民早期预警系统",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737405.shtml",
-   "pub": "2026-11-25 11:19",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "一艘移民船从塞内加尔出发两周后失联 约175人下落不明",
@@ -736,22 +802,10 @@
    "source": "央视网"
   },
   {
-   "title": "探访红色娘子军纪念园：战地琼花生生不息红色娘子军故事焕发时代活力",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737368.shtml",
-   "pub": "2026-11-25 10:30",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "早已是第二大进口国了，中国还能买什么",
    "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737364.shtml",
    "pub": "2026-11-25 10:26",
    "source": "中国新闻网"
-  },
-  {
-   "title": "以门票减法撬动消费加法，推动文旅产业深度转型",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737351.shtml",
-   "pub": "2026-11-25 10:22",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "普速旅客列车和旅游列车车次变更11月25日实施",
@@ -910,12 +964,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "泰国举办泰国—经合组织议会论坛 推动国内改革与国际接轨",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737295.shtml",
-   "pub": "2026-11-25 08:28",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "【8点见】出征仪式举行，3名航天员领命出征！",
    "link": "https://news.cctv.com/2026/11/25/ARTItv2ETGAM4EeujGtmvv0U261125.shtml",
    "pub": "2026-11-25 08:00",
@@ -938,18 +986,6 @@
    "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737286.shtml",
    "pub": "2026-11-25 07:20",
    "source": "中国新闻网"
-  },
-  {
-   "title": "土耳其一军用直升机坠毁 造成5名士兵死亡",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737285.shtml",
-   "pub": "2026-11-25 07:16",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
-   "pub": "2026-11-25 07:01",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
