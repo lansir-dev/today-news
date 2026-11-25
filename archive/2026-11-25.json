@@ -1,0 +1,905 @@
+{
+ "day": "2026-11-25",
+ "fetched": "2026-11-25 12:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
+ "items": [
+  {
+   "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737451.shtml",
+   "pub": "2026-11-25 11:59",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
+   "link": "https://news.cctv.com/2026/11/25/ARTIS2KvCPa0Tc3RR36gbFDt261125.shtml",
+   "pub": "2026-11-25 11:59",
+   "source": "央视网"
+  },
+  {
+   "title": "会“拐弯”的指路牌，越多越好",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
+   "pub": "2026-11-25 11:53",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "英国宣布制裁也门胡塞武装",
+   "link": "https://news.cctv.com/2026/11/25/ARTIk3vz49d1Ld7N06AnBtgM261125.shtml",
+   "pub": "2026-11-25 11:51",
+   "source": "央视网"
+  },
+  {
+   "title": "为文旅注入“年轻力” 景区NPC成为推动体验式消费的“密码”",
+   "link": "https://news.cctv.com/2026/11/25/ARTI46ipls72tluqtisvW7JF261125.shtml",
+   "pub": "2026-11-25 11:48",
+   "source": "央视网"
+  },
+  {
+   "title": "坐火车注意 普速列车今起启用Z、N、V字头新车次",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737448.shtml",
+   "pub": "2026-11-25 11:41",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：搞“台独”分裂没有市场更没有出路",
+   "link": "https://news.cctv.com/2026/11/25/ARTIXVdcpTvNjZYMgp1IV87i261125.shtml",
+   "pub": "2026-11-25 11:39",
+   "source": "央视网"
+  },
+  {
+   "title": "司法部和联合国毒罪办在北京联合举办刑事法律援助全球会议",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737431.shtml",
+   "pub": "2026-11-25 11:36",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "楼上安家楼下务工 湖南新田乡村车间拓宽乡亲增收路",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737430.shtml",
+   "pub": "2026-11-25 11:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "60余名越南青年赴广西开启“红色研学之旅”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737434.shtml",
+   "pub": "2026-11-25 11:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "《加强海洋开发利用保护推动海洋经济高质量发展典型案例（第一批）》发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737438.shtml",
+   "pub": "2026-11-25 11:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "黄仁勋“闪电复出”，发了88篇报道“围攻”他的《纽约时报》尴尬了",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737442.shtml",
+   "pub": "2026-11-25 11:32",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "黑龙江北大荒集团：一张数字全息图可2小时完成主粮作物长势监测",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737437.shtml",
+   "pub": "2026-11-25 11:32",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "湖南长沙县探索基层治理新路径  新就业群体变身社区治理“合伙人”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737433.shtml",
+   "pub": "2026-11-25 11:29",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从协商会场到旷野一线 山东地矿画出新时代统战同心圆",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737427.shtml",
+   "pub": "2026-11-25 11:28",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "截至10月底 我国累计发电装机容量同比增长10.9%",
+   "link": "https://news.cctv.com/2026/11/25/ARTIWCHQ4SwgDTK3Pi5uVmDT261125.shtml",
+   "pub": "2026-11-25 11:28",
+   "source": "央视网"
+  },
+  {
+   "title": "哥伦比亚旅游城市发生人质劫持事件",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737418.shtml",
+   "pub": "2026-11-25 11:27",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "神舟二十四号载人飞船：“数智指挥官”上岗，助力推进舱总装",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737425.shtml",
+   "pub": "2026-11-25 11:27",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "泽连斯基证实乌方袭击芬兰湾俄货船 多国担忧俄乌冲突外溢",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737420.shtml",
+   "pub": "2026-11-25 11:27",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "埃及阿斯旺省发生交通事故造成10死7伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737419.shtml",
+   "pub": "2026-11-25 11:27",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "哈尔滨市阿城区：冰雪运动、研学康养、民俗体验深度融合",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737387.shtml",
+   "pub": "2026-11-25 11:26",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "（国际观察）卢拉政府打出财政“组合拳” 巴西市场信心能否回暖？",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737417.shtml",
+   "pub": "2026-11-25 11:25",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "今天至明天白天北京气温回升 明天夜间山区有雨雪天气",
+   "link": "https://news.cctv.com/2026/11/25/ARTIsNsQqSd14qz4w12KbA7Y261125.shtml",
+   "pub": "2026-11-25 11:25",
+   "source": "央视网"
+  },
+  {
+   "title": "评论：台湾陆剧迷值得一场线下的粉丝见面会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737422.shtml",
+   "pub": "2026-11-25 11:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美媒：民主党已锁定众议院259席 创自1990年来最多席位数纪录",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737415.shtml",
+   "pub": "2026-11-25 11:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中欧汽车行业交流会在布鲁塞尔举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737404.shtml",
+   "pub": "2026-11-25 11:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "一根银针、一间间诊室：暨南人在非洲播撒民心相通的种子",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737385.shtml",
+   "pub": "2026-11-25 11:24",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "德国11月IFO商业景气指数升至2023年春季以来最高水平",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737399.shtml",
+   "pub": "2026-11-25 11:23",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "调查显示德国民众对总理默茨不满情绪进一步上升",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737388.shtml",
+   "pub": "2026-11-25 11:22",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "世卫组织宣布向古巴提供200万美元医疗援助",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737382.shtml",
+   "pub": "2026-11-25 11:21",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "广西部署开展打击非法捕猎、贩卖、食用鸟类等野生动物专项行动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737408.shtml",
+   "pub": "2026-11-25 11:20",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737416.shtml",
+   "pub": "2026-11-25 11:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "欧洲中期天气预报中心主任点赞重庆全民早期预警系统",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737405.shtml",
+   "pub": "2026-11-25 11:19",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一艘移民船从塞内加尔出发两周后失联 约175人下落不明",
+   "link": "https://news.cctv.com/2026/11/25/ARTI3aN1Ku0QkohZ4SvY0u1I261125.shtml",
+   "pub": "2026-11-25 11:15",
+   "source": "央视网"
+  },
+  {
+   "title": "截至10月底全国累计发电装机容量同比增长10.9%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737413.shtml",
+   "pub": "2026-11-25 11:14",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "红星照耀中国｜战旗为什么这样红",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737410.shtml",
+   "pub": "2026-11-25 11:09",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
+   "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
+   "pub": "2026-11-25 11:09",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普“赦免”2026年感恩节火鸡 并祝美国民众节日快乐",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737403.shtml",
+   "pub": "2026-11-25 11:04",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "越来越多台胞台商走进深圳、认识深圳、扎根深圳 国台办：真诚欢迎",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737390.shtml",
+   "pub": "2026-11-25 11:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办点赞《声生不息·天涯共此时》",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737397.shtml",
+   "pub": "2026-11-25 11:03",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+   "link": "https://news.cctv.com/2026/11/25/ARTIBbKF29m757H1PuUqFG1g261125.shtml",
+   "pub": "2026-11-25 11:03",
+   "source": "央视网"
+  },
+  {
+   "title": "国台办回应日首相回避涉台错误言论",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737394.shtml",
+   "pub": "2026-11-25 11:02",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "贵州省纪委监委原一级巡视员饶瑜珠被开除党籍",
+   "link": "https://news.cctv.com/2026/11/25/ARTIA3d4rTed5CJ9VXbQ9PLx261125.shtml",
+   "pub": "2026-11-25 11:02",
+   "source": "央视网"
+  },
+  {
+   "title": "印尼一矿井发生事故 致29人被困",
+   "link": "https://news.cctv.com/2026/11/25/ARTIhQyypvmfhyboq856jZPm261125.shtml",
+   "pub": "2026-11-25 10:57",
+   "source": "央视网"
+  },
+  {
+   "title": "年轻人爱上冷兵器，寄递是否合规？律师详解",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737379.shtml",
+   "pub": "2026-11-25 10:55",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "黄金又跌了，25日国际金价跌破3550美元",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737384.shtml",
+   "pub": "2026-11-25 10:55",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制",
+   "link": "https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml",
+   "pub": "2026-11-25 10:55",
+   "source": "央视网"
+  },
+  {
+   "title": "国台办谈大陆文化新三样火爆台湾",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737383.shtml",
+   "pub": "2026-11-25 10:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "“小三通”客运量创纪录 国台办：台湾同胞期盼两岸便利往来的民心民意不可阻挡",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737377.shtml",
+   "pub": "2026-11-25 10:54",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "南非总统：南非正采取多方面举措应对美贸易限制",
+   "link": "https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml",
+   "pub": "2026-11-25 10:52",
+   "source": "央视网"
+  },
+  {
+   "title": "国台办回应深圳APEC期间多国领导人表示恪守一中",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737380.shtml",
+   "pub": "2026-11-25 10:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办哀悼武之璋先生逝世",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737371.shtml",
+   "pub": "2026-11-25 10:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办：APEC会议成为台湾同胞读懂大陆的生动舞台",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737374.shtml",
+   "pub": "2026-11-25 10:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "大陆“文化新三样”火爆台湾 国台办：两岸同胞血脉中流淌着相同的中华文化基因",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737378.shtml",
+   "pub": "2026-11-25 10:48",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国台办回应张凌赫表示非常想去台湾",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737363.shtml",
+   "pub": "2026-11-25 10:47",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "贵州能源集团有限公司原总经理兰海平被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737372.shtml",
+   "pub": "2026-11-25 10:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "前10个月全社会用电量保持平稳增长 新质生产力“电量”十足",
+   "link": "https://news.cctv.com/2026/11/25/ARTIfP30DLCAAoB5tGEA4zEz261125.shtml",
+   "pub": "2026-11-25 10:43",
+   "source": "央视网"
+  },
+  {
+   "title": "海南4对进出岛旅客列车实施车次变更调整",
+   "link": "https://news.cctv.com/2026/11/25/ARTIb9uHC781SgwZhMxsfC3N261125.shtml",
+   "pub": "2026-11-25 10:34",
+   "source": "央视网"
+  },
+  {
+   "title": "中国空间站再“迎新” 新伙伴、新亮点、新实验值得期待",
+   "link": "https://news.cctv.com/2026/11/25/ARTIyqXXZl5nxG4iXQ9mK3GQ261125.shtml",
+   "pub": "2026-11-25 10:32",
+   "source": "央视网"
+  },
+  {
+   "title": "探访红色娘子军纪念园：战地琼花生生不息红色娘子军故事焕发时代活力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737368.shtml",
+   "pub": "2026-11-25 10:30",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "早已是第二大进口国了，中国还能买什么",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737364.shtml",
+   "pub": "2026-11-25 10:26",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "以门票减法撬动消费加法，推动文旅产业深度转型",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737351.shtml",
+   "pub": "2026-11-25 10:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "普速旅客列车和旅游列车车次变更11月25日实施",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737355.shtml",
+   "pub": "2026-11-25 10:21",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "流感等急性呼吸道传染病进入流行季 这份健康小贴士快收藏→",
+   "link": "https://news.cctv.com/2026/11/25/ARTI7thSNWN4UQM7aKJRwqHg261125.shtml",
+   "pub": "2026-11-25 10:18",
+   "source": "央视网"
+  },
+  {
+   "title": "外媒：胡塞武装再次袭击沙特首都高楼 至少11人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737354.shtml",
+   "pub": "2026-11-25 10:15",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "“全”释硬科技 | 从受制于人到自立自强 中国空间站“开门迎客”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIZvjFXpDyW6w4uZC12Gba261125.shtml",
+   "pub": "2026-11-25 10:11",
+   "source": "央视网"
+  },
+  {
+   "title": "全球媒体聚焦丨“这次任务是载人航天惠及全球更多群体的新一步”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737352.shtml",
+   "pub": "2026-11-25 10:07",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "红星照耀中国｜“老园区”长出新动能",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737350.shtml",
+   "pub": "2026-11-25 10:06",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "日政府起用阴谋论网红宣扬安保政策引质疑",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737349.shtml",
+   "pub": "2026-11-25 10:05",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "广东高院：以严格公正司法实质化解行政争议",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737340.shtml",
+   "pub": "2026-11-25 10:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737346.shtml",
+   "pub": "2026-11-25 10:02",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "公共空间不是“流量秀场” 无序直播该管管了",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737344.shtml",
+   "pub": "2026-11-25 10:01",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "全国大部雨雪稀少迎回暖 最高气温20℃线将北抬至河北一带",
+   "link": "https://news.cctv.com/2026/11/25/ARTIxlxVJVo5SczdmqbdRnXb261125.shtml",
+   "pub": "2026-11-25 09:59",
+   "source": "央视网"
+  },
+  {
+   "title": "为建设亚太共同体贡献媒体力量——访马来西亚国家新闻社首席执行官努鲁·阿菲达",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737342.shtml",
+   "pub": "2026-11-25 09:57",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "AI面试官上岗引关注 评论：需兼顾效率与公平",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737341.shtml",
+   "pub": "2026-11-25 09:57",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "新疆昌吉州玛纳斯县发生3.3级地震 震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/25/ARTIrI0KtQzsNxtesvvr9YUQ261125.shtml",
+   "pub": "2026-11-25 09:55",
+   "source": "央视网"
+  },
+  {
+   "title": "铁路列车车次“上新”，你想知道的都在这里→",
+   "link": "https://news.cctv.com/2026/11/25/ARTIUkFHrNrOyAK0tTUNz5AY261125.shtml",
+   "pub": "2026-11-25 09:54",
+   "source": "央视网"
+  },
+  {
+   "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737323.shtml",
+   "pub": "2026-11-25 09:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "从“千里眼”到智能防线 “硬核”科技护航神舟顺利出征",
+   "link": "https://news.cctv.com/2026/11/25/ARTIeUZeKa5StVMpxj1t9dhD261125.shtml",
+   "pub": "2026-11-25 09:45",
+   "source": "央视网"
+  },
+  {
+   "title": "中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者问",
+   "link": "https://news.cctv.com/2026/11/25/ARTIDkVpZtleKaPDhIhbDtlM261125.shtml",
+   "pub": "2026-11-25 09:45",
+   "source": "央视网"
+  },
+  {
+   "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
+   "link": "https://news.cctv.com/2026/11/25/ARTIKaZew82qk753Hux4uU0Y261125.shtml",
+   "pub": "2026-11-25 09:43",
+   "source": "央视网"
+  },
+  {
+   "title": "美国军方盯上车企流水线改造军用无人机，底特律巨头顾虑重重",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737337.shtml",
+   "pub": "2026-11-25 09:42",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "“重返”办案现场 浙江检察英模讲述公平正义背后的坚守",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737333.shtml",
+   "pub": "2026-11-25 09:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "见证“巴铁”航天梦想启航！中巴合作不断向更广、更深的领域拓展",
+   "link": "https://news.cctv.com/2026/11/25/ARTINqqK9tFpdtod5fBm7dSm261125.shtml",
+   "pub": "2026-11-25 09:41",
+   "source": "央视网"
+  },
+  {
+   "title": "赏冰雪、泡温泉、品美食 哈尔滨市松北区推出三大特色主题游玩线路",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737329.shtml",
+   "pub": "2026-11-25 09:31",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "此行间·载入史册的深圳之约！100秒看习近平主席的APEC时间",
+   "link": "https://news.cctv.com/2026/11/25/ARTIaV3avN6msfVq15fczbaj261125.shtml",
+   "pub": "2026-11-25 09:28",
+   "source": "央视网"
+  },
+  {
+   "title": "系统防护缺位？网警依法查处2起不履行安全保护义务案",
+   "link": "https://news.cctv.com/2026/11/25/ARTIoZuPNe74to7yu3UtctlT261125.shtml",
+   "pub": "2026-11-25 09:19",
+   "source": "央视网"
+  },
+  {
+   "title": "网红“疯狂小马哥”直播饮酒后离世 “夺命”直播谁的错？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737320.shtml",
+   "pub": "2026-11-25 09:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "祝贺！神舟二十四号载人飞船发射任务圆满成功",
+   "link": "https://news.cctv.com/2026/11/25/ARTIBXJo1y0SzukS8li11eR0261125.shtml",
+   "pub": "2026-11-25 09:16",
+   "source": "央视网"
+  },
+  {
+   "title": "11月26日开始又将有冷空气影响北方 全国降水总体较弱",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737317.shtml",
+   "pub": "2026-11-25 09:13",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "化妆品监管改革持续落地 “美妆消费”解锁哪些新机会",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737315.shtml",
+   "pub": "2026-11-25 09:00",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "全国大部雨雪稀少迎回暖 最高气温20℃线将北抬至河北一带",
+   "link": "https://news.cctv.com/2026/11/25/ARTIzGbJi6aYhSpiEbnTsvmx261125.shtml",
+   "pub": "2026-11-25 08:58",
+   "source": "央视网"
+  },
+  {
+   "title": "这几种维生素孩子容易误食过量！很多家庭都有",
+   "link": "https://news.cctv.com/2026/11/25/ARTIP0U7KMwJiUvWYJjM9fkG261125.shtml",
+   "pub": "2026-11-25 08:56",
+   "source": "央视网"
+  },
+  {
+   "title": "撞碎在城市幻觉里的翅膀：一场关于防鸟撞的社会接力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737312.shtml",
+   "pub": "2026-11-25 08:48",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "在地扎根，短剧出海掀起全球热度",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737307.shtml",
+   "pub": "2026-11-25 08:37",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "神舟二十四号载人飞船发射升空",
+   "link": "https://news.cctv.com/2026/11/25/ARTIDQZ6rkaKCdYPRn6F4YOI261125.shtml",
+   "pub": "2026-11-25 08:33",
+   "source": "央视网"
+  },
+  {
+   "title": "特朗普“赦免”2026年感恩节火鸡“自由”“羽翼”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737299.shtml",
+   "pub": "2026-11-25 08:31",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "美国11月消费者信心指数升至近两年来最高值",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737297.shtml",
+   "pub": "2026-11-25 08:30",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "欧盟“点名”5个成员国存在经济失衡风险",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737298.shtml",
+   "pub": "2026-11-25 08:30",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "两名男子涉嫌侵入英国威廉王子夫妇乡间别墅行窃被捕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737296.shtml",
+   "pub": "2026-11-25 08:28",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "泰国举办泰国—经合组织议会论坛 推动国内改革与国际接轨",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737295.shtml",
+   "pub": "2026-11-25 08:28",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "全国大部天气晴好",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737293.shtml",
+   "pub": "2026-11-25 08:21",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "【8点见】出征仪式举行，3名航天员领命出征！",
+   "link": "https://news.cctv.com/2026/11/25/ARTItv2ETGAM4EeujGtmvv0U261125.shtml",
+   "pub": "2026-11-25 08:00",
+   "source": "央视网"
+  },
+  {
+   "title": "买盲盒先办会员，此风不可长",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737292.shtml",
+   "pub": "2026-11-25 07:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "跟着习爷爷学在纪念馆｜第五集 终于，抢回了主动权！",
+   "link": "https://news.cctv.com/2026/11/25/ARTIl61AalUq36hBnKSdr6Oe261125.shtml",
+   "pub": "2026-11-25 07:49",
+   "source": "央视网"
+  },
+  {
+   "title": "“大脑”请回话",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737291.shtml",
+   "pub": "2026-11-25 07:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "顶尖AI学院，用“古法教学”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
+   "pub": "2026-11-25 07:43",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "不只抽烟！这些日常生活习惯，正在悄悄伤害你的肺",
+   "link": "https://www.chinanews.com.cn/jk/2026/11-25/10737287.shtml",
+   "pub": "2026-11-25 07:28",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "人才缺口超百万！新职业来了",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737286.shtml",
+   "pub": "2026-11-25 07:20",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "土耳其一军用直升机坠毁 造成5名士兵死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737285.shtml",
+   "pub": "2026-11-25 07:16",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
+   "pub": "2026-11-25 07:01",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+   "link": "https://news.cctv.com/2026/11/25/ARTI8XBFBenGUCQZwci9ivwe261125.shtml",
+   "pub": "2026-11-25 06:50",
+   "source": "央视网"
+  },
+  {
+   "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
+   "pub": "2026-11-25 06:35",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "英国2026年夏季高温致死人数创新高",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
+   "pub": "2026-11-25 06:24",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
+   "pub": "2026-11-25 06:23",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "马来西亚拟加强AI陪伴类应用监管",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
+   "pub": "2026-11-25 06:21",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "普京：乌方袭击俄能源设施必招致俄方回应",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
+   "pub": "2026-11-25 06:17",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "神舟二十四号航天员乘组出征仪式在酒泉卫星发射中心举行",
+   "link": "https://news.cctv.com/2026/11/25/ARTIoY2h9oRuD6Z4x9URNSqw261125.shtml",
+   "pub": "2026-11-25 05:42",
+   "source": "央视网"
+  },
+  {
+   "title": "深刻把握“坚持问题导向”的原则",
+   "link": "https://news.cctv.com/2026/11/25/ARTIoQgER6Pb5CyBWiMp4grf261125.shtml",
+   "pub": "2026-11-25 05:34",
+   "source": "央视网"
+  },
+  {
+   "title": "普京：必将回应乌对俄燃料能源设施的袭击",
+   "link": "https://news.cctv.com/2026/11/25/ARTIN0LUiIXBt44WlzFo01lA261125.shtml",
+   "pub": "2026-11-25 05:34",
+   "source": "央视网"
+  },
+  {
+   "title": "胡塞武装称过去24小时沙特主导联军发动72次空袭和导弹袭击",
+   "link": "https://news.cctv.com/2026/11/25/ARTIGmUidEQPF6ZlUiEKckff261125.shtml",
+   "pub": "2026-11-25 05:34",
+   "source": "央视网"
+  },
+  {
+   "title": "国际体育仲裁法庭裁定：恢复塞内加尔队非洲杯冠军头衔",
+   "link": "https://news.cctv.com/2026/11/25/ARTIGvluNjWbuGWIms5HI7xX261125.shtml",
+   "pub": "2026-11-25 05:34",
+   "source": "央视网"
+  },
+  {
+   "title": "真相来了丨长期左侧卧睡 真的会压迫损伤心脏吗？",
+   "link": "https://news.cctv.com/2026/11/25/ARTIUG6aKrKRBKARbhyeSm0V261125.shtml",
+   "pub": "2026-11-25 04:12",
+   "source": "央视网"
+  },
+  {
+   "title": "美国防部寻求部分企业协助生产军用无人机",
+   "link": "https://news.cctv.com/2026/11/25/ARTIkpSh92qAXyjOLz2pcp0u261124.shtml",
+   "pub": "2026-11-25 04:07",
+   "source": "央视网"
+  },
+  {
+   "title": "年末影片上新 多元业态释放消费潜力",
+   "link": "https://news.cctv.com/2026/11/25/ARTI80QpYjiuz4l1d2WEUeeM261124.shtml",
+   "pub": "2026-11-25 04:07",
+   "source": "央视网"
+  },
+  {
+   "title": "多轮磋商难破僵局 以组阁博弈现三重动向",
+   "link": "https://news.cctv.com/2026/11/25/ARTIu1N9ES2OcY5hL3bOUOOU261124.shtml",
+   "pub": "2026-11-25 04:07",
+   "source": "央视网"
+  },
+  {
+   "title": "照护“一老一小”，服务体系如何搭建？",
+   "link": "https://news.cctv.com/2026/11/25/ARTIfx9084GC7sGRVXO35N2e261125.shtml",
+   "pub": "2026-11-25 04:05",
+   "source": "央视网"
+  },
+  {
+   "title": "一人咳嗽全家中招？感冒、流感、肺炎这样区分",
+   "link": "https://news.cctv.com/2026/11/25/ARTIQuh3J5WE9O89thNVlZSg261125.shtml",
+   "pub": "2026-11-25 04:05",
+   "source": "央视网"
+  },
+  {
+   "title": "知情人士：美仍未向乌交付新一批“爱国者”拦截弹",
+   "link": "https://military.cctv.com/2026/11/25/ARTIbJtTP8ImPLfRE9qPHPKS261125.shtml",
+   "pub": "2026-11-25 03:55",
+   "source": "央视网"
+  },
+  {
+   "title": "泽连斯基证实乌方在芬兰湾袭击俄货船",
+   "link": "https://news.cctv.com/2026/11/25/ARTIdQDx9Rhhzs4bpgaqrAQt261125.shtml",
+   "pub": "2026-11-25 03:54",
+   "source": "央视网"
+  },
+  {
+   "title": "老挝正式退出联合国最不发达国家行列",
+   "link": "https://news.cctv.com/2026/11/25/ARTIQolIVLnWhaUZFb8mlneG261125.shtml",
+   "pub": "2026-11-25 03:51",
+   "source": "央视网"
+  },
+  {
+   "title": "秋冬体检季 血脂筛查注意啥？专家解读",
+   "link": "https://news.cctv.com/2026/11/25/ARTIfstgQXKdowyHHBFyuE95261124.shtml",
+   "pub": "2026-11-25 03:07",
+   "source": "央视网"
+  },
+  {
+   "title": "跨年度“三连超级月亮”来了！这份赏月指南请收好",
+   "link": "https://news.cctv.com/2026/11/25/ARTI5sHop8QewCv5PRJhEZIq261124.shtml",
+   "pub": "2026-11-25 03:07",
+   "source": "央视网"
+  },
+  {
+   "title": "我国400米大气环境气象梯度观测塔封顶",
+   "link": "https://news.cctv.com/2026/11/25/ARTImh1jGSzPp0G7RyagibcM261124.shtml",
+   "pub": "2026-11-25 03:07",
+   "source": "央视网"
+  },
+  {
+   "title": "穿围裙防作弊！韩国考场AI作弊事件频发 考试公平遭遇挑战",
+   "link": "https://news.cctv.com/2026/11/25/ARTI8Nshnk14L43L4M1wnuVj261124.shtml",
+   "pub": "2026-11-25 02:06",
+   "source": "央视网"
+  },
+  {
+   "title": "库克群岛科学家搭乘“蛟龙”号成功下潜",
+   "link": "https://news.cctv.com/2026/11/25/ARTIbmnqOCV60bzQgt7ZgfP1261124.shtml",
+   "pub": "2026-11-25 02:06",
+   "source": "央视网"
+  },
+  {
+   "title": "铁路12306App新增候补兑现等信息提醒",
+   "link": "https://news.cctv.com/2026/11/25/ARTIO7X28kO5yUKCSK1PwrrM261124.shtml",
+   "pub": "2026-11-25 01:06",
+   "source": "央视网"
+  },
+  {
+   "title": "疾控“十五五”规划这样共绘健康蓝图",
+   "link": "https://news.cctv.com/2026/11/25/ARTIs2vTjVlyItxBccGkDxHg261124.shtml",
+   "pub": "2026-11-25 01:06",
+   "source": "央视网"
+  },
+  {
+   "title": "邢博赴宋庆龄同志故居调研",
+   "link": "https://news.cctv.com/2026/11/25/ARTIWVx4Nb0ewQA4naJDtNXA261125.shtml",
+   "pub": "2026-11-25 00:19",
+   "source": "央视网"
+  },
+  {
+   "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
+   "pub": "2026-11-25 00:04",
+   "source": "中国新闻网"
+  }
+ ],
+ "ai": [
+  {
+   "title": "矩阵乘法指数被证明精确为 9/4",
+   "link": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+   "meta": "Greg Brockman · 发布于 11-25 10:35 · 论文",
+   "summary": "Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。Bubeck 称这是他从未想过有生之年能看到的结果，并指出根据 Yin Tat Lee 等人的旧结果，这也意味着线性规划可在 n^{9/4} 时间内求解。",
+   "origin": "https://x.com/gdb/status/2125418102049628201"
+  },
+  {
+   "title": "Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍",
+   "link": "https://aihot.news/items/yh9lmlhqwoc77d1ii1mvr5d6x",
+   "meta": "Thinking Machines Lab：News · 发布于 11-24 15:00 · 论文",
+   "summary": "Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 (medium)，单次预测成本降低 15 倍。",
+   "origin": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/"
+  },
+  {
+   "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
+   "link": "https://aihot.news/items/youah0x28ti3a58sj8ku26rdy",
+   "meta": "METR：Blog · 发布于 11-24 00:00 · 观点",
+   "summary": "METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。",
+   "origin": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/"
+  },
+  {
+   "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+   "link": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+   "meta": "公众号：数字生命卡兹克 · 发布于 11-25 07:56 · 模型",
+   "summary": "Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。",
+   "origin": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw"
+  },
+  {
+   "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+   "link": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+   "meta": "Anthropic · 发布于 11-25 05:32 · 论文",
+   "summary": "Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。",
+   "origin": "https://x.com/AnthropicAI/status/2125341904644763678"
+  },
+  {
+   "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
+   "link": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
+   "meta": "OpenAI：官网动态 · 发布于 11-24 21:00 · 论文",
+   "summary": "OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。",
+   "origin": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+  },
+  {
+   "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
+   "link": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+   "meta": "Claude：Blog · 发布于 11-24 08:00 · 产品",
+   "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
+   "origin": "https://claude.com/blog/install-as-app"
+  },
+  {
+   "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
+   "link": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
+   "meta": "Cognition 模型 / Devin 博客 · 发布于 11-24 00:00 · 模型",
+   "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
+   "origin": "https://cognition.com/blog/swe-2-1"
+  }
+ ]
+}
