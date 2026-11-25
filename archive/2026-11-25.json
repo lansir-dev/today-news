@@ -1,8 +1,146 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 15:35",
+ "fetched": "2026-11-25 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "中方谈中巴航天员共赴“天宫”：中国载人航天工程国际合作新的里程碑",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737564.shtml",
+   "pub": "2026-11-25 16:00",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "市场监管总局启动高质量认证项目“揭榜挂帅”工作",
+   "link": "https://news.cctv.com/2026/11/25/ARTI5sx2BMqwO6whkHyIjBkl261125.shtml",
+   "pub": "2026-11-25 16:00",
+   "source": "央视网"
+  },
+  {
+   "title": "中方：各国在发展同太平洋岛国关系时，有关合作不应针对第三方",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737575.shtml",
+   "pub": "2026-11-25 15:52",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "江西青原：统战赋能 小菌菇撑起乡村振兴“致富伞”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737567.shtml",
+   "pub": "2026-11-25 15:50",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "著名数学家彼得·萨纳克获得首届潘承洞奖",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737568.shtml",
+   "pub": "2026-11-25 15:49",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "三峡水运新通道工程已完成投资超110亿元",
+   "link": "https://news.cctv.com/2026/11/25/ARTIKXVWsikf6GEJUWcjfurg261125.shtml",
+   "pub": "2026-11-25 15:49",
+   "source": "央视网"
+  },
+  {
+   "title": "留住秋日金色浪漫 “落叶缓扫”举措为城市日常注入人文温度",
+   "link": "https://news.cctv.com/2026/11/25/ARTI38LVBUcL8JauoIJ4tuxy261125.shtml",
+   "pub": "2026-11-25 15:47",
+   "source": "央视网"
+  },
+  {
+   "title": "中方：愿同泰国缅甸加强水资源治理合作",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737573.shtml",
+   "pub": "2026-11-25 15:45",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "保加利亚或成首个因赤字超标受罚的欧元区成员国",
+   "link": "https://news.cctv.com/2026/11/25/ARTIO6W9Xo2eBhBl4Q4i6762261125.shtml",
+   "pub": "2026-11-25 15:45",
+   "source": "央视网"
+  },
+  {
+   "title": "助力“陇电入浙”！甘肃民勤330千伏输变电工程线路工程全线贯通",
+   "link": "https://news.cctv.com/2026/11/25/ARTIWaNuo6J1YiXsBO67Rm2F261125.shtml",
+   "pub": "2026-11-25 15:42",
+   "source": "央视网"
+  },
+  {
+   "title": "中方呼吁各方警惕有人正在将《海洋生物多样性协定》秘书处申办工作政治化、对抗化",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737572.shtml",
+   "pub": "2026-11-25 15:41",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "报道称美国计划对包括中国在内的有关国家加征关税 中方回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737570.shtml",
+   "pub": "2026-11-25 15:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "辽宁省医疗健康数据标注先行先试会召开 多项成果、合作集中亮相",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737561.shtml",
+   "pub": "2026-11-25 15:37",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "邂逅浪漫！梦幻“维纳斯带”与皓月同框",
+   "link": "https://news.cctv.com/2026/11/25/ARTIXEnJIrcEfcElBuYFO0aG261125.shtml",
+   "pub": "2026-11-25 15:36",
+   "source": "央视网"
+  },
+  {
+   "title": "印尼亚齐特区多地遭遇洪灾 超1.4万人受灾",
+   "link": "https://news.cctv.com/2026/11/25/ARTIcPolyVslHDBTEaOmTYP8261125.shtml",
+   "pub": "2026-11-25 15:35",
+   "source": "央视网"
+  },
+  {
+   "title": "一纸汇票如何讲给世界听？中外嘉宾平遥共话“信义传薪”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737554.shtml",
+   "pub": "2026-11-25 15:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "“兰之约·话文明”全球对话行山西收官",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737553.shtml",
+   "pub": "2026-11-25 15:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中柬“金龙-2026”联合演习开始",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737548.shtml",
+   "pub": "2026-11-25 15:33",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737566.shtml",
+   "pub": "2026-11-25 15:33",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "江西出台“十五五”防震减灾规划 建空天地一体化地震监测网",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737547.shtml",
+   "pub": "2026-11-25 15:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "与时间赛跑，甘肃地震预警的“黄金几秒”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737545.shtml",
+   "pub": "2026-11-25 15:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "神舟二十四号成功发射 西安航天力量守护太空通勤路",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737544.shtml",
+   "pub": "2026-11-25 15:32",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "南非学者：日本应加快日遗化武处置进程",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737565.shtml",
+   "pub": "2026-11-25 15:31",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737559.shtml",
@@ -352,28 +490,10 @@
    "source": "央视网"
   },
   {
-   "title": "司法部和联合国毒罪办在北京联合举办刑事法律援助全球会议",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737431.shtml",
-   "pub": "2026-11-25 11:36",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "楼上安家楼下务工 湖南新田乡村车间拓宽乡亲增收路",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737430.shtml",
    "pub": "2026-11-25 11:34",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "60余名越南青年赴广西开启“红色研学之旅”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737434.shtml",
-   "pub": "2026-11-25 11:32",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "《加强海洋开发利用保护推动海洋经济高质量发展典型案例（第一批）》发布",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737438.shtml",
-   "pub": "2026-11-25 11:32",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "黄仁勋“闪电复出”，发了88篇报道“围攻”他的《纽约时报》尴尬了",
@@ -412,12 +532,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "神舟二十四号载人飞船：“数智指挥官”上岗，助力推进舱总装",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737425.shtml",
-   "pub": "2026-11-25 11:27",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "泽连斯基证实乌方袭击芬兰湾俄货船 多国担忧俄乌冲突外溢",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737420.shtml",
    "pub": "2026-11-25 11:27",
@@ -446,12 +560,6 @@
    "link": "https://news.cctv.com/2026/11/25/ARTIsNsQqSd14qz4w12KbA7Y261125.shtml",
    "pub": "2026-11-25 11:25",
    "source": "央视网"
-  },
-  {
-   "title": "评论：台湾陆剧迷值得一场线下的粉丝见面会",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737422.shtml",
-   "pub": "2026-11-25 11:24",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "美媒：民主党已锁定众议院259席 创自1990年来最多席位数纪录",
@@ -496,12 +604,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "一名经济犯罪嫌疑人从俄罗斯被引渡回国",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737416.shtml",
-   "pub": "2026-11-25 11:19",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "欧洲中期天气预报中心主任点赞重庆全民早期预警系统",
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737405.shtml",
    "pub": "2026-11-25 11:19",
@@ -520,12 +622,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "红星照耀中国｜战旗为什么这样红",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737410.shtml",
-   "pub": "2026-11-25 11:09",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
    "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
    "pub": "2026-11-25 11:09",
@@ -536,12 +632,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737403.shtml",
    "pub": "2026-11-25 11:04",
    "source": "中国新闻网"
-  },
-  {
-   "title": "越来越多台胞台商走进深圳、认识深圳、扎根深圳 国台办：真诚欢迎",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737390.shtml",
-   "pub": "2026-11-25 11:04",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
@@ -658,12 +748,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "红星照耀中国｜“老园区”长出新动能",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737350.shtml",
-   "pub": "2026-11-25 10:06",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "日政府起用阴谋论网红宣扬安保政策引质疑",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737349.shtml",
    "pub": "2026-11-25 10:05",
@@ -680,12 +764,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737344.shtml",
    "pub": "2026-11-25 10:01",
    "source": "中国新闻网"
-  },
-  {
-   "title": "AI面试官上岗引关注 评论：需兼顾效率与公平",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737341.shtml",
-   "pub": "2026-11-25 09:57",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "新疆昌吉州玛纳斯县发生3.3级地震 震源深度10千米",
@@ -724,22 +802,10 @@
    "source": "中国新闻网"
   },
   {
-   "title": "“重返”办案现场 浙江检察英模讲述公平正义背后的坚守",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737333.shtml",
-   "pub": "2026-11-25 09:41",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "见证“巴铁”航天梦想启航！中巴合作不断向更广、更深的领域拓展",
    "link": "https://news.cctv.com/2026/11/25/ARTINqqK9tFpdtod5fBm7dSm261125.shtml",
    "pub": "2026-11-25 09:41",
    "source": "央视网"
-  },
-  {
-   "title": "赏冰雪、泡温泉、品美食 哈尔滨市松北区推出三大特色主题游玩线路",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737329.shtml",
-   "pub": "2026-11-25 09:31",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "此行间·载入史册的深圳之约！100秒看习近平主席的APEC时间",
@@ -859,18 +925,6 @@
    "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
    "pub": "2026-11-25 06:35",
-   "source": "中国新闻网"
-  },
-  {
-   "title": "英国2026年夏季高温致死人数创新高",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
-   "pub": "2026-11-25 06:24",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
-   "pub": "2026-11-25 06:23",
    "source": "中国新闻网"
   },
   {
@@ -1008,6 +1062,13 @@
  ],
  "ai": [
   {
+   "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
+   "link": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
+   "meta": "Addy Osmani · 发布于 11-25 15:30 · 教程",
+   "summary": "Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。",
+   "origin": "https://x.com/addyosmani/status/2125492213903978917"
+  },
+  {
    "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
    "link": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
    "meta": "Rohan Paul · 发布于 11-25 13:29 · 论文",
@@ -1055,13 +1116,6 @@
    "meta": "Anthropic · 发布于 11-25 05:32 · 论文",
    "summary": "Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。",
    "origin": "https://x.com/AnthropicAI/status/2125341904644763678"
-  },
-  {
-   "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
-   "link": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
-   "meta": "OpenAI：官网动态 · 发布于 11-24 21:00 · 论文",
-   "summary": "OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。",
-   "origin": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
   }
  ]
 }
