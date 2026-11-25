@@ -1,8 +1,50 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 19:35",
+ "fetched": "2026-11-25 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "“十五五”时期我国将全面提升粮食安全保障能力",
+   "link": "https://news.cctv.com/2026/11/25/ARTIj1W59lTk9qA7z3zE1tmH261125.shtml",
+   "pub": "2026-11-25 19:58",
+   "source": "央视网"
+  },
+  {
+   "title": "神舟二十四号载人飞船发射取得圆满成功 两个乘组航天员会师太空",
+   "link": "https://news.cctv.com/2026/11/25/ARTIqTnc7WJ08MdPRh5mRRsm261125.shtml",
+   "pub": "2026-11-25 19:55",
+   "source": "央视网"
+  },
+  {
+   "title": "四川省广安市政府原副市长邓文国被开除党籍",
+   "link": "https://news.cctv.com/2026/11/25/ARTIC1oUDxKjGUAUBKiDeBC5261125.shtml",
+   "pub": "2026-11-25 19:55",
+   "source": "央视网"
+  },
+  {
+   "title": "大连海关原关长刘大立受贿、挪用公款、洗钱案一审宣判",
+   "link": "https://news.cctv.com/2026/11/25/ARTIXCa3dyOqksHCiR9x8WdN261125.shtml",
+   "pub": "2026-11-25 19:53",
+   "source": "央视网"
+  },
+  {
+   "title": "重庆市文化旅游委原党委委员、副主任朱茂被“双开”",
+   "link": "https://news.cctv.com/2026/11/25/ARTIz6Mou9TtzQHh4o2TjiCT261125.shtml",
+   "pub": "2026-11-25 19:52",
+   "source": "央视网"
+  },
+  {
+   "title": "伊朗副总统称不惧美国封锁 将采取措施稳物价",
+   "link": "https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml",
+   "pub": "2026-11-25 19:51",
+   "source": "央视网"
+  },
+  {
+   "title": "一见·在改革开放先行地，总书记始终关注创新",
+   "link": "https://news.cctv.com/2026/11/25/ARTIVICGUPPRXSeZFV36zigj261125.shtml",
+   "pub": "2026-11-25 19:37",
+   "source": "央视网"
+  },
   {
    "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
    "link": "https://news.cctv.com/2026/11/25/ARTIUYGKDPgGbskEZtCq23D1261125.shtml",
