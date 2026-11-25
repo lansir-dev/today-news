@@ -1,8 +1,68 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 16:05",
+ "fetched": "2026-11-25 16:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "安徽池州通报4岁男童走失：已找到，经确认已无生命体征",
+   "link": "https://news.cctv.com/2026/11/25/ARTI60wxehf5lmoUxfjvAGnB261125.shtml",
+   "pub": "2026-11-25 16:30",
+   "source": "央视网"
+  },
+  {
+   "title": "检察机关依法分别对唐福泉、孔德明、黄思明、崔勇提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737583.shtml",
+   "pub": "2026-11-25 16:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "新一波冷空气“蓄势待发” 北方多地降温显著",
+   "link": "https://news.cctv.com/2026/11/25/ARTI1I1W2Q6mg2LE78PenYTg261125.shtml",
+   "pub": "2026-11-25 16:28",
+   "source": "央视网"
+  },
+  {
+   "title": "东西问·兰花奖丨传奇教练艾丽森·安南：看见中国，不止于赛场",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737587.shtml",
+   "pub": "2026-11-25 16:26",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "我国将牵头制定全球首个油气生产物联网国际标准",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737584.shtml",
+   "pub": "2026-11-25 16:25",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "河南省焦作市政协原党组成员、副主席吕沛被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737581.shtml",
+   "pub": "2026-11-25 16:23",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "一直夸一直夸，完全停不下来！返美后，特朗普连续多天夸赞中国之行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737589.shtml",
+   "pub": "2026-11-25 16:19",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国篮协回应辽宁本钢赛后沟通争议",
+   "link": "https://news.cctv.com/2026/11/25/ARTIZMh2aevav6zpCeyDWsMb261125.shtml",
+   "pub": "2026-11-25 16:12",
+   "source": "央视网"
+  },
+  {
+   "title": "从“接处警提速”到“码上监督” 山西公安“十五五”执法规范化再升级",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737577.shtml",
+   "pub": "2026-11-25 16:11",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "段继阳任辽宁省人民政府秘书长",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737579.shtml",
+   "pub": "2026-11-25 16:10",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "中方谈中巴航天员共赴“天宫”：中国载人航天工程国际合作新的里程碑",
    "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737564.shtml",
@@ -406,12 +466,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "国台办回应特朗普表示美国不支持“台独”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml",
-   "pub": "2026-11-25 12:12",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "神舟二十四号载人飞船发射取得圆满成功",
    "link": "https://photo.cctv.com/2026/11/25/PHOAgmdqHr93g3Vui0JHTrc8261125.shtml",
    "pub": "2026-11-25 12:10",
@@ -442,18 +496,6 @@
    "source": "央视网"
   },
   {
-   "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
-   "pub": "2026-11-25 12:04",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
-   "pub": "2026-11-25 12:02",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
    "link": "https://news.cctv.com/2026/11/25/ARTIS2KvCPa0Tc3RR36gbFDt261125.shtml",
    "pub": "2026-11-25 11:59",
@@ -476,12 +518,6 @@
    "link": "https://news.cctv.com/2026/11/25/ARTI46ipls72tluqtisvW7JF261125.shtml",
    "pub": "2026-11-25 11:48",
    "source": "央视网"
-  },
-  {
-   "title": "坐火车注意 普速列车今起启用Z、N、V字头新车次",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737448.shtml",
-   "pub": "2026-11-25 11:41",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "国台办：搞“台独”分裂没有市场更没有出路",
@@ -913,19 +949,13 @@
    "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
    "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
    "pub": "2026-11-25 07:01",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
    "link": "https://news.cctv.com/2026/11/25/ARTI8XBFBenGUCQZwci9ivwe261125.shtml",
    "pub": "2026-11-25 06:50",
    "source": "央视网"
-  },
-  {
-   "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
-   "pub": "2026-11-25 06:35",
-   "source": "中国新闻网"
   },
   {
    "title": "神舟二十四号航天员乘组出征仪式在酒泉卫星发射中心举行",
