@@ -1,8 +1,32 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 20:05",
+ "fetched": "2026-11-25 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "应季农产品丰收 各地拓销路忙增收",
+   "link": "https://news.cctv.com/2026/11/25/ARTIjPDM2hyZ7HBnHAXcnQ9r261125.shtml",
+   "pub": "2026-11-25 20:28",
+   "source": "央视网"
+  },
+  {
+   "title": "我国加快推进长期护理保险制度建设",
+   "link": "https://news.cctv.com/2026/11/25/ARTIIFDPf6WY72KPVGez9y37261125.shtml",
+   "pub": "2026-11-25 20:24",
+   "source": "央视网"
+  },
+  {
+   "title": "我国新材料研发提速 关键材料加速走向工程应用",
+   "link": "https://news.cctv.com/2026/11/25/ARTIHzr4k6zfZr6yjMMTeXgY261125.shtml",
+   "pub": "2026-11-25 20:18",
+   "source": "央视网"
+  },
+  {
+   "title": "【学习贯彻五中全会精神在基层】甘肃：落实做细 把民生实事办到群众心坎上 浙江：用心用情服务好新就业群体",
+   "link": "https://news.cctv.com/2026/11/25/ARTInaDa2o0hHactE2PpyaJr261125.shtml",
+   "pub": "2026-11-25 20:07",
+   "source": "央视网"
+  },
   {
    "title": "“十五五”时期我国将全面提升粮食安全保障能力",
    "link": "https://news.cctv.com/2026/11/25/ARTIj1W59lTk9qA7z3zE1tmH261125.shtml",
