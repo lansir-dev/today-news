@@ -1,12 +1,66 @@
 {
  "day": "2026-11-25",
- "fetched": "2026-11-25 12:05",
+ "fetched": "2026-11-25 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
+   "title": "我国首套600MW级压缩空气储能系统膨胀机顺利下线",
+   "link": "https://news.cctv.com/2026/11/25/ARTIkgQ4mgsDIZQEdz8okktV261125.shtml",
+   "pub": "2026-11-25 12:31",
+   "source": "央视网"
+  },
+  {
+   "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml",
+   "pub": "2026-11-25 12:13",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "国台办回应特朗普表示美国不支持“台独”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml",
+   "pub": "2026-11-25 12:12",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "神舟二十四号载人飞船发射取得圆满成功",
+   "link": "https://photo.cctv.com/2026/11/25/PHOAgmdqHr93g3Vui0JHTrc8261125.shtml",
+   "pub": "2026-11-25 12:10",
+   "source": "央视网"
+  },
+  {
+   "title": "“超级月亮”现身天宇",
+   "link": "https://photo.cctv.com/2026/11/25/PHOA9kUIUo9dojLzUIoNz1jh261125.shtml",
+   "pub": "2026-11-25 12:09",
+   "source": "央视网"
+  },
+  {
+   "title": "湖北房县：“林长制”绘就绿美乡村",
+   "link": "https://photo.cctv.com/2026/11/25/PHOAZP4mxbvBBWevQhdrqIG0261125.shtml",
+   "pub": "2026-11-25 12:09",
+   "source": "央视网"
+  },
+  {
+   "title": "青岛：初冬乡村大集烟火气浓交易旺",
+   "link": "https://photo.cctv.com/2026/11/25/PHOAmlBcWdJzJakl9IKSx3MK261125.shtml",
+   "pub": "2026-11-25 12:09",
+   "source": "央视网"
+  },
+  {
+   "title": "年末多部新片登陆全国院线 多元业态拓展“电影+”新消费场景",
+   "link": "https://news.cctv.com/2026/11/25/ARTIAsvpSfjbru0k1fVimo2q261125.shtml",
+   "pub": "2026-11-25 12:06",
+   "source": "央视网"
+  },
+  {
    "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737451.shtml",
-   "pub": "2026-11-25 11:59",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
+   "pub": "2026-11-25 12:04",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
+   "pub": "2026-11-25 12:02",
    "source": "中国新闻网·国内"
   },
   {
@@ -28,7 +82,7 @@
    "source": "央视网"
   },
   {
-   "title": "为文旅注入“年轻力” 景区NPC成为推动体验式消费的“密码”",
+   "title": "景区NPC成为推动体验式消费的“密码” 为文旅注入更多“年轻力”",
    "link": "https://news.cctv.com/2026/11/25/ARTI46ipls72tluqtisvW7JF261125.shtml",
    "pub": "2026-11-25 11:48",
    "source": "央视网"
@@ -464,12 +518,6 @@
    "link": "https://news.cctv.com/2026/11/25/ARTIUkFHrNrOyAK0tTUNz5AY261125.shtml",
    "pub": "2026-11-25 09:54",
    "source": "央视网"
-  },
-  {
-   "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737323.shtml",
-   "pub": "2026-11-25 09:47",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "从“千里眼”到智能防线 “硬核”科技护航神舟顺利出征",
