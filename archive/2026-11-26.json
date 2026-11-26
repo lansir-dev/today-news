@@ -1,8 +1,104 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 16:05",
+ "fetched": "2026-11-26 16:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "以艺术致敬伟大长征 红色主题作品再现峥嵘岁月",
+   "link": "https://news.cctv.com/2026/11/26/ARTIOZPxM5CY6j7HuYxHRVXi261126.shtml",
+   "pub": "2026-11-26 16:30",
+   "source": "央视网"
+  },
+  {
+   "title": "中国军队卫生代表团参加第46届世界军事医学大会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738163.shtml",
+   "pub": "2026-11-26 16:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "空军33型60余件装备体系化参加第十六届中国航展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738147.shtml",
+   "pub": "2026-11-26 16:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部：日本是亚太和平安宁的现实破坏者",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738145.shtml",
+   "pub": "2026-11-26 16:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "技防赋能守文脉 山西河曲“人防+技防”智慧管护境内长城遗产",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738165.shtml",
+   "pub": "2026-11-26 16:24",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "兴边富民助力高质量发展｜AI出海的“广西答卷”，贵在一个“懂”字",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738153.shtml",
+   "pub": "2026-11-26 16:23",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "兴边富民助力高质量发展｜从“三条路”，看广西兴边富民的时代答卷",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738154.shtml",
+   "pub": "2026-11-26 16:22",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "瑞典智库驳斥所谓“中国挤压”：那是近现代历史上前所未有的“共赢”！",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738167.shtml",
+   "pub": "2026-11-26 16:21",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "劳动关系模糊、工作地点灵活，主播的工伤如何认定？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738157.shtml",
+   "pub": "2026-11-26 16:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国国防部长访问意大利、英国深化战略互信",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738128.shtml",
+   "pub": "2026-11-26 16:10",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美国批准马斯克旗下公司部署百万卫星 建太空数据中心",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738140.shtml",
+   "pub": "2026-11-26 16:06",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中文（莱）将共同举办东盟防长扩大会维和实兵演习",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738116.shtml",
+   "pub": "2026-11-26 16:05",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "台湾彰化重大车祸致3死16伤",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738136.shtml",
+   "pub": "2026-11-26 16:03",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国际合作团队首次在宇宙学尺度直接探测到中性氢21厘米信号",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738135.shtml",
+   "pub": "2026-11-26 16:02",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国海军将举办2026年西太海军论坛人道主义救援减灾研讨与桌面推演",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738111.shtml",
+   "pub": "2026-11-26 16:02",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "印尼一处矿井发生事故 13人遇难13人被困",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738134.shtml",
+   "pub": "2026-11-26 16:01",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "歼-20A、运-20B将首次亮相中国航展",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
@@ -208,12 +304,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "（长征胜利90周年）鏖战独树镇：长征路上的突围与新生",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738046.shtml",
-   "pub": "2026-11-26 14:18",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
    "pub": "2026-11-26 14:17",
@@ -334,22 +424,10 @@
    "source": "央视网"
   },
   {
-   "title": "外机故意冲闯我领海线，歼-16飞行员实力驱离！",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738019.shtml",
-   "pub": "2026-11-26 13:28",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737993.shtml",
    "pub": "2026-11-26 13:23",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "海南环岛高铁推出“随心行”定期票：25座车站不限次数乘车",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738015.shtml",
-   "pub": "2026-11-26 13:21",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
@@ -424,12 +502,6 @@
    "source": "央视网"
   },
   {
-   "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml",
-   "pub": "2026-11-26 11:20",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "巴西决定驻阿根廷大使不再返任",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
    "pub": "2026-11-26 11:14",
@@ -440,12 +512,6 @@
    "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
    "pub": "2026-11-26 11:14",
    "source": "中国新闻网"
-  },
-  {
-   "title": "山东省聊城市政府党组成员、副市长孙荣军被查",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml",
-   "pub": "2026-11-26 11:13",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "2026年1—10月全国电力市场交易电量同比增长18.3%",
@@ -532,12 +598,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "指令长汤洪波：三度飞天，越飞越谨慎",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737971.shtml",
-   "pub": "2026-11-26 10:39",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "撕掉和平标签！日本要撬动 “无核三原则”",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737974.shtml",
    "pub": "2026-11-26 10:38",
@@ -566,12 +626,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737960.shtml",
    "pub": "2026-11-26 10:31",
    "source": "中国新闻网"
-  },
-  {
-   "title": "航天员武毅：从黄土高原出发，一路向星辰奔赴",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737965.shtml",
-   "pub": "2026-11-26 10:30",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "“三北”工程将按照14个重点分区 推行差异化治理",
@@ -754,12 +808,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "第七届中俄媒体论坛在莫斯科举行",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737866.shtml",
-   "pub": "2026-11-26 08:18",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "新一轮冷空气将影响北方地区",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737880.shtml",
    "pub": "2026-11-26 08:01",
@@ -772,28 +820,10 @@
    "source": "央视网"
   },
   {
-   "title": "让世界读懂一座城，从告别“神翻译”开始",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737873.shtml",
-   "pub": "2026-11-26 07:48",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "上线即被盗？影视版权保护要“争分夺秒”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737870.shtml",
    "pub": "2026-11-26 07:43",
    "source": "中国新闻网"
-  },
-  {
-   "title": "AI越强，人的创造越显珍贵",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737868.shtml",
-   "pub": "2026-11-26 07:38",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737865.shtml",
-   "pub": "2026-11-26 07:32",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "真相来了丨冲锋衣“有氟”≠不好！别被“无氟”营销带偏",
