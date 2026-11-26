@@ -1,13 +1,73 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 18:05",
+ "fetched": "2026-11-26 18:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "陕西省西安市人大常委会原主任韩松一审获刑13年",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738276.shtml",
+   "pub": "2026-11-26 18:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国和文莱将共同举办东盟防长扩大会维和实兵演习",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738259.shtml",
+   "pub": "2026-11-26 18:26",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "蹴鞠、斗鸡、驯象，从“汉三阙”看汉代人的娱乐生活",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-26/10738282.shtml",
+   "pub": "2026-11-26 18:25",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "中国国防部：日本是亚太和平安宁的现实破坏者",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738243.shtml",
+   "pub": "2026-11-26 18:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "何黎斌任浙江省衢州市代市长",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738252.shtml",
+   "pub": "2026-11-26 18:17",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "我国成功发射遥感四十九号01组卫星",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738271.shtml",
+   "pub": "2026-11-26 18:07",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国华能原党组成员、总会计师王益华严重违纪违法被开除党籍",
+   "link": "https://news.cctv.com/2026/11/26/ARTIIATeWzSdPDXZTI77qKhC261126.shtml",
+   "pub": "2026-11-26 18:05",
+   "source": "央视网"
+  },
+  {
+   "title": "江西省委原常委、统战部原部长李伟严重违纪违法被开除党籍和公职",
+   "link": "https://news.cctv.com/2026/11/26/ARTIPYBUxoVvNVrqphCx9oB3261126.shtml",
+   "pub": "2026-11-26 18:04",
+   "source": "央视网"
+  },
   {
    "title": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
    "link": "https://news.cctv.com/2026/11/26/ARTISstSeuHDPehx54ega4QV261126.shtml",
    "pub": "2026-11-26 18:02",
    "source": "央视网"
+  },
+  {
+   "title": "“2026非洲语言文化研究国际研讨会”在埃塞俄比亚举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738245.shtml",
+   "pub": "2026-11-26 18:01",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴基斯坦在俾路支省开展反恐行动 击毙12名恐怖分子",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738209.shtml",
+   "pub": "2026-11-26 17:59",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "第七届“中国好家风”公益项目面向全国征集家校育人优秀案例",
@@ -172,12 +232,6 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "中国国防部：日本是亚太和平安宁的现实破坏者",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738173.shtml",
-   "pub": "2026-11-26 16:31",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "以艺术致敬伟大长征 红色主题作品再现峥嵘岁月",
    "link": "https://news.cctv.com/2026/11/26/ARTIOZPxM5CY6j7HuYxHRVXi261126.shtml",
    "pub": "2026-11-26 16:30",
@@ -298,24 +352,6 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "歼-20A、运-20B将首次亮相中国航展",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
-   "pub": "2026-11-26 15:58",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国防部回应菲澳防务合作协议：将继续采取必要措施 有力应对侵权挑衅行径",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738131.shtml",
-   "pub": "2026-11-26 15:55",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "国防部回应台湾地区计划采购无人艇",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738130.shtml",
-   "pub": "2026-11-26 15:53",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "国防部督促日方全面加快日遗化武处置进程",
    "link": "https://news.cctv.com/2026/11/26/ARTIN8RmF9Jm1nN06wvG8xU2261126.shtml",
    "pub": "2026-11-26 15:52",
@@ -326,30 +362,6 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738127.shtml",
    "pub": "2026-11-26 15:50",
    "source": "中国新闻网·社会"
-  },
-  {
-   "title": "第十届中非青年大联欢在北京、陕西举办 外交部介绍情况",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738122.shtml",
-   "pub": "2026-11-26 15:44",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "一扇门背后的民政温度：从“院内兜底”到“开门办院”的重庆探索",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738104.shtml",
-   "pub": "2026-11-26 15:43",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "四川修改乡村振兴促进条例 “常态化防止返贫致贫”入法",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738110.shtml",
-   "pub": "2026-11-26 15:43",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "空军33型主战装备参加中国航展",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738115.shtml",
-   "pub": "2026-11-26 15:37",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "欧佩克秘书长指责欧盟阻碍气候谈判",
@@ -934,12 +946,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "“中国购”火了，有哪些“供货地”",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737862.shtml",
-   "pub": "2026-11-26 07:05",
-   "source": "中国新闻网"
-  },
-  {
    "title": "AI成为“数学高手”，数学界为何喜忧参半？",
    "link": "https://news.cctv.com/2026/11/26/ARTIv26RoSrh26PvQIom2prD261126.shtml",
    "pub": "2026-11-26 06:33",
@@ -1056,6 +1062,13 @@
  ],
  "ai": [
   {
+   "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
+   "link": "https://aihot.news/items/hdvt6wswzycj78wnr7r43xn6o",
+   "meta": "蚂蚁 inclusionAI：HuggingFace 新模型 · 发布于 11-25 12:02 · 模型",
+   "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
+   "origin": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design"
+  },
+  {
    "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
    "link": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
    "meta": "Rohan Paul · 发布于 11-26 15:00 · 行业",
@@ -1103,13 +1116,6 @@
    "meta": "Elon Musk · 发布于 11-26 03:12 · 观点",
    "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。他区分了全球治理层面的交权与具体任务的自动化，后者持混合态度，包括对递归自我改进设限、警惕端到端部署带来的就业冲击，并称 Anthropic 曾拒绝让自家模型用于自主武器；文末批评部分 AI CEO 只喊“人类控制”等口号而无实质行动。Elon Musk 转发并评论 Interesting。",
    "origin": "https://x.com/elonmusk/status/2125669066388209784"
-  },
-  {
-   "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-   "link": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-   "meta": "Pragmatic Engineer · 发布于 11-26 01:31 · 教程",
-   "summary": "Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。",
-   "origin": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"
   }
  ]
 }
