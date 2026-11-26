@@ -1,8 +1,62 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 11:35",
+ "fetched": "2026-11-26 13:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738009.shtml",
+   "pub": "2026-11-26 12:32",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
+   "link": "https://news.cctv.com/2026/11/26/ARTI1WGqBpDfv7piV2h4Z3A5261126.shtml",
+   "pub": "2026-11-26 12:10",
+   "source": "央视网"
+  },
+  {
+   "title": "甘肃天水：花牛苹果销售忙",
+   "link": "https://photo.cctv.com/2026/11/26/PHOAkSmldNRcXZDInLaIdRLl261126.shtml",
+   "pub": "2026-11-26 12:02",
+   "source": "央视网"
+  },
+  {
+   "title": "浙江长兴：苗木重镇推进产业转型升级",
+   "link": "https://photo.cctv.com/2026/11/26/PHOAncodpwkmo4HRfbSEpapu261126.shtml",
+   "pub": "2026-11-26 11:48",
+   "source": "央视网"
+  },
+  {
+   "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
+   "pub": "2026-11-26 11:48",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "云南瑞丽：沿边产业园加速发展",
+   "link": "https://photo.cctv.com/2026/11/26/PHOAw5UoQihKg11li3Ls6elw261126.shtml",
+   "pub": "2026-11-26 11:47",
+   "source": "央视网"
+  },
+  {
+   "title": "老码头 赏鸥趣",
+   "link": "https://photo.cctv.com/2026/11/26/PHOAPl7CGcL7wTCxohy8DgQN261126.shtml",
+   "pub": "2026-11-26 11:47",
+   "source": "央视网"
+  },
+  {
+   "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+   "link": "https://news.cctv.com/2026/11/26/ARTI0e71GThuVpJBdt8miIqd261126.shtml",
+   "pub": "2026-11-26 11:45",
+   "source": "央视网"
+  },
+  {
+   "title": "也门胡塞武装称袭击沙特两个港口",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml",
+   "pub": "2026-11-26 11:38",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "阿富汗警方称击毙6名武装分子",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml",
@@ -157,7 +211,7 @@
    "title": "自然资源部、国家林业和草原局通报2026年第三季度6个违法违规典型问题",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737960.shtml",
    "pub": "2026-11-26 10:31",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "航天员武毅：从黄土高原出发，一路向星辰奔赴",
@@ -582,6 +636,20 @@
  ],
  "ai": [
   {
+   "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+   "link": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+   "meta": "Calif：Research · 发布于 11-26 08:00 · 论文",
+   "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
+   "origin": "https://calif.io/research/tortilla-with-onion"
+  },
+  {
+   "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+   "link": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+   "meta": "Calif：Research · 发布于 11-26 08:00 · 论文",
+   "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
+   "origin": "https://calif.io/research/oempocalypse-part-2"
+  },
+  {
    "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
    "link": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
    "meta": "公众号：数字生命卡兹克 · 发布于 11-26 07:56 · 教程",
@@ -603,6 +671,13 @@
    "origin": "https://pydantic.dev/articles/pax-harness-beta"
   },
   {
+   "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+   "link": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+   "meta": "Elon Musk · 发布于 11-26 03:12 · 观点",
+   "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。他区分了全球治理层面的交权与具体任务的自动化，后者持混合态度，包括对递归自我改进设限、警惕端到端部署带来的就业冲击，并称 Anthropic 曾拒绝让自家模型用于自主武器；文末批评部分 AI CEO 只喊“人类控制”等口号而无实质行动。Elon Musk 转发并评论 Interesting。",
+   "origin": "https://x.com/elonmusk/status/2125669066388209784"
+  },
+  {
    "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
    "link": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
    "meta": "Pragmatic Engineer · 发布于 11-26 01:31 · 教程",
@@ -615,27 +690,6 @@
    "meta": "TechCrunch：AI · 发布于 11-26 01:35 · 行业",
    "summary": "42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。相关声明称数据集包含超过 2100 万美国账户的聊天记录，其中逾 210 万属于未成年人，还涉及 IP 地址等信息；目前唯一披露的匿名竞拍方为 2026 年 11 月 13 日在特拉华州注册的 Smirks and Pangs Acquisition LLC，拍卖定于 12 月 1 日。",
    "origin": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
-  },
-  {
-   "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-   "link": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-   "meta": "Google AI：DEV 作者专属 · 发布于 11-26 00:19 · 教程",
-   "summary": "Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。",
-   "origin": "https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph"
-  },
-  {
-   "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
-   "link": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
-   "meta": "Anthropic：Research · 发布于 11-25 00:00 · 教程",
-   "summary": "Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。该 API 流量从 2024 年初到 2026 年秋增长约 1800 倍，迁移后每请求 CPU 降低约 70%，首 token 中位时间缩短约 20%，且未停服或冻结功能开发。",
-   "origin": "https://www.anthropic.com/research/migrating-api-to-rust"
-  },
-  {
-   "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-   "link": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-   "meta": "OpenClaw · 发布于 11-25 22:05 · 产品",
-   "summary": "OpenClaw 发布 2026.11.10 版本，新增聊天内 Deep Research、新的 OpenClaw 记忆系统 Knowledge，以及 Browser handoff 功能。本次版本包含 7,671 个 PR、349 位贡献者，完整说明见 https://docs.openclaw.ai/releases/2026.11.10。",
-   "origin": "https://x.com/openclaw/status/2125591827600531554"
   }
  ]
 }
