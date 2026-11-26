@@ -1,13 +1,85 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 15:05",
+ "fetched": "2026-11-26 15:35",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "特朗普与吕特会晤 喊话俄“避免扩大战事”",
+   "link": "https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml",
+   "pub": "2026-11-26 15:33",
+   "source": "央视网"
+  },
+  {
+   "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738106.shtml",
+   "pub": "2026-11-26 15:28",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：中方反对以“产能过剩”为借口进行政治操弄",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738105.shtml",
+   "pub": "2026-11-26 15:25",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "全总：工会职工争议调解服务平台上线后已受理案件1080件",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738097.shtml",
+   "pub": "2026-11-26 15:21",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：双方应维护中美经贸关系稳定发展态势",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738102.shtml",
+   "pub": "2026-11-26 15:20",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中方就日本船只非法侵闯钓鱼岛领海向日方提出严正交涉",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738101.shtml",
+   "pub": "2026-11-26 15:19",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部：日方应还中国人民以净土",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738100.shtml",
+   "pub": "2026-11-26 15:17",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "换脸视频 高仿真语音 批量外呼 AI造假何以“眼见为虚”？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738098.shtml",
+   "pub": "2026-11-26 15:16",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国“两高”发布司法解释 涉严惩兴奋剂犯罪",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738086.shtml",
+   "pub": "2026-11-26 15:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "外交部启用电子附加证明书线上申办平台",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738067.shtml",
+   "pub": "2026-11-26 15:13",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "晋北黄土山梁上的养猪母子：守家业、帮亲人、奔好日子",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738081.shtml",
+   "pub": "2026-11-26 15:10",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "韩国央行将基准利率上调至3.25%",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738071.shtml",
+   "pub": "2026-11-26 15:02",
+   "source": "中国新闻网"
+  },
   {
    "title": "日本民众：政府应铭记历史教训 高市正将日本推向危险路口",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738069.shtml",
    "pub": "2026-11-26 14:53",
-   "source": "中国新闻网"
+   "source": "中国新闻网·国际"
   },
   {
    "title": "“喀什—第比利斯—达曼”货运航线开通",
@@ -607,19 +679,19 @@
    "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737878.shtml",
    "pub": "2026-11-26 08:22",
-   "source": "中国新闻网·国际"
-  },
-  {
-   "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
-   "pub": "2026-11-26 08:21",
    "source": "中国新闻网"
   },
   {
    "title": "英国首相府网红拍摄事件引发政坛争议",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
    "pub": "2026-11-26 08:21",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
+  },
+  {
+   "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
+   "pub": "2026-11-26 08:21",
+   "source": "中国新闻网"
   },
   {
    "title": "南非法院撤销总统拉马福萨“农场门”弹劾调查报告",
@@ -748,12 +820,6 @@
    "source": "央视网"
   },
   {
-   "title": "境外间谍利用网恋、招聘刺探重要情报 国家安全部披露案件细节",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737858.shtml",
-   "pub": "2026-11-26 06:28",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "美军开始在日本冲绳常态部署新型战斗机",
    "link": "https://news.cctv.com/2026/11/26/ARTIAQr2Syvzngp4pnegVwKl261125.shtml",
    "pub": "2026-11-26 05:04",
@@ -834,6 +900,13 @@
  ],
  "ai": [
   {
+   "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
+   "link": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
+   "meta": "Rohan Paul · 发布于 11-26 15:00 · 行业",
+   "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。此前中国 AI 实验室通过当地云厂商租用 Nvidia 算力绕开直接出口禁令，云厂商现有 90 天证明无受限用户但缺乏申请指引；Nvidia 2025 年经新加坡部门入账 $104B，同比增长 72%。",
+   "origin": "https://x.com/rohanpaul_ai/status/2125847124600656142"
+  },
+  {
    "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
    "link": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
    "meta": "Calif：Research · 发布于 11-26 08:00 · 论文",
@@ -881,13 +954,6 @@
    "meta": "Pragmatic Engineer · 发布于 11-26 01:31 · 教程",
    "summary": "Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。",
    "origin": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"
-  },
-  {
-   "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-   "link": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-   "meta": "TechCrunch：AI · 发布于 11-26 01:35 · 行业",
-   "summary": "42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。相关声明称数据集包含超过 2100 万美国账户的聊天记录，其中逾 210 万属于未成年人，还涉及 IP 地址等信息；目前唯一披露的匿名竞拍方为 2026 年 11 月 13 日在特拉华州注册的 Smirks and Pangs Acquisition LLC，拍卖定于 12 月 1 日。",
-   "origin": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
   }
  ]
 }
