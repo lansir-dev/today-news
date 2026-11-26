@@ -1,8 +1,32 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 21:35",
+ "fetched": "2026-11-26 22:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "红星照耀中国｜三代讲解员，一个“红”故事",
+   "link": "https://news.cctv.com/2026/11/26/ARTIku0zo0q6mfadNuQJjOwx261126.shtml",
+   "pub": "2026-11-26 21:40",
+   "source": "央视网"
+  },
+  {
+   "title": "五中全会精神在基层丨六尺巷世代存礼让 党组织基层暖人心",
+   "link": "https://news.cctv.com/2026/11/26/ARTIS4lHqBT0G0IQwxQ311CA261126.shtml",
+   "pub": "2026-11-26 21:39",
+   "source": "央视网"
+  },
+  {
+   "title": "中国经济看“新”丨人工智能训练师走俏，具身智能产业“解锁”新图景",
+   "link": "https://jingji.cctv.com/2026/11/26/ARTIswj2zeAST5w42HPqcXWF261126.shtml",
+   "pub": "2026-11-26 21:38",
+   "source": "央视网"
+  },
+  {
+   "title": "北京警方发布重要提示：多人违规携无人机进京被查处 请遵守相关规定",
+   "link": "https://news.cctv.com/2026/11/26/ARTIMWIW7zJEXpcI0g91mbUT261126.shtml",
+   "pub": "2026-11-26 21:33",
+   "source": "央视网"
+  },
   {
    "title": "记者手记丨智慧口岸建设助力中越经贸往来再提升",
    "link": "https://news.cctv.com/2026/11/26/ARTIrp0WImgo2Z1fNnnZVOOJ261126.shtml",
