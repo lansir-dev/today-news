@@ -1,8 +1,68 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 10:35",
+ "fetched": "2026-11-26 11:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "埃及一油车起火波及27辆车致31人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
+   "pub": "2026-11-26 10:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴西回应美国拟加征新关税：不可接受，不会屈服",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
+   "pub": "2026-11-26 10:48",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "2025年德国进口烟花爆竹产品中98%来自中国",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737930.shtml",
+   "pub": "2026-11-26 10:47",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "欧盟对15家俄罗斯实体实施贸易制裁",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737929.shtml",
+   "pub": "2026-11-26 10:47",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "指令长汤洪波：三度飞天，越飞越谨慎",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737971.shtml",
+   "pub": "2026-11-26 10:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "撕掉和平标签！日本要撬动 “无核三原则”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737974.shtml",
+   "pub": "2026-11-26 10:38",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "日本民众举行集会 反对政府修改“无核三原则”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737973.shtml",
+   "pub": "2026-11-26 10:37",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "国际人士：应敦促日本正视侵略历史 履行国际义务",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737972.shtml",
+   "pub": "2026-11-26 10:36",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "巴基斯坦总理：巴中友谊高过喜马拉雅山，迈向浩瀚太空",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737970.shtml",
+   "pub": "2026-11-26 10:32",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "自然资源部、国家林业和草原局通报2026年第三季度6个违法违规典型问题",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737960.shtml",
+   "pub": "2026-11-26 10:31",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "航天员武毅：从黄土高原出发，一路向星辰奔赴",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737965.shtml",
@@ -19,7 +79,7 @@
    "title": "国家卫生健康委办公厅关于进一步优化健康体检服务的通知",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737963.shtml",
    "pub": "2026-11-26 10:18",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
