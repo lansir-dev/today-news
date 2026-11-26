@@ -1,8 +1,20 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 22:05",
+ "fetched": "2026-11-26 22:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+   "link": "https://news.cctv.com/2026/11/26/ARTIWP044fvhz1BVzoI5uPyF261126.shtml",
+   "pub": "2026-11-26 22:10",
+   "source": "央视网"
+  },
+  {
+   "title": "时政微观察丨依规治党，永远在路上",
+   "link": "https://news.cctv.com/2026/11/26/ARTItL8JIzKtN26FnRAHh76K261126.shtml",
+   "pub": "2026-11-26 22:05",
+   "source": "央视网"
+  },
   {
    "title": "红星照耀中国｜三代讲解员，一个“红”故事",
    "link": "https://news.cctv.com/2026/11/26/ARTIku0zo0q6mfadNuQJjOwx261126.shtml",
