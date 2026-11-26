@@ -1,8 +1,50 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 17:35",
+ "fetched": "2026-11-26 18:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
+   "link": "https://news.cctv.com/2026/11/26/ARTISstSeuHDPehx54ega4QV261126.shtml",
+   "pub": "2026-11-26 18:02",
+   "source": "央视网"
+  },
+  {
+   "title": "第七届“中国好家风”公益项目面向全国征集家校育人优秀案例",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738247.shtml",
+   "pub": "2026-11-26 17:58",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "外媒：泰国曼谷一炼油厂发生爆炸 造成至少7人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738244.shtml",
+   "pub": "2026-11-26 17:49",
+   "source": "中国新闻网·国际"
+  },
+  {
+   "title": "中国国防部：有关域外国家应停止插手介入南海问题",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738236.shtml",
+   "pub": "2026-11-26 17:44",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "中国国防部：督促日方早日彻底清除日遗化武毒害",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738235.shtml",
+   "pub": "2026-11-26 17:40",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "聚焦民生福祉与生态文明 中国人民大学发布两项研究成果",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738231.shtml",
+   "pub": "2026-11-26 17:39",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "云南龙陵：灰鹤连续六年赴约",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738226.shtml",
+   "pub": "2026-11-26 17:36",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "萧旭岑批赖清德“台独”主张，重申中国国民党坚定走两岸和平路线",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738221.shtml",
@@ -316,22 +358,10 @@
    "source": "央视网"
   },
   {
-   "title": "中方：日本船只非法侵闯钓鱼岛领海严重侵犯中国主权",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738113.shtml",
-   "pub": "2026-11-26 15:35",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "特朗普与吕特会晤 喊话俄“避免扩大战事”",
    "link": "https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml",
    "pub": "2026-11-26 15:33",
    "source": "央视网"
-  },
-  {
-   "title": "中国国防部将在国防大学举办国际问题研讨班",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738109.shtml",
-   "pub": "2026-11-26 15:33",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "雪假来啦！全国雪假亲子游地图出炉 十大冰雪趣玩胜地带你解锁冬趣",
@@ -790,12 +820,6 @@
    "source": "央视网"
   },
   {
-   "title": "旧家变橙园、新家起车间，重庆奉节安坪镇两度搬迁焕新生",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737918.shtml",
-   "pub": "2026-11-26 09:40",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "取证难、界定难，AI融脸该守住怎样的边界？",
    "link": "https://news.cctv.com/2026/11/26/ARTI8F2E08LWUjb2qBscri7h261126.shtml",
    "pub": "2026-11-26 09:39",
@@ -806,18 +830,6 @@
    "link": "https://www.chinanews.com.cn/cul/2026/11-26/10737913.shtml",
    "pub": "2026-11-26 09:37",
    "source": "中国新闻网"
-  },
-  {
-   "title": "消防车赶到之前，电话里的救援已经开始",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737919.shtml",
-   "pub": "2026-11-26 09:37",
-   "source": "中国新闻网·社会"
-  },
-  {
-   "title": "可乐印上“2027年”？食品标签新国标来了 日期标注有大变化",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737923.shtml",
-   "pub": "2026-11-26 09:37",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "国家医保局：“连续用药管理”功能上线 用药更安心",
@@ -902,12 +914,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737874.shtml",
    "pub": "2026-11-26 08:20",
    "source": "中国新闻网"
-  },
-  {
-   "title": "英国知名平价零售商一镑店进入破产托管 上万岗位面临风险",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737872.shtml",
-   "pub": "2026-11-26 08:19",
-   "source": "中国新闻网·国际"
   },
   {
    "title": "【8点见】央视揭秘走私孕妇血样大案",
