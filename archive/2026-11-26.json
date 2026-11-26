@@ -1,13 +1,97 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 15:35",
+ "fetched": "2026-11-26 16:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "歼-20A、运-20B将首次亮相中国航展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
+   "pub": "2026-11-26 15:58",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部回应菲澳防务合作协议：将继续采取必要措施 有力应对侵权挑衅行径",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738131.shtml",
+   "pub": "2026-11-26 15:55",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部回应台湾地区计划采购无人艇",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738130.shtml",
+   "pub": "2026-11-26 15:53",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "国防部督促日方全面加快日遗化武处置进程",
+   "link": "https://news.cctv.com/2026/11/26/ARTIN8RmF9Jm1nN06wvG8xU2261126.shtml",
+   "pub": "2026-11-26 15:52",
+   "source": "央视网"
+  },
+  {
+   "title": "感冒药成了青少年“猎奇药”？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738127.shtml",
+   "pub": "2026-11-26 15:50",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第十届中非青年大联欢在北京、陕西举办 外交部介绍情况",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738122.shtml",
+   "pub": "2026-11-26 15:44",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "一扇门背后的民政温度：从“院内兜底”到“开门办院”的重庆探索",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738104.shtml",
+   "pub": "2026-11-26 15:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "四川修改乡村振兴促进条例 “常态化防止返贫致贫”入法",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738110.shtml",
+   "pub": "2026-11-26 15:43",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "空军33型主战装备参加中国航展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738115.shtml",
+   "pub": "2026-11-26 15:37",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "欧佩克秘书长指责欧盟阻碍气候谈判",
+   "link": "https://news.cctv.com/2026/11/26/ARTIOuwRDWP28vmcLi1ZJuds261126.shtml",
+   "pub": "2026-11-26 15:36",
+   "source": "央视网"
+  },
+  {
+   "title": "中方：日本船只非法侵闯钓鱼岛领海严重侵犯中国主权",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738113.shtml",
+   "pub": "2026-11-26 15:35",
+   "source": "中国新闻网·国内"
+  },
   {
    "title": "特朗普与吕特会晤 喊话俄“避免扩大战事”",
    "link": "https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml",
    "pub": "2026-11-26 15:33",
    "source": "央视网"
+  },
+  {
+   "title": "中国国防部将在国防大学举办国际问题研讨班",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738109.shtml",
+   "pub": "2026-11-26 15:33",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "雪假来啦！全国雪假亲子游地图出炉 十大冰雪趣玩胜地带你解锁冬趣",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738112.shtml",
+   "pub": "2026-11-26 15:33",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "文化“两创”赋能 山东济宁儒韵文脉向新而行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738103.shtml",
+   "pub": "2026-11-26 15:30",
+   "source": "中国新闻网·社会"
   },
   {
    "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
@@ -502,12 +586,6 @@
    "source": "中国新闻网"
   },
   {
-   "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737959.shtml",
-   "pub": "2026-11-26 10:17",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "“两高”发布《关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释》",
    "link": "https://news.cctv.com/2026/11/26/ARTIvvBmzxXV1yeXRrMizHRN261126.shtml",
    "pub": "2026-11-26 10:10",
@@ -518,18 +596,6 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737957.shtml",
    "pub": "2026-11-26 10:09",
    "source": "中国新闻网"
-  },
-  {
-   "title": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员郑梦英被“双开”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737953.shtml",
-   "pub": "2026-11-26 10:08",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "依法严惩各类兴奋剂犯罪 “两高”联合发布司法解释",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737950.shtml",
-   "pub": "2026-11-26 10:03",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
@@ -550,34 +616,10 @@
    "source": "央视网"
   },
   {
-   "title": "西宁经济技术开发区投资控股集团有限公司原党委书记、董事长李峰被“双开”",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737941.shtml",
-   "pub": "2026-11-26 09:55",
-   "source": "中国新闻网·国内"
-  },
-  {
    "title": "冬天“限定”霜打菜为什么更好吃？一文教你如何挑选",
    "link": "https://news.cctv.com/2026/11/26/ARTImiJWXs4TlFDZnXAeqEmy261126.shtml",
    "pub": "2026-11-26 09:54",
    "source": "央视网"
-  },
-  {
-   "title": "治罪与治理并重 陕西法院织密醉驾防控网",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737935.shtml",
-   "pub": "2026-11-26 09:53",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "陕西立法保护千年蜀道 支持蜀道文化国际交流与文明互鉴",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737926.shtml",
-   "pub": "2026-11-26 09:48",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "外交部亚洲事务特使邓锡军同缅甸民族团结与实现和平协商委员会秘书敏乃会谈",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737936.shtml",
-   "pub": "2026-11-26 09:47",
-   "source": "中国新闻网·国内"
   },
   {
    "title": "电影贺岁档来了！这份片单请收好",
