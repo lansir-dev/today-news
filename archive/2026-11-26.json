@@ -1,8 +1,14 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-26 08:35",
+ "fetched": "2026-11-26 09:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
+   "pub": "2026-11-26 08:36",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远",
    "link": "https://news.cctv.com/2026/11/26/ARTI9SKaDFMMZNnXEadpwovQ261126.shtml",
@@ -16,14 +22,14 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "英国首相府网红拍摄事件引发政坛争议",
-   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
-   "pub": "2026-11-26 08:21",
-   "source": "中国新闻网·国际"
-  },
-  {
    "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
+   "pub": "2026-11-26 08:21",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "英国首相府网红拍摄事件引发政坛争议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
    "pub": "2026-11-26 08:21",
    "source": "中国新闻网·国际"
   },
@@ -31,7 +37,7 @@
    "title": "南非法院撤销总统拉马福萨“农场门”弹劾调查报告",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737874.shtml",
    "pub": "2026-11-26 08:20",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "英国知名平价零售商一镑店进入破产托管 上万岗位面临风险",
@@ -70,6 +76,12 @@
    "source": "中国新闻网·社会"
   },
   {
+   "title": "上线即被盗？影视版权保护要“争分夺秒”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737870.shtml",
+   "pub": "2026-11-26 07:43",
+   "source": "中国新闻网"
+  },
+  {
    "title": "AI越强，人的创造越显珍贵",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737868.shtml",
    "pub": "2026-11-26 07:38",
@@ -82,10 +94,28 @@
    "source": "中国新闻网·国际"
   },
   {
+   "title": "真相来了丨冲锋衣“有氟”≠不好！别被“无氟”营销带偏",
+   "link": "https://www.chinanews.com.cn/life/2026/11-26/10737864.shtml",
+   "pub": "2026-11-26 07:27",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "“中国购”火了，有哪些“供货地”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737862.shtml",
+   "pub": "2026-11-26 07:05",
+   "source": "中国新闻网"
+  },
+  {
    "title": "以军证实：打死一名哈马斯内部安全机构负责人",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml",
    "pub": "2026-11-26 06:59",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
+  },
+  {
+   "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
+   "pub": "2026-11-26 06:55",
+   "source": "中国新闻网"
   },
   {
    "title": "AI成为“数学高手”，数学界为何喜忧参半？",
@@ -211,7 +241,7 @@
    "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
    "pub": "2026-11-26 00:10",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   }
  ],
  "ai": [
