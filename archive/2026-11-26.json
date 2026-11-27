@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-27 18:05",
+ "fetched": "2026-11-27 18:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1195,13 +1195,6 @@
    "meta": "Philipp Schmid · 发布于 11-26 21:30 · 观点",
    "summary": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
    "origin": "https://x.com/_philschmid/status/2125945282072297794"
-  },
-  {
-   "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
-   "link": "https://aihot.news/items/hdvt6wswzycj78wnr7r43xn6o",
-   "meta": "蚂蚁 inclusionAI：HuggingFace 新模型 · 发布于 11-25 12:02 · 模型",
-   "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
-   "origin": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design"
   }
  ]
 }
