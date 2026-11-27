@@ -1,8 +1,32 @@
 {
  "day": "2026-11-27",
- "fetched": "2026-11-27 14:35",
+ "fetched": "2026-11-27 15:05",
  "note": "今日抓取",
  "items": [
+  {
+   "title": "列车车次上新，编码这样认",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738714.shtml",
+   "pub": "2026-11-27 14:54",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "最高法公开宣判利乐垄断后继民事诉讼两案  合计判赔4.92亿元",
+   "link": "https://news.cctv.com/2026/11/27/ARTINUyun0NVffbbjhYsOYyV261127.shtml",
+   "pub": "2026-11-27 14:41",
+   "source": "央视网"
+  },
+  {
+   "title": "撒毒罐、讲义、演习记录，侵华日军化学战再添新罪证",
+   "link": "https://news.cctv.com/2026/11/27/ARTIiss6nj8EPtpa7JmR5QdT261127.shtml",
+   "pub": "2026-11-27 14:38",
+   "source": "央视网"
+  },
+  {
+   "title": "不法分子如何批量盗取学历信息？黑灰产链条曝光",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738691.shtml",
+   "pub": "2026-11-27 14:35",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "朱鹮主题科普展探索社会力量参与生物多样性保护新路径",
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738688.shtml",
@@ -19,7 +43,7 @@
    "title": "最高法公开宣判利乐垄断后继民事诉讼两案 合计判赔4.92亿元",
    "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738686.shtml",
    "pub": "2026-11-27 14:14",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "85.9%、681万台，出口量质齐升！3D打印产业“加速跑”开辟应用新空间",
@@ -44,6 +68,12 @@
    "link": "https://news.cctv.com/2026/11/27/ARTIWcIFeZntXzmFxUPwFsxb261127.shtml",
    "pub": "2026-11-27 14:02",
    "source": "央视网"
+  },
+  {
+   "title": "A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738683.shtml",
+   "pub": "2026-11-27 14:00",
+   "source": "中国新闻网"
   },
   {
    "title": "轨道上的长三角再现“新貌” 多座铁路大桥通车区域高铁路网越织越密",
@@ -349,7 +379,7 @@
    "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
    "pub": "2026-11-27 11:25",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "法国巴黎风情园灯会开幕",
@@ -392,6 +422,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738616.shtml",
    "pub": "2026-11-27 11:04",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml",
+   "pub": "2026-11-27 10:59",
+   "source": "中国新闻网"
   },
   {
    "title": "AI“入侵”KTV，卡拉不再OK?",
@@ -457,7 +493,7 @@
    "title": "日本加码远程打击能力 军工体系加速“平战转换”",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738595.shtml",
    "pub": "2026-11-27 10:34",
-   "source": "中国新闻网·国际"
+   "source": "中国新闻网"
   },
   {
    "title": "国产大模型集体进军AI4S：大模型从“会聊天”转向“做科研”？",
@@ -592,12 +628,6 @@
    "source": "央视网"
   },
   {
-   "title": "深圳“全妆”迎APEC背后 大量景观花木可回收复用",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738524.shtml",
-   "pub": "2026-11-27 09:28",
-   "source": "中国新闻网·社会"
-  },
-  {
    "title": "在楼道里给杂物设置“VIP座位”？小心火灾找上门！",
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738521.shtml",
    "pub": "2026-11-27 09:24",
@@ -643,6 +673,12 @@
    "title": "特朗普批准美国佛州重大灾害声明",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
    "pub": "2026-11-27 08:11",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "2027丁未（羊）年贵金属纪念币今日发行",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
+   "pub": "2026-11-27 07:58",
    "source": "中国新闻网"
   },
   {
