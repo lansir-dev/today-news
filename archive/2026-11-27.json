@@ -1,8 +1,20 @@
 {
  "day": "2026-11-27",
- "fetched": "2026-11-27 21:05",
+ "fetched": "2026-11-27 21:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国成功发射遥感五十号04星",
+   "link": "https://news.cctv.com/2026/11/27/ARTIG1QzV2GDikgZuqPfBWLg261127.shtml",
+   "pub": "2026-11-27 21:29",
+   "source": "央视网"
+  },
+  {
+   "title": "焦点访谈｜开创管党治党新局面 增强党性是根本",
+   "link": "https://news.cctv.com/2026/11/27/ARTIhrESNtqzR6tWR3ik5Nqi261127.shtml",
+   "pub": "2026-11-27 21:22",
+   "source": "央视网"
+  },
   {
    "title": "菌草，岛国农业的新希望（第一现场）",
    "link": "https://news.cctv.com/2026/11/27/ARTI8unqgExfQ7UsKfTe8aEZ261127.shtml",
@@ -1186,14 +1198,14 @@
    "source": "央视网"
   },
   {
-   "title": "147件珍贵文物再现“丝路唐风” 展现唐代文明交融之美",
-   "link": "https://news.cctv.com/2026/11/27/ARTIa7tZfMXASXuN25YmOS5H261126.shtml",
+   "title": "我国科研人员助力宇宙中性氢21厘米信号直接探测",
+   "link": "https://news.cctv.com/2026/11/27/ARTInYzeNv4dj54kWYTSrub9261126.shtml",
    "pub": "2026-11-27 02:27",
    "source": "央视网"
   },
   {
-   "title": "我国科研人员助力宇宙中性氢21厘米信号直接探测",
-   "link": "https://news.cctv.com/2026/11/27/ARTInYzeNv4dj54kWYTSrub9261126.shtml",
+   "title": "147件珍贵文物再现“丝路唐风” 展现唐代文明交融之美",
+   "link": "https://news.cctv.com/2026/11/27/ARTIa7tZfMXASXuN25YmOS5H261126.shtml",
    "pub": "2026-11-27 02:27",
    "source": "央视网"
   },
