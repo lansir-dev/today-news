@@ -1,8 +1,26 @@
 {
  "day": "2026-11-27",
- "fetched": "2026-11-27 19:35",
- "note": "今日抓取",
+ "fetched": "2026-11-27 20:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "【新思想引领新征程】河湖安澜 碧水长流",
+   "link": "https://news.cctv.com/2026/11/27/ARTIpakQi7ENDUdzc9s4Xneo261127.shtml",
+   "pub": "2026-11-27 19:57",
+   "source": "央视网"
+  },
+  {
+   "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
+   "link": "https://news.cctv.com/2026/11/27/ARTIHPb6RITl7WvU4BR6O035261127.shtml",
+   "pub": "2026-11-27 19:56",
+   "source": "央视网"
+  },
+  {
+   "title": "国家税务总局公布新修订的《税务行政复议规则》",
+   "link": "https://news.cctv.com/2026/11/27/ARTImpHvjWnMz0QPHrpF8wLq261127.shtml",
+   "pub": "2026-11-27 19:55",
+   "source": "央视网"
+  },
   {
    "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
    "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738966.shtml",
@@ -52,16 +70,16 @@
    "source": "中国新闻网·国内"
   },
   {
-   "title": "山东通报基建项目底座缺陷调查结果：6家单位、17人被问责",
-   "link": "https://news.cctv.com/2026/11/27/ARTIsDy8M9A00cowSxlOwlhL261127.shtml",
-   "pub": "2026-11-27 19:03",
-   "source": "央视网"
-  },
-  {
    "title": "国铁郑州局开行“冬游广西”专列 打造“一列双线”出行模式",
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738936.shtml",
    "pub": "2026-11-27 19:03",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "山东通报基建项目底座缺陷调查结果：6家单位、17人被问责",
+   "link": "https://news.cctv.com/2026/11/27/ARTIsDy8M9A00cowSxlOwlhL261127.shtml",
+   "pub": "2026-11-27 19:03",
+   "source": "央视网"
   },
   {
    "title": "广西“95后”山歌手让千年歌圩在云端“唱”新声",
@@ -118,16 +136,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "中国人民银行有关部门负责人就 《大额存单管理办法》答记者问",
-   "link": "https://news.cctv.com/2026/11/27/ARTIgKmrmpYUnQWWQn8hOoAG261127.shtml",
-   "pub": "2026-11-27 18:40",
-   "source": "央视网"
-  },
-  {
    "title": "一生迷恋花鼓戏 湖南桃江老人暮年仍在守戏脉",
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738913.shtml",
    "pub": "2026-11-27 18:40",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国人民银行有关部门负责人就 《大额存单管理办法》答记者问",
+   "link": "https://news.cctv.com/2026/11/27/ARTIgKmrmpYUnQWWQn8hOoAG261127.shtml",
+   "pub": "2026-11-27 18:40",
+   "source": "央视网"
   },
   {
    "title": "西藏阿里军分区“格桑花”综合服务队为基层送服务纪实",
@@ -334,16 +352,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "市场监管总局集中约谈15家电动自行车企业",
-   "link": "https://news.cctv.com/2026/11/27/ARTIOmzX41wjgzGg7aC63KMm261127.shtml",
-   "pub": "2026-11-27 17:03",
-   "source": "央视网"
-  },
-  {
    "title": "2026未来能源大会在北京召开 共探变局下能源绿色发展路径",
    "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738848.shtml",
    "pub": "2026-11-27 17:03",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "市场监管总局集中约谈15家电动自行车企业",
+   "link": "https://news.cctv.com/2026/11/27/ARTIOmzX41wjgzGg7aC63KMm261127.shtml",
+   "pub": "2026-11-27 17:03",
+   "source": "央视网"
   },
   {
    "title": "宁夏援贝宁“光明行”医疗队历经4小时保住患者眼球",
@@ -394,12 +412,6 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "国家外汇管理局：10月中国外汇市场总计成交25.36万亿元人民币",
-   "link": "https://news.cctv.com/2026/11/27/ARTIqdRGWujwySpdYrSosMeD261127.shtml",
-   "pub": "2026-11-27 16:48",
-   "source": "央视网"
-  },
-  {
    "title": "日方拖延推责 遗弃化学武器处置工作进展缓慢",
    "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738831.shtml",
    "pub": "2026-11-27 16:48",
@@ -410,6 +422,12 @@
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738827.shtml",
    "pub": "2026-11-27 16:48",
    "source": "中国新闻网·社会"
+  },
+  {
+   "title": "国家外汇管理局：10月中国外汇市场总计成交25.36万亿元人民币",
+   "link": "https://news.cctv.com/2026/11/27/ARTIqdRGWujwySpdYrSosMeD261127.shtml",
+   "pub": "2026-11-27 16:48",
+   "source": "央视网"
   },
   {
    "title": "拉美媒体积极报道中国航天国际合作成果",
@@ -478,16 +496,16 @@
    "source": "中国新闻网·社会"
   },
   {
-   "title": "韩国高考作弊查处量激增 涉智能设备案件增至去年3.6倍",
-   "link": "https://news.cctv.com/2026/11/27/ARTIHN0DBYP6UPxysNCUT8hQ261127.shtml",
-   "pub": "2026-11-27 16:20",
-   "source": "央视网"
-  },
-  {
    "title": "中国驻哈萨克斯坦大使：中哈合作持续向新领域拓展",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738750.shtml",
    "pub": "2026-11-27 16:20",
    "source": "中国新闻网·国际"
+  },
+  {
+   "title": "韩国高考作弊查处量激增 涉智能设备案件增至去年3.6倍",
+   "link": "https://news.cctv.com/2026/11/27/ARTIHN0DBYP6UPxysNCUT8hQ261127.shtml",
+   "pub": "2026-11-27 16:20",
+   "source": "央视网"
   },
   {
    "title": "“开放是深圳与生俱来的基因”",
@@ -544,16 +562,16 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "最高人民法院发布人民法院治理欠薪典型案例",
-   "link": "https://news.cctv.com/2026/11/27/ARTINI7iw2Gl78L3URWhkE8O261127.shtml",
-   "pub": "2026-11-27 15:27",
-   "source": "央视网"
-  },
-  {
    "title": "菲律宾10月贸易逆差创历史新高",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738680.shtml",
    "pub": "2026-11-27 15:27",
    "source": "中国新闻网"
+  },
+  {
+   "title": "最高人民法院发布人民法院治理欠薪典型案例",
+   "link": "https://news.cctv.com/2026/11/27/ARTINI7iw2Gl78L3URWhkE8O261127.shtml",
+   "pub": "2026-11-27 15:27",
+   "source": "央视网"
   },
   {
    "title": "GDP上修，特朗普“上火”",
@@ -628,6 +646,12 @@
    "source": "央视网"
   },
   {
+   "title": "10月中国规上工业企业利润同比增速加快至20.1%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738676.shtml",
+   "pub": "2026-11-27 13:58",
+   "source": "中国新闻网"
+  },
+  {
    "title": "二手行业从“一收一卖”向服务全链条经营转型 新型业态快速“生长”",
    "link": "https://news.cctv.com/2026/11/27/ARTIsB5ieBMvOm8zB7zuCVuu261127.shtml",
    "pub": "2026-11-27 13:58",
@@ -644,12 +668,6 @@
    "link": "https://news.cctv.com/2026/11/27/ARTIphpqlo0bmrQWRo91Xtb9261127.shtml",
    "pub": "2026-11-27 13:58",
    "source": "央视网"
-  },
-  {
-   "title": "10月中国规上工业企业利润同比增速加快至20.1%",
-   "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738676.shtml",
-   "pub": "2026-11-27 13:58",
-   "source": "中国新闻网"
   },
   {
    "title": "驾照过期算不算无证驾驶？新司法解释分情形划定边界",
@@ -718,6 +736,12 @@
    "source": "央视网"
   },
   {
+   "title": "宿舍“条件差”引关注 三只松鼠致歉整改",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738626.shtml",
+   "pub": "2026-11-27 11:28",
+   "source": "中国新闻网"
+  },
+  {
    "title": "百年银杏“金叶”带动文旅发展 成为村民增收致富“金色产业”",
    "link": "https://news.cctv.com/2026/11/27/ARTIokmrNtKQO6gQxQz5bkNI261127.shtml",
    "pub": "2026-11-27 11:28",
@@ -742,12 +766,6 @@
    "source": "央视网"
   },
   {
-   "title": "宿舍“条件差”引关注 三只松鼠致歉整改",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738626.shtml",
-   "pub": "2026-11-27 11:28",
-   "source": "中国新闻网"
-  },
-  {
    "title": "从5G升级到6G试点 信息通信业各类融合应用加速赋能千行百业",
    "link": "https://news.cctv.com/2026/11/27/ARTIz6IJACkgiuc3x5UWTf0e261127.shtml",
    "pub": "2026-11-27 11:27",
@@ -766,16 +784,16 @@
    "source": "央视网"
   },
   {
-   "title": "长春小学生滑雪体育课开课",
-   "link": "https://photo.cctv.com/2026/11/27/PHOAGizCOODAqIRHY1gOjAiG261127.shtml",
-   "pub": "2026-11-27 11:25",
-   "source": "央视网"
-  },
-  {
    "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
    "pub": "2026-11-27 11:25",
    "source": "中国新闻网"
+  },
+  {
+   "title": "长春小学生滑雪体育课开课",
+   "link": "https://photo.cctv.com/2026/11/27/PHOAGizCOODAqIRHY1gOjAiG261127.shtml",
+   "pub": "2026-11-27 11:25",
+   "source": "央视网"
   },
   {
    "title": "法国巴黎风情园灯会开幕",
@@ -886,16 +904,16 @@
    "source": "央视网"
   },
   {
-   "title": "三线齐发 长三角高铁营业里程突破8500公里",
-   "link": "https://news.cctv.com/2026/11/27/ARTIMnhzvVbeeqQN7kEEHjYA261127.shtml",
-   "pub": "2026-11-27 09:39",
-   "source": "央视网"
-  },
-  {
    "title": "野外迷路如何找“北”？户外出行前这3点务必牢记",
    "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738538.shtml",
    "pub": "2026-11-27 09:39",
    "source": "中国新闻网"
+  },
+  {
+   "title": "三线齐发 长三角高铁营业里程突破8500公里",
+   "link": "https://news.cctv.com/2026/11/27/ARTIMnhzvVbeeqQN7kEEHjYA261127.shtml",
+   "pub": "2026-11-27 09:39",
+   "source": "央视网"
   },
   {
    "title": "李在明批准五名部长级官员人选人事听证提案",
