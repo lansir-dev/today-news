@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-27 15:05",
+ "fetched": "2026-11-27 15:35",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1176,6 +1176,13 @@
  ],
  "ai": [
   {
+   "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+   "link": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+   "meta": "Rohan Paul · 发布于 11-27 15:21 · 行业",
+   "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
+   "origin": "https://x.com/rohanpaul_ai/status/2126214860421914884"
+  },
+  {
    "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
    "link": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
    "meta": "公众号：数字生命卡兹克 · 发布于 11-27 07:56 · 教程",
@@ -1195,13 +1202,6 @@
    "meta": "蚂蚁 inclusionAI：HuggingFace 新模型 · 发布于 11-25 12:02 · 模型",
    "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
    "origin": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design"
-  },
-  {
-   "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-   "link": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-   "meta": "Rohan Paul · 发布于 11-26 15:00 · 行业",
-   "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。此前中国 AI 实验室通过当地云厂商租用 Nvidia 算力绕开直接出口禁令，云厂商现有 90 天证明无受限用户但缺乏申请指引；Nvidia 2025 年经新加坡部门入账 $104B，同比增长 72%。",
-   "origin": "https://x.com/rohanpaul_ai/status/2125847124600656142"
   }
  ]
 }
