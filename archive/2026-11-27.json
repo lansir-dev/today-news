@@ -1,8 +1,44 @@
 {
  "day": "2026-11-27",
- "fetched": "2026-11-27 20:05",
+ "fetched": "2026-11-27 20:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "我国自然资源确权登记加快立体发展",
+   "link": "https://news.cctv.com/2026/11/27/ARTIG9PUA8T9MP0PSz8su5TY261127.shtml",
+   "pub": "2026-11-27 20:15",
+   "source": "央视网"
+  },
+  {
+   "title": "高铁“上新”带动冬季文旅市场持续升温",
+   "link": "https://news.cctv.com/2026/11/27/ARTImRcJoPjmtEy1YJus3FtJ261127.shtml",
+   "pub": "2026-11-27 20:13",
+   "source": "央视网"
+  },
+  {
+   "title": "“三北”工程攻坚战将推行分区差异化治理",
+   "link": "https://news.cctv.com/2026/11/27/ARTILkPwTgKvBPbTmVB7lNMN261127.shtml",
+   "pub": "2026-11-27 20:09",
+   "source": "央视网"
+  },
+  {
+   "title": "【赓续长征精神 奋进复兴征程】走好新的长征路 加快建设美丽新宁夏",
+   "link": "https://news.cctv.com/2026/11/27/ARTIsuVCESfa5v1tUqbFzgRO261127.shtml",
+   "pub": "2026-11-27 20:08",
+   "source": "央视网"
+  },
+  {
+   "title": "1—10月份规模以上工业企业利润同比增长16.0%",
+   "link": "https://news.cctv.com/2026/11/27/ARTI5bWdOZHLurYnINviJhxX261127.shtml",
+   "pub": "2026-11-27 20:04",
+   "source": "央视网"
+  },
+  {
+   "title": "我国工程机械行业持续稳中向好",
+   "link": "https://news.cctv.com/2026/11/27/ARTImv4BzITHOpj7btEG3gnz261127.shtml",
+   "pub": "2026-11-27 20:04",
+   "source": "央视网"
+  },
   {
    "title": "【新思想引领新征程】河湖安澜 碧水长流",
    "link": "https://news.cctv.com/2026/11/27/ARTIpakQi7ENDUdzc9s4Xneo261127.shtml",
