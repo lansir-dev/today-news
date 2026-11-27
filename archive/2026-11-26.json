@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "fetched": "2026-11-27 20:35",
+ "fetched": "2026-11-27 21:05",
  "note": "由次日抓取补存的昨日列表",
  "items": [
   {
@@ -1175,6 +1175,13 @@
   }
  ],
  "ai": [
+  {
+   "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+   "link": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+   "meta": "卡兹克 · 发布于 11-27 20:38 · 教程",
+   "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
+   "origin": "https://x.com/Khazix0918/status/2126294658431201385"
+  },
   {
    "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
    "link": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
