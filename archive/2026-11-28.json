@@ -1,8 +1,20 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 19:35",
+ "fetched": "2026-11-28 20:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "【新思想引领新征程】古韵融新潮 非遗焕发时代光彩",
+   "link": "https://news.cctv.com/2026/11/28/ARTIPCiTDITo19O0igK64nG0261128.shtml",
+   "pub": "2026-11-28 19:48",
+   "source": "央视网"
+  },
+  {
+   "title": "一见·APEC会场之外，外方领导人这样看深圳",
+   "link": "https://news.cctv.com/2026/11/28/ARTIiGVeooxDlPjVjOn65kAr261128.shtml",
+   "pub": "2026-11-28 19:47",
+   "source": "央视网"
+  },
   {
    "title": "暖意融融的“十月小阳春”即将上线 能持续多久？一文快速了解气温走势↓",
    "link": "https://news.cctv.com/2026/11/28/ARTIaDbJHY7taRWTgNhkPCb7261128.shtml",
