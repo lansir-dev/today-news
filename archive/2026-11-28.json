@@ -1,8 +1,38 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 12:05",
+ "fetched": "2026-11-28 12:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "第十六届中国航展抢先看｜歼-35A飞抵珠海 将首次以真机形式静态展出",
+   "link": "https://news.cctv.com/2026/11/28/ARTIgW7KdB84AD9rVcXImn8B261128.shtml",
+   "pub": "2026-11-28 12:24",
+   "source": "央视网"
+  },
+  {
+   "title": "多地交出“还水于江河、还景于群众”实践答卷 河湖正成为可感可及的幸福",
+   "link": "https://news.cctv.com/2026/11/28/ARTILqSDh55bn6Ys2PnxN0FQ261128.shtml",
+   "pub": "2026-11-28 12:16",
+   "source": "央视网"
+  },
+  {
+   "title": "世卫组织呼吁加快埃博拉疫苗和疗法试验",
+   "link": "https://news.cctv.com/2026/11/28/ARTIpv8Qz2vmqleAK5A5zhh3261128.shtml",
+   "pub": "2026-11-28 12:13",
+   "source": "央视网"
+  },
+  {
+   "title": "最高人民法院发布第十一批新时代人民法庭建设案例（1）",
+   "link": "https://news.cctv.com/2026/11/28/ARTIZPV23yl9NJ2T2ZEmZK9C261128.shtml",
+   "pub": "2026-11-28 12:11",
+   "source": "央视网"
+  },
+  {
+   "title": "10分钟邂逅1400年：中外青年小商桥 “搭桥” 记",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739169.shtml",
+   "pub": "2026-11-28 12:05",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "西藏林芝市工布江达县发生3.1级地震 震源深度10千米",
    "link": "https://news.cctv.com/2026/11/28/ARTIzK4iiBfMo97TuvfTutQw261128.shtml",
