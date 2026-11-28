@@ -1,8 +1,68 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 11:35",
+ "fetched": "2026-11-28 12:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "西藏林芝市工布江达县发生3.1级地震 震源深度10千米",
+   "link": "https://news.cctv.com/2026/11/28/ARTIzK4iiBfMo97TuvfTutQw261128.shtml",
+   "pub": "2026-11-28 12:00",
+   "source": "央视网"
+  },
+  {
+   "title": "商家出餐晚了 配送超时由谁担责？算法协商回应骑手关切→",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739167.shtml",
+   "pub": "2026-11-28 11:52",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "天津地铁8号线﻿开通运营",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+   "pub": "2026-11-28 11:49",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "全国殡葬服务热线“12353”在重庆率先启用",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739159.shtml",
+   "pub": "2026-11-28 11:47",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "指数报告指出，长三角41城休闲化整体向好  优质供给成关键",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739164.shtml",
+   "pub": "2026-11-28 11:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "聚焦场馆协作与资源共享等方向 现代科技馆体系联合行动交流研讨",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739161.shtml",
+   "pub": "2026-11-28 11:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
+   "pub": "2026-11-28 11:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "江苏优质网络主播培育成果展演在扬州举行 发布网络直播行业自律倡议书",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739162.shtml",
+   "pub": "2026-11-28 11:44",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "世卫组织：全球麻疹死亡创新低 免疫缺口需警惕",
+   "link": "https://news.cctv.com/2026/11/28/ARTIlOReHbCsXKIfCCNCB6zI261128.shtml",
+   "pub": "2026-11-28 11:38",
+   "source": "央视网"
+  },
+  {
+   "title": "加拿大首份林业战略将美国关税列为关键挑战",
+   "link": "https://news.cctv.com/2026/11/28/ARTIAdn7yloO4RWlp5MoEGD9261128.shtml",
+   "pub": "2026-11-28 11:35",
+   "source": "央视网"
+  },
   {
    "title": "美军中央司令部否认伊朗军方有关美军的多项说法",
    "link": "https://news.cctv.com/2026/11/28/ARTIdoXh0gnD1VrvQlwKFAzc261128.shtml",
