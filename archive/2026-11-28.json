@@ -1,8 +1,38 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 13:05",
+ "fetched": "2026-11-28 13:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压",
+   "link": "https://news.cctv.com/2026/11/28/ARTIBrgmvHSUnl2xoiZC0Mib261128.shtml",
+   "pub": "2026-11-28 13:33",
+   "source": "央视网"
+  },
+  {
+   "title": "波兰报告新增高致病性禽流感疫情",
+   "link": "https://news.cctv.com/2026/11/28/ARTI8AkuyzAGyJBhjvZmiNS8261128.shtml",
+   "pub": "2026-11-28 13:31",
+   "source": "央视网"
+  },
+  {
+   "title": "我国加快构建汽车行业智能制造标准体系",
+   "link": "https://news.cctv.com/2026/11/28/ARTI2aovBP0tcgYfz49u6P46261128.shtml",
+   "pub": "2026-11-28 13:23",
+   "source": "央视网"
+  },
+  {
+   "title": "新一代智能化水下装备亮相 破解水下作业痛点",
+   "link": "https://news.cctv.com/2026/11/28/ARTIkmnnLBuWenEkvsvPwKMM261128.shtml",
+   "pub": "2026-11-28 13:23",
+   "source": "央视网"
+  },
+  {
+   "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739208.shtml",
+   "pub": "2026-11-28 13:13",
+   "source": "中国新闻网"
+  },
   {
    "title": "实干作答：谁驭长风兴八桂？",
    "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739205.shtml",
