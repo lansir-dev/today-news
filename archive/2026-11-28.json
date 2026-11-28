@@ -1,8 +1,38 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 14:35",
+ "fetched": "2026-11-28 15:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "国内首次！青海发现南方猛犸象完整头骨化石",
+   "link": "https://news.cctv.com/2026/11/28/ARTIiI2dVhn3VcAYwRu29alE261128.shtml",
+   "pub": "2026-11-28 14:55",
+   "source": "央视网"
+  },
+  {
+   "title": "金观平：中国AI发展决不是“少数人的盛宴”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739218.shtml",
+   "pub": "2026-11-28 14:53",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "柳州至梧州铁路开启动态检测 进入工程验收关键阶段",
+   "link": "https://news.cctv.com/2026/11/28/ARTIoVFRYm42SP83PiMBiKVe261128.shtml",
+   "pub": "2026-11-28 14:51",
+   "source": "央视网"
+  },
+  {
+   "title": "天宫初体验：48小时，齐尚·阿里经历了什么？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739216.shtml",
+   "pub": "2026-11-28 14:47",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "冰雪旅游全域升温燃动冬日文旅 “冷资源”释放“热活力”催生“热消费”",
+   "link": "https://news.cctv.com/2026/11/28/ARTIMshLKeDDQ7vxNxqb9zHC261128.shtml",
+   "pub": "2026-11-28 14:45",
+   "source": "央视网"
+  },
   {
    "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传，保留追责权利",
    "link": "https://news.cctv.com/2026/11/28/ARTI2YBR64Xt8lSeOEgFQ8km261128.shtml",
