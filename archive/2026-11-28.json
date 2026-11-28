@@ -1,8 +1,14 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 18:35",
+ "fetched": "2026-11-28 19:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "美国西好莱坞一加油站发生车祸引发爆炸及大火",
+   "link": "https://news.cctv.com/2026/11/28/ARTIlhBzHFXcIdEXERK8JATW261128.shtml",
+   "pub": "2026-11-28 19:02",
+   "source": "央视网"
+  },
   {
    "title": "超48万人次、超1750亿元……第二十八届高交会以链“聚能+促合作”活力足",
    "link": "https://news.cctv.com/2026/11/28/ARTIHIVNq2ynRHopTrHEZrh2261128.shtml",
