@@ -1,8 +1,26 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 17:35",
+ "fetched": "2026-11-28 18:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙",
+   "link": "https://news.cctv.com/2026/11/28/ARTIAtHKxpL7QAlEKShh90KZ261128.shtml",
+   "pub": "2026-11-28 17:41",
+   "source": "央视网"
+  },
+  {
+   "title": "司法部发布监督安全生产领域严格执法典型案例",
+   "link": "https://news.cctv.com/2026/11/28/ARTI45J7KhJjhcpGhOagyLA1261128.shtml",
+   "pub": "2026-11-28 17:38",
+   "source": "央视网"
+  },
+  {
+   "title": "神二十三和神二十四航天员完成在轨交接 “回家”开启倒计时",
+   "link": "https://news.cctv.com/2026/11/28/ARTIqskuATeIjcDFYgzeZO6O261128.shtml",
+   "pub": "2026-11-28 17:38",
+   "source": "央视网"
+  },
   {
    "title": "阿富汗库纳尔省一中学附近房屋发生炸弹爆炸事件 已致7死97伤",
    "link": "https://news.cctv.com/2026/11/28/ARTIEGdCjXLRMtn7FRjHmWZT261128.shtml",
