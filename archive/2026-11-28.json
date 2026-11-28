@@ -1,13 +1,25 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 14:05",
+ "fetched": "2026-11-28 14:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
   {
+   "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传，保留追责权利",
+   "link": "https://news.cctv.com/2026/11/28/ARTI2YBR64Xt8lSeOEgFQ8km261128.shtml",
+   "pub": "2026-11-28 14:22",
+   "source": "央视网"
+  },
+  {
+   "title": "一批科创领域的重点成果和重点规划集中亮相 多点发力向“新”向优",
+   "link": "https://news.cctv.com/2026/11/28/ARTI3DnOY0O8XdJQCP1Zkcrk261128.shtml",
+   "pub": "2026-11-28 14:22",
+   "source": "央视网"
+  },
+  {
    "title": "巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739210.shtml",
-   "pub": "2026-11-28 13:56",
-   "source": "中国新闻网·国内"
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739211.shtml",
+   "pub": "2026-11-28 14:06",
+   "source": "中国新闻网·国际"
   },
   {
    "title": "定位难、叫车难、停车难 无障碍出租车如何真正无障碍",
