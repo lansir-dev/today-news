@@ -1,8 +1,44 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 11:05",
+ "fetched": "2026-11-28 11:35",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "美军中央司令部否认伊朗军方有关美军的多项说法",
+   "link": "https://news.cctv.com/2026/11/28/ARTIdoXh0gnD1VrvQlwKFAzc261128.shtml",
+   "pub": "2026-11-28 11:33",
+   "source": "央视网"
+  },
+  {
+   "title": "从1至10月物流运行数据透视中国经济发展亮点 微观主体经营总体稳定",
+   "link": "https://news.cctv.com/2026/11/28/ARTIUrXcTIgEv9mhry2lqUzD261128.shtml",
+   "pub": "2026-11-28 11:30",
+   "source": "央视网"
+  },
+  {
+   "title": "“一朵花”绽放乡村振兴无限可能 满满科技感护航各色玫瑰花新“鲜”上市",
+   "link": "https://news.cctv.com/2026/11/28/ARTIU8DFAg4Maj33FcZbCnNJ261128.shtml",
+   "pub": "2026-11-28 11:17",
+   "source": "央视网"
+  },
+  {
+   "title": "浙江金华：鹿女湖之晨",
+   "link": "https://photo.cctv.com/2026/11/28/PHOAHNJesnDMtUHz1MTXVqFs261128.shtml",
+   "pub": "2026-11-28 11:15",
+   "source": "央视网"
+  },
+  {
+   "title": "安徽庐江：候鸟翩跹入画来",
+   "link": "https://photo.cctv.com/2026/11/28/PHOA5CfSwdTd5OVzHPkrHVQM261128.shtml",
+   "pub": "2026-11-28 11:06",
+   "source": "央视网"
+  },
+  {
+   "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
+   "pub": "2026-11-28 11:04",
+   "source": "中国新闻网·国际"
+  },
   {
    "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
    "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
