@@ -1,8 +1,86 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 15:35",
+ "fetched": "2026-11-28 16:05",
  "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "广西海岛低空物流支线完成首飞 推动“海空多式联运”立体物流格局转型升级",
+   "link": "https://news.cctv.com/2026/11/28/ARTIG7gAMCMKbqGIgOFyDSyp261128.shtml",
+   "pub": "2026-11-28 16:02",
+   "source": "央视网"
+  },
+  {
+   "title": "浙川东西部协作主题研讨会在杭州举行 谋划“十五五”新蓝图",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739246.shtml",
+   "pub": "2026-11-28 15:56",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "科技助力世界最高输电铁塔首次检修 保障迎峰度冬期间长三角地区电力供给",
+   "link": "https://news.cctv.com/2026/11/28/ARTIbr3WHFb6ebKViz181eOs261128.shtml",
+   "pub": "2026-11-28 15:53",
+   "source": "央视网"
+  },
+  {
+   "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
+   "pub": "2026-11-28 15:49",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "2026福州国际友城文化周启动",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739240.shtml",
+   "pub": "2026-11-28 15:45",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "文化中国行｜翻开它们的馆藏 看见中国高等教育与国家命运同频共振篇章",
+   "link": "https://news.cctv.com/2026/11/28/ARTIHeHItEuHQXehS5tY7s1y261128.shtml",
+   "pub": "2026-11-28 15:42",
+   "source": "央视网"
+  },
+  {
+   "title": "高交会观察：人工智能扎根实体产业一线",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739243.shtml",
+   "pub": "2026-11-28 15:41",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "2026中国文化产业发展大会在北京举行 提出“文化上行期”概念",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739236.shtml",
+   "pub": "2026-11-28 15:40",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "一条大河｜安澜 相处的智慧和耐心",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739244.shtml",
+   "pub": "2026-11-28 15:39",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "甘肃人大推进全过程人民民主实践 代表履职接地气惠民生",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739226.shtml",
+   "pub": "2026-11-28 15:38",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "以能力建设弥合智能鸿沟，让发展红利惠及全球南方",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739224.shtml",
+   "pub": "2026-11-28 15:34",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "交房即交证 哈尔滨市建议街37号危旧住房原拆原建项目集中交付",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739225.shtml",
+   "pub": "2026-11-28 15:34",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "第32届吉林雾凇冰雪节启幕 节赛联动燃动冰雪新季",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739223.shtml",
+   "pub": "2026-11-28 15:32",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "生活服务台｜冬季寒潮来袭 这份预防冻伤和冻伤正确处理方法请收藏↓",
    "link": "https://news.cctv.com/2026/11/28/ARTIHdKXJWtXF4zM7CPBTskm261128.shtml",
@@ -163,7 +241,7 @@
    "title": "（走进中国乡村）从“黑石号”到新消费 湖南铜官窑千年窑火焕新生",
    "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739176.shtml",
    "pub": "2026-11-28 12:35",
-   "source": "中国新闻网·社会"
+   "source": "中国新闻网"
   },
   {
    "title": "第十六届中国航展抢先看｜歼-35A飞抵珠海 将首次以真机形式静态展出",
@@ -614,12 +692,6 @@
    "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739094.shtml",
    "pub": "2026-11-28 06:40",
    "source": "中国新闻网·国际"
-  },
-  {
-   "title": "首只在印尼出生的大熊猫“里奥”迎来周岁",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739093.shtml",
-   "pub": "2026-11-28 06:40",
-   "source": "中国新闻网·社会"
   },
   {
    "title": "12月起，这些新规将影响你我生活",
