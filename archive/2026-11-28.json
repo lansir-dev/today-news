@@ -1,8 +1,98 @@
 {
  "day": "2026-11-28",
- "fetched": "2026-11-28 10:35",
- "note": "今日抓取",
+ "fetched": "2026-11-28 11:05",
+ "note": "央视列表补抓（只替换央视条目，其余源与 ai 保留）",
  "items": [
+  {
+   "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
+   "pub": "2026-11-28 10:53",
+   "source": "中国新闻网·社会"
+  },
+  {
+   "title": "阿根廷发生5.0级地震 震源深度170千米",
+   "link": "https://news.cctv.com/2026/11/28/ARTIY5RbL7AjfeHnPO1ghJXu261128.shtml",
+   "pub": "2026-11-28 10:52",
+   "source": "央视网"
+  },
+  {
+   "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+   "pub": "2026-11-28 10:51",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+   "pub": "2026-11-28 10:50",
+   "source": "中国新闻网"
+  },
+  {
+   "title": "大道通雪域 初心照征程——从三条“通途”读懂雪域高原巨变密码",
+   "link": "https://news.cctv.com/2026/11/28/ARTIqAH9rhwmSoiTrwjyrvyq261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐",
+   "link": "https://news.cctv.com/2026/11/28/ARTIgI5bEBIO69nhaIvRPkqn261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "从琼崖烽火到开放自贸港丨三个关键词勾勒新海南",
+   "link": "https://news.cctv.com/2026/11/28/ARTIrBoWR5YBaleMDmAv8FDF261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "“赣小橙”的兴农路——从一颗脐橙看赣南老区的产业跃迁",
+   "link": "https://news.cctv.com/2026/11/28/ARTI0y1PwqGjOZBt2VV6hKaF261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "以全面从严治党新成效护航高质量发展",
+   "link": "https://news.cctv.com/2026/11/28/ARTIYMvpsKkAbMm7s43sF0SZ261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "神二十四成功发射、能源技术攻关突破 我国多领域捷报频传",
+   "link": "https://news.cctv.com/2026/11/28/ARTI3ZJbUlMwEgQdKYopDFjw261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "全国一盘棋里的巨大潜能（经济新方位·八大重点任务看落实）",
+   "link": "https://news.cctv.com/2026/11/28/ARTITZNv5jwV37F00SnLdU4L261128.shtml",
+   "pub": "2026-11-28 10:48",
+   "source": "央视网"
+  },
+  {
+   "title": "冬菜上市“蔬”写乡村新“途”景 科技支撑成为蔬菜产业提质增效“新引擎”",
+   "link": "https://news.cctv.com/2026/11/28/ARTILhTHJTas5zBXIuQgaqxw261128.shtml",
+   "pub": "2026-11-28 10:45",
+   "source": "央视网"
+  },
+  {
+   "title": "亚太数智赋能创新发展合作平台启动建设",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
+   "pub": "2026-11-28 10:39",
+   "source": "中国新闻网·国内"
+  },
+  {
+   "title": "我国成功发射遥感五十号04星",
+   "link": "https://photo.cctv.com/2026/11/28/PHOAdn2SUconTYIf21b0maWQ261128.shtml",
+   "pub": "2026-11-28 10:37",
+   "source": "央视网"
+  },
+  {
+   "title": "新规落地！把电视“第一屏”还给直播",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739148.shtml",
+   "pub": "2026-11-28 10:36",
+   "source": "中国新闻网·社会"
+  },
   {
    "title": "南昌：老字号市集促消费",
    "link": "https://photo.cctv.com/2026/11/28/PHOAm9fL5Wa82bziyFoaxLMD261128.shtml",
@@ -22,28 +112,28 @@
    "source": "中国新闻网"
   },
   {
-   "title": "我国物流运行延续“稳中有进+质效提升”发展态势 “小包裹”澎湃经济发展动能",
-   "link": "https://news.cctv.com/2026/11/28/ARTIOS2ORcEpPiLUHygppo8R261128.shtml",
-   "pub": "2026-11-28 10:25",
-   "source": "央视网"
-  },
-  {
    "title": "中新网评：直播间摆茅台卖杂牌，谁在装睡？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-28/10739139.shtml",
    "pub": "2026-11-28 10:25",
    "source": "中国新闻网"
   },
   {
-   "title": "从琼崖烽火到开放自贸港丨三个关键词勾勒新海南",
-   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739145.shtml",
-   "pub": "2026-11-28 10:24",
-   "source": "中国新闻网·社会"
+   "title": "我国物流运行延续“稳中有进+质效提升”发展态势 “小包裹”澎湃经济发展动能",
+   "link": "https://news.cctv.com/2026/11/28/ARTIOS2ORcEpPiLUHygppo8R261128.shtml",
+   "pub": "2026-11-28 10:25",
+   "source": "央视网"
   },
   {
    "title": "英国就业和养老金部因“网络事件”中断部分线上服务",
    "link": "https://news.cctv.com/2026/11/28/ARTISxCf7xsezFkOP3YB5IK0261128.shtml",
    "pub": "2026-11-28 10:23",
    "source": "央视网"
+  },
+  {
+   "title": "冻伤不是“冻疼了才会伤” 寒潮来袭如何预防？",
+   "link": "https://www.chinanews.com.cn/life/2026/11-28/10739136.shtml",
+   "pub": "2026-11-28 10:11",
+   "source": "中国新闻网"
   },
   {
    "title": "青海玉树州杂多县发生3.1级地震 震源深度10千米",
@@ -88,21 +178,15 @@
    "source": "中国新闻网·国际"
   },
   {
-   "title": "秋冬季易高发重污染 “精准发现+差异管控+闭环整改”加强生态环境执法监管",
-   "link": "https://news.cctv.com/2026/11/28/ARTIKOI48SrEtZKnW0p3dFkb261128.shtml",
-   "pub": "2026-11-28 09:49",
-   "source": "央视网"
-  },
-  {
    "title": "【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
    "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739130.shtml",
    "pub": "2026-11-28 09:49",
    "source": "中国新闻网·国际"
   },
   {
-   "title": "美方称伊朗海军夺回两艘油轮的说法不实",
-   "link": "https://news.cctv.com/2026/11/28/ARTIlqVSWjk9LYK0nKgGFxPp261128.shtml",
-   "pub": "2026-11-28 09:47",
+   "title": "秋冬季易高发重污染 “精准发现+差异管控+闭环整改”加强生态环境执法监管",
+   "link": "https://news.cctv.com/2026/11/28/ARTIKOI48SrEtZKnW0p3dFkb261128.shtml",
+   "pub": "2026-11-28 09:49",
    "source": "央视网"
   },
   {
@@ -116,6 +200,12 @@
    "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739120.shtml",
    "pub": "2026-11-28 09:47",
    "source": "中国新闻网·国内"
+  },
+  {
+   "title": "美方称伊朗海军夺回两艘油轮的说法不实",
+   "link": "https://news.cctv.com/2026/11/28/ARTIlqVSWjk9LYK0nKgGFxPp261128.shtml",
+   "pub": "2026-11-28 09:47",
+   "source": "央视网"
   },
   {
    "title": "俄方警告日本：应记住二战历史教训，而非篡改历史",
@@ -133,12 +223,6 @@
    "title": "携手共建现代化人民城市",
    "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739123.shtml",
    "pub": "2026-11-28 09:38",
-   "source": "中国新闻网·国内"
-  },
-  {
-   "title": "外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐",
-   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739121.shtml",
-   "pub": "2026-11-28 09:34",
    "source": "中国新闻网·国内"
   },
   {
@@ -211,7 +295,7 @@
    "title": "吃过啥药、谁家药便宜一查便知！最全医保上新功能使用手册来了",
    "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739098.shtml",
    "pub": "2026-11-28 06:57",
-   "source": "中国新闻网·国内"
+   "source": "中国新闻网"
   },
   {
    "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
